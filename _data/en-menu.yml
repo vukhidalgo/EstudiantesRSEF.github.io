@@ -10,7 +10,7 @@
 # - text: IAPS
 #   url: /iaps
 - text: FERMI
-  url: http://www.ai-sf.it/fermi
+  url: http://www.ai-sf.it/fermi/index.php?lang=en
 - text: ICPS2017
   url: http://www.icps2017.it
 - text: IT
