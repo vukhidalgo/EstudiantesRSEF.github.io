@@ -1,5 +1,5 @@
 {% for event in site.events %}{% if event.date > site.time %}
-<div id="{{ event.id | remove: "/" }}-modal" class="modal">
+<div id="{{ event.id | remove: "/" }}-en-modal" class="modal">
   <div class="modal-content">
     <h4>{{ event.title }}</h4>
     <div class="row">{% if event.CL %}<div class="chip">{{ event.CL }}</div>{% endif %}{% if event.date %}<div class="chip">{{ event.date | date: '%d %b %Y' }}</div>{% endif %}
