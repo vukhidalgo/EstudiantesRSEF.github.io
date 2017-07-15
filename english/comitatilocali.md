@@ -9,7 +9,7 @@ permalink: /en/comitatilocali/
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
-L'AISF conta al momento {{ n }} comitati locali in altrettante università:
+AISF has {{ n }} local committees:
 
 <ul class="collection">
 	{% for item in site.data.LC %}
