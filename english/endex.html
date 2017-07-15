@@ -34,7 +34,7 @@ redirect_from:
         </div>
         <div class="col s12 m6">
           <div class="row center">
-            <a href="http://www.iaps.info" id="iaps-button" class="btn-large waves-effect waves-light">IAPS webssite</a>
+            <a href="http://www.iaps.info" id="iaps-button" class="btn-large waves-effect waves-light">IAPS website</a>
             <!-- <a href="/iaps.html" id="iaps-button" class="btn-large waves-effect waves-light">Pagina IAPS</a> -->
           </div>
         </div>
@@ -42,7 +42,7 @@ redirect_from:
     </div>
 
     <div class="section"> <!-- eventi -->
-      <h3>Gli eventi</h3>
+      <h3>Events</h3>
       <p>AISF organizes activities for both italian students and for the IAPS community. In addition to the great national and international events, the local committees organize frequently other activities in their respective universities.</p>
       
       <div class="row">
@@ -82,22 +82,23 @@ redirect_from:
       </div>
     </div>
 
-    <div class="section"> <!-- blog -->
+    <!-- blog -->
+    <!-- <div class="section"> 
       <div class="row">
         <div class="col s12 m12">
           <h3>Le ultime dal Blog</h3>
           <div class="blog-index">
             {% assign maxCountBlog = 3 %}
             {% assign countBlog = 0 %}
-            {% for post in site.categories['blog'] %}	
+            {% for post in site.categories['blog'] %}
             {% if post.hidden != true and countBlog < maxCountBlog %}
-                {% assign countBlog = countBlog | plus: 1 %}  
+                {% assign countBlog = countBlog | plus: 1 %}
                 {% assign post = site.posts.first %}
                 {% assign content = post.excerpt %}
                 {% include post_detail.html %}
             {% endif %}
             {% endfor %}
-            <!-- <div class="divider"></div> -->
+            
           </div>
         </div>
         <div class="col s12 m12">
@@ -105,19 +106,19 @@ redirect_from:
           <div class="blog-index">
             {% assign maxCountSdr = 3 %}
             {% assign countSdr = 0 %}
-            {% for post in site.categories['sistemidiriferimento'] %}	
+            {% for post in site.categories['sistemidiriferimento'] %}
             {% if post.hidden != true and countSdr < maxCountSdr %}
-                {% assign countSdr = countSdr | plus: 1 %}  
+                {% assign countSdr = countSdr | plus: 1 %}
                 {% assign post = site.posts.first %}
                 {% assign content = post.excerpt %}
                 {% include post_detail.html %}
             {% endif %}
             {% endfor %}
-            <!-- <div class="divider"></div> -->
+            
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </div>
 
