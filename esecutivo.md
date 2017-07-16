@@ -61,7 +61,7 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
   
 ## Mandati precedenti
 
-### Comitato Esecutivo (2015-2016)-
+### Comitato Esecutivo (2015-2016)
  
 - Andrea Celon - Presidente
 - Marta Crisanti - Vicepresidente e Responsabile relazioni con membri e comitati locali
