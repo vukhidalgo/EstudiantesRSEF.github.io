@@ -16,7 +16,7 @@ permalink: /en/executive/
 
 {% for item in site.data.EC-en %}
 
-## Executive Committee({{item.anno}})
+## Executive Committee({{item.year}})
 
 Part of this EC has been elected on the {{ item.dataCISFex }} and part on the {{ item.dataCISF }}. 
 {% if item.dataInizio != nil %} It has acquired its full responsibilities on the {{ item.dataInizio }}.{% endif %}
