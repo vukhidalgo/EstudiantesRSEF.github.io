@@ -61,6 +61,21 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
   
 ## Mandati precedenti
 
+### Comitato Esecutivo (2015-2016)-
+ 
+- Andrea Celon - Presidente
+- Marta Crisanti - Vicepresidente e Responsabile relazioni con membri e comitati locali
+- Vittorio Erba - Segretario
+- Michele Re Fiorentin - Tesoriere
+- Francesco Sciortino - Coordinatore Eventi
+- Giulio Pasqualetti - IT Manager
+- Lucio Maria Milanese - Responsabile Progetto FERMI
+
+
+### Collaboratori (2015-2016)
+- Lorenzo Bianchi
+- David Chiappini
+
 ### Comitato Esecutivo (2014-2015)
 
 - Andrea Celon - Presidente
