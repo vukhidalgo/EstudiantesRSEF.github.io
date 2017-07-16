@@ -1,4 +1,4 @@
-- anno: "INGLESE"
+- year: "INGLESE"
   dataCISF: "13 Maggio 2017"
   dataCISFex: "24 aprile 2016"
   dataInizio: "15 settembre 2017"
@@ -51,7 +51,7 @@
        
   
 
-- anno: "2016-2017"
+- year: "2016-2017"
   dataCISF: "24 aprile 2016"
   dataCISFex: "16 maggio 2015"
   dataInizio: "15 settembre 2016"
@@ -100,4 +100,4 @@
     - nome: "Marco Canteri"
       img: "/img/esecutivo/canteri.jpg"
       descr: "Al momento frequenta il terzo anno di Fisica all'Università degli studi di Trento, appassionato di fisica così come di matematica ed informatica, ancora in cerca del suo campo di specializzazione."
-mail: "marco.canteri"
+      mail: "marco.canteri"
