@@ -9,18 +9,18 @@ permalink: /en/executive/
     <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
   </div>
     <div class="col s12 m4 offset-m1">
-  <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
+  <p>The Executive Committee is the administrative and executive organ of the Association. It is currently composed of 7 members elected during the General Assemblies.</p>
     </div>
 </div>
 
 
-{% for item in site.data.EC %}
+{% for item in site.data.EC-en %}
 
-## Comitato Esecutivo ({{item.anno}})
+## Executive Committee({{item.anno}})
 
-Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data {{ item.dataCISF }}. 
-{% if item.dataInizio != nil %}É entrato nel pieno delle sue funzioni in data {{ item.dataInizio }}.{% endif %}
-{% if item.dataFine != nil %}I suoi membri sono rimasti in carica fino al {{ item.dataFine }}.{% endif %}
+Part of this EC has been elected on the {{ item.dataCISFex }} and part on the {{ item.dataCISF }}. 
+{% if item.dataInizio != nil %} It has acquired its full responsibilities on the {{ item.dataInizio }}.{% endif %}
+{% if item.dataFine != nil %}Its members have been in charge until the {{ item.dataFine }}.{% endif %}
 
 <ul class="collection">
   {% for membro in item.membri %}
@@ -36,7 +36,7 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 </ul>
 
 {% if item.collaboratori != nil %}
-## Collaboratori ({{item.anno}})
+## Collaborators ({{item.anno}})
 
 <ul class="collection">
   {% for membro in item.collaboratori %}
@@ -59,16 +59,31 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 
 {% endfor %}
   
-## Mandati precedenti
+## Earlier mandates
 
-### Comitato Esecutivo (2014-2015)
+### Executive Committee (2015-2016)
+ 
+- Andrea Celon - President
+- Marta Crisanti - Vicepresident and Responsible for Members and Local COmmittees 
+- Vittorio Erba - Secretary
+- Michele Re Fiorentin - Treasurer
+- Francesco Sciortino - Event Coordinator
+- Giulio Pasqualetti - IT Manager
+- Lucio Maria Milanese - Responsible for FERMI Project 
 
-- Andrea Celon - Presidente
-- Marta Crisanti - Tesoriere
-- Giulio Pasqualetti - Segretario
-- Francesco Sciortino - Rappresentante IAPS
 
-### Collaboratori (2014-2015)
+### Collaborators (2015-2016)
+- Lorenzo Bianchi
+- David Chiappini
+
+### Executive Committee (2014-2015)
+
+- Andrea Celon - President
+- Marta Crisanti - Treasurer
+- Giulio Pasqualetti - Secretary
+- Francesco Sciortino - IAPS Representative
+
+### Collaborators (2014-2015)
 
 - Lorenzo Bianchi
 - Lucio Maria Milanese
