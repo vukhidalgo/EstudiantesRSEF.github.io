@@ -1,6 +1,6 @@
 ---
 layout: en-page
-title: Regional Committees
+title: Local Committees
 permalink: /en/comitatilocali/
 ---
 
@@ -24,7 +24,7 @@ AISF has {{ n }} local committees:
 	        	Since: {{ item.fondazione }}
 				<br>
 				{% if item.ex != nil %}
-					Ex presidents: {{ item.ex }}
+					Previous president: {{ item.ex }}
 				{% endif %} 				
 	      	</p>
 	      	<div class="secondary-content">
