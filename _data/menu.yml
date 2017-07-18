@@ -9,7 +9,12 @@
     - text: Documenti
       url: /documenti/
 - text: Eventi
-  url: /eventi/
+  # url: /eventi/
+  subitems:
+    - text: Eventi Nazionali
+      url: /eventinazionali/
+    - text: Eventi Locali
+      url: /eventilocali/
 - text: Iscriviti
   url: /iscrizione/
 - text: FERMI
