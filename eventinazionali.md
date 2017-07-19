@@ -9,7 +9,7 @@ permalink: /eventinazionali/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
-{% if event.date > site.time and event.categories contains "eventonazionale" %}
+{% if event.date >= site.time and event.categories contains "eventonazionale" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %} 
 <div class="row"> 
@@ -17,7 +17,7 @@ permalink: /eventinazionali/
   <div class="col s12 m6">
     <div class="card horizontal">
       <div class="card-image">
-	      <img src="{{ event.cover }}">
+	      <img style="height: 230px; object-fit: cover;" src="{{ event.cover }}">
       </div>
       <div class="card-content">
     	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
@@ -56,7 +56,7 @@ permalink: /eventinazionali/
   <div class="col s12 m6">
     <div class="card horizontal">
       <div class="card-image">
-	      <img src="{{ event.cover }}">
+	      <img style="height: 230px; object-fit: cover;" src="{{ event.cover }}">
       </div>
       <div class="card-content">
     	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
