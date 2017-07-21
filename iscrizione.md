@@ -43,7 +43,13 @@ Per diventare membri AISF è necessario:
   </div>
 </div>
 
-Le quote associative per l'anno 2017 sono:
+<ul class="collection">
+  <li class="collection-item">
+      L'anno finanziario AISF inizia il 1 ottobre e termina il 30 settembre dell'anno successivo. L'iscrizione risulta valida per l'anno finanziario in corso. Per chi si iscrive dopo il primo luglio, l'iscrizione è valida anche per l'anno finanziario successivo.
+  </li>
+</ul>
+
+Le quote associative per l'anno corrente sono:
 <ul class="collection">
   <li class="collection-item">5€ se studente di laurea triennale o magistrale.<br>
     L'importo è di 5.45€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
