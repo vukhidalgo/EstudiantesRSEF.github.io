@@ -5,13 +5,12 @@
     - text: Executive Committee
       url: /en/executive/
     - text: Local Committees
-      url: /en/comitatilocali/
-    
-# - text: IAPS
-#   url: /iaps
+      url: /en/comitatilocali/    
 - text: FERMI
   url: http://www.ai-sf.it/fermi/index.php?lang=en
 - text: ICPS2017
   url: http://www.icps2017.it
+- text: IAPS
+  url: /en/iaps
 - text: IT
   url: /
