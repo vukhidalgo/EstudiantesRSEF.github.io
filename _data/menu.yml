@@ -17,9 +17,8 @@
       url: /eventilocali/
 - text: Blog
   url: /blog
-  subitems:
-    - text: SdR
-      url: /sistemidiriferimento/
+- text: SdR
+  url: /sistemidiriferimento/
 - text: Iscriviti
   url: /iscrizione/
 - text: FERMI
