@@ -43,7 +43,7 @@ permalink: /eventinazionali/
     <li class="collection-item"> Non ci sono eventi in programma. Stay tuned! </li>
 </ul>
 {% endif %}
-
+<br>
 ## Grandi eventi passati
 
 {% assign loopindex = 0 %}
