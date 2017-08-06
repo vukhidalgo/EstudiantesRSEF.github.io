@@ -42,7 +42,7 @@ permalink: /eventilocali/
 {% assign loopindex = loopindex | plus: 1 %}
 {% endif %}
 {% endfor %}
-{% if loopindex == 1 %} 
+{% if rowfinder == 0 %} 
 </div>
 {% endif %}
 {% if loopindex == 0 %}
