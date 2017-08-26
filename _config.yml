@@ -1,6 +1,6 @@
 # Site settings
-title: "AISF - Associazione Italiana Studenti di Fisica"
-description: "L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione con finalità educative e senza fine di lucro che ambisce a riunire tutti gli studenti di fisica d'Italia."
+title: "AEEF - Asocación (Juvenil) Española de Estudiantes de Física"
+description: "Breve descripción de la AEEF."
 banner: img/banner.png
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
