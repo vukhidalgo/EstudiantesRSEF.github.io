@@ -27,16 +27,3 @@ Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se puede
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxY1dDXzgzbUtxSzA/view?usp=sharing" class="collection-item">Regolamento Interno</a>
   <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">Atto costitutivo</a>
 </div>
-
-!<-- ## Verbali
-
-!<-- {% include verbali.html verbali=site.data.verbali %}
-
-!<-- ## Documenti ufficiali passati
-
-!<-- ### 2016
-
-!<-- <div class="collection">
-  !<-- <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qdWNVQmZ1ZFRLSFk/view?usp=sharing" class="collection-item">Statuto 2016</a>
-  !<-- <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qZVptN2ZySFZ4aDg/view?usp=sharing" class="collection-item">Regolamento Interno 2016</a>
-!<-- </div>
