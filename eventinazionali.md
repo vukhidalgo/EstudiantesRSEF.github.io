@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Eventi
+title: Eventos
 permalink: /eventinazionali/
 ---
 
 
-## Prossimamente
+## Próximamente
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
@@ -44,7 +44,7 @@ permalink: /eventinazionali/
 </ul>
 {% endif %}
 
-## Grandi eventi passati
+## Grandes eventos pasados
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
