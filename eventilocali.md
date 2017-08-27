@@ -47,7 +47,7 @@ permalink: /eventilocali/
 {% endif %}
 {% if loopindex == 0 %}
 <ul class="collection"> 
-    <li class="collection-item"> Non ci sono eventi in programma. Stay tuned! </li>
+    <li class="collection-item"> No hay eventos programados. Stay tuned! </li>
 </ul>
 {% endif %}
 
