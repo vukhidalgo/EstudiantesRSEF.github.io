@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documenti
+title: Documentos
 permalink: /documenti/
 redirect_from:
   - /it/documents?catid=0&id=27
@@ -15,8 +15,8 @@ Aquí puedes encontrar material promocional e informativo relativo a la AEEF. Es
   <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qalo0LUpTREhqU3M/view?usp=sharing" class="collection-item">Banner</a>
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxUFZOWURvaTk4Ym8/view?usp=sharing" class="collection-item">Prospetto informativo</a>
 </div>
+Si produjeras cualquier otro material con fines publicitarios, envíanoslo a<a href="mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;">esecutivo</a>, y lo añadiremos a lista de recursos disponibles. ¡Gracias!
 
-Se per scopi pubblicitari produci del materiale ulteriore, invialo all'<a href="mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;">esecutivo</a>, così lo aggiungeremo all'elenco delle risorse disponibili. Grazie!
 
 ## Estatutos y Reglamento Interno
 
