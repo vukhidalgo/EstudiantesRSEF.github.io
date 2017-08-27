@@ -26,8 +26,8 @@ Per diventare membri AISF è necessario:
         <span class="card-title">Bonifico Bancario</span>
 	<p class="light">entro 15 giorni dalla registrazione online</p>
 	<p>Beneficiario: Associazione Italiana Studenti di Fisica<br>
-	  IBAN: IT64N0335901600100000133131<br>
-	  BIC/SWIFT: BCITITMX<br>
+	  IBAN: 00000000000000000000<br>
+	  BIC/SWIFT: 00000000<br>
 	  Causale: Iscrizione anno 2017 - NOME COGNOME</p>
       </div>
     </div>
