@@ -25,10 +25,10 @@ Para convertirse en miembro de AEEF es necesario:
       <div class="card-content white-text">
         <span class="card-title">Transferencia Bancaria</span>
 	<p class="light">entro 15 giorni dalla registrazione online</p>
-	<p>Beneficiario: Associazione Italiana Studenti di Fisica<br>
+	<p>Beneficiario: Asociación Juvenil Española de Estudiantes de Física<br>
 	  IBAN: 00000000000000000000<br>
 	  BIC/SWIFT: 00000000<br>
-	  Concepto: Inscripción año 2017/2018 - NOMBRE APELLIDOS</p>
+	  Concepto: Inscripción 2017/2018 - NOMBRE APELLIDOS</p>
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@ Para convertirse en miembro de AEEF es necesario:
       <div class="card-content white-text">
         <span class="card-title">Pago por PayPal</span>
 	<p class="light">Actualmente estamos trabajando para poder ofrecerte esta posibilidad</p>
-	<p>L'AISF gode di tariffa agevolata di 1.8% + 0.35€.<br><br><br><br></p>
+	<p>La cuota podría verse ligeramente modificada al utilizar PayPal.<br><br><br><br></p>
       </div>
     </div>
   </div>
