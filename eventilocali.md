@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Eventi
+title: Eventos
 permalink: /eventilocali/
 ---
 
 
-## Prossimamente
+## Próximamente
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
@@ -52,7 +52,7 @@ permalink: /eventilocali/
 {% endif %}
 
 
-## Eventi Passati
+## Eventos Pasados
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
