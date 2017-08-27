@@ -8,35 +8,35 @@ redirect_from:
 
 Per diventare membri AISF è necessario:
 <ul class="collection">
-  <li class="collection-item">essere iscritti ad un corso di laurea triennale o magistrale oppure ad un dottorato di ricerca;</li>
-  <li class="collection-item">compilare il modulo di registrazione sotto indicato;</li>
-  <li class="collection-item">versare la quota associativa tramite bonifico bancario o Paypal.</li>
+  <li class="collection-item">tener entre 14 años cumplidos y 30 sin cumplir;</li>
+  <li class="collection-item">rellenar el formulario de inscripción abajo indicado;</li>
+  <li class="collection-item">ingresar la cuota de membresía via transferencia bancaria o Paypal.</li>
 </ul>
 
 <div class="row">
 	<div style="text-align:center;">
-		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration/">NUOVA ISCRIZIONE</a>
-		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration/payment_form1.php">RINNOVO ISCRIZIONE</a>
+		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration/">NUEVA INSCRIPCIÓN</a>
+		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration/payment_form1.php">RENOVAR INSCRIPCIÓN</a>
         </div>
 </div>
 <div class="row">
   <div class="col s12 m6">
     <div class="card blue-grey darken-1">
       <div class="card-content white-text">
-        <span class="card-title">Bonifico Bancario</span>
+        <span class="card-title">Transferencia Bancaria</span>
 	<p class="light">entro 15 giorni dalla registrazione online</p>
 	<p>Beneficiario: Associazione Italiana Studenti di Fisica<br>
 	  IBAN: 00000000000000000000<br>
 	  BIC/SWIFT: 00000000<br>
-	  Causale: Iscrizione anno 2017 - NOME COGNOME</p>
+	  Concepto: Inscripción año 2017/2018 - NOMBRE APELLIDOS</p>
       </div>
     </div>
   </div>
   <div class="col s12 m6">
     <div class="card blue-grey darken-1">
       <div class="card-content white-text">
-        <span class="card-title">Pagamento PayPal</span>
-	<p class="light">NO da conti appoggiati a banche extraeuropee</p>
+        <span class="card-title">Pago por PayPal</span>
+	<p class="light">Actualmente estamos trabajando para poder ofrecerte esta posibilidad</p>
 	<p>L'AISF gode di tariffa agevolata di 1.8% + 0.35€.<br><br><br><br></p>
       </div>
     </div>
