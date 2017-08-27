@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nuovi Comitati Locali
+title: Nueva Delegación Universitaria
 permalink: /nuovocomitatolocale/
 ---
 
