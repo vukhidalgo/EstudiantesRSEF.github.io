@@ -25,5 +25,5 @@ Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se puede
 <div class="collection">
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Estatutos</a>
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxY1dDXzgzbUtxSzA/view?usp=sharing" class="collection-item">Reglamento Interno</a>
-  <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qMFRGQWdZdUUyZUU/view?usp=sharing" class="collection-item">Acta Fundacional</a>
+  <a href="https://drive.google.com/open?id=0ByP8eMO0MEyVbTlYaFZRdUNXaHc" class="collection-item">Acta Fundacional</a>
 </div>
