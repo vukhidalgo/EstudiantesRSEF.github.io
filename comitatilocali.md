@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comitati Locali
+title: Delegaciones Universitarias
 permalink: /comitatilocali/
 redirect_from:
   - /it/20-comitati-locali/
