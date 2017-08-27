@@ -45,16 +45,18 @@ Para convertirse en miembro de AEEF es necesario:
 
 <ul class="collection">
   <li class="collection-item">
-      L'anno finanziario AISF inizia il 1 ottobre e termina il 30 settembre dell'anno successivo. L'iscrizione risulta valida per l'anno finanziario in corso. Per chi si iscrive dopo il primo luglio, l'iscrizione è valida anche per l'anno finanziario successivo.
+      El ejercicio económico de AEEF es anual, comenzando con el mes de septiembre y cerrándose el 31 de agosto del año siguiente. La inscripción como miembro es válida para el ejercicio económico en curso. Para aquellos inscritos después del 1 de julio, la inscripción también es váli para el próximo ejercicio.
   </li>
 </ul>
 
-Le quote associative per l'anno corrente sono:
+Las cuotas de membresía para este ejercicio son:
 <ul class="collection">
-  <li class="collection-item">5€ se studente di laurea triennale o magistrale.<br>
-    L'importo è di 5.45€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
-  <li class="collection-item">10€ se studente di dottorato di ricerca.<br>
-  L'importo è di 10.54€ se pagato tramite PayPal per via della tariffa applicata dall'operatore.</li>
+  <li class="collection-item">5€ para estudiantes de grado o máster.<br>
+    Este importe podría incrementarse al ser abonado con PayPal.</li>
+  <li class="collection-item">10€ para estudiantes de doctorado.<br>
+    Este importe podría incrementarse al ser abonado con PayPal.</li>
+   <li class="collection-item">15€ para socios colaboradores.<br>
+    Este importe podría incrementarse al ser abonado con PayPal.</li>
 </ul>
 
 Il trattamento dei dati personali è effettuato secondo quanto specificato nell'informativa sulla privacy ai sensi dell'art.13 del Decreto Legislativo 196/2003. In particolare, i dati personali:
