@@ -57,8 +57,7 @@ Las cuotas de membresía para este ejercicio son:
     Este importe podría incrementarse al ser abonado con PayPal.</li>
    <li class="collection-item">15€ para socios colaboradores.*<br>
     Este importe podría incrementarse al ser abonado con PayPal.
-    
-    *Se considera socio colaborador a toda persona deseosa de fomentar y patrocinar las actividades desarrolladas por la AEEF, que cumpla con el criterio de edad arriba mencionado, pero que no curse estudios de física o afines. - Art. 9 estatutos.</li>
+    *Se considera socio colaborador a toda persona deseosa de fomentar y patrocinar las actividades desarrolladas por la AEEF, que 		cumpla con el criterio de edad arriba mencionado, pero que no curse estudios de física o afines. - Art. 9 estatutos.</li>
 </ul>
 
 Il trattamento dei dati personali è effettuato secondo quanto specificato nell'informativa sulla privacy ai sensi dell'art.13 del Decreto Legislativo 196/2003. In particolare, i dati personali:
