@@ -6,7 +6,7 @@ redirect_from:
   - /it/documents?catid=0&id=27
 ---
 
-## Materiale informativo
+## Material informativo
 
 Qui potete trovare materiale informativo relativo all'AISF. I documenti sono scaricabili liberamente e possono essere utilizzati per pubblicizzare l'Associazione presso Università, Istituti di ricerca, ecc.
 
@@ -18,9 +18,9 @@ Qui potete trovare materiale informativo relativo all'AISF. I documenti sono sca
 
 Se per scopi pubblicitari produci del materiale ulteriore, invialo all'<a href="mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;">esecutivo</a>, così lo aggiungeremo all'elenco delle risorse disponibili. Grazie!
 
-## Statuto e norme
+## Estatutos y Reglamento Interno
 
-Lo Statuto è il documento fondamentale dell'AISF. Ad esso fanno riferimento tutti i regolamenti, le decisioni e le azioni dell'Associazione.
+Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se pueden encontrar las normas generales que regulan la asociación. El Reglamento Interno ejerce una función análoga a los Estatutos, pero está subordinado a estos.
 
 <div class="collection">
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto</a>
