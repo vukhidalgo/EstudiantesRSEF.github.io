@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Iscriviti
+title: Inscríbete!
 permalink: /iscrizione/
 redirect_from:
   - /eventi/25-membri-e-affiliazione/
 ---
 
-Per diventare membri AISF è necessario:
+Para convertirse en miembro de AEEF es necesario:
 <ul class="collection">
   <li class="collection-item">tener entre 14 años cumplidos y 30 sin cumplir;</li>
   <li class="collection-item">rellenar el formulario de inscripción abajo indicado;</li>
