@@ -1,25 +1,25 @@
-- text: Chi siamo
+- text: Conócenos
   url: /about/
   slug: about
   subitems:
-    - text: Comitato Esecutivo
+    - text: Junta de Gobierno
       url: /esecutivo/
-    - text: Comitati Locali
+    - text: Delegaciones Universitarias
       url: /comitatilocali/
-    - text: Documenti
+    - text: Documentos
       url: /documenti/
-- text: Eventi
+- text: Eventos
   url: /eventinazionali/
   subitems:
-    - text: Eventi Nazionali
+    - text: Eventos Nacionales
       url: /eventinazionali/
-    - text: Eventi Locali
+    - text: Eventos Locales
       url: /eventilocali/
 - text: Blog
   url: /blog
-- text: SdR
-  url: /sistemidiriferimento/
-- text: Iscriviti
+# - text: SdR
+#   url: /sistemidiriferimento/
+- text: Inscríbete
   url: /iscrizione/
 - text: IAPS
   url: /iaps/
