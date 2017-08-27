@@ -11,7 +11,7 @@ redirect_from:
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
-L'AISF conta al momento {{ n }} comitati locali in altrettante università:
+La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 
 <ul class="collection">
 	{% for item in site.data.LC %}
@@ -49,10 +49,10 @@ L'AISF conta al momento {{ n }} comitati locali in altrettante università:
 </ul>
 
 
-## Provenienza geografica
+## Origen geográfico
 
 <a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
 
-## Formare un nuovo comitato locale
+## ¿Quieres crear una nueva Delegación Universitaria?
 
-Si faccia riferimento a [questa](/nuovocomitatolocale/) pagina.
+Consulta [esta](/nuovocomitatolocale/) página.
