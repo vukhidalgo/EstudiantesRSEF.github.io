@@ -6,9 +6,9 @@ redirect_from:
   - /it/documents?catid=0&id=27
 ---
 
-## Material informativo
+## Material promocional
 
-Qui potete trovare materiale informativo relativo all'AISF. I documenti sono scaricabili liberamente e possono essere utilizzati per pubblicizzare l'Associazione presso Università, Istituti di ricerca, ecc.
+Aquí puedes encontrar material promocional e informativo relativo a la AEEF. Estos documentos pueden ser descargados libremente y se pueden utilizar para publicitar la Asociación en universidades, centros de investigación, etc.
 
 <div class="collection">
   <a href="https://drive.google.com/file/d/0BzGkQdYyAM4qTmhvY1d4MjBLMFU/view?usp=sharing" class="collection-item">Volantino</a>
@@ -20,7 +20,7 @@ Se per scopi pubblicitari produci del materiale ulteriore, invialo all'<a href="
 
 ## Estatutos y Reglamento Interno
 
-Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se pueden encontrar las normas generales que regulan la asociación. El Reglamento Interno ejerce una función análoga a los Estatutos, pero está subordinado a estos.
+Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se pueden encontrar las normas generales que regulan la Asociación. El Reglamento Interno ejerce una función análoga a los Estatutos, pero está subordinado a estos.
 
 <div class="collection">
   <a href="https://drive.google.com/file/d/0B068-lyoiUlxdUpPeHJCTUVkZTA/view?usp=sharing" class="collection-item">Statuto</a>
