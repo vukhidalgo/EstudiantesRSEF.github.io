@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comitato Esecutivo
+title: Junta de Gobierno
 permalink: /esecutivo/
 ---
 
@@ -9,14 +9,14 @@ permalink: /esecutivo/
     <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
   </div>
     <div class="col s12 m4 offset-m1">
-  <p>Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.</p>
+  <p>La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación, y está actualmente compuesto por 5 miembros.</p>
     </div>
 </div>
 
 
 {% for item in site.data.EC %}
 
-## Comitato Esecutivo ({{item.anno}})
+## Junta de Gobierno ({{item.anno}})
 
 Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data {{ item.dataCISF }}. 
 {% if item.dataInizio != nil %}É entrato nel pieno delle sue funzioni in data {{ item.dataInizio }}.{% endif %}
@@ -36,7 +36,7 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 </ul>
 
 {% if item.collaboratori != nil %}
-## Collaboratori ({{item.anno}})
+## Colaboradores ({{item.anno}})
 
 <ul class="collection">
   {% for membro in item.collaboratori %}
@@ -59,32 +59,11 @@ Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data
 
 {% endfor %}
   
-## Mandati precedenti
+## Mandatos precedentes
 
-### Comitato Esecutivo (2015-2016)
+### Junta de Gobierno fundacional (marzo de 2017)
  
-- Andrea Celon - Presidente
-- Marta Crisanti - Vicepresidente e Responsabile relazioni con membri e comitati locali
-- Vittorio Erba - Segretario
-- Michele Re Fiorentin - Tesoriere
-- Francesco Sciortino - Coordinatore Eventi
-- Giulio Pasqualetti - IT Manager
-- Lucio Maria Milanese - Responsabile Progetto FERMI
+- Alejandro Fernández Muñoz - Presidente
+- Raúl Solís León - Secretario General
+- Víctor Sánchez Lara - Tesorero
 
-
-### Collaboratori (2015-2016)
-- Lorenzo Bianchi
-- David Chiappini
-
-### Comitato Esecutivo (2014-2015)
-
-- Andrea Celon - Presidente
-- Marta Crisanti - Tesoriere
-- Giulio Pasqualetti - Segretario
-- Francesco Sciortino - Rappresentante IAPS
-
-### Collaboratori (2014-2015)
-
-- Lorenzo Bianchi
-- Lucio Maria Milanese
-- Michele Re Fiorentin
