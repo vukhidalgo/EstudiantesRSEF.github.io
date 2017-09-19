@@ -35,9 +35,9 @@ Para convertirse en miembro de AEEF es necesario:
   <div class="col s12 m6">
     <div class="card blue-grey darken-1">
       <div class="card-content white-text">
-        <span class="card-title">Pago por PayPal</span>
-	<p class="light">Actualmente estamos trabajando para poder ofrecerte esta posibilidad</p>
-	<p>La cuota podría verse ligeramente modificada al utilizar PayPal.<br><br><br><br></p>
+        <span class="card-title">Pago x otros medios</span>
+	<p class="light">Actualmente estamos trabajando para poder ofrecerte más posibilidades de pago.</p>
+	<p><br><br><br><br></p>
       </div>
     </div>
   </div>
@@ -51,18 +51,11 @@ Para convertirse en miembro de AEEF es necesario:
 
 Las cuotas de membresía para este ejercicio son:
 <ul class="collection">
-  <li class="collection-item">5€ para estudiantes de grado o máster.<br>
-    Este importe podría incrementarse al ser abonado con PayPal.</li>
-  <li class="collection-item">10€ para estudiantes de doctorado.<br>
-    Este importe podría incrementarse al ser abonado con PayPal.</li>
-   <li class="collection-item">15€ para socios colaboradores.*<br>
-    Este importe podría incrementarse al ser abonado con PayPal.
+  <li class="collection-item">5€ para estudiantes de grado o máster.<br></li>
+  <li class="collection-item">10€ para estudiantes de doctorado.<br></li>
+   <li class="collection-item">1o€ para socios colaboradores.*<br>
     
     <p>*Se considera socio colaborador a toda persona deseosa de fomentar y patrocinar las actividades desarrolladas por la AEEF, que 		cumpla con el criterio de edad arriba mencionado, pero que no curse estudios de física o afines. - Art. 9 estatutos.</p></li>
 </ul>
 
-Il trattamento dei dati personali è effettuato secondo quanto specificato nell'informativa sulla privacy ai sensi dell'art.13 del Decreto Legislativo 196/2003. In particolare, i dati personali:
-<ul class="collection">
-  <li class="collection-item">verranno trattati esclusivamente nell'ambito delle finalità istituzionali dell'Associazione (come da Statuto);</li>
-  <li class="collection-item">non saranno comunicati a terzi e non saranno oggetto di alcun tipo di diffusione.</li>
-</ul>
+Tus datos serán utilizados exclusivamente por la Asociación Juvenil Española de Estudiantes de Física (AEEF) (C.I.F.: G87781910). No serán compartidos con terceros salvo que la organización conjunta de actividades entre AEEF y éstos lo requiera. Puedes ejercitar tus derechos de oposición al tratamiento y acceso a los datos que aquí nos proporcionas, así como tus derechos de rectificación y cancelación, según lo dispuesto en la Ley Orgánica de Protección de Datos (Ley Orgánica 15/1999), enviando un correo electrónico a aeef.miembros@gmail.com.
