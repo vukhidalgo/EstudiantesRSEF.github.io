@@ -53,7 +53,7 @@ Las cuotas de membresía para este ejercicio son:
 <ul class="collection">
   <li class="collection-item">5€ para estudiantes de grado o máster.<br></li>
   <li class="collection-item">10€ para estudiantes de doctorado.<br></li>
-   <li class="collection-item">1o€ para socios colaboradores.*<br>
+   <li class="collection-item">10€ para socios colaboradores.*<br>
     
     <p>*Se considera socio colaborador a toda persona deseosa de fomentar y patrocinar las actividades desarrolladas por la AEEF, que 		cumpla con el criterio de edad arriba mencionado, pero que no curse estudios de física o afines. - Art. 9 estatutos.</p></li>
 </ul>
