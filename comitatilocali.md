@@ -49,10 +49,6 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 </ul>
 
 
-## Origen geográfico
-
-<a href="/geo/">Qui</a> è possibile trovare ulteriori informazioni sullo storico della provenienza geografica dei membri AISF.
-
 ## ¿Quieres crear una nueva Delegación Universitaria?
 
 Consulta [esta](/nuovocomitatolocale/) página.
