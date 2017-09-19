@@ -10,7 +10,7 @@ Para convertirse en miembro de AEEF es necesario:
 <ul class="collection">
   <li class="collection-item">tener entre 14 años cumplidos y 30 sin cumplir;</li>
   <li class="collection-item">rellenar el formulario de inscripción abajo indicado;</li>
-  <li class="collection-item">ingresar la cuota de membresía via transferencia bancaria o Paypal.</li>
+  <li class="collection-item">ingresar la cuota de membresía via transferencia bancaria.</li>
 </ul>
 
 <div class="row">
