@@ -11,9 +11,9 @@
 - text: Eventos
   url: /eventinazionali/
   subitems:
-    - text: Eventos Nacionales
+    - text: Eventos Internacionales
       url: /eventinazionali/
-    - text: Eventos Locales
+    - text: Eventos Nacionales
       url: /eventilocali/
 - text: Blog
   url: /blog
