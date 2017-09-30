@@ -5,7 +5,6 @@ permalink: /iscrizione/
 redirect_from:
   - /eventi/25-membri-e-affiliazione/
 ---
-<div class="no-pad-top" id="inscriptions-page">
 
 Para convertirse en miembro de AEEF es necesario:
 <ul class="collection">
@@ -60,5 +59,3 @@ Las cuotas de membresía para este ejercicio son:
 </ul>
 
 Tus datos serán utilizados exclusivamente por la Asociación Juvenil Española de Estudiantes de Física (AEEF) (C.I.F.: G87781910). No serán compartidos con terceros salvo que la organización conjunta de actividades entre AEEF y éstos lo requiera. Puedes ejercitar tus derechos de oposición al tratamiento y acceso a los datos que aquí nos proporcionas, así como tus derechos de rectificación y cancelación, según lo dispuesto en la Ley Orgánica de Protección de Datos (Ley Orgánica 15/1999), enviando un correo electrónico a aeef.miembros@gmail.com.
-
-</div>
