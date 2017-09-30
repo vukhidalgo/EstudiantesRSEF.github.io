@@ -16,7 +16,7 @@ Para convertirse en miembro de AEEF es necesario:
 <div class="row">
 	<div style="text-align:center;">
 		<a class="waves-effect waves-light btn-large" href="https://goo.gl/forms/mMFrfYco6DzMigzp1">NUEVA INSCRIPCIÓN</a>
-		<a class="waves-effect waves-light btn-large" href="http://www.ai-sf.it/dbaisf/registration/payment_form1.php">RENOVAR INSCRIPCIÓN</a>
+		<a class="waves-effect waves-light btn-large" href="">RENOVAR INSCRIPCIÓN</a>
         </div>
 </div>
 <div class="row">
