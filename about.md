@@ -26,11 +26,7 @@ L'attuale Comitato Esecutivo è stato eletto in parte nella prima Assemblea Gene
 
 L'AISF si organizza in Comitati Locali, ciascuno con un Presidente. La lista dei Comitati Locali si trova <a href="/comitatilocali/">qui</a>.
 
-## Provenienza geografica
-
-La provenienza geografica dei membri AISF è si può trovare a <a href="/geo/">questa pagina</a>.
-
-## Sede legale
+<!-- ## Sede legale
 
 La sede legale dell'Associazione è presso
 
@@ -39,4 +35,4 @@ La sede legale dell'Associazione è presso
     10125 Torino - ITALIA
     
     C.F. 97787600010
-    P.IVA. 11237480014
+    P.IVA. 11237480014 -->
