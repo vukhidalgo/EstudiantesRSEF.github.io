@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chi siamo
+title: Conócenos
 permalink: /about/
 redirect_from:
   - /it/8-info-it-it/
