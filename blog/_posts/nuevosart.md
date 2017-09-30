@@ -7,8 +7,10 @@ author: JdG AEEF
 redirect_from:
 ---
 
-
-          ¿Te apetecería publicar algún artículo en nuestra web? ¿Eres un ávido dvulgador científico que busca lectores y fama? No dudes en contactarnos, ¡juntos podemos conseguir grandes logros!
-
-          ¡Esperamos tu mensaje! Hasta entonces, recibe un cordial saludo.
+<p>
+   ¿Te apetecería publicar algún artículo en nuestra web? ¿Eres un ávido dvulgador científico que busca lectores y fama? No dudes en contactarnos, ¡juntos podemos conseguir grandes logros!       
+      <br>
+   ¡Esperamos tu mensaje! Hasta entonces, recibe un cordial saludo.
+   
+</p>   
 
