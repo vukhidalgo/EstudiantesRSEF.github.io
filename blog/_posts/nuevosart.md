@@ -1,3 +1,4 @@
+---
 layout: post
 categories: blog 
 title:  "¿Quieres publicar con nosotros?"
