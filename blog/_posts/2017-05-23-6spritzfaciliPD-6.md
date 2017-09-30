@@ -40,6 +40,8 @@ Melvin Moreno — Tesorero
       <br>
 Esperamos veros pronto en alguna de nuestras actividades.
       <br>
+      
+      <br>
 Un saludo,
       <br>
 Daniel Lozano. 
