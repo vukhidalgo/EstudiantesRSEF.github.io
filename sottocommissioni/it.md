@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Sottocommissione IT
+title: División de IT
 permalink: /sottocommissioni/it
 ---
 
-Il sito dell'AISF e i vari portali degli eventi sono curati dalla sottocommissione IT. In ordine alfabetico essa è composta da:
+El sitio web de AEEF y los distintos portales de eventos son responsabilidad de la división de IT. En orden alfabético, está integrada por:
 
 <ul class="collection">
  <li class="collection-item avatar">
