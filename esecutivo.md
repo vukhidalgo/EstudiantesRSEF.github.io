@@ -6,7 +6,7 @@ permalink: /esecutivo/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/2015-16_esecutivo.jpg">
+    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/esecutivo/">
   </div>
     <div class="col s12 m4 offset-m1">
   <p>La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación, y está actualmente compuesta por 5 miembros.</p>
@@ -18,8 +18,8 @@ permalink: /esecutivo/
 
 ## Junta de Gobierno ({{item.anno}})
 
-Parte di questo CE è stato eletto in data {{ item.dataCISFex }} e parte in data {{ item.dataCISF }}. 
-{% if item.dataInizio != nil %}É entrato nel pieno delle sue funzioni in data {{ item.dataInizio }}.{% endif %}
+Esta Junta de Gobierno fue elegida en las elecciones celebradas el {{ item.dataCISFex }}. 
+{% if item.dataInizio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInizio }}.{% endif %}
 {% if item.dataFine != nil %}I suoi membri sono rimasti in carica fino al {{ item.dataFine }}.{% endif %}
 
 <ul class="collection">
