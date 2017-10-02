@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eventos
+title: Eventos Globales
 permalink: /eventinazionali/
 ---
 
