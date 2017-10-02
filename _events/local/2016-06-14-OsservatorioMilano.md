@@ -2,7 +2,7 @@
 layout: event
 categories: eventolocale
 title: "Visita Osservatorio Astronomico"
-CL: Milano
+CL: Madrid
 locandina:
 gallery: 2016-osservatorio-milano
 report:
