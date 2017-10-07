@@ -129,9 +129,9 @@ permalink: /eventilocali/
             {% endfor %}
         </ul>
     </div>
-</div> -->
+</div> 
 
-</div>
+</div> -->
 
 
 
