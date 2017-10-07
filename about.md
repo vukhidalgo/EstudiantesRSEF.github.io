@@ -10,21 +10,19 @@ redirect_from:
 
 <img class="materialboxed" data-caption="Foto di gruppo alla prima CISF, Torino 2015" width="100%" src="{{ site.url }}/img/photos/2015-CISF/group02.jpg">
 
-L'AISF è l'Associazione Italiana degli Studenti di Fisica. È un'associazione con finalità educative e senza fine di lucro. Suoi membri sono tutti gli studenti, iscritti ad un corso di laurea o un dottorato in fisica, che ne facciano richiesta e siano in regola con la quota associativa. Le finalità e gli scopi dell'AISF sono la promozione delle scienze e in particolare della fisica fra gli studenti e lo sviluppo di relazioni fra studenti delle diverse parti del paese.
+AEEF es la Asociación Juvenil Española de Estudiantes de Física. Es una asociación sin ánimo de lucro que tiene como objetivo representar a los estudiantes de ciencias físicas en España, tanto en el ámbito nacional como internacional; promover el desarrollo de actividades que complementen los currículos oficiales y conseguir una mayor participación y presencia del colectivo estudiantil en las instituciones, así como lograr una mayor difusión de la física a todos los niveles.
 
-Per ulteriori dettagli circa l'AISF si rimanda allo Statuto e agli altri <a href="/documenti/">documenti ufficiali</a>.
+Para conocer más detalles acerca de AEEF, consulta nuestros estatutos y demás <a href="/documenti/">documentos oficiales</a>.
 
-## Comitato Esecutivo
+## Junta de Goberino
 
-Organo amministrativo ed esecutivo dell'Associazione è il Comitato Esecutivo, attualmente composto da 7 membri eletti durante le Assemblee Generali.
+La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación, y está actualmente compuesta por 5 miembros
 
-L'attuale Comitato Esecutivo è stato eletto in parte nella prima Assemblea Generale dell'AISF, il 15 agosto 2014 ad Heidelberg, e in parte nella Assemblea Generale Annuale del 16 maggio 2015, durante la CISF a Torino.
+<a href="/esecutivo/">Aquí</a> puedes encontrar más información acerca de la Junta de Gobierno.
 
-<a href="/esecutivo/">Qui</a> maggiori informazioni sul Comitato Esecutivo.
+## Delegaciones Universitarias
 
-## Comitati Locali
-
-L'AISF si organizza in Comitati Locali, ciascuno con un Presidente. La lista dei Comitati Locali si trova <a href="/comitatilocali/">qui</a>.
+AEEF se organiza en Delegaciones Universitarias, dirigidas por un Presidente. La lista de las Delegaciones Universitarias se piede encontrar <href="/comitatilocali/">aquí</a>.
 
 <!-- ## Sede legale
 
