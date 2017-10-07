@@ -52,7 +52,7 @@ permalink: /eventilocali/
 {% endif %}
 
 
-## Eventos Pasados
+<!-- ## Eventos Pasados
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
@@ -129,7 +129,7 @@ permalink: /eventilocali/
             {% endfor %}
         </ul>
     </div>
-</div>
+</div> -->
 
 </div>
 
