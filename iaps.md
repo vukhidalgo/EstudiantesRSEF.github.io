@@ -8,7 +8,7 @@ permalink: /iaps/
   <div class="row">
       <div class="col l4 offset-l4 s8 offset-s2">
 	<h1>
-	  <img id="index-top-logo" src="/img/IAPS-member-logo.png" alt="Logo dell'IAPS">
+	  <img id="index-top-logo" src="/img/IAPS-member-logo.png" alt="Logo de IAPS">
 	</h1>
       </div>
   </div>
