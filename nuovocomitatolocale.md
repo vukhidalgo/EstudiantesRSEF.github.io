@@ -4,29 +4,31 @@ title: Nueva Delegación Universitaria
 permalink: /nuovocomitatolocale/
 ---
 
-_Comitati Locali: associazioni la cui affiliazione è aperta a tutti gli studenti di fisica che provengono da un’area circoscritta e delimitata (come una particolare Università, ente o istituzione di una città)._
+_Delegaciones Universitarias de la AEEF: agrupaciones que “reúnen a los respectivos miembros de cada universidad y los representan en la misma”._
 
-[**Articolo 5.1 del Regolamento Interno**]
-
- 
-## Motivazioni e benefici
-
-In generale ci si aspetta la formazione di Comitati Locali in modo da garantire una maggiore presenza dell'associazione sul territorio nazionale, in modo da mantenere una certa continuità dell'associazione a prescindere dall'impegno di singoli membri.
-
-I Comitati Locali hanno maggiori diritti di voto durante le Assemblee Generali (si veda l'articolo 16.1 del [Regolamento Interno](/documenti/)).
-
-I Comitati Locali possono organizzare attività ed eventi a propria discrezione, e proporre la propria città per ospitare l'annuale Conferenza Italiana Studenti di Fisica (CISF).
+[**Artículo 6.c) de los estatutos de la AEEF**]
 
  
-## Formare un Comitato Locale
+## ¿Por qué fundar una Delegación Universitaria de la AEEF?
 
-L'articolo 5.2 regolamenta le modalità di costituzione di un Comitato Locale:
+Con carácter general, nuestro objetivo es contar con representación en todas las universidades del país que impartan física, garantizando así la mayor presencia posible de la Asociación en el territorio nacional y la continuidad de la misma, independientemente del compromiso individual.
 
-Un Comitato Locale deve essere formato da almeno 10 membri. È necessario essere accettati dal Comitato Esecutivo. Ai nuovi Comitati Locali che vengono approvati dal Comitato Esecutivo viene concessa un’affiliazione di prova. I Comitati Locali in prova ottengono lo stato di affiliazione completa se deciso nella seguente Assemblea Generale Annuale (AGA) o Assemblea Generale (AG).
+Además, las Delegaciones Universitarias tienen derecho de voto en lo que las concierne en las Juntas de Gobierno de la Asociación, lo que permite influir en las decisiones que se toman a nivel universitario y de organización (ver Artículo 17 de los [Estatutos de la AEEF](/documenti/)).
 
-Ogni università ha diritto a creare un suo Comitato Locale; se in una stessa città sono presenti più atenei, i rispettivi Comitati Locali possono coordinarsi e collaborare, mantenendo la propria identità.
-Se più di un’associazione desidera ottenere la posizione di Comitato Locale per la stessa università, ci si aspetta che queste associazioni risolvano i propri conflitti di interessi da sole. Nel frattempo, da procedura standard, non si accetta la candidatura di alcuna.
+Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivos Reglamentos Generales (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documenti/)).
 
-È necessario nominare anche un presidente, che sarà il punto di riferimento per l'AISF sul territorio.
+ 
+## Crear una Delegación Universitaria
 
-Il modulo di registrazione può essere reperito qui ([pdf](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)) o qui ([odt](http://www.ai-sf.it/owncloud/index.php/s/R1iGbhyW8gfTv27)) e deve essere inviato via mail, compilato e firmato, all'[esecutivo](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
+El Artículo 3 del Reglamento General de las DUs regula cómo crear una Delegación Universitaria:
+
+“La creación de una DU es competencia de la Junta de Gobierno de la AEEF de acuerdo con el Art. 6 de los Estatutos. Una DU podrá constituirse cuando lo soliciten a la AEEF un número no inferior a 5 miembros de la AEEF de ese centro. La propuesta deberá incluir una Junta de Gobierno provisional de la DU; la Comisión Permanente de la AEEF también podrá designar un Presidente provisional con el encargo de poner en marcha una DU.”
+
+Cada universidad tiene derecho a crear su propia Delegación Universitaria. Además, animamos a las Delegaciones Universitarias de la misma ciudad a colaborar entre sí y coordinarse para organizar actividades de forma conjunta.
+
+Si más de un grupo de estudiantes desease constituir la Delegación Universitaria de su universidad, se espera que estos grupos resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
+
+Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad. 
+El formulario de inscripción se puede encontrar aquí. Debe ser completado y enviado por correo a la Junta de Gobierno. Tras ello, 
+
+Podéis encontrar el formulario de inscripción de la DU aquí ([docx](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)). Este debe ser completado y enviado por email para su evaluación a nuestra [Junta de Gobierno](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
