@@ -15,7 +15,7 @@ Con carácter general, nuestro objetivo es contar con representación en todas l
 
 Además, las Delegaciones Universitarias tienen derecho de voto en lo que las concierne en las Juntas de Gobierno de la Asociación, lo que permite influir en las decisiones que se toman a nivel universitario y de organización (ver Artículo 17 de los [Estatutos de la AEEF](/documenti/)).
 
-Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivos Reglamentos Generales (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documenti/)).
+Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivo Reglamento General (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documenti/)).
 
  
 ## Crear una Delegación Universitaria
@@ -31,4 +31,4 @@ Si más de un grupo de estudiantes desease constituir la Delegación Universitar
 Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad. 
 El formulario de inscripción se puede encontrar aquí. Debe ser completado y enviado por correo a la Junta de Gobierno. Tras ello, 
 
-Podéis encontrar el formulario de inscripción de la DU aquí ([docx](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)). Este debe ser completado y enviado por email para su evaluación a nuestra [Junta de Gobierno](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
+Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)). Este debe ser completado y enviado por email para su evaluación a nuestra [Junta de Gobierno](mailto:esecutivo&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;).
