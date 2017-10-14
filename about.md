@@ -22,7 +22,7 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación,
 
 ## Delegaciones Universitarias
 
-AEEF se organiza en Delegaciones Universitarias, dirigidas por un Presidente. La lista de las Delegaciones Universitarias se puede encontrar <a href="/comitatilocali/">aquí</a>.
+AEEF se organiza en Delegaciones Universitarias, dirigidas por un Presidente/a. La lista de las Delegaciones Universitarias se puede encontrar <a href="/comitatilocali/">aquí</a>.
 
 <!-- ## Sede legale
 
