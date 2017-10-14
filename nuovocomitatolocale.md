@@ -29,6 +29,6 @@ Cada universidad tiene derecho a crear su propia Delegación Universitaria. Adem
 Si más de un grupo de estudiantes desease constituir la Delegación Universitaria de su universidad, se espera que estos grupos resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
 
 Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad. 
-El formulario de inscripción se puede encontrar aquí. Debe ser completado y enviado por correo a la Junta de Gobierno. Tras ello, 
+El formulario de inscripción se puede encontrar aquí.
 
-Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)). Este debe ser completado y enviado por email para su evaluación a nuestra [Junta de Gobierno](<a href="mailto:aeef.informacion@gmail.com"></a>).
+Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](http://www.ai-sf.it/owncloud/index.php/s/nbzUtQfo7SQp518)). Este debe ser completado y enviado por email para su evaluación a nuestra <a href="mailto:aeef.informacion@gmail.com">Junta de Gobierno</a>.
