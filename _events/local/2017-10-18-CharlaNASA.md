@@ -2,7 +2,7 @@
 layout: event
 categories: eventolocale
 title:  "Stellar 'GPS': Navigation in the Solar System"
-CL: Madrid
+CL: Madrid - UCM
 locandina: /img/eventilocali/charlaNASA1.jpg
 gallery:
 report:
