@@ -4,7 +4,7 @@ categories: eventolocale
 title:  "IAPS School Day"
 CL: Toda España!
 locandina: 
-gallery: /img/eventilocali/IAPS poster.png
+gallery: /img/eventilocali/IAPSposter.png
 report: 
 facebook:
 link: 
