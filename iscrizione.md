@@ -44,6 +44,12 @@ Para convertirse en miembro de AEEF es necesario:
 
 <ul class="collection">
   <li class="collection-item">
+      RECUERDA: Debes enviarnos un comprobante de la transferencia a aeef.miembros@gmail.com indicando tu nombre y apellidos. Así, todo será más rápido y podrás disfrutar de ser socio mucho antes!
+  </li>
+</ul>
+
+<ul class="collection">
+  <li class="collection-item">
       El ejercicio económico de AEEF es anual, comenzando con el mes de septiembre y cerrándose el 31 de agosto del año siguiente. La inscripción como miembro es válida para el ejercicio económico en curso. Para aquellos inscritos después del 1 de julio, la inscripción también es válida para el próximo ejercicio.
   </li>
 </ul>
