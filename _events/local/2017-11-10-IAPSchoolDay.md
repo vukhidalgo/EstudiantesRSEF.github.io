@@ -1,8 +1,8 @@
 ---
 layout: event
 categories: eventolocale
-title:  "Colloquium Studenti"
-CL: Torino
+title:  "IAPS School Day"
+CL: Toda España!
 locandina: 
 gallery: 
 report: 
