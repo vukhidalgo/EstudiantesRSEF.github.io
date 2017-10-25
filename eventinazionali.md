@@ -24,7 +24,7 @@ permalink: /eventinazionali/
     	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
           </div>
     	<div class="card-action">
-    	  <a href="{{ event.site }}">Sito</a>
+    	  <a href="{{ event.site }}">Sitio</a>
     	  <a href="{{ event.url }}">Info</a>
     	</div>
     </div>
