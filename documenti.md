@@ -24,6 +24,7 @@ Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se puede
 
 <div class="collection">
   <a href="https://drive.google.com/open?id=0ByP8eMO0MEyVNkpITFFfN3pKNjg" class="collection-item">Estatutos</a>
-  <a href="https://ae-ef.github.io" class="collection-item">Reglamento Interno</a>
+  <a href="https://drive.google.com/open?id=0B5Xs4TPtLJkWb3c5QXlzNV8xVXc" class="collection-item">Reglamento Interno - Reglamento General de las Delegaciones Universitarias</a>
+    <a href="https://drive.google.com/open?id=0B5Xs4TPtLJkWSHc4RWhnSTdwRFU" class="collection-item">Reglamento Interno - Reglamento General de las Secciones Locales</a>
   <a href="https://drive.google.com/open?id=0ByP8eMO0MEyVbTlYaFZRdUNXaHc" class="collection-item">Acta Fundacional</a>
 </div>
