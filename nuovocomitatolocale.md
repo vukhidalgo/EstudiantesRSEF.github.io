@@ -31,4 +31,4 @@ Si más de un grupo de estudiantes desease constituir la Delegación Universitar
 Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad. 
 El formulario de inscripción se puede encontrar aquí.
 
-Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](https://drive.google.com/open?id=0B5Xs4TPtLJkWeFJVbExVaDVyQlk)). Este debe ser completado y enviado por email para su evaluación a nuestra <a href="mailto:secretariageneral.aeef@gmail.com">Junta de Gobierno</a>.
+Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](https://drive.google.com/open?id=0B5Xs4TPtLJkWZWdpN2QyNzFpU2M)). Este debe ser completado y enviado por email para su evaluación a nuestra <a href="mailto:secretariageneral.aeef@gmail.com">Junta de Gobierno</a>.
