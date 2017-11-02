@@ -44,7 +44,7 @@ Para convertirse en miembro de AEEF es necesario:
 
 <ul class="collection">
   <li class="collection-item">
-      IMPORTANTE!: Debes enviarnos un comprobante de la transferencia a aeef.miembros@gmail.com indicando tu nombre y apellidos. Así, todo será más rápido y podrás disfrutar de ser miembro mucho antes!
+      IMPORTANTE! Debes enviarnos un comprobante de la transferencia a aeef.miembros@gmail.com indicando tu nombre y apellidos. Así, todo será más rápido y podrás disfrutar de ser miembro mucho antes!
   </li>
 </ul>
 
