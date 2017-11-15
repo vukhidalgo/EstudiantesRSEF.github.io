@@ -14,5 +14,3 @@ redirect_from:
   - /it/37-programma-del-particle-astroparticle-physics-spring-programme/
   - /it/60-iaps-gransasso2015/
 ---
-
-iaps@GranSasso è un evento internazionale organizzato in collaborazione tra AISF e IAPS. Il Coordianatore Eventi caricherà presto materiale aggiuntivo.
