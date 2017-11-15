@@ -1,6 +1,6 @@
 ---
 layout: event
-categories: eventonazionale
+categories:
 title: "PLANCKS Preliminaries"
 startingdate: 2017-02-24
 endingdate: 2017-02-24
