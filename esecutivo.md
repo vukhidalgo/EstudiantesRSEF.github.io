@@ -6,7 +6,7 @@ permalink: /esecutivo/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Comitati Esecutivi 2015-2016 e 2016-2017 durante la CISF2016. Unico assente: Francesco Sciortino." width="100%" src="{{ site.url }}/img/LogoAEEF.png">
+    <img class="materialboxed" data-caption="Logo AEEF." width="100%" src="{{ site.url }}/img/LogoAEEF.png">
   </div>
     <div class="col s12 m4 offset-m1">
   <p>La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación, y está actualmente compuesta por 5 miembros.</p>
