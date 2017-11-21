@@ -6,7 +6,7 @@ startingdate: 2018-02-23
 endingdate:
 place: Toda España!
 cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
-gallery: 2017-PLANCKSpreliminaries
+gallery:
 site: http://international.plancks.at
 ---
 
