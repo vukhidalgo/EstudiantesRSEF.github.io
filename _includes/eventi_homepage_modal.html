@@ -18,7 +18,7 @@
   {% endif %}
   
   <div class="modal-footer">
-    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Chiudi</a>
+    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
     {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}<a href="{{ post.url }}" class="waves-effect btn-flat">Vai all'articolo</a>{% endif %}{% endfor %}{% endif %}
   </div>
 </div>
