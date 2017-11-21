@@ -2,7 +2,7 @@
 layout: event
 categories: eventonazionale
 title: "PLANCKS - Preliminares"
-startingdate:
+startingdate: 2018-02-23
 endingdate: 2018-02-23
 place: Toda España!
 cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
