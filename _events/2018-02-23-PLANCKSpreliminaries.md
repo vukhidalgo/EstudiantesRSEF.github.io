@@ -4,7 +4,7 @@ categories: eventonazionale
 title: "PLANCKS - Preliminares"
 startingdate: 2018-02-23
 endingdate: 2018-02-23
-place: Toda España!
+place: España, Portugal, México, Nepal.
 cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
 gallery:
 site: http://plancks.org/
