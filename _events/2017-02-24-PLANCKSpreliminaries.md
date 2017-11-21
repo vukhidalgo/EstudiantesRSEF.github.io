@@ -1,30 +1,24 @@
 ---
 layout: event
-categories:
-title: "PLANCKS Preliminaries"
-startingdate: 2017-02-24
-endingdate: 2017-02-24
+categories: eventonazionale
+title: "PLANCKS - Preliminares."
+startingdate: 2018-02-23
+endingdate: 2018-02-23
 place: 
-cover: /img/photos/2017-PLANCKS/graz.jpg
+cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
 gallery: 2017-PLANCKSpreliminaries
 site: http://international.plancks.at
 ---
 
 
-Venerdì 24 febbraio si sono svolte, in contemporanea con i colleghi olandesi, le preliminaries per il [PLANCKS 2017](http://international.plancks.at/). 
+PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición Internacional de Física por excelencia para estudiantes de grado y máster. Un evento de 3 a 4 días en que estudiantes de física de todo el mundo se unen en equipos para resolver problemas, asistir a charlas, visitar laboratorios, convivir y divertirse en diversas actividades sin olvidarnos de que compiten por un premio monetario!!
 
-I sette team coinvolti, provenienti da quattro Comitati Locali diversi, si sono sfidanti a colpi di geniali intuizioni fino all'ultimo conto per guadagnarsi la possibilità di rappresentare AISF nella finale internazionale che si svolgerà a Graz, Austria, dal 26 al 28 maggio.
+En 2018, PLANCKS se celebrará en Zagreb, Croacia, organizado por su asociación local de estudiantes de física así como por la Asociación Internacional de Física (IAPS). Puedes encontrar más información acerca de esta edición visitando la [web oficial] (http://plancks.org/) y la correspondiente de [iaps] (http://www.iaps.info/plancks/plancks-2018-in-zagreb).
 
-La classifica finale recita:
+Este año será el primero en que España organice las preliminares nacionales de esta gran competición, así que hemos querido hacerlo a lo grande: traspaseremos fronteras y nos coordinaremos con 3 continentes diferentes: en América, con México; en Europa, con Portugal; y en Asia, con Nepal. Esto significa que la prueba a la que te enfrentarás se resolverá al mismo tiempo en otras tres esquinas de este mundo. ¿Qué decir? Nuestro espíritu internacional nos delata...
 
-1. Firenze (Giachetti, Andreucci, Faggi, Bocini)
-2. Torino (Artico, Cresto, Mafucci, Proverbio)
-3. Pavia (Poggiali, Rodini, Valle, Volpi ) 
-4. Torino (Barresi, Chiappini, Bastonero, Falco)
-5. Bologna ( Maccolini, Toschi, Ridolfi, Giommi)
-6. Pavia (Caravano, Carleo, Longhi, Magoni)
-7. Bologna (Costa, Mantovani, Mazzarisi, Pomponio )
+La preliminar española consistirá, al igual que la portuguesa, en un conjunto de 5 problemas que habrá que resolver en 2 horas. Esta primera fase nacional permitirá seleccionar a los mejores equipos de cada país para que los representen en la competición internacional.
 
-Grazie alla partecipazione e il grande entusiasmo  dei comitati locali coinvolti il Comitato Organizzatore del PLANCKS ci ha garantito non due ma tre posti per la finale!
+Así que, si quieres participar, empieza a formar un equipo de 3 a 4 personas y mándanos un correo con el asunto 'INSCRIPCIÓN PLANCKS 2018' a aeef.miembros@gmail.com. Por cierto, ¿habíamos mencionado ya que el año pasado fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
 
-Per questo motivo, i primi 3 gruppi classificati rappresenteranno AISF e l'Italia a Graz dove cercheranno di portare a casa i ricchi premi finali e dove avranno anche la possibilità di seguire diversi seminari tenuti da illustri ricercatori in temi della Fisica che spaziano dalle onda gravitazionali, all' ottica quantistica al mondo delle alte energie (una lista completa degli ospiti è presente sul [sito](http://international.plancks.at/what-is-plancks/ambassadors/) ufficiale).
+Si quieres echar un vistazo a las pruebas de años anteriores para prepararte y llegar a la final, no tienes más que pinchar [aquí](http://international.plancks.at/what-is-plancks/example-problem-sets/). Animaos!!
