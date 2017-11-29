@@ -46,6 +46,4 @@ Un saludo,
       <br>
 Daniel Lozano. 
 Vicepresidente de AEEF
-      </p>
-
-<!-- [Foto 1](/img/eventilocali/2017_SpritzFacili_06/1.jpg) -->
+</p>
