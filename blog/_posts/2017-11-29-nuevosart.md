@@ -2,8 +2,8 @@
 layout: post
 categories: blog 
 title:  "¿Quieres publicar con nosotros?"
-date:   2017-09-30 12:00
-author: JdG AEEF
+date:   2017-11-29 12:00
+author: Junta de Gobierno AEEF
 redirect_from:
 ---
 
