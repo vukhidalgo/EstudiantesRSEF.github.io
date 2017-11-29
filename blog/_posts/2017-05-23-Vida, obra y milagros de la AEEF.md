@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog 
-title:  "Vida, obra y milagros de la AEEF"
+title:  "Vida, obra y milagros de la AEEF."
 date:   2017-04-04 12:00
 author: Daniel Lozano
 redirect_from:
