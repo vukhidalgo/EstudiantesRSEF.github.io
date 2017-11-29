@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>
-   ¿Te apetecería publicar algún artículo en nuestra web? ¿Eres un ávido dvulgador científico que busca lectores y fama? No dudes en contactarnos, ¡juntos podemos conseguir grandes logros!       
+   ¿Te apetecería publicar algún artículo en nuestra web? ¿Eres un ávido divulgador científico que busca lectores y fama? No dudes en contactarnos, ¡juntos podemos conseguir grandes logros!       
       <br>
    ¡Esperamos tu mensaje! Hasta entonces, recibe un cordial saludo.
    
