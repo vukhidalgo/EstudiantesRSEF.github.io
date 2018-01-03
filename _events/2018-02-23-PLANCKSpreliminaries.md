@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventonazionale
-title: "PLANCKS - Preliminares"
+title: "PLANCKS 2018 - Preliminares"
 startingdate: 2018-02-23
 endingdate: 2018-02-23
 place: España, Portugal, México, Nepal
