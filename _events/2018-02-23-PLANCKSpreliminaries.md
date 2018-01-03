@@ -29,7 +29,7 @@ Pero, ¡esperad! No os rindáis todavía, que la cuota de participación no os d
 
 3rd place  - ħ/4 * 10^37 EUR (263.64 EUR)
 
-Con lo que habréis cubierto en cualquier caso la cuota de participación.
+¡Con lo que habréis cubierto en cualquier caso la cuota de participación!
 
 Así que, si queréis participar**, formad un equipo de 3 a 4 personas y mandadnos un correo con vuestros nombres, la facultad - universidad en que estudiáis y el asunto 'INSCRIPCIÓN PLANCKS 2018' a aeef.informacion@gmail.com. Por cierto, ¿habíamos mencionado ya que el año pasado fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
 
