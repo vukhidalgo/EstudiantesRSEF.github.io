@@ -24,7 +24,9 @@ Cabe destacar que los equipos que se clasifiquen para la final que tendrá lugar
 Pero, ¡esperad! No os rindáis todavía, que la cuota de participación no os desanime, que no habéis llegado a la mejor parte: los premios. Si conseguís estar entre los tres primeros, ganaréis uno de los siguientes premios:
 
 1st place  - ħ * 10^37 EUR (1054.57 EUR)
+
 2nd place  - ħ/2 * 10^37 EUR (527.29 EUR)
+
 3rd place  - ħ/4 * 10^37 EUR (263.64 EUR)
 
 Con lo que habréis cubierto en cualquier caso la cuota de participación.
