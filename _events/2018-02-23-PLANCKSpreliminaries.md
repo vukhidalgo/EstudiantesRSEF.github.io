@@ -41,9 +41,15 @@ No os perdáis esta oportunidad. ¡¡Animaos a participar!!
 *Todos los participantes que quieran registrarse para el último día de actividades deberán abonar 30€ por persona a la organización de la competición.
 
 **Todos los participantes han de comprometerse a cumplir:
-    El [código de conducta de IAPS](http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf). 
+
+    El [código de conducta de IAPS](http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf).
+    
     Las [reglas generales de Plancks](https://drive.google.com/file/d/1OoOcA7REGYrei2nXdXFBfk3riNd5al6I/view).
+    
   Y habrán de tener en cuenta que se aplican los siguientes términos y condiciones:
+  
     [IAPS Terms and Conditions](http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf).
+    
     [Plancks Terms and conditions with cancellation policy](https://drive.google.com/file/d/19FYT4Z3SBbPhIXUG0iMgwHuLSGtFocul/view).
+    
   Y que AEEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
