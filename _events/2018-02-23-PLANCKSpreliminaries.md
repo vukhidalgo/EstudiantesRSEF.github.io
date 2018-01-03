@@ -33,7 +33,7 @@ Pero, ¡esperad! No os rindáis todavía, que la cuota de participación no os d
 
 Así que, si queréis participar**, formad un equipo de 3 a 4 personas y mandadnos un correo con vuestros nombres, la facultad - universidad en que estudiáis y el asunto 'INSCRIPCIÓN PLANCKS 2018' a aeef.informacion@gmail.com. Por cierto, ¿habíamos mencionado ya que el año pasado fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
 
-Si quieres echar un vistazo a las pruebas de años anteriores para prepararte y llegar a la final, no tienes más que [pinchar aquí](http://international.plancks.at/what-is-plancks/example-problem-sets/). 
+Si queréis echar un vistazo a las pruebas de años anteriores para prepararos y llegar a la final, no tenéis más que [pinchar aquí](http://international.plancks.at/what-is-plancks/example-problem-sets/). 
 
 No os perdáis esta oportunidad. ¡¡Animaos a participar!!
 
