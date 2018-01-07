@@ -17,7 +17,7 @@ En 2018, PLANCKS se celebrará en Zagreb, Croacia, durante el fin de semana del 
 
 Este año será el primero en que España organice los preliminares nacionales de esta gran competición, así que hemos querido hacerlo a lo grande: traspaseremos fronteras y nos coordinaremos con 3 continentes diferentes: en América, con México; en Europa, con Portugal; y en Asia, con Nepal. Esto significa que la prueba a la que te enfrentarás se resolverá al mismo tiempo en otras tres esquinas de este mundo. ¿Qué decir? Nuestro espíritu internacional nos delata...
 
-La preliminar española consistirá, al igual que la portuguesa, en un conjunto de 5 problemas que habrá que resolver en 2 horas. Esta primera fase nacional nos permitirá seleccionar a los 3 mejores equipos para que nos representen en la competición internacional.
+La preliminar española consistirá, al igual que la portuguesa, en un conjunto de 5/6 problemas que habrá que resolver en 2 horas. Esta primera fase nacional nos permitirá seleccionar a los 3 mejores equipos para que nos representen en la competición internacional.
 
 Cabe destacar que los equipos que se clasifiquen para la final que tendrá lugar en Zagreb deberán hacerse miembros de AEEF (5€/persona), pues de otro modo no podrían participar en una actividad de IAPS, y abonar un total de 240€ por equipo a la organización de la competición en concepto de cuota de participación, que incluye alojamiento y manutención completa durante el concurso. Asimismo, costearán su traslado a Zagreb. El año que viene intentaremos llegar a acuerdos con diversas organizaciones que nos permitan financiaros parte del viaje, que este año tendrá la siguiente [agenda](https://drive.google.com/file/d/1GwopBUeCOWjthDFtelpAnGXQxDeNcOXg/view)*. 
 
