@@ -26,7 +26,7 @@ Para convertirse en miembro de AEEF es necesario:
         <span class="card-title">Transferencia Bancaria</span>
 	<p class="light">Dispones de 15 días naturales para realizar la transferencia. Si superas este período, tu solicitud será                  denegada y tendrás que volver a realizar la inscripción.</p>
 	<p>Beneficiario: Asociación Juvenil Española de Estudiantes de Física<br>
-	  IBAN: ES43 2038 1122 6260 0094 3017<br>
+	  IBAN: ES14 0081 0119 7500 0161 3364<br>
 	  Concepto: Inscripción 2017/2018 - NOMBRE APELLIDOS</p>
       </div>
     </div>
