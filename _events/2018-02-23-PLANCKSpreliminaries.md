@@ -6,7 +6,7 @@ startingdate: 2018-02-23
 endingdate: 2018-02-23
 place: España, Portugal, México, Nepal
 cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
-gallery:2018-PP
+gallery: 2018-PP
 site: http://plancks.org/
 ---
 
