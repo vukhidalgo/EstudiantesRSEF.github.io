@@ -5,11 +5,11 @@
     - text: Junta de Gobierno
       url: /juntadegobierno/
     - text: Delegaciones Universitarias
-      url: /comitatilocali/
+      url: /delegacionesuniversitarias/
     - text: Secciones Locales
       url: /seccioneslocales/
     - text: Documentos
-      url: /documenti/
+      url: /documentos/
 - text: Eventos
   url: /eventosglobales/
   subitems:
