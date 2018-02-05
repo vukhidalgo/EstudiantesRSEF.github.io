@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentos
-permalink: /documenti/
+permalink: /documentos/
 redirect_from:
   - /it/documents?catid=0&id=27
 ---
