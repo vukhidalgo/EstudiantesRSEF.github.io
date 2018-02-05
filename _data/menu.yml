@@ -16,7 +16,7 @@
     - text: Eventos Globales
       url: /eventosglobales/
     - text: Eventos Nacionales
-      url: /eventilocali/
+      url: /eventosnacionales/
 - text: Blog
   url: /blog
 # - text: SdR
