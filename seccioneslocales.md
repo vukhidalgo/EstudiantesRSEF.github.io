@@ -50,4 +50,4 @@ La AEEF cuenta por el momento con {{ n }} Secciones Locales en:
 
 ## ¿Quieres crear una nueva Sección Local?
 
-Consulta [esta](/nuovocomitatolocale/) página.
+Consulta [esta](/nuevaseccionlocal/) página.
