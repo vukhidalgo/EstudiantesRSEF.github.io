@@ -3,9 +3,6 @@ layout: page
 title: Conócenos
 permalink: /about/
 redirect_from:
-  - /it/8-info-it-it/
-  - /documenti/8-info-it-it/
-  - /it/contacts?catid=0&id=27/
 ---
 
 <img class="materialboxed" data-caption="Foto de todos los participantes en ICPS 2017" width="100%" src="{{ site.url }}/img/photos/2017-ICPS/FotoICPS2017.jpg">
