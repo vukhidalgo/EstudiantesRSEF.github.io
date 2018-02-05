@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Inscríbete!
-permalink: /iscrizione/
+permalink: /inscripcion/
 redirect_from:
-  - /eventi/25-membri-e-affiliazione/
 ---
 
 Para convertirse en miembro de AEEF es necesario:
