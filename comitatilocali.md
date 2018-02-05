@@ -51,4 +51,4 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 
 ## ¿Quieres crear una nueva Delegación Universitaria?
 
-Consulta [esta](/nuovocomitatolocale/) página.
+Consulta [esta](/nuevadelegacionuniversitaria/) página.
