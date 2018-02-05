@@ -11,10 +11,10 @@
     - text: Documentos
       url: /documenti/
 - text: Eventos
-  url: /eventinazionali/
+  url: /eventosglobales/
   subitems:
     - text: Eventos Globales
-      url: /eventinazionali/
+      url: /eventosglobales/
     - text: Eventos Nacionales
       url: /eventilocali/
 - text: Blog
