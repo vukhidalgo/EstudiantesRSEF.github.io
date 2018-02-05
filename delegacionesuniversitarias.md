@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Delegaciones Universitarias
-permalink: /comitatilocali/
+permalink: /delegacionesuniversitarias/
 redirect_from:
-  - /it/20-comitati-locali/
 ---
 
 {% assign n = 0 %}
