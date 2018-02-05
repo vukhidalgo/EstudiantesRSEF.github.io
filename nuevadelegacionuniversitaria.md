@@ -13,9 +13,9 @@ _Delegaciones Universitarias de la AEEF: agrupaciones que “reúnen a los respe
 
 Con carácter general, nuestro objetivo es contar con representación en todas las universidades del país que impartan física, garantizando así la mayor presencia posible de la Asociación en el territorio nacional y la continuidad de la misma, independientemente del compromiso individual.
 
-Además, las Delegaciones Universitarias tienen derecho de voto en lo que las concierne en las Juntas de Gobierno de la Asociación, lo que permite influir en las decisiones que se toman a nivel universitario y de organización (ver Artículo 17 de los [Estatutos de la AEEF](/documenti/)).
+Además, las Delegaciones Universitarias tienen derecho de voto en lo que las concierne en las Juntas de Gobierno de la Asociación, lo que permite influir en las decisiones que se toman a nivel universitario y de organización (ver Artículo 17 de los [Estatutos de la AEEF](/documentos/)).
 
-Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivo Reglamento General (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documenti/)).
+Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivo Reglamento General (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documentos/)).
 
  
 ## Crear una Delegación Universitaria
