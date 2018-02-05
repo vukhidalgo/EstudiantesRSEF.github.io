@@ -6,6 +6,8 @@
       url: /esecutivo/
     - text: Delegaciones Universitarias
       url: /comitatilocali/
+    - text: Secciones Locales
+      url: /seccioneslocales/
     - text: Documentos
       url: /documenti/
 - text: Eventos
