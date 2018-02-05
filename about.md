@@ -12,10 +12,6 @@ redirect_from:
 
 AEEF es la Asociación Juvenil Española de Estudiantes de Física. Es una asociación sin ánimo de lucro que tiene como objetivo representar a los estudiantes de ciencias físicas en España, tanto en el ámbito nacional como internacional; promover el desarrollo de actividades que complementen los currículos oficiales y conseguir una mayor participación y presencia del colectivo estudiantil en las instituciones, así como lograr una mayor difusión de la física a todos los niveles.
 
-<!-- Aquí puedes ver a nuestro presidente contando lo que tenemos en mente para el curso 2017/2018, ¡en una entrevista realizada durante la última ICPS!
-
-<!-- <embed src="example.mpeg" autostart="false" height="30" width="144" />
-
 Para conocer más detalles acerca de AEEF, consulta nuestros estatutos y demás <a href="/documenti/">documentos oficiales</a>.
 
 ## Junta de Goberino
@@ -26,7 +22,7 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación,
 
 ## Delegaciones Universitarias
 
-AEEF se organiza en Delegaciones Universitarias, dirigidas por un Presidente/a. La lista de las Delegaciones Universitarias se puede encontrar <a href="/comitatilocali/">aquí</a>.
+AEEF se organiza en Delegaciones Universitarias y Secciones Locales, dirigidas por un Presidente/a. La lista de las Delegaciones Universitarias se puede encontrar <a href="/comitatilocali/">aquí</a>.
 
 <!-- ## Sede legale
 
