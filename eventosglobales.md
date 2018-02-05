@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eventos Globales
-permalink: /eventinazionali/
+permalink: /eventosglobales/
 ---
 
 
