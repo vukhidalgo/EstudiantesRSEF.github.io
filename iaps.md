@@ -37,8 +37,12 @@ permalink: /iaps/
       <br>
           The first ICPS was organized by students of the Eötvös Loránd University, in Budapest, Hungary in the year 1986. The event had less than fifty participants, but since then, the conference has grown considerably, nowadays bringing together more than four hundred students.
       <br>
-          The one week of the conference has its fair share of scientific, social and touristic programs. One gets a chance to listen to and give lectures on various topics in physics, to check out the laboratories of the host city, to make friends with physics students from all around the world, to get a little glimpse of the foreign cultures that gather here, and to see another part of the world.
+          The one week of the conference has its fair share of scientific, social and touristic programs. One gets a chance to listen to and give lectures on various topics in physics, to check out the laboratories of the host city, to make friends with physics students from all around the world, to get a little glimpse of the foreign cultures that gather here and to see another part of the world.
+      <br>
+          Just for you to see how awesome can ICPS be, we think that you would like to see this video:
       </p>
+      
+      <center><iframe width="560" height="315" src="https://www.youtube.com/embed/GcoZuXLViAA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
       
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
