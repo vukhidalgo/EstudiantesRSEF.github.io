@@ -11,7 +11,7 @@ AEEF es la Asociación Juvenil Española de Estudiantes de Física. Es una asoci
 
 ¿Queréis saber qué tenemos en mente para el curso 2017/2018? ¡¡No os perdáis la única entrevista que se hizo durante la XXXII International Conference of Physics Students (la primera de AEEF como NCSpain) a un presidente de un National Committee!!
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 Para conocer más detalles acerca de AEEF, consulta nuestros estatutos y demás <a href="/documentos/">documentos oficiales</a>.
 
