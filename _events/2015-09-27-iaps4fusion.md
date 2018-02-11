@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventonazionale
-title:  "iaps4fusion"
+title:  "iaps4FUSION"
 startingdate: 2015-09-27
 endingdate: 2015-10-01
 place: London, Oxford
