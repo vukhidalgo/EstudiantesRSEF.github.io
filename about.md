@@ -25,6 +25,10 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación,
 
 AEEF se organiza en Delegaciones Universitarias y Secciones Locales, dirigidas por un Presidente/a. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>. La de las Secciones Locales, <a href="/seccioneslocales/">aquí</a>.
 
+---
+
+La Asociación Juvenil Española de Estudiantes de Física no es la asociación sectorial de los estudiantes de física de España ni está interesada en desarrollar actividad alguna en este ámbito.
+
 <!-- ## Sede legale
 
 La sede legale dell'Associazione è presso
