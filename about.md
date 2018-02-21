@@ -27,11 +27,7 @@ AEEF se organiza en Delegaciones Universitarias y Secciones Locales, dirigidas p
 
 ---
 
-<div> div {
-    font-weight:bold;
-}
-<center><bold>La Asociación Juvenil Española de Estudiantes de Física no es la asociación sectorial de los estudiantes de física de España ni está interesada en desarrollar actividad alguna en este ámbito.</bold><center>
-    </div>
+<center><strong>La Asociación Juvenil Española de Estudiantes de Física no es la asociación sectorial de los estudiantes de física de España ni está interesada en desarrollar actividad alguna en este ámbito.</strong></center>
 
 <!-- ## Sede legale
 
