@@ -7,7 +7,7 @@ redirect_from:
 
 <img class="materialboxed" data-caption="Foto de todos los participantes en ICPS 2017" width="100%" src="{{ site.url }}/img/photos/2017-ICPS/FotoICPS2017.jpg">
 
-AEEF es la Asociación Juvenil Española de Estudiantes de Física. Es una asociación sin ánimo de lucro que tiene como objetivo representar a los estudiantes de ciencias físicas en España, tanto en el ámbito nacional como internacional; promover el desarrollo de actividades que complementen los currículos oficiales y conseguir una mayor participación y presencia del colectivo estudiantil en las instituciones, así como lograr una mayor difusión de la física a todos los niveles.
+AEEF es la Asociación Juvenil Española de Estudiantes de Física. Es una asociación sin ánimo de lucro que tiene como objetivo reunir a los estudiantes de ciencias físicas en España, tanto en el ámbito nacional como internacional, a través de actividades que complementen los currículos oficiales, y conseguir una mayor participación y presencia del colectivo estudiantil en las instituciones, así como lograr una mayor difusión de la física a todos los niveles.
 
 ¿Queréis saber qué tenemos en mente para el curso 2017/2018? ¡¡No os perdáis la única entrevista que se hizo durante la XXXII International Conference of Physics Students (la primera de AEEF como NCSpain) a un presidente de un National Committee!!
 
