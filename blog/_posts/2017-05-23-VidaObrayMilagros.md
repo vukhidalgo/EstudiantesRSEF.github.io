@@ -16,27 +16,17 @@ Al principio estábamos algo inseguros con la idea de formar algo tan grande a n
 Actualmente, nuestros objetivos son los de atraer a cuantos más estudiantes de física podamos (grado, máster o doctorado) para establecer una red entre todas las universidades españolas y poder crear convenios que mejoren nuestra vida académica a todos los niveles, además de organizar otras actividades de ámbito más informal; como quedadas, conferencias, jornadas de divulgación, etc. Además, a medio-largo plazo tenemos la intención de traer el ICPS a España, lo que sería un salto gigantesco a la hora de tomarnos en serio como grupo internacional.
      
 Para finalizar esta introducción presentaré a los miembros actuales de la Junta de Gobierno, elegidos en las últimas elecciones:
-      <br>
+
 Alejandro Fernández — Presidente
-      <br>
 Daniel Lozano — Vicepresidente
-      <br>
 Adrià Vicens — Vicepresidente
-      <br>
 Leticia Pérez — Secretaria General
-      <br>
 Melvin Moreno — Tesorero
-      <br>
       
-      <br>
 Esperamos veros pronto en alguna de nuestras actividades.
-      <br>
       
-      <br>
 Un saludo,
-      <br>
 Daniel Lozano. 
-Vicepresidente de AEEF
-      </p>
+Vicepresidente de AEEF.
 
 <!-- [Foto 1](/img/eventilocali/2017_SpritzFacili_06/1.jpg) -->
