@@ -10,4 +10,4 @@ gallery: 2018-iaps4FUSION
 site: https://www.iaps.info/activities/trips/iaps4fusion/
 ---
 
-Puedes acceder a toda la información sobre esta nueva edición de iaps4FUSION en <a href="https://www.iaps.info/activities/trips/iaps4fusion/" class="collection-item">esta web</a>.
+¿Quieres descubrir los últimos avances en física nuclear de la mano de algunos de los mayores expertos mundiales en la materia? ¿Tal vez conocer las mayores instalaciones de fusión de Europa? ¿Y disfrutar de una experiencia única con participantes de todo el mundo? Puedes acceder a toda la información sobre esta nueva edición de iaps4FUSION en <a href="https://www.iaps.info/activities/trips/iaps4fusion/" class="collection-item">esta web</a>.
