@@ -13,7 +13,7 @@ redirect_from:
 La AEEF cuenta por el momento con {{ n }} Secciones Locales en:
 
 <ul class="collection">
-	{% for item in site.data.LC %}
+	{% for item in site.data.LCR %}
 	    <li class="collection-item avatar" id="{{ item.nome }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
 	      	<span class="title">
