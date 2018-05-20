@@ -17,7 +17,7 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 	    <li class="collection-item avatar" id="{{ item.nombre }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
 	      	<span class="title">
-				Delegación Universitaria de {{ item.nome }}
+				Delegación Universitaria de {{ item.nombre }}
 			</span>
 	      	<p>
 				Presidente: {{ item.presidente }} 
