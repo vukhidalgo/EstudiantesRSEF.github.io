@@ -14,7 +14,7 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 
 <ul class="collection">
 	{% for item in site.data.LC %}
-	    <li class="collection-item avatar" id="{{ item.nome }}">
+	    <li class="collection-item avatar" id="{{ item.nombre }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
 	      	<span class="title">
 				Delegación Universitaria de {{ item.nome }}
@@ -22,7 +22,7 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 	      	<p>
 				Presidente: {{ item.presidente }} 
 				<br>
-	        	Fundación: {{ item.fondazione }}
+	        	        Fundación: {{ item.fundacion }}
 				<br>
 				{% if item.ex != nil %}
 					Ex presidente: {{ item.ex }}
