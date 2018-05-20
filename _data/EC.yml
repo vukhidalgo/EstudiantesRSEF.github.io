@@ -30,8 +30,12 @@
       descr: "Estudiante de Física en la UCM, trabaja en una academia de todos los niveles como profesor de física y matemáticas. Todavía le gustan demasiado todas las ramas como para decidirse por una. Le gusta hacer una labor social. Es voluntario en la ONG Entreculturas y le encanta la música."
       mail: ""
   collaboratori:   
-    - nome: "Juan Díaz Suárez"
-      img: "/img/esecutivo/juan.jpg"
-      descr: "Estudiante de física en la Universidad de Oviedo, actualmente en tercero de carrera. Interesado en la física computacional e inteligencia artificial. Interesado en la música y el deporte."
+    - nome: "Inmaculada Pérez Pérez"
+      img: ""
+      descr: "Estudiante de física en la Universidad de Sevilla, actualmente en segundo de carrera. Una artista editando."
+      mail: ""
+    - nome: "Guillermo Martín López"
+      img: ""
+      descr: "Estudiante de física en la Universidad de Sevilla, actualmente en primero de carrera. Nuestro experto en RRSS."
       mail: ""
      
