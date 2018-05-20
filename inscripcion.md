@@ -76,4 +76,4 @@ Las cuotas de membresía para este ejercicio son:
     <p>*Se considera socio colaborador a toda persona deseosa de fomentar y patrocinar las actividades desarrolladas por la AEEF, que 		cumpla con el criterio de edad arriba mencionado, pero que no curse estudios de física o afines. - Art. 9 estatutos.</p></li>
 </ul>
 
-<a href="https://drive.google.com/open?id=11bhKmJhvme4koQoYlpH4b6HVwOtBqG5A">Consulta aquí</a>los términos y condiciones referentes a la protección de datos.
+<a href="https://drive.google.com/open?id=11bhKmJhvme4koQoYlpH4b6HVwOtBqG5A">Consulta aquí</a> los términos y condiciones referentes a la protección de datos.
