@@ -25,7 +25,7 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 	        	Fundación: {{ item.fondazione }}
 				<br>
 				{% if item.ex != nil %}
-					Ex presidenti: {{ item.ex }}
+					Ex presidente: {{ item.ex }}
 				{% endif %} 				
 	      	</p>
 	      	<div class="secondary-content">
@@ -34,8 +34,8 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 						<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
 					</a>
 				{% endif %}
-				{% if item.regolamento != nil %}
-		        	<a href="{{ item.regolamento }}" title="Regolamento Interno">
+				{% if item.reglamento!= nil %}
+		        	<a href="{{ item.reglamento }}" title="Reglamento Interno">
 						<i class="fa fa-lg fa-file-text"></i>
 					</a>
 				{% endif %}
