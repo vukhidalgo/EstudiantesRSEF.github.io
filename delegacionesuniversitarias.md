@@ -34,14 +34,16 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 						<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
 					</a>
 				{% endif %}
-				{% if item.reglamento!= nil %}
+				{% if item.reglamento != nil %}
 		        	<a href="{{ item.reglamento }}" title="Reglamento Interno">
 						<i class="fa fa-lg fa-file-text"></i>
 					</a>
 				{% endif %}
-	      		<a href="mailto:{{ item.mail }};" title="Email de la DU">
+			        {% if item.mail != nil %}
+	      		      <a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Email de la DU">
 					<i class="fa fa-lg fa-envelope"></i>
 				</a>
+			        {% endif %}
 			</div>
 	    </li>
 	{% endfor %}
