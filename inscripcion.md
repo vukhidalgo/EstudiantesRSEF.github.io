@@ -76,4 +76,4 @@ Las cuotas de membresía para este ejercicio son:
     <p>*Se considera socio colaborador a toda persona deseosa de fomentar y patrocinar las actividades desarrolladas por la AEEF, que 		cumpla con el criterio de edad arriba mencionado, pero que no curse estudios de física o afines. - Art. 9 estatutos.</p></li>
 </ul>
 
-Tus datos serán utilizados exclusivamente por la Asociación Juvenil Española de Estudiantes de Física (AEEF) (C.I.F.: G87781910). No serán compartidos con terceros salvo que la organización conjunta de actividades entre AEEF y éstos lo requiera. Puedes ejercitar tus derechos de oposición al tratamiento y acceso a los datos que aquí nos proporcionas, así como tus derechos de rectificación y cancelación, según lo dispuesto en la Ley Orgánica de Protección de Datos (Ley Orgánica 15/1999), enviando un correo electrónico a aeef.miembros@gmail.com.
+<a href="https://drive.google.com/open?id=11bhKmJhvme4koQoYlpH4b6HVwOtBqG5A">Consulta aquí</a>los términos y condiciones referentes a la protección de datos.
