@@ -1,9 +1,9 @@
-#- nombre: "Zaragoza"
-#  img: "/img/presidenti/bari_simona-rossini.jpg"
-#  mail: "simona.rossini"
-#  presidente: "Jorge Morón Vidal"
-#  fundacion: "05/2018"
-#  fb:
-#  reglamento:
-#  ex: 
-#  logo: 
+- nombre: "Zaragoza"
+  img: "/img/presidenti/zaragoza_jorgemoron.jpg"
+  mail: ""
+  presidente: "Jorge Morón Vidal"
+  fundacion: "05/2018"
+  fb:
+  reglamento:
+  ex: 
+  logo: 
