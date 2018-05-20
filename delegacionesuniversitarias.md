@@ -17,12 +17,12 @@ La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 	    <li class="collection-item avatar" id="{{ item.nome }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
 	      	<span class="title">
-				Comitato Locale di {{ item.nome }}
+				Delegación Universitaria de {{ item.nome }}
 			</span>
 	      	<p>
 				Presidente: {{ item.presidente }} 
 				<br>
-	        	Fondazione: {{ item.fondazione }}
+	        	Fundación: {{ item.fondazione }}
 				<br>
 				{% if item.ex != nil %}
 					Ex presidenti: {{ item.ex }}
