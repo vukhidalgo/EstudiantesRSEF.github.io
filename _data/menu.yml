@@ -27,5 +27,5 @@
   url: /iaps/
 - text: ICPS2018
   url: http://icps.helsinki.fi/
-# - text: RSEF
-#   url: http://rsef.es/
+- text: RSEF
+  url: /rsef/
