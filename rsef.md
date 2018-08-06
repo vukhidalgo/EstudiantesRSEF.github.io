@@ -8,7 +8,7 @@ permalink: /rsef/
   <div class="row">
       <div class="col l4 offset-l4 s8 offset-s2">
 	<h1>
-	  <img id="index-top-logo" src="/img/rsef.jpg" alt="Logo de RSEF">
+	  <img id="index-top-logo" src="/img/rsef2.jpg" alt="Logo de RSEF">
 	</h1>
       </div>
   </div>
