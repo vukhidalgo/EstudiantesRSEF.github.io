@@ -2,21 +2,21 @@
 #  url: /about/
 #  slug: about
 #  subitems:
-    - text: Junta de Gobierno
-      url: /juntadegobierno/
-    - text: Delegaciones Universitarias
-      url: /delegacionesuniversitarias/
+#    - text: Junta de Gobierno
+#      url: /juntadegobierno/
+#    - text: Delegaciones Universitarias
+#      url: /delegacionesuniversitarias/
    # - text: Secciones Locales
    #   url: /seccioneslocales/
-    - text: Documentos
-      url: /documentos/
+#    - text: Documentos
+#      url: /documentos/
 # - text: Eventos
 #  url: /eventosglobales/
 #  subitems:
-    - text: Eventos Globales
-      url: /eventosglobales/
-    - text: Eventos Nacionales
-      url: /eventosnacionales/
+#    - text: Eventos Globales
+#      url: /eventosglobales/
+#    - text: Eventos Nacionales
+#      url: /eventosnacionales/
 # - text: Blog
 #  url: /blog
 # - text: SdR
