@@ -25,7 +25,7 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especial
 
 ## Delegaciones Universitarias
 
-El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>. <!--La de las Secciones Locales, <a href="/seccioneslocales/">aquí</a>.-->
+El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>.
 
 ## Sede legal
 
@@ -34,11 +34,10 @@ La sede legal del Grupo de Estudiantes se corresponde con la de la Real Sociedad
     Real Sociedad Española de Física
     Facultad de Ciencias Físicas. UCM.
     Plaza de las Ciencias, 1
-    28040 Madrid - ESPAÑA
     + 34 91 394 43 59
     + 34 91 394 43 50
     secret.y.admon@rsef.es
 
 ---
 
-<center><strong>El Grupo de Estudiantes de la RSEF no es la asociación sectorial de los estudiantes de física de España ni está interesada en desarrollar actividad alguna en este ámbito.</strong></center>
+<center><strong>El Grupo de Estudiantes de la RSEF no es la asociación sectorial de los estudiantes de física de España</strong></center>
