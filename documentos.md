@@ -28,3 +28,8 @@ Los Estatutos constituyen el documento fundamental de la AEEF. En ellos se puede
   <a href="https://drive.google.com/open?id=1dc9vLsgnchKBtTbzk7S2FI0JZhIDI_uf" class="collection-item">Reglamento Interno - Reglamento General de las Secciones Locales</a>
   <a href="https://drive.google.com/open?id=0ByP8eMO0MEyVbTlYaFZRdUNXaHc" class="collection-item">Acta Fundacional</a>
 </div>
+
+## Registro de reuniones
+
+{% include verbali.html verbali=site.data.verbali %}
+
