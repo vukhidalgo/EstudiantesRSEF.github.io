@@ -1,95 +1,111 @@
 ---
 layout: default
 ---
-
+<!-- Index Page -->
 <div class="no-pad-top" id="index-page">
   <div class="container">
+
+    <!-- Icon Section -->
     <div class="section">
-      <!--   Icon Section   -->
       <div class="row" style="margin-top: 5%;">
         <div class="col s12 m6">
-<h1><img id="index-top-logo" src="https://github.com/ae-ef/ae-ef.github.io/blob/master/img/LogoAEEF.png?raw=true" alt="Logo de la AEEF"></h1>
-</div>
+          <h1>
+            <img id="index-top-logo" src="https://github.com/ae-ef/ae-ef.github.io/blob/master/img/LogoAEEF.png?raw=true" alt="Logo de EstudiantesRSEF">
+          </h1>
+        </div>
 
+        <!-- Title & Description -->
+        <!-- EstudiantesRSEF -->
         <div class="col s12 m6">
           <div class="icon-block" style="margin-top: 5%;">
-            <h2 class="center">AEEF</h2>
-            <p class="light">La Asociación Juvenil Española de Estudiantes de Física (AEEF) es una organización sin ánimo de lucro que busca reunir a todos los estudiantes de física de España. AEEF es el Comité Nacional Español de la Asociación Internacional de Estudiantes de Física (IAPS).</p>
-<div class="row center">
-            <a href="https://ae-ef.github.io/about/" id="about-button" class="btn-large waves-effect waves-light">Conócenos</a>
-</div>  
+            <h2 class="center">
+              EstudiantesRSEF
+            </h2>
+            <p class="light">
+              EstudiantesRSEF es el grupo especializado de estudiantes de Ciencias Físicas de la Real Sociedad Española de Física, cuyo objetivo es reunirlos y conseguir una mayor participación del colectivo en las instituciones, tanto en el ámbito nacional como internacional, a través de actividades que complementen los currículos oficiales que fomenten la divulgación científica en la sociedad y promuevan la colaboración con agrupaciones del mismo ámbito de todo el mundo.
+            </p>
+            <div class="row center">
+              <a href="https://estudiantesrsef.github.io/about/" id="about-button" class="btn-large waves-effect waves-light">
+                Conócenos
+              </a>
+            </div>
+          </div>
 
-</div>
-
-<div class="icon-block" style="margin-top: 0%;">
+          <!-- IAPS -->
+          <div class="icon-block" style="margin-top: 0%;">
             <h2 class="center">IAPS</h2>
             <p class="light">La Asociación Internacional de Estudiantes de Física promueve desde 1987 la colaboración entre estudiantes y asociaciones de física a nivel mundial. Sus miembros están representados por comités nacionales y locales. Entre todos, IAPS representa a más 50.000 estudiantes.</p>
-<div class="row center">
-            <a href="https://ae-ef.github.io/iaps/" id="about-button" class="btn-large waves-effect waves-light">Descubre IAPS</a>
-</div>  
-
-</div>
-
+              <div class="row center">
+            <a href="https://estudiantesrsef.github.io/iaps/" id="about-button" class="btn-large waves-effect waves-light">
+              Descubre IAPS
+            </a>
+          </div>
         </div>
       </div>
-      
     </div>
+  </div>
 
-    <div class="section"> <!-- eventi -->
-      <h3>Nuestros eventos</h3>
-      <p>AEEF organiza actividades para estudiantes de física españoles y les ofrece la posibilidad de participar en todos los eventos abiertos a miembros de IAPS. ¿Que cuáles son esos eventos, preguntas? ¡Echa un vistazo!</p>
-      
+  <!-- Eventos -->
+  <div class="section">
+    <h3>
+      Nuestros eventos
+    </h3>
+    <p>
+      EstudiantesRSEF organiza actividades nacionales y les ofrece la posibilidad de participar en todos los eventos abiertos a miembros de IAPS. Te preguntarás, ¿cuáles son esos eventos? ¡Echa un vistazo!
+    </p>
       <div class="row">
         <div class="col s12 m7">
-            <ul class="slider" id="foto-eventi">
-                <ul class="slides">
-                    {% assign loopindex = 0 %}
-                    {% assign array = site.events | reverse %}
-                    {% for event in array %}
-                        {% if event.categories contains "eventonazionale" %}
-                            <li href="{{ event.site }}">
-                                <a href="{{ event.site }}">
-                                <img src="{{ event.cover }}" alt="{{ event.title }}"> </a>                               
-                    		    <div class="caption left-align">
-                    		        <h4>
-                                        {{ event.title }}
-                                    </h4>
-                    		        <p class="light grey-text text-lighten-3">
-                                        {{ event.place }},
-                                        <br>
-                                        {{ event.startingdate | date: '%b %Y' }}  
-                                    </p>
-                    		    </div>
-                            </li>
-                            {% assign loopindex = loopindex | plus: 1%}
-                        {% endif %}
-                        {% if loopindex == 4 %}
-                            {% break %}
-                        {% endif %}
-                    {% endfor %}                  
-                </ul>
+          <ul class="slider" id="foto-eventi">
+            <ul class="slides">
+              {% assign loopindex = 0 %}
+              {% assign array = site.events | reverse %}
+              {% for event in array %}
+                {% if event.categories contains "eventonazionale" %}
+                  <li href="{{ event.site }}">
+                    <a href="{{ event.site }}">
+                      <img src="{{ event.cover }}" alt="{{ event.title }}">
+                    </a>
+                    <div class="caption left-align">
+                    	<h4>
+                        {{ event.title }}
+                      </h4>
+                    	<p class="light grey-text text-lighten-3">
+                        {{ event.place }},
+                        <br>
+                        {{ event.startingdate | date: '%b %Y' }}
+                      </p>
+                    </div>
+                  </li>
+                  {% assign loopindex = loopindex | plus: 1%}
+                {% endif %}
+                {% if loopindex == 4 %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
             </ul>
+          </ul>
         </div>
         <div class="col s12 m5">
-		{% include eventi_homepage.html %}
+		      {% include eventi_homepage.html %}
         </div>
       </div>
     </div>
 
-    <div class="section"> <!-- blog -->
+    <!-- Blog -->
+    <div class="section">
       <div class="row">
         <div class="col s12 m12">
           <h3>Lo último del Blog</h3>
           <div class="blog-index">
             {% assign maxCountBlog = 3 %}
             {% assign countBlog = 0 %}
-            {% for post in site.categories['blog'] %}	
-            {% if post.hidden != true and countBlog < maxCountBlog %}
-                {% assign countBlog = countBlog | plus: 1 %}  
+            {% for post in site.categories['blog'] %}
+              {% if post.hidden != true and countBlog < maxCountBlog %}
+                {% assign countBlog = countBlog | plus: 1 %}
                 {% assign post = site.posts.first %}
                 {% assign content = post.excerpt %}
                 {% include post_detail.html %}
-            {% endif %}
+              {% endif %}
             {% endfor %}
             <!-- <div class="divider"></div> -->
           </div>
@@ -99,7 +115,7 @@ layout: default
       <!--    <div class="blog-index"> -->
       <!--      {% assign maxCountSdr = 3 %} -->
       <!--      {% assign countSdr = 0 %} -->
-      <!--      {% for post in site.categories['sistemidiriferimento'] %} -->	
+      <!--      {% for post in site.categories['sistemidiriferimento'] %} -->
       <!--      {% if post.hidden != true and countSdr < maxCountSdr %} -->
       <!--          {% assign countSdr = countSdr | plus: 1 %} -->
       <!--          {% assign post = site.posts.first %} -->
@@ -108,13 +124,10 @@ layout: default
       <!--      {% endif %} -->
       <!--      {% endfor %} -->
             <!-- <div class="divider"></div> -->
-          </div>
-        </div>
       </div>
     </div>
   </div>
 </div>
-
 
 <!-- Modal Structure -->
 <!-- <div id="modal1" class="modal"> -->
