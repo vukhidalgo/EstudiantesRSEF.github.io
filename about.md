@@ -25,17 +25,17 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación,
 
 AEEF se organiza en Delegaciones Universitarias dirigidas por un Presidente/a. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>.
 
+Sede 
+
+La sede del Gruppo es la de la Real Sociedad Española de Física
+
+    Real Sociedad Española de Física
+    Facultad de Ciencias Físicas. UCM.
+    Plaza de las Ciencias, 1
+    + 34 91 394 43 59
+    + 34 91 394 43 50
+    secret.y.admon@rsef.es
+
 ---
 
-<center><strong>El Grupo de Estudiantes de la Real Sociedad Española de Física no es la asociación sectorial de los estudiantes de física en España.</strong></center>
-
-<!-- ## Sede legale
-
-La sede legale dell'Associazione è presso
-
-    Istituto di Fisica dell'Università di Torino
-    via P. Giuria 1
-    10125 Torino - ITALIA
-    
-    C.F. 97787600010
-    P.IVA. 11237480014 -->
+<center><strong>El Grupo de Estudiantes de la RSEF no es la asociación sectorial de los estudiantes de física en España.</strong></center>
