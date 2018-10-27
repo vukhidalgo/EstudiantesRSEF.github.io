@@ -25,9 +25,9 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación,
 
 AEEF se organiza en Delegaciones Universitarias dirigidas por un Presidente/a. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>.
 
-Sede 
+## Sede 
 
-La sede del Gruppo es la de la Real Sociedad Española de Física
+La sede del Grupo es la de la Real Sociedad Española de Física:
 
     Real Sociedad Española de Física
     Facultad de Ciencias Físicas. UCM.
