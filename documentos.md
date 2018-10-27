@@ -26,8 +26,8 @@ Los Estatutos constituyen el documento fundamental de la Real Sociedad Española
   <a href="http://rsef.es/images/Fisica/2018ESTATUTOSRSEF_JGO4-V-2018.pdf">Estatutos</a>
   <a href="http://rsef.es/images/Fisica/ReglamentoGralGEsDiv.pdf">Reglamento General G.E.</a>
 
-<!--  <a href="https://drive.google.com/open?id=0ByP8eMO0MEyVbTlYaFZRdUNXaHc" class="collection-item">Acta Fundacional</a>
-</div> -->
+<!--  <a href="https://drive.google.com/open?id=0ByP8eMO0MEyVbTlYaFZRdUNXaHc" class="collection-item">Acta Fundacional</a> -->
+</div>
 
 ## Registro de reuniones
 
