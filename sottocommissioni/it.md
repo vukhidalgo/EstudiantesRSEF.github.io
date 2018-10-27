@@ -4,13 +4,13 @@ title: División de IT
 permalink: /sottocommissioni/it
 ---
 
-El sitio web de AEEF y los distintos portales de eventos son responsabilidad de la división de IT. En orden alfabético, está integrada por:
+El sitio web de Estudiantes RSEF y los distintos portales de eventos son responsabilidad de la división de IT, integrada por:
 
 <ul class="collection">
  <li class="collection-item avatar">
     <img src="" alt="" class="circle">
-    <span class="title">Gonzalo Estrán Buyo</span>
-    <p>Universidad Politécnica de Madrid</p>
+    <span class="title">Vuk Hidalgo Menelmacar - Responsable de División</span>
+    <p>Universidad Complutense de Madrid</p>
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
   </li>
   <li class="collection-item avatar">
