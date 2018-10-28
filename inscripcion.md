@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inscríbete!
+title: ¡Inscríbete!
 permalink: /inscripcion/
 redirect_from:
 ---
