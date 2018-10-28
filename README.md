@@ -1,5 +1,4 @@
 
-# ae-ef.github.io
-Website of the association. Currently under development.
+# Grupo de Estudiantes de la Real Sociedad Española de Física
 
-edit
+Website of the association. Currently under development.
