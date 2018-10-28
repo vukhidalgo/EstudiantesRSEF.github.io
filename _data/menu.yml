@@ -19,14 +19,13 @@
    url: /blog
  - text: Web RSEF
    url: http://rsef.es/
-# - text: SdR
-#   url: /sistemidiriferimento/
-# - text: Inscríbete!
-#  url: /inscripcion/
+ - text: SdR
+   url: /sistemidiriferimento/
+ - text: ¡Inscríbete!
+   url: /inscripcion/
 # - text: IAPS
 #  url: /iaps/
 # - text: ICPS2018
 #  url: http://icps.helsinki.fi/
-# - text: Mantenimiento
-#  url: /mantenimiento/
-  
+# - text: Login
+#  url: /login/
