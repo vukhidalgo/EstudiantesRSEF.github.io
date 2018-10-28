@@ -27,7 +27,9 @@ Esta Junta de Gobierno fue formada el {{ item.dataCISFex }}.
       <li class="collection-item avatar">
         <img src="{{ membro.img }}" alt="" class="circle">
         <span class="title">{{ membro.nome }}</span>
-        <p>{{ membro.ruolo }}<br>
+        <p>
+          {{ membro.ruolo }}
+          <br>
           {{ membro.descr }}
         </p>
         <div class="secondary-content"><a href="mailto:{{ membro.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;"><i class="fa fa-lg fa-envelope"></i></a></div>
@@ -44,6 +46,8 @@ Esta Junta de Gobierno fue formada el {{ item.dataCISFex }}.
         <img src="{{ membro.img }}" alt="" class="circle">
         <span class="title">{{ membro.nome }}</span>
         <p>
+          {{ membro.ruolo }}
+          <br>
           {{ membro.descr }}
         </p>
         <div class="secondary-content">
