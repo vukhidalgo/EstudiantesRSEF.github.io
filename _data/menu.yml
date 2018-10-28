@@ -17,10 +17,10 @@
        url: /eventosnacionales/
  - text: Blog
    url: /blog
- - text: RSEF
-   url: http://rsef.es/
  - text: ¡Inscríbete!
    url: /inscripcion/
+ - text: Web RSEF
+   url: http://rsef.es/
 # - text: SdR
 #   url: /sistemidiriferimento/
 # - text: IAPS
