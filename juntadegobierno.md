@@ -6,10 +6,10 @@ permalink: /juntadegobierno/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Logo AEEF." width="100%" src="{{ site.url }}/img/LogoAEEF.png">
+    <img class="materialboxed" data-caption="Logo de Estudiantes RSEF." width="100%" src="{{ site.url }}/img/LogoEstRsef.png">
   </div>
     <div class="col s12 m4 offset-m1">
-  <p>La Junta de Gobierno es el órgano administrativo y ejecutivo de la Asociación, y está actualmente compuesta por 5 miembros.</p>
+  <p>La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes de la RSEF, y está actualmente compuesta por 3 miembros.</p>
     </div>
 </div>
 
@@ -18,9 +18,9 @@ permalink: /juntadegobierno/
 
 ## Junta de Gobierno ({{item.anno}})
 
-Esta Junta de Gobierno fue elegida en las elecciones celebradas el {{ item.dataCISFex }}. 
+Esta Junta de Gobierno fue formada el {{ item.dataCISFex }}.
 {% if item.dataInizio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInizio }}.{% endif %}
-{% if item.dataFine != nil %}I suoi membri sono rimasti in carica fino al {{ item.dataFine }}.{% endif %}
+{% if item.dataFine != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFine }}.{% endif %}
 
 <ul class="collection">
   {% for membro in item.membri %}
@@ -58,12 +58,11 @@ Esta Junta de Gobierno fue elegida en las elecciones celebradas el {{ item.dataC
 {% endif %}
 
 {% endfor %}
-  
+
 ## Mandatos precedentes
 
-### Junta de Gobierno fundacional (marzo de 2017)
- 
-- Alejandro Fernández Muñoz - Presidente
-- Raúl Solís León - Secretario General
-- Víctor Sánchez Lara - Tesorero
+### Junta de Gobierno fundacional del Grupo de Estudiantes de la RSEF (octubre de 2018)
 
+- Alejandro Fernández Muñoz - Presidente
+- Leticia Pérez Sienes - Vicepresidenta
+- Melvin Moreno Maldonado - Secretario
