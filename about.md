@@ -29,7 +29,7 @@ El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, d
 
 ## Sede legal
 
-La sede legal del Grupo de Estudiantes se corresponde con la de la Real Sociedad Española de Física:
+El Grupo de Estudiantes de la Real Sociedad Española de Física depende legalmente de ésta, que tiene su sede en:
 
     Real Sociedad Española de Física
     Facultad de Ciencias Físicas. UCM.
