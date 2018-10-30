@@ -21,7 +21,7 @@ Para conocer más detalles acerca del Grupo de Estudiantes de la RSEF, consulta 
 
 La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especializado, y está actualmente compuesta por 3 miembros.
 
-<a href="/juntadegobierno/">Aquí</a> puedes encontrar más información acerca de la Junta de Gobierno.
+Para saber más sobre la Junta de Gobierno <a href="/juntadegobierno/">pulsa aquí</a>.
 
 <!-- ## Delegaciones Universitarias
 
