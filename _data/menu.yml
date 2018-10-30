@@ -15,9 +15,8 @@
        url: /eventosglobales/
      - text: Eventos Nacionales
        url: /eventosnacionales/
-       subitems:
-         - text: Oportunidades
-           url: /oportunidades/
+# - text: Oportunidades (Future Stuff, too)
+#   url: /oportunidades/
  - text: Blog
    url: /blog
  - text: <strong>¡Inscríbete!</strong>
