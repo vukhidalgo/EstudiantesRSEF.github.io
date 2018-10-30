@@ -19,7 +19,7 @@ Para conocer más detalles acerca del Grupo de Estudiantes de la RSEF, consulta 
 
 ## Junta de Goberino
 
-La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especializado, y está actualmente compuesto por 3 miembros
+La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especializado, y está actualmente compuesta por 3 miembros.
 
 <a href="/juntadegobierno/">Aquí</a> puedes encontrar más información acerca de la Junta de Gobierno.
 
