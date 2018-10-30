@@ -27,9 +27,9 @@ Para saber más sobre la Junta de Gobierno <a href="/juntadegobierno/">pulsa aqu
 
 El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>. -->
 
-## Sede legal
+## Sede
 
-El Grupo de Estudiantes de la Real Sociedad Española de Física depende legalmente de ésta, que tiene su sede en:
+La sede del Grupo de Estudiantes de la Real Sociedad Española de Física es:
 
     Real Sociedad Española de Física
     Facultad de Ciencias Físicas. UCM.
