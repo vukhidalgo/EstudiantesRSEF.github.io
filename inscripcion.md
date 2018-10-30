@@ -19,7 +19,7 @@ Para convertirse en miembro del Grupo Especializado de Estudiantes de la RSEF, e
 </ul>
 <div class="row">
   <div style="text-align:justify;">
-    <strong>¡IMPORTANTE!</strong> Antes de enviar el formulario, no te olvides de marcar en ella tu solicitud de adscripción al <strong>GE de Estudiantes</strong>. ¡No dudes en ponerte en contacto con nosotros si te surge alguna duda durante la inscripción!
+    <strong>¡IMPORTANTE!</strong> Antes de enviar el formulario, no te olvides de marcar en él tu solicitud de adscripción al <strong>G.E. de Estudiantes</strong>. ¡No dudes en ponerte en contacto con nosotros si te surge alguna duda durante la inscripción!
   </div>
 </div>
 
