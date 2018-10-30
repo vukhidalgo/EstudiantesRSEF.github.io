@@ -23,9 +23,9 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especial
 
 <a href="/juntadegobierno/">Aquí</a> puedes encontrar más información acerca de la Junta de Gobierno.
 
-## Delegaciones Universitarias
+<!-- ## Delegaciones Universitarias
 
-El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>.
+El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>. -->
 
 ## Sede legal
 
