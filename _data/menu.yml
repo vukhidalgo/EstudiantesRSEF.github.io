@@ -4,8 +4,8 @@
    subitems:
      - text: Junta de Gobierno
        url: /juntadegobierno/
-     - text: Delegaciones Universitarias
-       url: /delegacionesuniversitarias/
+#     - text: Delegaciones Universitarias
+#       url: /delegacionesuniversitarias/
      - text: Documentos
        url: /documentos/
  - text: Eventos
