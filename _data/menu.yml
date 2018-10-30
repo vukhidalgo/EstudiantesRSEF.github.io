@@ -4,7 +4,7 @@
    subitems:
      - text: Junta de Gobierno
        url: /juntadegobierno/
-#     - text: Delegaciones Universitarias
+#     - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
 #       url: /delegacionesuniversitarias/
      - text: Documentos
        url: /documentos/
