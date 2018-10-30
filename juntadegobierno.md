@@ -18,7 +18,7 @@ permalink: /juntadegobierno/
 
 ## Junta de Gobierno ({{item.anno}})
 
-Esta Junta de Gobierno fue formada el {{ item.dataCISFex }}.
+Esta Junta de Gobierno fue elegida el {{ item.dataCISFex }}.
 {% if item.dataInizio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInizio }}.{% endif %}
 {% if item.dataFine != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFine }}.{% endif %}
 
