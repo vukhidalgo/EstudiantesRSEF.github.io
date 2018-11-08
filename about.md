@@ -11,11 +11,9 @@ El <a href="https://estudiantesrsef.github.io">Grupo de Estudiantes de la Real S
 
 Fundado en octubre de 2018, el Grupo de Estudiantes de la RSEF es el resultado de la integración de la Asociación Juvenil Española de Estudiantes de Física (AEEF) en la <a href="https://rsef.es/">Real Sociedad Española de Física</a>, con cuyo apoyo no habría sido posible mantener vivo a un colectivo de apasionados estudiantes cuyo principal objetivo es la de estrechar el compañerismo no sólo dentro del aula, sino en todo el país. Además, formamos parte del Comité Nacional Español (NCSpain) de la IAPS, algo indispensable para compartir nuestras experiencias en competiciones y eventos con estudiantes de física de todo el mundo.
 
-¿Queréis saber qué tenemos en mente para el curso 2018/2019? ¡No os perdáis la única entrevista que se hizo durante la XXXII International Conference of Physics Students (la primera de AEEF como NCSpain) al Presidente de Estudiantes RSEF!
+<!-- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center> -->
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
-
-Para conocer más detalles acerca del Grupo de Estudiantes de la RSEF, consulta nuestros estatutos y demás <a href="/documentos/">documentos oficiales</a>.
+Para conocer más detalles acerca del Grupo de Estudiantes de la RSEF, consulta nuestros <a href="/documentos/">documentos oficiales</a>.
 
 ## Junta de Goberino
 
