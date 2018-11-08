@@ -5,7 +5,7 @@ permalink: /inscripcion/
 redirect_from:
 ---
 
-Para convertirse en miembro del Grupo Especializado de Estudiantes de la RSEF, es necesario realizar inscribirse en ésta a través del formulario incluido en su página web, accesible desde el enlace situado al final de esta página. Las condiciones y cuotas anuales que se aplican varían dependiendo de los siguientes factores:
+Para convertirse en miembro del Grupo de Estudiantes de la RSEF es necesario realizar inscribirse en esta última a través del formulario incluido en su web, accesible desde el enlace situado al final de esta página. Las condiciones y cuotas anuales que se aplican varían dependiendo de los siguientes factores:
 <ul class="collection">
   <li class="collection-item">
     <strong>Miembro Estudiante Júnior</strong>: si eres estudiante universitario/a menor de 25 años, acreditando estudios, se te aplicará una cuota de <strong>10 €/año</strong>.
