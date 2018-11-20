@@ -28,10 +28,10 @@ permalink: /eventosnacionales/
     	<p>{{ event.CL }}</p>
       </div>
     	<div class="card-action">
-            {% if event.facebook %} <a href="{{ event.facebook }}"><i class="fab fa-facebook-square"></i></a> {% endif %}
+            {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fab fa-facebook-square"></i></a>{% endif %}
             {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
             {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
-            {% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-camera-retro"></i></a>{% endif %}
+            {% if event.gallery %}<a href="{{ event.gallery }}"><i class="fas fa-camera-retro"></i></a>{% endif %}
             {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
     	</div>
     </div>
