@@ -4,7 +4,7 @@ title: Eventos Globales
 permalink: /eventosglobales/
 ---
 
-Bienvenid@ a nuestra página de eventos globales! Por favor, ten en cuenta que todo aquel cuya imagen de portada incluya el logo de IAPS, requiere que seas miembro de Estudiantes RSEF. Entérate de cómo serlo <a href="/inscripcion/" class="collection-item">aquí</a>.
+¡Bienvenid@ a nuestra página de eventos globales! Por favor, ten en cuenta que todo aquel cuya imagen de portada incluya el logo de IAPS, requiere que seas miembro de Estudiantes RSEF. Entérate de cómo serlo <a href="/inscripcion/" class="collection-item">aquí</a>.
 
 ## Próximamente
 
