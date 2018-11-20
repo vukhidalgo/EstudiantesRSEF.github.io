@@ -7,4 +7,4 @@ redirect_from:
 
 ## Oportunidades
 
-En construcción.
+## <center> Próximamente... </center>
