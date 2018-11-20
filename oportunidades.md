@@ -5,6 +5,4 @@ permalink: /oportunidades/
 redirect_from:
 ---
 
-## Oportunidades
-
 ## <center> Próximamente... </center>
