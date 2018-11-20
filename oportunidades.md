@@ -12,7 +12,7 @@ redirect_from:
 ## <center> Próximamente... </center>
 
 
-<a href="https://www.facebook.com/"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+<a href="https://www.facebook.com/"><i class="fab fa-facebook-square"></i></a>
 
 
 
