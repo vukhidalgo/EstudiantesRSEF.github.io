@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog 
-title:  "Concurso de Navidad de Estudiantes RSEF 2018"
+title:  "Concurso de Navidad 2018"
 date:   2018-12-22 20:00
 author: Equipo Estudiantes RSEF
 redirect_from:
