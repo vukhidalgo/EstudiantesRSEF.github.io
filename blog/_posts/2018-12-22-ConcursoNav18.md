@@ -11,9 +11,9 @@ Por fin han llegado las vacaciones de Navidad y, para celebrarlo, ¡El Grupo de 
 
 ¿Quieres ganar una camiseta, un polo, una taza o un USB de la RSEF, entre otros? Puedes participar en redes sociales (Facebook e Instagram - @EstudiantesRSEF) hasta las 23:59 del Día de Reyes de 2019 siguiendo las instrucciones indicadas en la imagen inferior*. Los ganadores serán anunciados a finales de enero / principios de febrero. 
 
-** Sólo se garantiza el envío gratuito de los premios a territorio penínsular español, Baleares, Canarias, Ceuta y Melilla.
+<strong>Sólo se garantiza el envío gratuito de los premios a territorio penínsular español, Baleares, Canarias, Ceuta y Melilla.</strong>
 
-**El número de packs correspondiente a cada red social dependerá de la participación registrada en cada plataforma (por ejemplo: una gran participación en Facebook y una participación escasa en Instagram supondrá que tres de los cuatro packs se sorteen entre los participantes de la primera, quedando uno para Instagram).
+<strong>El número de packs correspondiente a cada red social dependerá de la participación registrada en cada plataforma (por ejemplo: una gran participación en Facebook y una participación escasa en Instagram supondrá que tres de los cuatro packs se sorteen entre los participantes de la primera, quedando uno para Instagram).</strong>
 
 * Todas aquellas personas que participen a través de Facebook y que, además de seguir dichas instrucciones, compartan la publicación, conseguirán una participación doble en el sorteo de los packs correspondientes a esta red social. 
 
