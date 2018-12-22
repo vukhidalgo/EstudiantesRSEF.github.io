@@ -15,7 +15,7 @@ Por fin han llegado las vacaciones de Navidad y, para celebrarlo, ¡El Grupo de 
 
 <strong>Sólo se garantiza el envío gratuito de los premios a territorio penínsular español, Baleares, Canarias, Ceuta y Melilla.</strong>
 
-<strong>El número de packs correspondiente a cada red social dependerá de la participación registrada en cada plataforma. Por ejemplo: una gran participación en Facebook y una participación escasa en Instagram supondrá que tres de los cuatro packs se sorteen entre los participantes de la primera, quedando uno para Instagram. Por lo tanto, participar en ambas redes sociales aumenta las posibilidades de ganar el sorteo. Un mismo concursante que participe en ambas plataformas no podrá optar a más de un premio.</strong>
+<strong>El número de packs correspondiente a cada red social dependerá de la participación registrada en cada plataforma. Por ejemplo: una gran participación en Facebook y una participación escasa en Instagram supondrá que tres de los cuatro packs se sorteen entre los concursantes de la primera, quedando uno para Instagram. Por lo tanto, participante en ambas redes sociales aumenta las posibilidades de ganar el sorteo. Si una persona participase en ambas plataformas y resultase agraciado/a en ambas, deberá escoger un único obsequio de entre los dos que le corresponderían (sólo un premio por persona).</strong>
 
 
 
