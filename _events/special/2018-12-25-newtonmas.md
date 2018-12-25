@@ -4,8 +4,8 @@ categories: specialevent
 title: ""
 startingdate: 2018-12-25 # Birth date in Julian Calendar
 endingdate: 2018-12-25
-CL: 25
-place: 25
+CL: 25th
+place: 25th
 locandina: /img/photos/2018-newtonmas/newtonmas.jpg
 cover: /img/photos/2018-newtonmas/newtonmas.jpg
 articolo: "-"
