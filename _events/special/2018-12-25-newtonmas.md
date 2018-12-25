@@ -4,6 +4,8 @@ categories: specialevent
 title: ""
 startingdate: 2018-12-25 # Birth date in Julian Calendar
 endingdate: 2019-01-04 # Birth date in Gregorian Calendar
+CL: Woolsthorpe Manor, UK
+place: Woolsthorpe Manor, UK
 locandina: /img/photos/2018-newtonmas/newtonmas.jpg
 cover: /img/photos/2018-newtonmas/newtonmas.jpg
 gallery:
