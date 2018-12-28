@@ -3,15 +3,15 @@
 # description: "nome evento completo"
 #url: "/" # the base hostname & protocol for your site
 destination: ../site/
-locale: "it"
+locale: "es"
 
 # Site settings
-title: "AISF - Associazione Italiana Studenti di Fisica"
-description: "L'Associazione Italiana Studenti di Fisica (AISF) è un'organizzazione con finalità educative e senza fine di lucro che ambisce a riunire tutti gli studenti di fisica d'Italia."
+title: "Estudiantes RSEF"
+description: "Grupo de Estudiantes de la Real Sociedad Española de Física"
 banner: img/banner.png
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
-locale: "it"
+locale: "es"
 
 # Build settings
 markdown: kramdown
@@ -19,7 +19,7 @@ future: true
 permalink: /blog/:year/:month/:day/:title/
 
 #facebook
-fb_admins: 
+fb_admins:
 fb_appid:
 
 #Collections
