@@ -10,7 +10,7 @@ redirect_from:
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
-La AEEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
+Estudiantes RSEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
 
 <ul class="collection">
 	{% for item in site.data.LC %}

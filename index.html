@@ -52,7 +52,7 @@ layout: default
               {% assign loopindex = 0 %}
               {% assign array = site.events | reverse %}
               {% for event in array %}
-                {% if event.categories contains "eventonazionale" or "eventolocale" %}
+                {% if event.categories contains "eventonazionale" or "eventolocale" or "specialevent" %}
                   <li href="{{ event.site }}">
                     <a href="{{ event.site }}">
                       <img src="{{ event.cover }}" alt="{{ event.title }}">
@@ -70,6 +70,7 @@ layout: default
                   </li>
                   {% assign loopindex = loopindex | plus: 1%}
                 {% endif %}
+<!-- NUMBER OF SLIDES ON INDEX -->
                 {% if loopindex == 2 %}
                   {% break %}
                 {% endif %}
