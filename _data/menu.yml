@@ -15,20 +15,20 @@
        url: /eventosglobales/
      - text: Eventos Nacionales
        url: /eventosnacionales/
- - text: Oportunidades
-   url: /oportunidades/
+ #- text: Oportunidades
+ #  url: /oportunidades/
  - text: Blog
    url: /blog
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
- - text: Web RSEF
-   url: http://rsef.es/
+ - text: ICPS 2019
+   url: /eventonazionale/2019/08/10/ICPS2019/
+# - text: Web RSEF
+#   url: http://rsef.es/
 # - text: SdR
 #   url: /sistemidiriferimento/
 # - text: IAPS
 #   url: /iaps/
-# - text: ICPS2018
-#  url: http://icps.helsinki.fi/
 # FUTURE STUFF (DON'T TOUCH)
 # - text: Login
 #  url: /login/

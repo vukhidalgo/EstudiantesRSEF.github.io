@@ -4,7 +4,7 @@ title: Eventos Globales
 permalink: /eventosglobales/
 ---
 
-¡Bienvenid@ a nuestra página de eventos globales! Por favor, ten en cuenta que todo aquel evento cuya imagen de portada incluya el logo de IAPS requiere que seas miembro de Estudiantes RSEF para participar. Entérate de cómo serlo <a href="/inscripcion/" class="collection-item">aquí</a>.
+¡Bienvenid@ a nuestra página de eventos globales! Aquí te presentamos algunos de los mejores eventos que existen para estudiantes de física a nivel internacional.
 
 ## Próximamente
 
