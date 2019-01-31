@@ -1,10 +1,10 @@
 # Site settings
-title: "AEEF - Asocación (Juvenil) Española de Estudiantes de Física"
-description: "Breve descripción de la AEEF."
+title: "Estudiantes RSEF"
+description: "Grupo de Estudiantes de la Real Sociedad Española de Física"
 banner: img/banner.png
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 destination: ../site/
-locale: "it"
+locale: "es"
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ future: true
 permalink: /blog/:year/:month/:day/:title/
 
 #facebook
-fb_admins: 
+fb_admins:
 fb_appid:
 
 #Collections
