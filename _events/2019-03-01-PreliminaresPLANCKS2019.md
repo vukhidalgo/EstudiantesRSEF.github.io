@@ -32,12 +32,12 @@ Así que, si queréis participar**, formad un equipo de 3 a 4 personas y rellena
 Si os gustaría entrenaros con las pruebas de años anteriores para prepararos y llegar a la final, <a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">seguid este link</a>.
 </p>
 
-No os perdáis esta oportunidad. ¡¡Animaos a participar!!
+<center>No os perdáis esta oportunidad. ¡¡Animaos a participar!!</center>
 
 **Todos los participantes han de comprometerse a cumplir las reglas de la competición:
     
-   Las [reglas generales de Plancks](https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf).
-   Y las [reglas añadidas en la edición 2019](http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf)
+   Las [reglas generales de Plancks](https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf)
+   y las [reglas añadidas en la edición 2019](http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf).
     
 <p style="text-align: justify;">
 Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
