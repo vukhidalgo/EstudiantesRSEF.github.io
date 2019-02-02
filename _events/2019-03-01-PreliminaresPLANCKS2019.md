@@ -1,37 +1,25 @@
 ---
 layout: event
 categories: eventonazionale
-title:  "ICPS 2019"
-startingdate: 2019-08-10
-endingdate: 2019-08-17
-place: Colonia
-locandina: /img/photos/2019-ICPS/ICPS2019.jpg
-cover: /img/photos/2019-ICPS/ICPS2019.jpg
+title:  "PLANCKS 2019 - Preliminares"
+startingdate: 2019-03-01
+endingdate: 2019-03-01
+place: España, Portugal
+locandina: /img/photos/2019-PLANCKS/Plancks2019.jpg
+cover: /img/photos/2019-PLANCKS/Plancks2019.jpg
 gallery:
-site: https://icps.cologne/
+site: http://www.plancks-2019.sdu.dk
 ---
 
+El próximo <strong>viernes 1 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2019.
 
+PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster.
 
-PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física por excelencia para estudiantes de grado y máster. Un evento de 3 a 4 días en que estudiantes de física de todo el mundo se unen en equipos para resolver problemas, asistir a charlas, visitar laboratorios, convivir y divertirse en diversas actividades, ¡sin olvidarnos de que compiten por un premio monetario!
+La prueba se enmarca en un evento de tres días de duración que cuenta con un simposio de apertura, la competición en sí misma, y varias excursiones y actividades sociales, en las que se anima a los participantes a descubrir el entorno investigador y la cultura de la ciudad y el país de acogida, en este caso Odense, en Dinamarca. Una oportunidad fantástica para disfrutar de la física, conocer nuevos colegas y descubrir mundo. Puedes encontrar más información en: http://www.plancks-2019.sdu.dk/
 
-En 2018, PLANCKS se celebrará en Zagreb, Croacia, durante el fin de semana del 11 al 13 de mayo y organizado por su asociación local de estudiantes de física así como por la Asociación Internacional de Estudiantes de Física (IAPS). Puedes encontrar más información acerca de esta edición visitando la [web oficial](http://plancks.org/) y la correspondiente de [iaps](http://www.iaps.info/plancks/plancks-2018-in-zagreb).
+Este año será el segundo en que España organice unas preliminares nacionales para esta gran competición, que consistirán en un conjunto de <strong>5/6 problemas</strong> que habrá que resolver en <strong>2 horas</strong> durante la tarde del viernes 1 de marzo (los horarios podrán variar entre facultades: de 15:00h a 17:00h (turno 1) y de 16:00h a 18:00h (turno 2)). Esta primera fase nacional nos permitirá seleccionar a los 2 mejores equipos para que nos representen en la competición internacional, o a los 3 mejores en el caso de que concurran a las preliminares más de 14 equipos (en total a nivel nacional).
 
-Este año será el primero en que España organice los preliminares nacionales de esta gran competición, así que hemos querido hacerlo a lo grande: traspaseremos fronteras y nos coordinaremos con 3 continentes diferentes: en América, con México; en Europa, con Portugal; y en Asia, con Nepal. Esto significa que la prueba a la que te enfrentarás se resolverá al mismo tiempo en otras tres esquinas de este mundo. ¿Qué decir? Nuestro espíritu internacional nos delata...
-
-La preliminar española consistirá, al igual que la portuguesa, en un conjunto de 5/6 problemas que habrá que resolver en 2 horas el día 23 de febrero (los horarios podrán variar entre facultades de 15:00 a 17:00 y de 16:00 a 18:00). Esta primera fase nacional nos permitirá seleccionar a los 3 mejores equipos para que nos representen en la competición internacional.
-
-Cabe destacar que los equipos que se clasifiquen para la final que tendrá lugar en Zagreb deberán hacerse miembros de AEEF (5€/persona), pues de otro modo no podrían participar en una actividad de IAPS, y abonar un total de 240€ por equipo a la organización de la competición en concepto de cuota de participación, que incluye alojamiento y manutención completa durante el concurso. Asimismo, costearán su traslado a Zagreb. El año que viene intentaremos llegar a acuerdos con diversas organizaciones que nos permitan financiaros parte del viaje, que este año tendrá la siguiente [agenda](https://drive.google.com/file/d/1GwopBUeCOWjthDFtelpAnGXQxDeNcOXg/view)*. 
-
-Pero, ¡esperad! No os rindáis todavía, que la cuota de participación no os desanime, que no habéis llegado a la mejor parte: los premios. Si conseguís estar entre los tres primeros, ganaréis uno de los siguientes premios:
-
-1st place  - ħ * 10^37 EUR (1054.57 EUR)
-
-2nd place  - ħ/2 * 10^37 EUR (527.29 EUR)
-
-3rd place  - ħ/4 * 10^37 EUR (263.64 EUR)
-
-¡Con lo que habréis cubierto en cualquier caso la cuota de participación!
+Cabe destacar que los equipos que se clasifiquen para la final que tendrá lugar en Odense deberán hacerse miembros del Grupo de Estudiantes de la RSEF, pues de otro modo no podrían participar en una actividad de IAPS, y abonar 60€ por persona (precio esperado) a la Organización de PLANCKS 2019 en concepto de cuota de participación, que incluye alojamiento y manutención durante el concurso. Asimismo, costearán su traslado a Odense.
 
 Así que, si queréis participar**, formad un equipo de 3 a 4 personas y mandadnos un correo con vuestros nombres, la facultad - universidad en que estudiáis y el asunto 'INSCRIPCIÓN PLANCKS 2018' a aeef.informacion@gmail.com. Nosotros en pondremos en contacto contigo para informarte sobre el lugar y la hora del examen. Por cierto, ¿habíamos mencionado ya que el año pasado fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
 
