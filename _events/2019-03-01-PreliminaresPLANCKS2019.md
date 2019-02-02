@@ -39,4 +39,6 @@ No os perdáis esta oportunidad. ¡¡Animaos a participar!!
    Las [reglas generales de Plancks](https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf).
    Y las [reglas añadidas en la edición 2019](http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf)
     
-  Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
+<p style="text-align: justify;">
+Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
+</p>
