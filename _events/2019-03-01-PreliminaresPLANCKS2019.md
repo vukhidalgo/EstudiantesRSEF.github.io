@@ -28,21 +28,15 @@ Cabe destacar que los equipos que se clasifiquen para la final deberán hacerse 
 <p style="text-align: justify;">
 Así que, si queréis participar**, formad un equipo de 3 a 4 personas y rellenad el siguiente <a href="">formulario de inscripción</a>. Nosotros en pondremos en contacto para informaros sobre el lugar y el turno de examen que os ha tocado. Por cierto, ¿habíamos mencionado ya que hace dos años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
 </p>
-
-Si queréis echar un vistazo a las pruebas de años anteriores para prepararos y llegar a la final, no tenéis más que [pinchar aquí](http://international.plancks.at/what-is-plancks/example-problem-sets/). 
+<p style="text-align: justify;">
+Si os gustaría entrenaros con las pruebas de años anteriores para prepararos y llegar a la final, [pinchar aquí](https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing). 
+</p>
 
 No os perdáis esta oportunidad. ¡¡Animaos a participar!!
 
-**Todos los participantes han de comprometerse a cumplir:
-
-   El [código de conducta de IAPS](http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf).
+**Todos los participantes han de comprometerse a cumplir las reglas de la competición:
     
-   Las [reglas generales de Plancks](https://drive.google.com/file/d/1OoOcA7REGYrei2nXdXFBfk3riNd5al6I/view).
+   Las [reglas generales de Plancks](https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf).
+   Y las [reglas añadidas en la edición 2019](http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf)
     
-  Y habrán de tener en cuenta que se aplican los siguientes términos y condiciones:
-  
-   [IAPS Terms and Conditions](http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf).
-    
-   [Plancks Terms and conditions with cancellation policy](https://drive.google.com/file/d/19FYT4Z3SBbPhIXUG0iMgwHuLSGtFocul/view).
-    
-  Y que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
+  Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
