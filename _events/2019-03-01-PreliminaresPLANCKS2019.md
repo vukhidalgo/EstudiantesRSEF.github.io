@@ -1,14 +1,16 @@
 ---
 layout: event
 categories: eventonazionale
-title: "PLANCKS 2018 - Preliminares"
-startingdate: 2018-02-23
-endingdate: 2018-02-23
-place: España, Portugal, México, Nepal
-cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
-gallery: 2018-PP
-site: http://plancks.org/
+title:  "ICPS 2019"
+startingdate: 2019-08-10
+endingdate: 2019-08-17
+place: Colonia
+locandina: /img/photos/2019-ICPS/ICPS2019.jpg
+cover: /img/photos/2019-ICPS/ICPS2019.jpg
+gallery:
+site: https://icps.cologne/
 ---
+
 
 
 PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física por excelencia para estudiantes de grado y máster. Un evento de 3 a 4 días en que estudiantes de física de todo el mundo se unen en equipos para resolver problemas, asistir a charlas, visitar laboratorios, convivir y divertirse en diversas actividades, ¡sin olvidarnos de que compiten por un premio monetario!
