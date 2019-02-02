@@ -34,10 +34,11 @@ Si os gustaría entrenaros con las pruebas de años anteriores para prepararos y
 
 <center>No os perdáis esta oportunidad. ¡¡Animaos a participar!!</center>
 
-**Todos los participantes han de comprometerse a cumplir las reglas de la competición:
-    
-   Las [reglas generales de Plancks](https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf)
-   y las [reglas añadidas en la edición 2019](http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf).
+**Todos los participantes han de comprometerse a cumplir:
+
+<p style="text-align: justify;">
+Las <a href="https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf">reglas generales de Plancks</a> y las <a href="http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf">reglas añadidas en la edición 2019</a>, además del <a href="http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf">IAPS Code of Conduct</a>, las <a href="http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf">IAPS Terms and Conditions</a> y las <a href="https://drive.google.com/file/d/1fHiIC3q2DXmbX65MKAs3q4bVKwz_t43B/view?usp=sharing">PLANCKS 2019 Terms and Conditions with cancellation policy</a>.
+</p>
     
 <p style="text-align: justify;">
 Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
