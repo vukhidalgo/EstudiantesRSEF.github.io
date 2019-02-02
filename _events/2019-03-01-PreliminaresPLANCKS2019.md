@@ -27,6 +27,7 @@ Cabe destacar que los equipos que se clasifiquen para la final deberán hacerse 
 </p>
 <p style="text-align: justify;">
 Así que, si queréis participar**, formad un equipo de 3 a 4 personas y rellenad el siguiente <a href="">formulario de inscripción</a>. Nosotros en pondremos en contacto para informaros sobre el lugar y el turno de examen que os ha tocado. Por cierto, ¿habíamos mencionado ya que hace dos años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
+</p>
 
 Si queréis echar un vistazo a las pruebas de años anteriores para prepararos y llegar a la final, no tenéis más que [pinchar aquí](http://international.plancks.at/what-is-plancks/example-problem-sets/). 
 
