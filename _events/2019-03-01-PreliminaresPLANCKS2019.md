@@ -3,7 +3,7 @@ layout: event
 categories: eventonazionale
 title:  "PLANCKS 2019 - Preliminares"
 startingdate: 2019-03-01
-endingdate: 2019-03-01
+endingdate: 
 place: España, Portugal
 locandina: /img/photos/2019-PLANCKS/Plancks2019.jpg
 cover: /img/photos/2019-PLANCKS/Plancks2019.jpg
