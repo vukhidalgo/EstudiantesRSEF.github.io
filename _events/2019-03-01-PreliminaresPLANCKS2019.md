@@ -26,7 +26,7 @@ Este año será el segundo en que España organice unas preliminares nacionales 
 Cabe destacar que los equipos que se clasifiquen para la final deberán hacerse miembros del Grupo de Estudiantes de la RSEF, pues de otro modo no podrían participar en una actividad de IAPS, y abonar 60€ por persona (precio esperado) a la Organización de PLANCKS 2019 en concepto de cuota de participación, que incluye alojamiento y manutención durante el concurso. Asimismo, costearán su traslado a Odense.
 </p>
 <p style="text-align: justify;">
-Así que, si queréis participar**, formad un equipo de 3 a 4 personas y rellenad el siguiente <a href="">formulario de inscripción</a>. Nosotros en pondremos en contacto para informaros sobre el lugar y el turno de examen que os ha tocado. Por cierto, ¿habíamos mencionado ya que hace dos años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
+Así que, si queréis participar**, formad un equipo de 3 a 4 personas y rellenad el siguiente <a href="<!--https://goo.gl/forms/Utcq9gl5M044Da9t1-->">formulario de inscripción</a>. Nosotros en pondremos en contacto para informaros sobre el lugar y el turno de examen que os ha tocado. Por cierto, ¿habíamos mencionado ya que hace dos años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio se vuelva a quedar en casa.
 </p>
 <p style="text-align: justify;">
 Si os gustaría entrenaros con las pruebas de años anteriores para prepararos y llegar a la final, <a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">seguid este link</a>.
@@ -37,7 +37,7 @@ Si os gustaría entrenaros con las pruebas de años anteriores para prepararos y
 <p style="text-align: justify;">
 **Todos los participantes han de comprometerse a cumplir: las <a href="https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf">reglas generales de Plancks</a> y las <a href="http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf">reglas añadidas en la edición 2019</a>, además del <a href="http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf">IAPS Code of Conduct</a>, las <a href="http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf">IAPS Terms and Conditions</a> y las <a href="https://drive.google.com/file/d/1fHiIC3q2DXmbX65MKAs3q4bVKwz_t43B/view?usp=sharing">PLANCKS 2019 Terms and Conditions with cancellation policy</a>.
 </p>
-    
+
 <p style="text-align: justify;">
 Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
 </p>
