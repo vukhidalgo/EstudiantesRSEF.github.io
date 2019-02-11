@@ -69,8 +69,7 @@ permalink: /eventosglobales/
     	</div>
     </div>
   </div>
-</div>
-<!-- {% if rowfinder == 1 %} 
+{% if rowfinder == 1 %} 
 </div>
 {% endif %}
 {% assign loopindex = loopindex | plus: 1 %}
