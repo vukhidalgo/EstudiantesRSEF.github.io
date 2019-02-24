@@ -19,4 +19,6 @@ redirect_from:
 
 <center><big><a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a></big></center>
 
-<center>¡Añádenos a tus contactos <span style="color:red;font-weight:bold"><a href="https://www.google.com/contacts">aquí</a></span> y no dudes en contactar con nosotros!</center>
+<p style="text-align: centery;">
+  ¡Añádenos a tus contactos <span style="color:red;font-weight:bold"><a href="https://www.google.com/contacts">aquí</a></span>!
+</p>
