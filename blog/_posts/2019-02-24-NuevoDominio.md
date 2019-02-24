@@ -21,6 +21,6 @@ redirect_from:
 <p>
   &nbsp;
 </p>
-<p style="text-align: centery;">
+<p style="text-align: center;">
   ¡Añádenos a tus contactos <span style="color:red;font-weight:bold"><a href="https://www.google.com/contacts">aquí</a></span>!
 </p>
