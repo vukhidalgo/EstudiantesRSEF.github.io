@@ -8,7 +8,7 @@ El sitio web de Estudiantes RSEF y los distintos portales de eventos son respons
 
 <ul class="collection">
  <li class="collection-item avatar">
-    <img src="/img/presidenti/vuk.jpg" alt="" class="circle">
+    <img src="/img/esecutivo/vuk.jpg" alt="" class="circle">
     <span class="title">Vuk Hidalgo Dojcinovic - Responsable de División</span>
     <p>Universidad Complutense de Madrid</p>
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
@@ -21,4 +21,4 @@ El sitio web de Estudiantes RSEF y los distintos portales de eventos son respons
   </li>
 </ul>
 
-Si encuentras algún problema técnico, por favor contacta con nosotros <a href="mailto:estudiantesrsef@gmail.com">aquí</a>.
+Si encuentras algún problema técnico, por favor contacta con nosotros <a href="mailto:estudiantes@rsef.es">aquí</a>.

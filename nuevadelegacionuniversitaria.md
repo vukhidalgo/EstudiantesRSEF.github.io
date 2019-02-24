@@ -8,7 +8,7 @@ _Delegaciones Universitarias de la AEEF: agrupaciones que “reúnen a los respe
 
 [**Artículo 6.c) de los estatutos de la AEEF**]
 
- 
+
 ## ¿Por qué fundar una Delegación Universitaria de la AEEF?
 
 Con carácter general, nuestro objetivo es contar con representación en todas las universidades del país que impartan física, garantizando así la mayor presencia posible de la Asociación en el territorio nacional y la continuidad de la misma, independientemente del compromiso individual.
@@ -17,7 +17,7 @@ Además, las Delegaciones Universitarias tienen derecho de voto en lo que las co
 
 Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivo Reglamento General (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documentos/)).
 
- 
+
 ## Crear una Delegación Universitaria
 
 El Artículo 3 del Reglamento General de las DUs regula cómo crear una Delegación Universitaria:
@@ -28,7 +28,7 @@ Cada universidad tiene derecho a crear su propia Delegación Universitaria. Adem
 
 Si más de un grupo de estudiantes desease constituir la Delegación Universitaria de su universidad, se espera que estos grupos resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
 
-Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad. 
+Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad.
 El formulario de inscripción se puede encontrar aquí.
 
-Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](https://drive.google.com/open?id=0B5Xs4TPtLJkWZWdpN2QyNzFpU2M)). Este debe ser completado y enviado por email para su evaluación a nuestra <a href="mailto:secretariageneral.aeef@gmail.com">Junta de Gobierno</a>.
+Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](https://drive.google.com/open?id=0B5Xs4TPtLJkWZWdpN2QyNzFpU2M)). Este debe ser completado y enviado por email para su evaluación a nuestra <a href="mailto:estudiantes@rsef.es">Junta de Gobierno</a>.
