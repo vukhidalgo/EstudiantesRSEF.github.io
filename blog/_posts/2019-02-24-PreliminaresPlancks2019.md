@@ -2,7 +2,7 @@
 layout: post
 categories: blog
 title:  "Extendido el plazo de inscripciones para las Preliminares de Plancks 2019"
-date:   2019-01-30 15:00
+date:   2019-02-24 23:50
 author: Equipo Estudiantes RSEF
 redirect_from:
 ---
