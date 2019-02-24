@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Gracias a la <span style="color:blue;font-weight:bold">Real Sociedad Española de Física</span>, se nos ha concedido una nueva dirección web mucho más fácil de recordar:
+  Gracias a la <span style="color:blue;font-weight:bold">Real Sociedad Española de Física</span>, ¡se nos ha concedido una nueva dirección web mucho más fácil de recordar!
 </p>
 
 <center><big><bold><a href="https://estudiantes.rsef.es">estudiantes.rsef.es</a></bold></big></center>
 
-<p style="text-align: justify;">
-  Además, tenemos un nuevo e-mail al que podéis contactar directamente con nosotros
+<p style="text-align: center;">
+  Además, tenemos un nuevo e-mail al que podéis contactar directamente con nosotros:
 </p>
 
 <center><big><bold><a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a></bold></big></center>
