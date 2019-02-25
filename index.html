@@ -90,7 +90,7 @@ layout: default
         <div class="col s12 m12">
           <h3>Lo último del Blog</h3>
           <div class="blog-index">
-            {% assign maxCountBlog = 3 %}
+            {% assign maxCountBlog = 10 %}
             {% assign countBlog = 0 %}
             {% for post in site.categories['blog'] %}
               {% if post.hidden != true and countBlog < maxCountBlog %}
