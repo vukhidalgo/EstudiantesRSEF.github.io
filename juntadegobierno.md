@@ -32,7 +32,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataCISFex }}.
           <br>
           {{ membro.descr }}
         </p>
-        <div class="secondary-content"><a href="mailto:{{ membro.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;"><i class="fa fa-lg fa-envelope"></i></a></div>
+        <div class="secondary-content"><a href="mailto:{{ membro.mail }}@rsef.es"><i class="fa fa-lg fa-envelope"></i></a></div>
       </li>
   {% endfor %}
 </ul>
@@ -52,7 +52,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataCISFex }}.
         </p>
         <div class="secondary-content">
             {% if membro.mail != nil %}
-            <a href="mailto:{{ membro.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;"><i class="fa fa-lg fa-envelope"></i>
+            <a href="mailto:{{ membro.mail }}@rsef.es"><i class="fa fa-lg fa-envelope"></i>
             </a>
             {% endif %}
         </div>

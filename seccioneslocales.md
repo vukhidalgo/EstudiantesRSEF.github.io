@@ -39,7 +39,7 @@ La AEEF cuenta por el momento con {{ n }} Secciones Locales en:
 						<i class="fa fa-lg fa-file-text"></i>
 					</a>
 				{% endif %}
-	      		<a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Indirizzo email">
+	      		<a href="mailto:{{ item.mail }}@rsef.es" title="Indirizzo email">
 					<i class="fa fa-lg fa-envelope"></i>
 				</a>
 			</div>
