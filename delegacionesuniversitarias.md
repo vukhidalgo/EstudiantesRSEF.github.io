@@ -40,7 +40,7 @@ Estudiantes RSEF cuenta por el momento con {{ n }} Delegaciones Universitarias e
 					</a>
 				{% endif %}
 			        {% if item.mail != nil %}
-	      		        <a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Email DU">
+	      		        <a href="mailto:{{ item.mail }}@rsef.es" title="Email DU">
 					      <i class="fa fa-lg fa-envelope"></i>
 				        </a>
 			        {% endif %}

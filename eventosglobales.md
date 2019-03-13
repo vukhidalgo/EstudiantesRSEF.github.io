@@ -12,8 +12,8 @@ permalink: /eventosglobales/
 {% for event in site.events reversed %}
 {% if event.date >= site.time and event.categories contains "eventonazionale" %}
 {% assign rowfinder = loopindex | modulo:2 %}
-{% if rowfinder == 0 %} 
-<div class="row"> 
+{% if rowfinder == 0 %}
+<div class="row">
 {% endif %}
   <div class="col s12 m6">
     <div class="card horizontal">
@@ -30,17 +30,17 @@ permalink: /eventosglobales/
     	</div>
     </div>
   </div>
-{% if rowfinder == 1 %} 
+{% if rowfinder == 1 %}
 </div>
 {% endif %}
 {% assign loopindex = loopindex | plus: 1 %}
 {% endif %}
 {% endfor %}
-{% if rowfinder == 0%} 
+{% if rowfinder == 0%}
 </div>
 {% endif %}
-{% if loopindex == 0 %} 
-<ul class="collection"> 
+{% if loopindex == 0 %}
+<ul class="collection">
     <li class="collection-item"> No hay eventos programados. Stay tuned! </li>
 </ul>
 {% endif %}
@@ -51,8 +51,8 @@ permalink: /eventosglobales/
 {% for event in site.events reversed %}
 {% if event.date < site.time and event.categories contains "eventonazionale" %}
 {% assign rowfinder = loopindex | modulo:2 %}
-{% if rowfinder == 0 %} 
-<div class="row"> 
+{% if rowfinder == 0 %}
+<div class="row">
 {% endif %}
   <div class="col s12 m6">
     <div class="card horizontal">
@@ -69,17 +69,16 @@ permalink: /eventosglobales/
     	</div>
     </div>
   </div>
-{% if rowfinder == 1 %} 
+{% if rowfinder == 1 %}
 </div>
 {% endif %}
 {% assign loopindex = loopindex | plus: 1 %}
 {% endif %}
 {% endfor %}
-{% if rowfinder == 0 %} 
+{% if rowfinder == 0 %}
 </div>
 {% endif %}
 
 
 
 <!-- {% include eventi_modal.html %} -->
-
