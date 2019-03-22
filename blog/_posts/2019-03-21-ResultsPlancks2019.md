@@ -12,6 +12,30 @@ redirect_from:
 participantes y enhorabuena a los clasificados!
 </p>
 
+<div class="container">
+    <div class="section">
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="icon-block">
+            <h2 class="center">Primer clasificado</h2>
+
+   <p class="light">El equipo PANDA Team, formado por José Polo Gómez, Víctor José Zamora Castro, Gerardo García Moreno y Guillermo        Herranz Álvarez se ha clasificado en primera posición en las Preliminares de PLANCKS 2019, obtando con ello a representar a España en    la final de PLANCKS 2019 en Odense, Dinamarca.</p>
+          </div>
+        </div>
+
+   <div class="col s12 m6">
+    <div class="icon-block">
+      <h2 class="center">Segundo clasificado</h2>
+
+   <p class="light">El equipo Just A Planck Bro, formado por Lucas Maisel Licerán, Pol Molina Grifols, Guim Planella Planas y Laia        Barjuan Ballabriga se ha clasificado en segunda posición en las Preliminares de PLANCKS 2019, obtando con ello a representar a España en  la final de PLANCKS 2019 em Odense, Dinamarca.</p>
+         </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <p style="text-align: justify"><a href="https://drive.google.com/file/d/1pDZeM4tCtcAAow2zZcDUndNeilce7WmT/view?usp=sharing">Consulta aquí la clasificación final.</a>
 </p>
 
