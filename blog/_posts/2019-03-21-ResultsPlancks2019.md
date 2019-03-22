@@ -28,7 +28,7 @@ participantes y enhorabuena a los clasificados!
     <div class="icon-block">
       <h2 class="center">2o clasificado</h2>
 
-   <p class="light", style="text-align: justify">El <strong>equipo Just A Planck Bro</strong>, de la Universitat de Barcelona, formado por <strong>Lucas Maisel Licerán, Pol Molina Grifols, Guim Planella Planas y Laia Barjuan Ballabriga</strong> se ha clasificado en segunda posición en las Preliminares de PLANCKS 2019, obtando con ello a representar a España en  la final de PLANCKS 2019 em Odense, Dinamarca.</p>
+   <p style="text-align: justify">El <strong>equipo Just A Planck Bro</strong>, de la Universitat de Barcelona, formado por <strong>Lucas Maisel Licerán, Pol Molina Grifols, Guim Planella Planas y Laia Barjuan Ballabriga</strong> se ha clasificado en segunda posición en las Preliminares de PLANCKS 2019, obtando con ello a representar a España en  la final de PLANCKS 2019 en Odense, Dinamarca.</p>
          </div>
       </div>
     </div>
