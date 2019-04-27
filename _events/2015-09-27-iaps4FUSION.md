@@ -1,6 +1,6 @@
 ---
 layout: event
-categories: eventonazionale
+categories: eventosnacionales
 title:  "iaps4FUSION"
 startingdate: 2015-09-27
 endingdate: 2015-10-01

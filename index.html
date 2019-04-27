@@ -52,7 +52,7 @@ layout: default
               {% assign loopindex = 0 %}
               {% assign array = site.events | reverse %}
               {% for event in array %}
-                {% if event.categories contains "eventonazionale" or "eventolocale" or "specialevent" %}
+                {% if event.categories contains "eventosnacionales" or "eventolocale" or "specialevent" %}
                   <li href="{{ event.site }}">
                     <a href="{{ event.site }}">
                       <img src="{{ event.cover }}" alt="{{ event.title }}">

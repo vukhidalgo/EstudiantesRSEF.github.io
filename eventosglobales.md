@@ -10,7 +10,7 @@ permalink: /eventosglobales/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
-{% if event.date >= site.time and event.categories contains "eventonazionale" %}
+{% if event.date >= site.time and event.categories contains "eventosnacionales" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">
@@ -49,7 +49,7 @@ permalink: /eventosglobales/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
-{% if event.date < site.time and event.categories contains "eventonazionale" %}
+{% if event.date < site.time and event.categories contains "eventosnacionales" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">

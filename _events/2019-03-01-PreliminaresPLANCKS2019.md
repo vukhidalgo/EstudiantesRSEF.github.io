@@ -1,6 +1,6 @@
 ---
 layout: event
-categories: eventonazionale
+categories: eventosnacionales
 title:  "PLANCKS 2019 - Preliminares"
 startingdate: 2019-03-01
 endingdate: 2019-03-01
