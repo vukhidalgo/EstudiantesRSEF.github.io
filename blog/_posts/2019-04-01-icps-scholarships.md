@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p style="text-align: center">
-  <img src="/img/blog/2019-04-11-icps-scholarships/icps-scholarships-2019.png"
+  <img src="/img/blog/2019-04-11-icps-scholarships/icps-scholarships-2019.png"</img>
 </p>
 
 <p style="text-align: justify">
