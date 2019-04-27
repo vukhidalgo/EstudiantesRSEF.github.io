@@ -14,12 +14,16 @@
    subitems:
      - text: Eventos Globales
        url: /eventosglobales/
+       subitems:
+        - text: PLANCKS 2019
+          url: /eventosnacionales/2019/05/17/PLANCKS2019/
+        - text: ICPS 2019
+          url: /eventosnacionales/2019/08/10/ICPS2019/
      - text: Eventos Nacionales
        url: /eventosnacionales/
-     - text: PLANCKS 2019
-       url: /eventosnacionales/2019/05/17/PLANCKS2019/
-     - text: ICPS 2019
-       url: /eventosnacionales/2019/08/10/ICPS2019/
+       subitems:
+        - text: Physicathon
+          url: https://physicathon.org
  - text: Novedades
     url: /novedades/
     subitems:
