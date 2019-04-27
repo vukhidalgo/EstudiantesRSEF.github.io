@@ -19,7 +19,7 @@ Los Estatutos constituyen el documento fundamental de la Real Sociedad Española
 
 <!-- ## Registro de reuniones
 
-<!-- {% include verbali.html verbali=site.data.verbali %}
+<!-- {% include actas.html actas=site.data.actas %}
 
 <!--
 ## Material promocional
