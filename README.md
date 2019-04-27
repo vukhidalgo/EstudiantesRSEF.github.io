@@ -1,6 +1,3 @@
-
-# Grupo de Estudiantes de la Real Sociedad Española de Física
-
 Grupo de Estudiantes de la Real Sociedad Española de Física
 ===
 
