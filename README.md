@@ -6,6 +6,6 @@ Página Web Oficial del Grupo de Estudiantes de la Real Sociedad Española de F�
 
 Versión 201904270.1
 ___
-- Transición de los enlaces italianos a castellanos.
-- Rediseño del imagen del banner.
+- Transición de los enlaces en italiano al castellano.
+- Rediseño de la imagen del banner.
 - Limpieza de código.
