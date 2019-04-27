@@ -1,4 +1,5 @@
- - text: Conócenos
+ -
+   text: Conócenos
    url: /about/
    slug: about
    subitems:
@@ -15,8 +16,6 @@
        url: /eventosglobales/
      - text: Eventos Nacionales
        url: /eventosnacionales/
- #- text: Oportunidades
- #  url: /oportunidades/
  - text: Blog
    url: /blog
  - text: <strong>¡Inscríbete!</strong>
