@@ -14,7 +14,7 @@ El sitio web de Estudiantes RSEF y los distintos portales de eventos son respons
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
   </li>
   <li class="collection-item avatar">
-    <img src="/img/presidenti/alex.jpg" alt="" class="circle">
+    <img src="/img/junta/alex.jpg" alt="" class="circle">
     <span class="title">Alejandro Fernández Muñoz</span>
     <p>Universidad Complutense de Madrid</p>
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
