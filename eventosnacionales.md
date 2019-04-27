@@ -20,7 +20,7 @@ permalink: /eventosnacionales/
 	    {% if event.locandina %}
             <img style="height: 520px; object-fit: contain;" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
-            <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventoslocales/IAPSposter.png">
+            <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventosnacionales/IAPSposter.png">
         {% endif %}
       </div>
       <div class="card-content">
