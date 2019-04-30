@@ -22,15 +22,15 @@
      - text: Eventos Nacionales
        url: /eventosnacionales/
        subitems:
-        - text: Physicathon
+        - text: Physicathon 2019
           url: https://physicathon.org
  - text: Novedades
     url: /novedades/
     subitems:
      - text: Blog
        url: /blog/
-     - text: Noticias
-       url: /noticias/
+#     - text: Noticias
+#       url: /noticias/
  - text: <strong>INSCRIPCIÓN</strong>
    url: /inscripcion/
 
