@@ -9,6 +9,7 @@ ___
 - Creación de sección de noticias, por ahora vacío y visible desde el menú.
 - El menú ha sido rediseñado, se intentará reducir las entradas y aumentar los menús colapsables (20190505.2a)
 - Logo ó banner lateral para dispositivos móviles ha sido corregido.
+- Google site verification updated to rsef.es.
 - Por corregir (20190505.1a)
 
 ___
