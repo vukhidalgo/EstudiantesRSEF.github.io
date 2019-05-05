@@ -10,6 +10,7 @@ ___
 - El menú ha sido rediseñado, se intentará reducir las entradas y aumentar los menús colapsables (20190505.2a)
 - Logo ó banner lateral para dispositivos móviles ha sido corregido.
 - Google site verification updated to rsef.es.
+- Añadida la sección de noticias en la página principal.
 - Por corregir (20190505.1a)
 
 ___
