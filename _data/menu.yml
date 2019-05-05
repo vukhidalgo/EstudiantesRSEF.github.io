@@ -9,28 +9,25 @@
 #       url: /delegacionesuniversitarias/
      - text: Documentos
        url: /documentos/
- - text: Eventos
+ - text: Eventos Globales
    url: /eventosglobales/
    subitems:
-     - text: Eventos Globales
-       url: /eventosglobales/
-       subitems:
-        - text: PLANCKS 2019
-          url: /eventosnacionales/2019/05/17/PLANCKS2019/
-        - text: ICPS 2019
-          url: /eventosnacionales/2019/08/10/ICPS2019/
-     - text: Eventos Nacionales
-       url: /eventosnacionales/
-       subitems:
-        - text: Physicathon 2019
-          url: https://physicathon.org
+    - text: PLANCKS 2019
+      url: /eventosnacionales/2019/05/17/PLANCKS2019/
+    - text: ICPS 2019
+      url: /eventosnacionales/2019/08/10/ICPS2019/
+ - text: Eventos Nacionales
+   url: /eventosnacionales/
+   subitems:
+    - text: Physicathon 2019
+      url: https://physicathon.org
  - text: Novedades
     url: /novedades/
     subitems:
      - text: Blog
        url: /blog/
-#     - text: Noticias
-#       url: /noticias/
+     - text: Noticias
+       url: /noticias/
  - text: <strong>INSCRIPCIÓN</strong>
    url: /inscripcion/
 
