@@ -1,4 +1,5 @@
- - text: Conócenos
+ -
+   text: Conócenos
    url: /about/
    slug: about
    subitems:
@@ -8,18 +9,21 @@
 #     url: /delegacionesuniversitarias/
     - text: Documentos
       url: /documentos/
- - text: Eventos Globales
-   url: /eventosglobales/
+ - text: Eventos
+   url: /eventos/
    subitems:
-    - text: PLANCKS 2019
-      url: /eventosnacionales/2019/05/17/PLANCKS2019/
-    - text: ICPS 2019
-      url: /eventosnacionales/2019/08/10/ICPS2019/
- - text: Eventos Nacionales
-   url: /eventosnacionales/
-   subitems:
-    - text: Physicathon 2019
-      url: https://physicathon.org
+     - text: Eventos Globales
+       url: /eventosglobales/
+       subitems:
+         - text: PLANCKS 2019
+           url: /eventosnacionales/2019/05/17/PLANCKS2019/
+         - text: ICPS 2019
+           url: /eventosnacionales/2019/08/10/ICPS2019/
+     - text: Eventos Nacionales
+       url: /eventosnacionales/
+       subitems:
+         - text: Physicathon 2019
+           url: https://physicathon.org
  - text: Novedades
    url: /novedades/
    subitems:
