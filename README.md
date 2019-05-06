@@ -1,6 +1,16 @@
 ___
 Grupo de Estudiantes de la Real Sociedad Española de Física
 ===
+
+___
+Versión 20190505.2
+___
+- Corregido el error 20190505.2a.
+- Menú funcional y rediseñado ligeramente con entradas ocultas para futuros grandes eventos.
+- Para evitar confusiones, los eventosnacionales pasan a ser eventointernacional, así como los eventilocale pasan a ser eventonacional. Los specialevent pasan a ser eventoespecial.
+- Banner lateral para dispositivos móviles funciona cambiando el logo central de index pero no en el caso para el nuevo logo creado solo para ello. Indagaré en el banner.html para poder separar la vinculación (20190506.2a).
+- Sistema de versionado creado a base de fechas, seguido por el número de modificación en el mismo día y en el caso de existir error, se añade una letra por orden de importancia.
+
 ___
 Versión 20190505.2
 ___
