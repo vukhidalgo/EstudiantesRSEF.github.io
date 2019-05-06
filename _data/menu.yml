@@ -1,14 +1,13 @@
- -
-   text: Conócenos
+ - text: Conócenos
    url: /about/
    slug: about
    subitems:
-     - text: Junta de Gobierno
-       url: /juntadegobierno/
-#     - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
-#       url: /delegacionesuniversitarias/
-     - text: Documentos
-       url: /documentos/
+    - text: Junta de Gobierno
+      url: /juntadegobierno/
+#   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
+#     url: /delegacionesuniversitarias/
+    - text: Documentos
+      url: /documentos/
  - text: Eventos Globales
    url: /eventosglobales/
    subitems:
@@ -22,13 +21,13 @@
     - text: Physicathon 2019
       url: https://physicathon.org
  - text: Novedades
-    url: /novedades/
-    subitems:
-     - text: Blog
-       url: /blog/
-     - text: Noticias
-       url: /noticias/
- - text: <strong>INSCRIPCIÓN</strong>
+   url: /novedades/
+   subitems:
+    - text: Blog
+      url: /blog/
+    - text: Noticias
+      url: /noticias/
+ - text: ¡Inscríbete!
    url: /inscripcion/
 
 
