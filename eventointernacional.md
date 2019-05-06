@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Eventos Globales
-permalink: /eventosglobales/
+title: Eventos Internacionales
+permalink: /eventointernacional/
 ---
 
 ¡Bienvenid@ a nuestra página de eventos globales! Aquí te presentamos algunos de los mejores eventos que existen para estudiantes de física a nivel internacional.
@@ -10,7 +10,7 @@ permalink: /eventosglobales/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
-{% if event.date >= site.time and event.categories contains "eventosnacionales" %}
+{% if event.date >= site.time and event.categories contains "eventointernacional" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">
@@ -49,7 +49,7 @@ permalink: /eventosglobales/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed %}
-{% if event.date < site.time and event.categories contains "eventosnacionales" %}
+{% if event.date < site.time and event.categories contains "eventointernacional" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">
