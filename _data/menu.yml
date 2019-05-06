@@ -10,22 +10,16 @@
     - text: Documentos
       url: /documentos/
  - text: Eventos
-   url: /eventos/
    subitems:
      - text: Eventos Globales
        url: /eventosglobales/
-       subitems:
-         - text: PLANCKS 2019
-           url: /eventosnacionales/2019/05/17/PLANCKS2019/
-         - text: ICPS 2019
-           url: /eventosnacionales/2019/08/10/ICPS2019/
      - text: Eventos Nacionales
        url: /eventosnacionales/
-       subitems:
-         - text: Physicathon 2019
-           url: https://physicathon.org
+ - text: ICPS 2019
+   url: /eventosnacionales/2019/08/10/ICPS2019/
+# - text: Physicathon 2020 (Próximamente en UCM y Unizar)
+#   url: https://physicathon.org
  - text: Novedades
-   url: /novedades/
    subitems:
     - text: Blog
       url: /blog/
@@ -42,4 +36,4 @@
 # - text: IAPS
 #   url: /iaps/
 # - text: Login
-#   url: https://trello.com/estudiantesrsef/home
+#   url:
