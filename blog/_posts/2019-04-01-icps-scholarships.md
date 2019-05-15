@@ -13,4 +13,4 @@ redirect_from:
   Las inscripciones se cerrarán definitivamente el 15 de abril y, para todos aquellos a quiénes los costes de la conferencia supongan un desembolso difícil, la organización ha abierto un <a href="https://icps.cologne/registration/#Grants">apartado especial de becas</a>, ¡que cubren desde la cuota de participación hasta los vuelos!
 </p>
 
-**![ICPS Scholarships 2019](/img/blog/2019-04-11-icps-scholarships/icps_scholarships-2019.png)
+**![image](/img/blog/2019-04-11-icps-scholarships/icps_scholarships-2019.png)**
