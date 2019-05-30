@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eventos Nacionales
-permalink: /eventosnacionales/
+permalink: /eventonacional/
 ---
 
 
@@ -9,10 +9,10 @@ permalink: /eventosnacionales/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
-{% if event.date >= site.time and event.categories contains "eventolocale" %}
+{% if event.date >= site.time and event.categories contains "eventonacional" %}
 {% assign rowfinder = loopindex | modulo:2 %}
-{% if rowfinder == 0 %} 
-<div class="row"> 
+{% if rowfinder == 0 %}
+<div class="row">
 {% endif %}
   <div class="col s12 m6">
     <div class="card horizontal">
@@ -20,7 +20,7 @@ permalink: /eventosnacionales/
 	    {% if event.locandina %}
             <img style="height: 520px; object-fit: contain;" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
-            <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventilocali/IAPSposter.png">
+            <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventonacional/IAPSposter.png">
         {% endif %}
       </div>
       <div class="card-content">
@@ -36,17 +36,17 @@ permalink: /eventosnacionales/
     	</div>
     </div>
   </div>
-{% if rowfinder == 1 %} 
+{% if rowfinder == 1 %}
 </div>
 {% endif %}
 {% assign loopindex = loopindex | plus: 1 %}
 {% endif %}
 {% endfor %}
-{% if rowfinder == 0 %} 
+{% if rowfinder == 0 %}
 </div>
 {% endif %}
 {% if loopindex == 0 %}
-<ul class="collection"> 
+<ul class="collection">
     <li class="collection-item"> No hay eventos programados. Stay tuned! </li>
 </ul>
 {% endif %}
@@ -56,10 +56,10 @@ permalink: /eventosnacionales/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
-{% if loopindex < 3 and event.date < site.time and event.categories contains "eventolocale" %}
+{% if loopindex < 3 and event.date < site.time and event.categories contains "eventonacional" %}
 {% assign rowfinder = loopindex | modulo:2 %}
-{% if rowfinder == 0 %} 
-<div class="row"> 
+{% if rowfinder == 0 %}
+<div class="row">
 {% endif %}
   <div class="col s12 m6">
     <div class="card horizontal">
@@ -83,13 +83,13 @@ permalink: /eventosnacionales/
     	</div>
     </div>
   </div>
-{% if rowfinder == 1 %} 
+{% if rowfinder == 1 %}
 </div>
 {% endif %}
 {% assign loopindex = loopindex | plus: 1 %}
 {% endif %}
 {% endfor %}
-{% if loopindex == 1 %} 
+{% if loopindex == 1 %}
 </div>
 {% endif %}
 
@@ -129,9 +129,6 @@ permalink: /eventosnacionales/
             {% endfor %}
         </ul>
     </div>
-</div> 
-
 </div>
 
-
-
+</div>

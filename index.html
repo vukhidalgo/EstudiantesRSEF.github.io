@@ -37,7 +37,7 @@ layout: default
       </div>
     </div>
 
-  <!-- Eventos -->
+<!-- Eventos -->
   <div class="section">
     <h3>
       Nuestros eventos
@@ -52,7 +52,7 @@ layout: default
               {% assign loopindex = 0 %}
               {% assign array = site.events | reverse %}
               {% for event in array %}
-                {% if event.categories contains "eventonazionale" or "eventolocale" or "specialevent" %}
+                {% if event.categories contains "eventonacional" or "eventolocale" or "eventoespecial" %}
                   <li href="{{ event.site }}">
                     <a href="{{ event.site }}">
                       <img src="{{ event.cover }}" alt="{{ event.title }}">
@@ -71,7 +71,7 @@ layout: default
                   {% assign loopindex = loopindex | plus: 1%}
                 {% endif %}
 <!-- NUMBER OF SLIDES ON INDEX -->
-                {% if loopindex == 5 %}
+                {% if loopindex == 6 %}
                   {% break %}
                 {% endif %}
               {% endfor %}
@@ -100,7 +100,16 @@ layout: default
                 {% include post_detail.html %}
               {% endif %}
             {% endfor %}
-            <!-- <div class="divider"></div> -->
+            <div class="divider"></div>
+          </div>
+        </div>
+
+    <!-- Noticias -->
+    <div class="section">
+      <div class="row">
+        <div class="col s12 m12">
+          <h3>Noticias</h3>
+          <p align=center>Está sección está en consntrucción. Disculpa las molestias.</p>
           </div>
         </div>
       <!--  <div class="col s12 m12"> -->

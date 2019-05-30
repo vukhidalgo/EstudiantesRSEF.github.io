@@ -1,30 +1,36 @@
- - text: Conócenos
+ -
+   text: Conócenos
    url: /about/
    slug: about
    subitems:
-     - text: Junta de Gobierno
-       url: /juntadegobierno/
-#     - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
-#       url: /delegacionesuniversitarias/
-     - text: Documentos
-       url: /documentos/
+    - text: Junta de Gobierno
+      url: /juntadegobierno/
+#   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
+#     url: /delegacionesuniversitarias/
+    - text: Documentos
+      url: /documentos/
  - text: Eventos
-   url: /eventosglobales/
    subitems:
      - text: Eventos Globales
-       url: /eventosglobales/
+       url: /eventointernacional/
      - text: Eventos Nacionales
-       url: /eventosnacionales/
- #- text: Oportunidades
- #  url: /oportunidades/
- - text: Blog
-   url: /blog
- - text: <strong>¡Inscríbete!</strong>
-   url: /inscripcion/
+       url: /eventonacional/
+# - text: Physicathon 2020 (Próximamente en UCM y Unizar)
+#   url: https://physicathon.org
+ - text: Novedades
+   subitems:
+    - text: Blog
+      url: /blog/
+    - text: Noticias
+      url: /noticias/
  - text: PLANCKS 2019
-   url: /eventonazionale/2019/05/17/PLANCKS2019/
+   url: /eventointernacional/2019/05/17/PLANCKS2019
  - text: ICPS 2019
-   url: /eventonazionale/2019/08/10/ICPS2019/
+   url: /eventointernacional/2019/08/10/ICPS2019/
+ - text: ¡Inscríbete!
+   url: /inscripcion/
+
+
 # - text: Web RSEF
 #   url: http://rsef.es/
 # - text: SdR
@@ -32,4 +38,4 @@
 # - text: IAPS
 #   url: /iaps/
 # - text: Login
-#   url: https://trello.com/estudiantesrsef/home
+#   url:

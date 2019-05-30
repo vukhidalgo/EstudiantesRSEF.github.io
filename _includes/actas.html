@@ -1,0 +1,17 @@
+Las actas de reunión del Grupo son de dominio público, y se pueden encontrar a continuación:
+
+{% for anno in include.actas %}
+<h3>{{ anno.text }}</h3>
+
+<div class="collection">
+  {% for actas in anno.actas %}
+  <a href="{{ actas.link }}" class="collection-item">
+    <div class="row" style="margin:0">
+      <div class="col s12 m8">{{ actas.text }}</div>
+      <div class="col s12 m4"><div class="right grey-text darken-3">{{ actas.data }}</div></div>
+    </div>
+  </a>
+  {% endfor %}
+</div>
+{% endfor %}
+

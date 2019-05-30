@@ -1,11 +1,11 @@
 ---
 layout: event
-categories: eventonazionale
+categories: eventointernacional
 title: "PLANCKS 2018 - Preliminares"
 startingdate: 2018-02-23
 endingdate: 2018-02-23
 place: España, Portugal, México, Nepal
-cover: /img/photos/2017-PLANCKSpreliminaries/zagreb.jpg
+cover: /img/eventos/2017-PLANCKSpreliminaries/zagreb.jpg
 gallery: 2018-PP
 site: http://plancks.org/
 ---

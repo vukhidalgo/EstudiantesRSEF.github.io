@@ -25,7 +25,7 @@ La AEEF cuenta por el momento con {{ n }} Secciones Locales en:
 	        	Fondazione: {{ item.fondazione }}
 				<br>
 				{% if item.ex != nil %}
-					Ex presidenti: {{ item.ex }}
+					Ex junta: {{ item.ex }}
 				{% endif %} 				
 	      	</p>
 	      	<div class="secondary-content">

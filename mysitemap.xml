@@ -149,7 +149,7 @@
   <priority>0.7</priority>
 </url>
 <url>
-  <loc>http://ai-sf.it/esecutivo/</loc>
+  <loc>http://ai-sf.it/colaboradores/</loc>
   <priority>0.7</priority>
 </url>
 <url>
@@ -184,19 +184,19 @@
     <priority>0.7</priority>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2014/08/10/ICPS/</loc>
+<loc>http://ai-sf.it/eventonacional/2014/08/10/ICPS/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2015/05/05/iaps@GranSasso/</loc>
+<loc>http://ai-sf.it/eventonacional/2015/05/05/iaps@GranSasso/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2015/05/15/CISF/</loc>
+<loc>http://ai-sf.it/eventonacional/2015/05/15/CISF/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2015/08/12/ICPS/</loc>
+<loc>http://ai-sf.it/eventonacional/2015/08/12/ICPS/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2015/09/27/iaps4fusion/</loc>
+<loc>http://ai-sf.it/eventonacional/2015/09/27/iaps4fusion/</loc>
 </url>
 <url>
 <loc>http://ai-sf.it/eventolocale/2015/10/14/BanchettoMilano/</loc>
@@ -205,7 +205,7 @@
 <loc>http://ai-sf.it/eventolocale/2015/11/10/InternationalSchoolDay/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2015/12/17/LoT/</loc>
+<loc>http://ai-sf.it/eventonacional/2015/12/17/LoT/</loc>
 </url>
 <url>
 <loc>http://ai-sf.it/eventolocale/2016/01/20/ParticleBeers/</loc>
@@ -217,7 +217,7 @@
 <loc>http://ai-sf.it/eventolocale/2016/04/20/AperitivoTrentoBiofisica/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2016/04/22/CISF/</loc>
+<loc>http://ai-sf.it/eventonacional/2016/04/22/CISF/</loc>
 </url>
 <url>
 <loc>http://ai-sf.it/eventolocale/2016/04/27/AperitivoTrentoMateria/</loc>
@@ -244,12 +244,12 @@
 <loc>http://ai-sf.it/eventolocale/2016/06/14/OsservatorioMilano/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2016/08/11/ICPS2016/</loc>
+<loc>http://ai-sf.it/eventonacional/2016/08/11/ICPS2016/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2016/10/02/papap/</loc>
+<loc>http://ai-sf.it/eventonacional/2016/10/02/papap/</loc>
 </url>
 <url>
-<loc>http://ai-sf.it/eventonazionale/2017/08/07/ICPS2017/</loc>
+<loc>http://ai-sf.it/eventonacional/2017/08/07/ICPS2017/</loc>
 </url>
 </urlset>
