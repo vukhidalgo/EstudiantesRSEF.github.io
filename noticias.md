@@ -29,7 +29,7 @@ redirect_from:
     {% endif %}
     {% if post.categories %}
         {% for category in post.categories %}
-            {% if category == 'blog' %}
+            {% if category == 'noticias' %}
             {% else %}
                 <div class="chip">
                     <span class="post-meta">
