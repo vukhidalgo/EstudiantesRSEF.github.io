@@ -109,7 +109,18 @@ layout: default
       <div class="row">
         <div class="col s12 m12">
           <h3>Noticias</h3>
-          <p align=center>Está sección está en consntrucción. Disculpa las molestias.</p>
+          <div class="noticias-index">
+            {% assign maxCountNoticias = 3 %}
+            {% assign countNoticias = 0 %}
+            {% for article in site.categories['noticias'] %}
+              {% if post.hidden != true and countBlog < maxCountNoticias %}
+                {% assign countNoticias = countNoticias | plus: 1 %}
+                {% assign article = site.articles.first %}
+                {% assign content = article.excerpt %}
+                {% include article_detail.html %}
+              {% endif %}
+            {% endfor %}
+            <div class="divider"></div>
           </div>
         </div>
       <!--  <div class="col s12 m12"> -->

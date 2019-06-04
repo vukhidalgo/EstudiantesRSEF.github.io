@@ -13,7 +13,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 #facebook
 fb_admins:
-fb_appid:
+fb_appid: 357177688182119
 
 #Collections
 collections:
