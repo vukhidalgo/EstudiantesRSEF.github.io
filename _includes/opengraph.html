@@ -11,7 +11,7 @@
 
 <!-- Twitter metadata. twitter:image should not be necessary, as twitter recognizes og:-->
 <meta name="twitter:card"           content="summary" />
-<meta name="twitter:site"           content="@AEEF_esp" />
+<meta name="twitter:site"           content="@EstudiantesRSEF" />
 <meta name="twitter:title"          content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.title }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% endif %}" />
 <meta name="twitter:description"    content="{% for entry in site.data.meta %}{% if page.url == entry.id %}{% assign trovato = true %}{{ entry.description }}{% endif %}{% endfor %}{% if trovato != true %}{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ page.content | strip_html | strip_newlines | truncate:160 }}{% endif %}{% endif %}"/>
 <!-- <meta name="twitter:image:alt"      content=""> Name of image for visually impaired. Will need to add this to all images -->

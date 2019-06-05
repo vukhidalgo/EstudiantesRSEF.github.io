@@ -1,8 +1,8 @@
 # Site settings
 title: "Estudiantes RSEF"
 description: "Grupo de Estudiantes de la Real Sociedad Española de Física"
-banner: img/banner.png
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+banner: img/banner/logo-banner-estrsef.png
+url: "http://estudiantes.rsef.es" # the base hostname & protocol for your site
 destination: ../site/
 locale: "es"
 
@@ -13,7 +13,7 @@ permalink: /blog/:year/:month/:day/:title/
 
 #facebook
 fb_admins:
-fb_appid:
+fb_appid: 357177688182119
 
 #Collections
 collections:

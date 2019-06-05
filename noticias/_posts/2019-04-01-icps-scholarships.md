@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: noticias
 title:  "Plazas libres y becas para el ICPS 2019"
 date:   2019-04-11 12:34
 author: Equipo Estudiantes RSEF

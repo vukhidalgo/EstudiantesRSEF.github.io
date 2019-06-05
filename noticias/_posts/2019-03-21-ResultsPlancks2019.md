@@ -1,13 +1,13 @@
 ---
 layout: post
-categories: blog
+categories: noticias
 title:  "Resultados de las Preliminares de PLANCKS 2019"
 date:   2019-03-21 10:00
 author: Equipo Estudiantes RSEF
 redirect_from:
 ---
 
-<p style="text-align: justify">Estos son los <span style="color: #FFD700; font-weight:bold">RESULTADOS</span> de las 
+<p style="text-align: justify">Estos son los <span style="color: #FFD700; font-weight:bold">RESULTADOS</span> de las
 <span style="color:blue;font-weight:bold">Preliminares de PLANCKS 2019</span>. ¡Muchas gracias a todos los equipos
 participantes y enhorabuena a los clasificados!
 </p>
