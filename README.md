@@ -1,6 +1,15 @@
 ___
 Grupo de Estudiantes de la Real Sociedad Española de Física
 ===
+___
+**Versión 20190608.1** *(en mantenimiento)*
+___
+
+* El logo de mantenimientoha sido retirato. Se devuelve a su estado original.
+* *Persisten*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
+* *Pendiente*: reordenación del menú.  
+⋅⋅* **CONÓCENOS**: Noticias, Blog, Junta de Gobierno, Documentación.
+* *Pendiente*: nuevas noticias de PLANCKS
 
 ___
 **Versión 20190604.1** *(en mantenimiento)*
