@@ -1,14 +1,13 @@
 ___
 Grupo de Estudiantes de la Real Sociedad Española de Física
 ===
-
 ___
 **Versión 20190609.1**
 ___
 
-* Reordenado el menú (Álex).
-* *BUGS*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
-* *Pendiente*: nuevas noticias de PLANCKS.
+* El menú ha sido reordenado (Álex).
+* *ERRORES*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
+* *PENDIENTE*: nuevas noticias de PLANCKS.
 
 ___
 **Versión 20190608.1**
