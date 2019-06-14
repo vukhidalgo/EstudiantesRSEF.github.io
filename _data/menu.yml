@@ -3,10 +3,10 @@
    url: /about/
    slug: about
    subitems:
-    - text: Noticias
-      url: /noticias/
-    - text: Blog
-      url: /blog/
+#    - text: Noticias
+#      url: /noticias/
+#    - text: Blog
+#      url: /blog/
     - text: Junta de Gobierno
       url: /juntadegobierno/
 #   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
