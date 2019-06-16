@@ -3,10 +3,10 @@
    url: /about/
    slug: about
    subitems:
-    - text: Noticias
-      url: /noticias/
-    - text: Blog
-      url: /blog/
+#    - text: Noticias
+#      url: /noticias/
+#    - text: Blog
+#      url: /blog/
     - text: Junta de Gobierno
       url: /juntadegobierno/
 #   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
@@ -21,7 +21,7 @@
        url: /eventonacional/
 # - text: Physicathon 2020 (Próximamente en UCM y Unizar)
 #   url: https://physicathon.org
- - text: ¡Inscríbete!
+ - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
  - text: PLANCKS 2019
    url: /eventointernacional/2019/05/17/PLANCKS2019
