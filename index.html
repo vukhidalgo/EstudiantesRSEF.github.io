@@ -84,7 +84,28 @@ layout: default
       </div>
     </div>
 
-    <!-- Blog -->
+<!-- Noticias -->
+    <div class="row">
+      <div class="col s12 m12">
+        <h3>Noticias</h3>
+        <div class="blog-index">
+          {% assign maxCountBlog = 3 %}
+          {% assign countBlog = 0 %}
+          {% for post in site.categories['noticias'] %}
+            {% if post.hidden != true and countBlog < maxCountBlog %}
+              {% assign countBlog = countBlog | plus: 1 %}
+              {% assign post = site.posts.first %}
+              {% assign content = post.excerpt %}
+              {% include post_detail.html %}
+            {% endif %}
+          {% endfor %}
+          <div class="divider"></div>
+        </div>
+      </div>
+    </div>
+<!-- Fin de Noticias -->
+
+<!-- Blog -->
     <div class="section">
       <div class="row">
         <div class="col s12 m12">
@@ -104,28 +125,9 @@ layout: default
           </div>
         </div>
       </div>
-
-    <!-- Noticias -->
-      <div class="row">
-        <div class="col s12 m12">
-          <h3>Noticias</h3>
-          <div class="blog-index">
-            {% assign maxCountBlog = 3 %}
-            {% assign countBlog = 0 %}
-            {% for post in site.categories['noticias'] %}
-              {% if post.hidden != true and countBlog < maxCountBlog %}
-                {% assign countBlog = countBlog | plus: 1 %}
-                {% assign post = site.posts.first %}
-                {% assign content = post.excerpt %}
-                {% include post_detail.html %}
-              {% endif %}
-            {% endfor %}
-            <div class="divider"></div>
-          </div>
-        </div>
-
-      </div>
     </div>
+<!-- Fin del Blog -->
+    
   </div>
 </div>
 
