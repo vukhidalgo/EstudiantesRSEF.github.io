@@ -11,6 +11,15 @@ layout: default
       <article class="post-content" itemprop="articleBody">
           {{ page.content | replace:'<img ','<img class="materialboxed" ' }}
       </article>
+      {% if page.gallery != nil %}
+      <h4>Fotos</h4>
+      <div class="carousel">
+      {% for image in site.static_files %}{% if image.path contains page.gallery %}
+      <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
+      {% endif %}{% endfor %}
+      </div>
+      {% endif %}
+        
     </div>
 </div>
 </div>
