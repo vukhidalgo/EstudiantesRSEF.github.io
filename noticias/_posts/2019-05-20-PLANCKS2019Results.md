@@ -2,7 +2,7 @@
 layout: post
 categories: noticias
 title:  "Resultados de PLANCKS 2019"
-date:   2019-04-11 12:36
+date:   2019-05-20 14:00
 author: Equipo Estudiantes RSEF
 redirect_from:
 ---
