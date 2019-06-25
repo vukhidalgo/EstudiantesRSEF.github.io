@@ -4,6 +4,7 @@ categories: noticias
 title:  "Resultados de PLANCKS 2019"
 date:   2019-05-20 14:00
 author: Equipo Estudiantes RSEF
+gallery: 2019-PLANCKS
 redirect_from:
 ---
 
@@ -25,3 +26,4 @@ Durante los tres días de evento, los participantes pudieron disfrutar de juegos
 fue uno de los ponentes!) y de una gran fiesta de despedida. PLANCKS les permitió disfrutar de la física, conocer mundo y hacer nuevos
 contactos y amigos. Un experiencia genial que seguro nunca olvidarán.
 </p>
+
