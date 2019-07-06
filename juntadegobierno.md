@@ -18,7 +18,7 @@ permalink: /juntadegobierno/
 
 ## Junta de Gobierno ({{item.anno}})
 
-Esta Junta de Gobierno fue elegida el {{ item.Elecciones }}.
+Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
