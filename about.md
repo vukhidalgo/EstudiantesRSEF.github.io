@@ -36,9 +36,7 @@ divulgación y difusión de la física.
 
 ## Junta de Goberino
 
-La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especializado, y está actualmente compuesta por 3 miembros.
-
-Para saber más sobre la Junta de Gobierno <a href="/juntadegobierno/">pulsa aquí</a>.
+La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes, y está actualmente compuesta por 3 miembros. Para saber más sobre la Junta de Gobierno <a href="/juntadegobierno/">pulsa aquí</a>.
 
 <!-- ## Delegaciones Universitarias
 
