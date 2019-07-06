@@ -37,11 +37,11 @@ Esta Junta de Gobierno fue elegida el {{ item.Elecciones }}.
   {% endfor %}
 </ul>
 
-{% if item.collaboradores != nil %}
+{% if item.colaboradores != nil %}
 ## Colaboradores ({{item.curso}})
 
 <ul class="collection">
-  {% for membro in item.collaboradores %}
+  {% for membro in item.colaboradores %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
