@@ -30,7 +30,7 @@ Esta Junta de Gobierno fue elegida el {{ item.Elecciones }}.
         <p>
           {{ miembro.rol }}
           <br>
-          {{ membro.descr }}
+          {{ miembro.descr }}
         </p>
         <div class="secondary-content"><a href="mailto:{{ miembro.mail }}"><i class="fa fa-lg fa-envelope"></i></a></div>
       </li>
@@ -41,7 +41,7 @@ Esta Junta de Gobierno fue elegida el {{ item.Elecciones }}.
 ## Colaboradores ({{item.curso}})
 
 <ul class="collection">
-  {% for membro in item.colaboradores %}
+  {% for miembro in item.colaboradores %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
