@@ -34,7 +34,7 @@ necesarias para triunfar en el mundo empresarial.
 7. Contribuir a la educación científica y tecnológica de la sociedad, promoviendo actividades de
 divulgación y difusión de la física.
 
-## Junta de Goberino
+## Junta de Gobierno
 
 La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes, y está actualmente compuesta por 3 miembros. Para saber más sobre la Junta de Gobierno <a href="/juntadegobierno/">pulsa aquí</a>.
 
