@@ -21,7 +21,7 @@
       rol: "Secretario-Tesorero"
       descr: "El secretario estudia un máster en Física Teórica en la Universidad de Heidelberg. Su intención es hacer un PhD en el ámbito de la cosmología, que está ahora muy de moda al parecer. Le gusta mucho hablar y pensar, normalmente demasiado. Se motiva mucho con la música, y le encanta cantar y tocar la guitarra."
       mail: "estudiantes@rsef.es"
-      subject: "[Secretario-Tesorero]"
+      subject: "[Secretaría-Tesorería]"
   colaboradores:
     - nombre: "Diego Fernández Prado"
       img: "/img/colaboradores/diego.png"
