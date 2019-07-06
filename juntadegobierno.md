@@ -18,41 +18,41 @@ permalink: /juntadegobierno/
 
 ## Junta de Gobierno ({{item.anno}})
 
-Esta Junta de Gobierno fue elegida el {{ item.dataCISFex }}.
-{% if item.dataInizio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInizio }}.{% endif %}
-{% if item.dataFine != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFine }}.{% endif %}
+Esta Junta de Gobierno fue elegida el {{ item.Elecciones }}.
+{% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
+{% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
 <ul class="collection">
-  {% for membro in item.membri %}
+  {% for miembro in item.miembros %}
       <li class="collection-item avatar">
-        <img src="{{ membro.img }}" alt="" class="circle">
-        <span class="title">{{ membro.nome }}</span>
+        <img src="{{ miembro.img }}" alt="" class="circle">
+        <span class="title">{{ miembro.nombre }}</span>
         <p>
-          {{ membro.ruolo }}
+          {{ miembro.rol }}
           <br>
           {{ membro.descr }}
         </p>
-        <div class="secondary-content"><a href="mailto:{{ membro.mail }}@rsef.es"><i class="fa fa-lg fa-envelope"></i></a></div>
+        <div class="secondary-content"><a href="mailto:{{ miembro.mail }}"><i class="fa fa-lg fa-envelope"></i></a></div>
       </li>
   {% endfor %}
 </ul>
 
-{% if item.collaboratori != nil %}
-## Colaboradores ({{item.anno}})
+{% if item.collaboradores != nil %}
+## Colaboradores ({{item.curso}})
 
 <ul class="collection">
-  {% for membro in item.collaboratori %}
+  {% for membro in item.collaboradores %}
       <li class="collection-item avatar">
-        <img src="{{ membro.img }}" alt="" class="circle">
-        <span class="title">{{ membro.nome }}</span>
+        <img src="{{ miembro.img }}" alt="" class="circle">
+        <span class="title">{{ miembro.nombre }}</span>
         <p>
-          {{ membro.ruolo }}
+          {{ miembro.rol }}
           <br>
-          {{ membro.descr }}
+          {{ miembro.descr }}
         </p>
         <div class="secondary-content">
-            {% if membro.mail != nil %}
-            <a href="mailto:{{ membro.mail }}@rsef.es"><i class="fa fa-lg fa-envelope"></i>
+            {% if miembro.mail != nil %}
+            <a href="mailto:{{ miembro.mail }}"><i class="fa fa-lg fa-envelope"></i>
             </a>
             {% endif %}
         </div>
