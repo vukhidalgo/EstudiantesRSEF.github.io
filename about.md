@@ -13,6 +13,27 @@ Estudiantes RSEF es el Grupo de Estudiantes de la Real Sociedad Española de Fí
 
 Para conocer más detalles acerca de Estudiantes RSEF consulta nuestros <a href="/documentos/">documentos oficiales</a>.
 
+## Principales objetivos
+
+En líneas generales, los principales objetivos del Grupo son:
+
+1. Representar a los estudiantes de ciencias físicas en España a nivel nacional e internacional.
+2. Gestionar su membresía en la International Association of Physics Students como National
+Committee Spain.
+3. Ofrecer al alumnado de física en España oportunidades extracurriculares con las que
+complementar los currículos oficiales universitarios, así como promover la participación en
+dichas actividades.
+4. Fomentar el debate sobre la enseñanza de la física en todos los niveles y actuar como puente
+entre asesores especializados y organismos competentes sobre la materia.
+5. Participar en la constitución de comisiones científicas de ámbito universitario y estatal así
+como en las representaciones españolas en instituciones y comisiones científicas
+internacionales de ámbito estudiantil.
+6. Asesorar y colaborar con el mundo empresarial en cuestiones relacionadas con la física y su
+enseñanza, así como con sus salidas profesionales y con la adquisición de aquellas habilidades
+necesarias para triunfar en el mundo empresarial.
+7. Contribuir a la educación científica y tecnológica de la sociedad, promoviendo actividades de
+divulgación y difusión de la física.
+
 ## Junta de Goberino
 
 La Junta de Gobierno es el órgano administrativo y ejecutivo del grupo especializado, y está actualmente compuesta por 3 miembros.
