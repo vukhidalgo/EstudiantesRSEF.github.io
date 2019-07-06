@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Delegaciones Universitarias
-permalink: /delegacionesuniversitarias/
+title: Delegaciones
+permalink: /delegaciones/
 redirect_from:
 ---
 
