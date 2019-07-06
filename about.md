@@ -15,7 +15,7 @@ Para conocer más detalles acerca de Estudiantes RSEF consulta nuestros <a href=
 
 ## Principales objetivos
 
-En líneas generales, los principales objetivos del Grupo de Estudiantes son:
+En líneas generales, los principales objetivos del Grupo de Estudiantes de la RSEF son:
 
 1. Representar a los estudiantes de ciencias físicas en España a nivel nacional e internacional.
 2. Gestionar su membresía en la International Association of Physics Students como National
