@@ -17,9 +17,7 @@ redirect_from:
             </div>
           </div>
         <div class="column">
-          <div class="row center">
             <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
-          </div>
         </div>
       </div>
     </div>
