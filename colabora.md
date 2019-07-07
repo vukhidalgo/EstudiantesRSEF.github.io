@@ -4,7 +4,7 @@ title: ¡Colabora!
 permalink: /colabora/
 redirect_from:
 ---
-
+<div class="no-pad-top">
 <div class="container">
     <div class="section">
       <!--   Icon Section   -->
@@ -70,3 +70,4 @@ redirect_from:
         </div>
       </div>
     </div>
+</div>
