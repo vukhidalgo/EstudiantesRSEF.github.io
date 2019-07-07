@@ -23,6 +23,19 @@ redirect_from:
           </div>
         </div>
       </div>
+      <div class="col s12 m6">
+          <div class="icon-block">
+            <h2 class="center">Comité de Relaciones Internacionales</h2>
+            <p class="light" align="justify">El Grupo de Estudiantes de la Real Sociedad Española de Física busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza.</p>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="icon-block">
+            <h2 class="center">Comité de Relaciones Públicas</h2>
+            <p class="light" align="justify">La Asociación Internacional de Estudiantes de Física promueve desde 1987 la colaboración entre estudiantes y asociaciones de física a nivel mundial. Sus miembros están representados por comités nacionales y locales. Entre todos, IAPS representa a más de 60.000 estudiantes.</p>
+          </div>
+        </div>
+      </div>
       <div class="row">
         <div class="col s12 m6">
           <div class="row center">
@@ -36,23 +49,6 @@ redirect_from:
         </div>
       </div>
     </div>
-    <div class="container">
-    <div class="section">
-      <!--   Icon Section   -->
-      <div class="row">
-        <div class="col s12 m6">
-          <div class="icon-block">
-            <h2 class="center">Comité de Relaciones Internacionales</h2>
-            <p class="light" align="justify">El Grupo de Estudiantes de la Real Sociedad Española de Física busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza.</p>
-          </div>
-        </div>
-        <div class="col s12 m6">
-          <div class="icon-block">
-            <h2 class="center">Comité de Relaciones Públicas</h2>
-            <p class="light" align="justify">La Asociación Internacional de Estudiantes de Física promueve desde 1987 la colaboración entre estudiantes y asociaciones de física a nivel mundial. Sus miembros están representados por comités nacionales y locales. Entre todos, IAPS representa a más de 60.000 estudiantes.</p>
-          </div>
-        </div>
-      </div>
       <div class="row">
         <div class="col s12 m6">
           <div class="row center">
