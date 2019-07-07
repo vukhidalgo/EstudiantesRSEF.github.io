@@ -10,8 +10,6 @@ redirect_from:
     <div class="section">
       <!--   Icon Section   -->
       <div class="row">
-        <div class="column">
-          <div class="row">
           <div class="column">
           <div class="icon-block">
             <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
@@ -22,8 +20,6 @@ redirect_from:
           <div class="row center">
             <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
           </div>
-        </div>  
-        </div>
         </div>
         </div>
         <div class="column">
