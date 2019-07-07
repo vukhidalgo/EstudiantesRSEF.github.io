@@ -13,7 +13,7 @@ redirect_from:
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
-            <p class="light" align="justify">El Grupo de Estudiantes de la Real Sociedad Española de Física busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza.</p>
+            <p class="light" align="justify">¿Te gusta trastear con código para ver hasta dónde puedes llegar? ¿Estás interesad@ en aprender programación web y de apps? ¡Entonces éste es tu sitio!</p>
           </div>
         </div>
         <div class="col s12 m6">
@@ -56,12 +56,12 @@ redirect_from:
       <div class="row">
         <div class="col s12 m6">
           <div class="row center">
-            <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">Conócenos</a>
+            <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">Yo, Diplomátic@</a>
           </div>
         </div>
         <div class="col s12 m6">
           <div class="row center">
-            <a href="{{ site.url }}/iaps/" id="iaps-button" class="btn-large waves-effect waves-light">Descubre IAPS</a>
+            <a href="{{ site.url }}/iaps/" id="iaps-button" class="btn-large waves-effect waves-light">In <3 with social networks</a>
           </div>
         </div>
       </div>
