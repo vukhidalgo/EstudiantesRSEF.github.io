@@ -5,7 +5,7 @@ permalink: /colabora/
 redirect_from:
 ---
 
-<div class="no-pad-top" id="index-page">
+<div class="no-pad-top">
   <div class="container">
     <div class="section">
       <!--   Icon Section   -->
