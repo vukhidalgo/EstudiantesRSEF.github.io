@@ -8,7 +8,7 @@
       {% if event.poster %}<a href="{{ event.poster }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
       {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
       {% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-camera-retro"></i></a>{% endif %}
-      {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
+      {% if event.report %}<a href="{{ event.report }}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
       </div>
     </div>
     {% if event.articolo %}{% for post in site.posts %}{% if post.url contains event.articolo %}{{ post.excerpt }}{% endif %}{% endfor %}
