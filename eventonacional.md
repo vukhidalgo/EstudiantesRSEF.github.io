@@ -103,7 +103,7 @@ permalink: /eventonacional/
             <li>
               <div class="collapsible-header">
                 <div class="center">
-                  {{ item.nome }}
+                  {{ item.nombre }}
                 </div>
               </div>
               <div class="collapsible-body">
