@@ -10,10 +10,10 @@
                         <br>
                         <div class="crimson-text">
                            {{ event.date | date: '%d %b' }}
-                           {% if event.categories contains "eventolocale" %}
+                           {% if event.categories contains "eventonacional" %}
                            - {{ event.CL }}
                            {% endif %}
-                           {% if event.categories contains "eventonacional" %}
+                           {% if event.categories contains "eventointernacional" %}
                            - {{ event.place }}
                            {% endif %}
                         </div> 
