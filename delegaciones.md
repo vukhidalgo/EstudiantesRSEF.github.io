@@ -10,14 +10,14 @@ redirect_from:
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
-Estudiantes RSEF cuenta por el momento con {{ n }} Delegaciones Universitarias en:
+El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegaciones en:
 
 <ul class="collection">
 	{% for item in site.data.LC %}
 	    <li class="collection-item avatar" id="{{ item.nombre }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
 	      	<span class="title">
-				Delegación Universitaria de {{ item.nombre }}
+				Delegación de {{ item.nombre }}
 			</span>
 	      	<p>
 				Presidente: {{ item.presidente }} 
@@ -40,7 +40,7 @@ Estudiantes RSEF cuenta por el momento con {{ n }} Delegaciones Universitarias e
 					</a>
 				{% endif %}
 			        {% if item.mail != nil %}
-	      		        <a href="mailto:{{ item.mail }}@rsef.es" title="Email DU">
+	      		        <a href="mailto:{{ item.mail }}@rsef.es" title="Email Delegación">
 					      <i class="fa fa-lg fa-envelope"></i>
 				        </a>
 			        {% endif %}
