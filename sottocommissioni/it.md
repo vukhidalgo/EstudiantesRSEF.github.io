@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comité de Administración Web y Herramientas Digitales
+title: Administración Web y Herramientas Digitales
 permalink: /CAWHD/
 ---
 
