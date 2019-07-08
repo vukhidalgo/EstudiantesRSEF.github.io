@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nueva Delegación Universitaria
-permalink: /nuevadelegacionuniversitaria/
+title: Nueva Delegación
+permalink: /nuevadelegacion/
 ---
 
 _Delegaciones Universitarias de la AEEF: agrupaciones que “reúnen a los respectivos miembros de cada universidad y los representan en la misma”._
