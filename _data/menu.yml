@@ -23,6 +23,13 @@
 #   url: https://physicathon.org
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
+# - text: <strong>¡Colabora!</strong>
+#   url: /colabora/
+#   subitems:
+#    - text: Delegaciones
+#      url: /delegaciones/
+#    - text: Comités
+#      url: /blog/
 # - text: PLANCKS 2019
 #   url: /blog/2019/05/20/PLANCKS2019Results/
  - text: ICPS 2019
