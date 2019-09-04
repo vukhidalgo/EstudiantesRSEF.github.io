@@ -38,8 +38,8 @@
       
       
       
-      anno: "2018-2019"
-  curso: "Curso 2018-2019" 
+
+- curso: "Curso 2018-2019" 
   colaboradores:
     - nombre: "Diego Fernández Prado"
       img: "/img/colaboradores/diego.png"
