@@ -63,10 +63,8 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 {% endfor %}
 
-<!-- ## Mandatos precedentes -->
+## Colaboradores de cursos anteriores
 
-<!-- ### Junta de Gobierno fundacional del Grupo de Estudiantes de la RSEF (octubre de 2018) -->
-
-<!-- Alejandro Fernández Muñoz - Presidente -->
-<!-- Leticia Pérez Sienes - Vicepresidenta -->
-<!-- Melvin Moreno Maldonado - Secretario -->
+Curso 2018 - 2019
+Alejandro Gallego Carro - Responsable de Relaciones Públicas
+Adrià Vicens Salomon - IAPS Representative
