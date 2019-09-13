@@ -2,7 +2,6 @@
 layout: about
 title: Conócenos
 permalink: /about/
-gallery: 2019-INFO
 redirect_from:
 ---
 
