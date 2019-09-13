@@ -5,14 +5,16 @@ permalink: /about/
 gallery: 2019-INFO
 redirect_from:
 ---
-
 <!-- <img class="materialboxed" data-caption="Foto de todos los participantes en el ICPS 2019" width="100%" src="{{ site.url }}/img/eventos/2017-ICPS/FotoICPS2017.jpg"> -->
-
-Estudiantes RSEF es el Grupo de Estudiantes de la Real Sociedad Española de Física. Fundado en octubre de 2018, busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. Estudiantes RSEF es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
+<p style="text-align: justify">
+  Estudiantes RSEF es el Grupo de Estudiantes de la Real Sociedad Española de Física. Fundado en octubre de 2018, busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. Estudiantes RSEF es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
+</p>
 
 <!-- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center> -->
 
-Para conocer más detalles acerca de Estudiantes RSEF consulta nuestros <a href="/documentos/">documentos oficiales</a>.
+<p style="text-align: justify">
+  Para conocer más detalles acerca de Estudiantes RSEF consulta nuestros <a href="/documentos/">documentos oficiales</a>.
+</p>
 
 ## Principales objetivos
 
@@ -42,6 +44,7 @@ La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estud
 <!-- ## Delegaciones Universitarias
 
 El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>. -->
+
 
 ## Sede
 
