@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<div itemscope itemtype="http://schema.org/Article">
 <div class="container">
     <div class="post">
 
@@ -9,7 +9,11 @@ layout: default
         <h1 class="post-title">{{ page.title }}</h1>
       </header>
 
+      <article class="post-content" itemprop="articleBody">
+          {{ page.content | replace:'<img ','<img class="materialboxed" ' }}
+      </article>
       {% if page.gallery != nil %}
+        <h4>Imágenes de la publicación</h4>
         <div class="carousel">
           {% for image in site.static_files %}ç
             {% if image.path contains page.gallery %}
@@ -18,8 +22,10 @@ layout: default
           {% endfor %}
         </div>
       {% endif %}
-      
-      <article class="post-content">
+
+    </div>
+    </div>
+    </div>
         {{ content }}
       </article>
 
