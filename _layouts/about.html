@@ -9,16 +9,17 @@ layout: default
         <h1 class="post-title">{{ page.title }}</h1>
       </header>
 
+      {% if page.gallery != nil %}
+        <div class="carousel">
+          {% for image in site.static_files %}ç
+            {% if image.path contains page.gallery %}
+              <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+      
       <article class="post-content">
-        {% if page.gallery != nil %}
-          <div class="carousel">
-            {% for image in site.static_files %}ç
-              {% if image.path contains page.gallery %}
-                <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
         {{ content }}
       </article>
 
