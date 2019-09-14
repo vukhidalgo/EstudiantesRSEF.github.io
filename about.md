@@ -5,7 +5,7 @@ permalink: /about/
 redirect_from:
 ---
 
-<img class="materialboxed" data-caption="Foto de todos los participantes en el ICPS 2019 Colonia" width="100%" src="{{ site.url }}img\eventos\2019-INFO\ICPS2019_Group_Photo_Stefano_Ugliano_0.jpg">
+<img class="materialboxed" data-caption="Foto de todos los participantes en el ICPS 2019 Colonia" width="100%" src="{{ site.url }}/img/eventos/2019-INFO/ICPS2019_Group_Photo_Stefano_Ugliano_0.jpg">
 
 <p style="text-align: justify">
   Estudiantes RSEF es el Grupo de Estudiantes de la Real Sociedad Española de Física. Fundado en octubre de 2018, busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. Estudiantes RSEF es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
