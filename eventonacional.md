@@ -17,8 +17,8 @@ permalink: /eventonacional/
   <div class="col s12 m6">
     <div class="card horizontal">
       <div class="card-image">
-	    {% if event.locandina %}
-            <img style="height: 520px; object-fit: contain;" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
+	    {% if event.poster %}
+            <img style="height: 520px; object-fit: contain;" src="{{ event.poster }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
             <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventonacional/IAPSposter.png">
         {% endif %}
@@ -29,7 +29,7 @@ permalink: /eventonacional/
       </div>
     	<div class="card-action">
             {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
-            {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
+            {% if event.poster %}<a href="{{ event.poster }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
             {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
             {% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-camera-retro"></i></a>{% endif %}
             {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
@@ -64,8 +64,8 @@ permalink: /eventonacional/
   <div class="col s12 m6">
     <div class="card horizontal">
       <div class="card-image">
-	    {% if event.locandina %}
-            <img style="height: 520px; object-fit: contain;" src="{{ event.locandina }}" href="#{{ event.id | remove: "/" }}-modal">
+	    {% if event.poster %}
+            <img style="height: 520px; object-fit: contain;" src="{{ event.poster }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
             <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/AISF_LOGO_nobkg.png">
         {% endif %}
@@ -76,7 +76,7 @@ permalink: /eventonacional/
       </div>
     	<div class="card-action">
             {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
-            {% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
+            {% if event.poster %}<a href="{{ event.poster }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}
             {% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}
             {% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-camera-retro"></i></a>{% endif %}
             {% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}
@@ -103,7 +103,7 @@ permalink: /eventonacional/
             <li>
               <div class="collapsible-header">
                 <div class="center">
-                  {{ item.nome }}
+                  {{ item.nombre }}
                 </div>
               </div>
               <div class="collapsible-body">
@@ -115,7 +115,7 @@ permalink: /eventonacional/
                       <td>{{ event.title }}</td>
                       <td>{{ event.date | date: '%d %b %Y' }}</td>
                       <td>{% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}</td>
-                      <td>{% if event.locandina %}<a href="{{ event.locandina }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}</td>
+                      <td>{% if event.poster %}<a href="{{ event.poster }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}</td>
                       <td>{% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}</td>
                       <td>{% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-camera-retro"></i></a>{% endif %}</td>
                       <td>{% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}</td>

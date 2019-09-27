@@ -12,14 +12,14 @@ layout: default
           <div class="icon-block">
             <h2 class="center">Estudiantes RSEF</h2>
 
-            <p class="light">El Grupo de Estudiantes de la Real Sociedad Española de Física busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza.</p>
+            <p class="light" align="justify">El Grupo de Estudiantes de la Real Sociedad Española de Física busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza.</p>
           </div>
         </div>
 
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">IAPS</h2>
-            <p class="light">La Asociación Internacional de Estudiantes de Física promueve desde 1987 la colaboración entre estudiantes y asociaciones de física a nivel mundial. Sus miembros están representados por comités nacionales y locales. Entre todos, IAPS representa a más 50.000 estudiantes.</p>
+            <p class="light" align="justify">La Asociación Internacional de Estudiantes de Física promueve desde 1987 la colaboración entre estudiantes y asociaciones de física a nivel mundial. Sus miembros están representados por comités nacionales y locales. Entre todos, IAPS representa a más de 60.000 estudiantes.</p>
           </div>
         </div>
       </div>
@@ -84,7 +84,28 @@ layout: default
       </div>
     </div>
 
-    <!-- Blog -->
+<!-- Noticias -->
+    <div class="row">
+      <div class="col s12 m12">
+        <h3>Últimas Noticias</h3>
+        <div class="blog-index">
+          {% assign maxCountBlog = 3 %}
+          {% assign countBlog = 0 %}
+          {% for post in site.categories['noticias'] %}
+            {% if post.hidden != true and countBlog < maxCountBlog %}
+              {% assign countBlog = countBlog | plus: 1 %}
+              {% assign post = site.posts.first %}
+              {% assign content = post.excerpt %}
+              {% include post_detail.html %}
+            {% endif %}
+          {% endfor %}
+          <div class="divider"></div>
+        </div>
+      </div>
+    </div>
+<!-- Fin de Noticias -->
+
+<!-- Blog -->
     <div class="section">
       <div class="row">
         <div class="col s12 m12">
@@ -104,28 +125,9 @@ layout: default
           </div>
         </div>
       </div>
-
-    <!-- Noticias -->
-      <div class="row">
-        <div class="col s12 m12">
-          <h3>Noticias</h3>
-          <div class="blog-index">
-            {% assign maxCountBlog = 3 %}
-            {% assign countBlog = 0 %}
-            {% for post in site.categories['noticias'] %}
-              {% if post.hidden != true and countBlog < maxCountBlog %}
-                {% assign countBlog = countBlog | plus: 1 %}
-                {% assign post = site.posts.first %}
-                {% assign content = post.excerpt %}
-                {% include post_detail.html %}
-              {% endif %}
-            {% endfor %}
-            <div class="divider"></div>
-          </div>
-        </div>
-
-      </div>
     </div>
+<!-- Fin del Blog -->
+    
   </div>
 </div>
 

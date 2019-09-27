@@ -1,15 +1,15 @@
 ---
 layout: page
-title: División de IT
-permalink: /sottocommissioni/it
+title: Administración Web y Herramientas Digitales
+permalink: /CAWHD/
 ---
 
-El sitio web de Estudiantes RSEF y los distintos portales de eventos son responsabilidad de la división de IT, integrada por:
+El sitio web de Estudiantes RSEF y los distintos portales de eventos son responsabilidad del Comité de Administración Web y Herramientas Digitales, integrado por:
 
 <ul class="collection">
  <li class="collection-item avatar">
     <img src="/img/colaboradores/vuk.jpg" alt="" class="circle">
-    <span class="title">Vuk Hidalgo Dojcinovic - Responsable de División</span>
+    <span class="title">Vuk Hidalgo Dojcinovic - Responsable del Comité</span>
     <p>Universidad Complutense de Madrid</p>
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
   </li>

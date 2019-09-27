@@ -1,6 +1,24 @@
 ___
 Grupo de Estudiantes de la Real Sociedad Española de Física
 ===
+
+___
+**Versión 20190705.1**
+___
+
+* *RESUELTO*: *BUG 20190604.1b**
+* *PUBLICADO*: nuevas noticias de PLANCKS. (¡Gracias Alex!)
+* *ERRORES*: **BUG 20190604.1a**, **BUG 20190506.2a**.
+* *PLANIFICACIÓN*: Rediseño del Blog.
+___
+**Versión 20190616.1**
+___
+
+* Se han arreglado las imágenes de los eventos nacionales pasados y presentes.
+* Se ha cambido en el índex.html el orden en el cual va el blog y las noticias.
+* *ERRORES*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
+* *PENDIENTE*: nuevas noticias de PLANCKS.
+
 ___
 **Versión 20190609.1**
 ___

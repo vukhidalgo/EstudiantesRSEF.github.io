@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <ul class="post-list">
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.noticias %}
   {% if post.hidden != true %}
   <li>
     <h2>
