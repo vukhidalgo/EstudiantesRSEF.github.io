@@ -27,7 +27,7 @@ redirect_from:
 2. <p style='text-align: justify;'>Gestionar su membresía en la International Association of Physics Students como National Committee Spain.</p>
 3. <p style='text-align: justify;'>Ofrecer al alumnado de física en España oportunidades extracurriculares con las que complementar los currículos oficiales universitarios, así como promover la participación en dichas actividades.</p>
 4. <p style='text-align: justify;'>Fomentar el debate sobre la enseñanza de la física en todos los niveles y actuar como puente entre asesores especializados y organismos competentes sobre la materia.</p>
-5. <p style='text-align: justify;'>Participar en la constitución de comisiones científicas de ámbito universitario y estatal así como en las representaciones españolas en instituciones y comisiones científicas internacionales de ámbito estudiantil.</p>
+5. <p style='text-align: justify;'>Participar en la constitución de comites científicas de ámbito universitario y estatal así como en las representaciones españolas en instituciones y comites científicas internacionales de ámbito estudiantil.</p>
 6. <p style='text-align: justify;'>Asesorar y colaborar con el mundo empresarial en cuestiones relacionadas con la física y su enseñanza, así como con sus salidas profesionales y con la adquisición de aquellas habilidades necesarias para triunfar en el mundo empresarial.</p>
 7. <p style='text-align: justify;'>Contribuir a la educación científica y tecnológica de la sociedad, promoviendo actividades de divulgación y difusión de la física.</p>
 
