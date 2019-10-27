@@ -16,7 +16,7 @@ El sitio web de Estudiantes RSEF y los distintos portales de eventos son respons
   <li class="collection-item avatar">
     <img src="/img/junta/alex.jpg" alt="" class="circle">
     <span class="title">Alejandro Fernández Muñoz</span>
-    <p>Universidad Complutense de Madrid</p>
+    <p>Barcelona Institute of Science and Technology - Universitat Pompeu Fabra</p>
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
   </li>
 </ul>
