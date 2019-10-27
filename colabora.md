@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ¡Colabora!
-permalink: /colabora/
+title: ¡Participa!
+permalink: /participa/
 redirect_from:
 ---
 
