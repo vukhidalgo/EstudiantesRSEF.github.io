@@ -1,11 +1,12 @@
 ---
 layout: page
-title: ¡Participa!
-permalink: /participa/
+title: ¡Colabora!
+permalink: /colabora/
 redirect_from:
 ---
+Manténte atent@, ¡muy pronto te indicaremos maneras para colaborar con el Grupo de Estudiantes! ¡Es una experiencia única que no te la puedes perder!
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
      <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
      <p class="light" align="justify">¿Te gusta trastear con código para ver hasta dónde puedes llegar? ¿Estás interesad@ en aprender programación web y de apps? ¡Entonces éste es tu sitio!</p>
@@ -14,6 +15,4 @@ redirect_from:
       </div>
     </div>
 </div>
-
-
-       
+-->
