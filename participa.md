@@ -71,7 +71,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 <p>Tareas que llevar a cabo: mantenimiento, actualización y propuesta de mejora del código y contenido de la web del Grupo.</p>
 
 <p>Habilidades / Conocimientos necesarios: HTML5 y CSS. (Puedes hacerte una idea del nivel de simplicidad de nuestro código
-web en: [enalce repositorio github]).</p>
+web aquí[https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io]).</p>
 
 <p>Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.</p>
 
