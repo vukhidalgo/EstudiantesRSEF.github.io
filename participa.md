@@ -11,7 +11,7 @@ En esta sección te contamos todas las formas que tienes para participar en la v
 <ul class="collection">
   <li class="collection-item">
     <strong>Redactor/a de contenido web y de RRSS</strong>
-
+    #HOLA
 <p>Responsabilidad de: Comité de Relaciones Públicas.</p>
 
 <p>Tareas que llevar a cabo: Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias
