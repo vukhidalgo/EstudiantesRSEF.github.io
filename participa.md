@@ -26,11 +26,15 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
-<p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
+   <p>
+	** Este cargo colaborará estrechamente con el Community Manager del Grupo.
+   </p>
 
-   <div style='float: right;'>
+   <p>
+    <div style='float: right;'>
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
-   </div>
+    </div>
+   </p> 
   </li>
   <li class="collection-item">
     <strong>Community Manager RRSS</strong>
