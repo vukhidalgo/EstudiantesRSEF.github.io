@@ -91,17 +91,5 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
   </li>
 </ul>
 
-
-	Todas las aptitudes mencionadas son súper necesarias en ciencia estos días. (así que se pueden entrenar, etc.)
-
-
-     <-- <p>
-     <div class="column">
-      <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
-     <p class="light" align="justify">¿Te gusta trastear con código para ver hasta dónde puedes llegar? ¿Estás interesad@ en aprender programación web y de apps? ¡Entonces éste es tu sitio!</p>
-      <div style='float: right;'>
-      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
-      </div>
-    </div>
-     </p>  
+<!-- Todas las aptitudes mencionadas son súper necesarias en ciencia estos días. (así que se pueden entrenar, etc.) -->  
 
