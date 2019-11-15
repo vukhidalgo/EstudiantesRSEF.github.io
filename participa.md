@@ -8,9 +8,9 @@ En esta sección te contamos todas las formas que tienes para participar en la v
 
 ## Oportunidades
 
-<ul class="collection">
-  <li class="collection-item">
-    <strong>Redactor/a de contenido web y de RRSS</strong>
+ <ul class="collection">
+   <li class="collection-item">
+     <strong>Redactor/a de contenido web y de RRSS</strong>
     
 <p>Responsabilidad de: Comité de Relaciones Públicas.</p>
 
@@ -28,14 +28,17 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
 
-   <div class="row">
-      <div class="col s12 m6">
-         <div class="row center">
-           <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Estoy interesad@!</a>
-         </div>
-      </div>
-   </div>  
-  </li>
+   <p align="right">
+     <div class="row">
+        <div class="col s12 m6">
+           <div class="row center">
+             <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Estoy interesad@!</a>
+          </div>
+       </div>
+    </div>  
+   </p>
+   
+   </li>
   
   <li class="collection-item">
     <strong>Community Manager RRSS</strong>
