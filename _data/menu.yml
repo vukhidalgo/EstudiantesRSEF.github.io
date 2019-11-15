@@ -21,10 +21,15 @@
        url: /eventonacional/
 # - text: Physicathon 2020 (Próximamente en UCM y Unizar)
 #   url: https://physicathon.org
+ - text: <strong>¡Participa!</strong>
+   url: /participa
+ #  subitems:
+ #    - text: A nivel nacional
+ #      url: /participa_nacional/
+ #    - text: Eventos Nacionales
+ #      url: /participa_local/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
- - text: <strong>¡Participa!</strong>
-   url: /participa/
 #   subitems:
 #    - text: Delegaciones
 #      url: /delegaciones/
