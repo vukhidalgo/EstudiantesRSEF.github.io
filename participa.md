@@ -10,33 +10,6 @@ En esta sección te contamos todas las formas que tienes para participar en la v
 
  <ul class="collection">
    <li class="collection-item">
-     <strong>Redactor/a de contenido web y de RRSS</strong>
-    
-<p>Responsabilidad de: Comité de Relaciones Públicas.</p>
-
-<p>Tareas que llevar a cabo: Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias
-de becas, eventos, efemérides científicas, etc.</p>
-
-<p>Habilidades / Conocimientos necesarios: Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita
-(coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y 
-proactividad. Capacidad de autocrítica constructiva.</p>
-
-<p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
-largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
-
-<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
-
-<p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
-
-<div class="row">
-   <div style="text-align:right;">
-	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Estoy interesad@!</a>
-   </div>
-</div>
-   
-   </li>
-  
-  <li class="collection-item">
     <strong>Community Manager RRSS</strong>
 
 <p>Responsabilidad de: Comité de Relaciones Públicas.</p>
@@ -57,7 +30,34 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <div class="row">
    <div style="text-align:right;">
-	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Community Manager RRSS]">¡Quiero participar!</a>
+	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Community Manager RRSS]">¡Estoy interesad@!</a>
+   </div>
+</div>
+   
+   </li>
+  
+  <li class="collection-item">
+   <strong>Redactor/a de contenido web y de RRSS</strong>
+    
+<p>Responsabilidad de: Comité de Relaciones Públicas.</p>
+
+<p>Tareas que llevar a cabo: Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias
+de becas, eventos, efemérides científicas, etc.</p>
+
+<p>Habilidades / Conocimientos necesarios: Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita
+(coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y 
+proactividad. Capacidad de autocrítica constructiva.</p>
+
+<p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
+largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
+
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
+
+<p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
+
+<div class="row">
+   <div style="text-align:right;">
+	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Quiero participar!</a>
    </div>
 </div>
 
