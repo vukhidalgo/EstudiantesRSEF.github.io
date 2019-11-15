@@ -11,7 +11,7 @@ En esta sección te contamos todas las formas que tienes para participar en la v
 <ul class="collection">
   <li class="collection-item">
     <strong>Redactor/a de contenido web y de RRSS</strong>
-    ##HOLA
+    
 <p>Responsabilidad de: Comité de Relaciones Públicas.</p>
 
 <p>Tareas que llevar a cabo: Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias
@@ -56,6 +56,13 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 <p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
 <p>** Este cargo colaborará estrechamente con el/la redactor/a de contenido web y RRSS.</p>
+    <div class="row">
+       <div class="col s12 m6">
+          <div class="icon-block">
+            <h2 class="center">Estudiantes RSEF</h2>
+          </div>
+       </div>
+    </div>  
    <p>
     <div style='float: right;'>
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
