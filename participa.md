@@ -33,6 +33,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
     </div>
    </p> 
+<p>     </p>
   </li>
   
   <li class="collection-item">
