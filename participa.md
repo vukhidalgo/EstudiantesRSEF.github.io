@@ -8,7 +8,9 @@ En esta sección te contamos todas las formas que tienes para participar en la v
 
 ## Opotunidades
 
-Redactor/a de contenido web y de RRSS.
+<ul class="collection">
+  <li class="collection-item">
+    <strong>Redactor/a de contenido web y de RRSS</strong>
 
 Responsabilidad de: Comité de Relaciones Públicas.
 
@@ -26,12 +28,12 @@ Duración de la colaboración: hasta el 1 de Octubre de 2020.
 
 ** Este cargo colaborará estrechamente con el Community Manager del Grupo.
 
-<p align="right">
-  <input type="button" value="Click Me" />
-</p>
-
-
-Cargo: Community Manager RRSS.
+   <div style='float: right;'>
+      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
+   </div>
+  </li>
+  <li class="collection-item">
+    <strong>Community Manager RRSS</strong>
 
 Responsabilidad de: Comité de Relaciones Públicas.
 
@@ -50,9 +52,12 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 Duración de la colaboración: hasta el 1 de Octubre de 2020.
 
 ** Este cargo colaborará estrechamente con el/la redactor/a de contenido web y RRSS.
-
-
-Cargo: Programador/a Web.
+   <div style='float: right;'>
+      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Estoy interesad@!</a>
+   </div>
+  </li>
+  <li class="collection-item">
+    <strong>Programador/a Web</strong>
 
 Responsabilidad de: Comité de Administración Web y Herramientas Digitales.
 
@@ -71,17 +76,23 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 Duración de la colaboración: hasta el 1 de Octubre de 2020.
 
+   <div style='float: right;'>
+      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
+   </div>
+  </li>
+</ul>
+
 
 	Todas las aptitudes mencionadas son súper necesarias en ciencia estos días. (así que se pueden entrenar, etc.)
 
 
-<p>
-  <div class="column">
-     <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
+     <-- <p>
+     <div class="column">
+      <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
      <p class="light" align="justify">¿Te gusta trastear con código para ver hasta dónde puedes llegar? ¿Estás interesad@ en aprender programación web y de apps? ¡Entonces éste es tu sitio!</p>
       <div style='float: right;'>
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
       </div>
     </div>
-</p>
+     </p>  
 
