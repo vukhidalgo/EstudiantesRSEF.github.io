@@ -1,10 +1,12 @@
 ---
 layout: page
-title: ¡Colabora!
-permalink: /colabora/
+title: ¡Participa!
+permalink: /participa/
 redirect_from:
 ---
-Manténte atent@, ¡muy pronto te indicaremos maneras para colaborar con el Grupo de Estudiantes! ¡Es una experiencia única que no te la puedes perder!
+En esta sección te contamos todas las formas que tienes para participar en la vida del Grupo de Estudiantes, tanto a nivel nacional como local. ¿Manejas las redes sociales como nadie? ¿Escribes textos que dejan con la boca abierta? ¿Eres casi hacker? O tal vez tienes ganas de organizar un evento chulo en tu universidad... En cualquier caso, ¡has llegado al lugar adecuado! Encuentra abajo la oportunidad que más encaje contigo. 
+
+
 
 <!-- <div class="row">
   <div class="column">
