@@ -28,12 +28,13 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
 
-   <p>
-    <div style='float: right;'>
-      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
-    </div>
-   </p> 
-<p>     </p>
+   <div class="row">
+      <div class="col s12 m6">
+         <div class="row right">
+           <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Estoy interesad@!</a>
+         </div>
+      </div>
+   </div>  
   </li>
   
   <li class="collection-item">
@@ -63,11 +64,6 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
           </div>
        </div>
     </div>  
-   <p>
-    <div style='float: right;'>
-      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
-    </div>
-   </p> 
   </li>
   
   <li class="collection-item">
@@ -90,11 +86,13 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
-   <p>
-    <div style='float: right;'>
-      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
-    </div>
-   </p> 
+   <div class="row">
+     <div class="col s12 m6">
+        <div class="row right">
+          <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
+        </div>
+     </div>
+   </div>  
   </li>
 </ul>
 
