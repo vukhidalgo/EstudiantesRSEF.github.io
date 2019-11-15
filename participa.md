@@ -26,9 +26,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
-   <p>
-	** Este cargo colaborará estrechamente con el Community Manager del Grupo.
-   </p>
+<p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
 
    <p>
     <div style='float: right;'>
@@ -36,53 +34,59 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
     </div>
    </p> 
   </li>
+  
   <li class="collection-item">
     <strong>Community Manager RRSS</strong>
 
-Responsabilidad de: Comité de Relaciones Públicas.
+<p>Responsabilidad de: Comité de Relaciones Públicas.</p>
 
-Tareas que llevar a cabo: Redacción de posts para las redes sociales del Grupo y respuesta a comentarios o preguntas 
+<p>Tareas que llevar a cabo: Redacción de posts para las redes sociales del Grupo y respuesta a comentarios o preguntas 
 sobre dichas publicaciones. Propuesta de iniciativas para aumentar el número de seguidores de las cuentas del Grupo
-en RRSS.
+en RRSS.</p>
 
-Habilidades / Conocimientos necesarios: Manejo fluido de Twitter, Instagram y Facebook (o al menos de las dos primeras);
+<p>Habilidades / Conocimientos necesarios: Manejo fluido de Twitter, Instagram y Facebook (o al menos de las dos primeras);
 buenas dotes comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones) y de expresión
 escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en 
-equipo y proactividad. Capacidad de autocrítica constructiva.
+equipo y proactividad. Capacidad de autocrítica constructiva.</p>
 
-Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
-largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).
+<p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
+largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-Duración de la colaboración: hasta el 1 de Octubre de 2020.
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
-** Este cargo colaborará estrechamente con el/la redactor/a de contenido web y RRSS.
-   <div style='float: right;'>
-      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Estoy interesad@!</a>
-   </div>
+<p>** Este cargo colaborará estrechamente con el/la redactor/a de contenido web y RRSS.</p>
+   <p>
+    <div style='float: right;'>
+      <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
+    </div>
+   </p> 
   </li>
+  
   <li class="collection-item">
     <strong>Programador/a Web</strong>
 
-Responsabilidad de: Comité de Administración Web y Herramientas Digitales.
+<p>Responsabilidad de: Comité de Administración Web y Herramientas Digitales.</p>
 
-Tareas que llevar a cabo: mantenimiento, actualización y propuesta de mejora del código y contenido de la web del Grupo.
+<p>Tareas que llevar a cabo: mantenimiento, actualización y propuesta de mejora del código y contenido de la web del Grupo.</p>
 
-Habilidades / Conocimientos necesarios: HTML5 y CSS. (Puedes hacerte una idea del nivel de simplicidad de nuestro código
-web en: [enalce repositorio github]).
+<p>Habilidades / Conocimientos necesarios: HTML5 y CSS. (Puedes hacerte una idea del nivel de simplicidad de nuestro código
+web en: [enalce repositorio github]).</p>
 
-Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.
+<p>Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.</p>
 
-*** Se proporcionará formación en todos los lenguajes mencionados. Este es un puesto para formarse y aprender jugando
-con el código. 
+<p>*** Se proporcionará formación en todos los lenguajes mencionados. Este es un puesto para formarse y aprender jugando
+con el código.</p>
 
-Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
-largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).
+<p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
+largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-Duración de la colaboración: hasta el 1 de Octubre de 2020.
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
-   <div style='float: right;'>
+   <p>
+    <div style='float: right;'>
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
-   </div>
+    </div>
+   </p> 
   </li>
 </ul>
 
