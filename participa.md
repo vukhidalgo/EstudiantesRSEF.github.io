@@ -26,9 +26,56 @@ Duración de la colaboración: hasta el 1 de Octubre de 2020.
 
 ** Este cargo colaborará estrechamente con el Community Manager del Grupo.
 
+<p align="right">
+  <input type="button" value="Click Me" />
+</p>
 
 
-<!-- <div class="row">
+Cargo: Community Manager RRSS.
+
+Responsabilidad de: Comité de Relaciones Públicas.
+
+Tareas que llevar a cabo: Redacción de posts para las redes sociales del Grupo y respuesta a comentarios o preguntas 
+sobre dichas publicaciones. Propuesta de iniciativas para aumentar el número de seguidores de las cuentas del Grupo
+en RRSS.
+
+Habilidades / Conocimientos necesarios: Manejo fluido de Twitter, Instagram y Facebook (o al menos de las dos primeras);
+buenas dotes comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones) y de expresión
+escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en 
+equipo y proactividad. Capacidad de autocrítica constructiva.
+
+Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
+largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).
+
+Duración de la colaboración: hasta el 1 de Octubre de 2020.
+
+** Este cargo colaborará estrechamente con el/la redactor/a de contenido web y RRSS.
+
+
+Cargo: Programador/a Web.
+
+Responsabilidad de: Comité de Administración Web y Herramientas Digitales.
+
+Tareas que llevar a cabo: mantenimiento, actualización y propuesta de mejora del código y contenido de la web del Grupo.
+
+Habilidades / Conocimientos necesarios: HTML5 y CSS. (Puedes hacerte una idea del nivel de simplicidad de nuestro código
+web en: [enalce repositorio github]).
+
+Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.
+
+*** Se proporcionará formación en todos los lenguajes mencionados. Este es un puesto para formarse y aprender jugando
+con el código. 
+
+Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
+largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).
+
+Duración de la colaboración: hasta el 1 de Octubre de 2020.
+
+
+	Todas las aptitudes mencionadas son súper necesarias en ciencia estos días. (así que se pueden entrenar, etc.)
+
+
+<p>
   <div class="column">
      <h2 class="center">Comité de Administración Web y Herramientas Digitales</h2>
      <p class="light" align="justify">¿Te gusta trastear con código para ver hasta dónde puedes llegar? ¿Estás interesad@ en aprender programación web y de apps? ¡Entonces éste es tu sitio!</p>
@@ -36,5 +83,5 @@ Duración de la colaboración: hasta el 1 de Octubre de 2020.
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
       </div>
     </div>
-</div>
--->
+</p>
+
