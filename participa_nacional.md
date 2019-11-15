@@ -1,9 +1,9 @@
-
-
-
-
-
-
+---
+layout: page
+title: Participa en el Grupo de Estudiantes a nivel nacional
+permalink: /participa_nacional/
+redirect_from:
+---
 
 Encuentra abajo la oportunidad que más encaje contigo. 
 
