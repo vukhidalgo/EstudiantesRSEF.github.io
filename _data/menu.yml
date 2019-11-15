@@ -23,8 +23,8 @@
 #   url: https://physicathon.org
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
- - text: <strong>¡Colabora!</strong>
-   url: /colabora/
+ - text: <strong>¡Participa!</strong>
+   url: /participa/
 #   subitems:
 #    - text: Delegaciones
 #      url: /delegaciones/
