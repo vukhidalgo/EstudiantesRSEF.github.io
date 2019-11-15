@@ -30,7 +30,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
    <div class="row">
       <div class="col s12 m6">
-         <div class="row right">
+         <div class="row center">
            <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Estoy interesad@!</a>
          </div>
       </div>
@@ -59,7 +59,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 <p>** Este cargo colaborará estrechamente con el/la redactor/a de contenido web y RRSS.</p>
     <div class="row">
        <div class="col s12 m6">
-          <div class="row right">
+          <div class="row center">
             <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
           </div>
        </div>
@@ -88,8 +88,8 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
    <div class="row">
      <div class="col s12 m6">
-        <div class="row right">
-          <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
+        <div class="row center">
+          <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Soy casi hacker!</a>
         </div>
      </div>
    </div>  
