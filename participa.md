@@ -30,7 +30,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <div class="row">
    <div style="text-align:right;">
-	   <a class="waves-effect waves-light btn-large" href="">¡Estoy interesad@!</a>
+	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Estoy interesad@!</a>
    </div>
 </div>
    
@@ -57,7 +57,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <div class="row">
    <div style="text-align:right;">
-	   <a class="waves-effect waves-light btn-large" href="">¡Quiero participar!</a>
+	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Community Manager RRSS]">¡Quiero participar!</a>
    </div>
 </div>
 
@@ -85,7 +85,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <div class="row">
    <div style="text-align:right;">
-	   <a class="waves-effect waves-light btn-large" href="">¡Soy casi hacker!</a>
+	   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Programador/a Web]">¡Soy casi hacker!</a>
    </div>
 </div>
    
