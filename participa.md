@@ -12,21 +12,21 @@ En esta sección te contamos todas las formas que tienes para participar en la v
   <li class="collection-item">
     <strong>Redactor/a de contenido web y de RRSS</strong>
 
-Responsabilidad de: Comité de Relaciones Públicas.
+<p>Responsabilidad de: Comité de Relaciones Públicas.</p>
 
-Tareas que llevar a cabo: Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias
-de becas, eventos, efemérides científicas, etc. 
+<p>Tareas que llevar a cabo: Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias
+de becas, eventos, efemérides científicas, etc.</p>
 
-Habilidades / Conocimientos necesarios: Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita
+<p>Habilidades / Conocimientos necesarios: Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita
 (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y 
-proactividad. Capacidad de autocrítica constructiva.
+proactividad. Capacidad de autocrítica constructiva.</p>
 
-Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
-largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).
+<p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
+largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-Duración de la colaboración: hasta el 1 de Octubre de 2020.
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
 
-** Este cargo colaborará estrechamente con el Community Manager del Grupo.
+<p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
 
    <div style='float: right;'>
       <a href="{{ site.url }}/about/" id="about-button" class="btn-large waves-effect waves-light">¡Quiero participar!</a>
