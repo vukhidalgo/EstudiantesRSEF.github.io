@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evita Spam
+title: Evita que nuestro emails se archiven como SPAM
 permalink: /spam/
 redirect_from:
 ---
@@ -21,7 +21,7 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
 <!-- <div class="carousel">
   {% for image in site.static_files %}{% if image.path contains page.gallery1 %}
   <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
-  {% endfor %}
+  {% endfor %}{% endif %}
 </div> -->
 
 ## Si usas Outlook (msn, hotmail, etc)
@@ -34,6 +34,6 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
 <!-- <div class="carousel">
   {% for image in site.static_files %}{% if image.path contains page.gallery2 %}
   <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
-  {% endfor %}
+  {% endfor %}{% endif %}
 </div> -->
 
