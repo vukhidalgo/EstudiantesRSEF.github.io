@@ -5,7 +5,7 @@ permalink: /participa_nacional/
 redirect_from:
 ---
 
-Encuentra abajo la oportunidad que más encaje contigo. 
+Encuentra abajo la oportunidad que más encaje contigo. ;)
 
 ## Oportunidades
 
