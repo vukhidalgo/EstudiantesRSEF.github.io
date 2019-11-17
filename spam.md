@@ -2,7 +2,7 @@
 layout: page
 title: Evita que nuestro emails se archiven como SPAM
 permalink: /spam/
-gallery1:
+gallery1: /img/NoMoreSpamGuideGmail/
 redirect_from:
 ---
 
