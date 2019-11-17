@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cómo evitar que los correos del Grupo se almacenen en la carpeta de Spam.
+title: Cómo evitar que los correos del Grupo se almacenen en la carpeta de Spam
 permalink: /spam/
 gallery1: NoMoreSpamGuideGmail
 gallery2: NoMoreSpamGuideOutlook
