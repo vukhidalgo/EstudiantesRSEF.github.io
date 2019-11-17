@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guía para evitar que los correos del Grupo se almacenen en la carpeta de Spam.
-permalink: /no_more_spam/
+title: Cómo evitar que los correos del Grupo se almacenen en la carpeta de Spam.
+permalink: /spam/
 gallery1: NoMoreSpamGuideGmail
 gallery2: NoMoreSpamGuideOutlook
 redirect_from:
