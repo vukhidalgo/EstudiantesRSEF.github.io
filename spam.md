@@ -18,11 +18,14 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
   
   Guía visual:
   
-<!-- <div class="carousel">
-  {% for image in site.static_files %}{% if image.path contains page.gallery1 %}
-  <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
-  {% endfor %}{% endif %}
-</div> -->
+   {% if page.gallery != nil %}
+   
+   <div class="carousel">
+      {% for image in site.static_files %}{% if image.path contains page.gallery %}
+      <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
+      {% endif %}{% endfor %}
+    </div>
+    {% endif %}
 
 ## Si usas Outlook (msn, hotmail, etc)
 
@@ -31,9 +34,5 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
   
   Guía visual:
   
-<!-- <div class="carousel">
-  {% for image in site.static_files %}{% if image.path contains page.gallery2 %}
-  <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
-  {% endfor %}{% endif %}
-</div> -->
+
 
