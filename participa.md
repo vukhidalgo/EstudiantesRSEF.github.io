@@ -18,13 +18,16 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
          <div class="icon-block">
            <ul class="collection">
              <li class="collection-item">
-    <strong>Miembro Estudiante Júnior</strong>: si eres estudiante universitario/a menor de 25 años, acreditando estudios, se te aplicará una cuota de <strong>10 €/año</strong>.
+                Involucrarse en la vida universitaria
              </li>
              <li class="collection-item">
-    <strong>Miembro Estudiante Sénior</strong>: si eres estudiante universitario/a con 25 años o más, pero menos de 30, acreditando estudios, se te aplicará una cuota de 30€/año.
+                Introducirse en el mundo de la investigación (conociendo a profesor@s a raíz de actividades organizadas con ellos, etc)
              </li>
              <li class="collection-item">
-    <strong>Medallas de oro de la Olimpíada Española de Física</strong>: la membresía del primer año a partir del cual recibes la medalla es completamente <strong>gratuita</strong>. El año siguiente a partir del cual te hayas hecho miembro de la RSEF, pasarías a ser Miembro Estudiante Júnior, con su correspondiente cuota anual de 10 €/año.
+                Introducirse a la divulgación científica
+             </li>
+             <li class="collection-item">
+                
              </li>
            </ul>
          </div>
@@ -33,13 +36,13 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
         <div class="icon-block">
            <ul class="collection">
              <li class="collection-item">
-    <strong>Miembro Estudiante Júnior</strong>: si eres estudiante universitario/a menor de 25 años, acreditando estudios, se te aplicará una cuota de <strong>10 €/año</strong>.
+             Ampliar el Currículum Vitae
              </li>
              <li class="collection-item">
-    <strong>Miembro Estudiante Sénior</strong>: si eres estudiante universitario/a con 25 años o más, pero menos de 30, acreditando estudios, se te aplicará una cuota de 30€/año.
+             Empezar a crear una red de contactos propia
              </li>
              <li class="collection-item">
-    <strong>Medallas de oro de la Olimpíada Española de Física</strong>: la membresía del primer año a partir del cual recibes la medalla es completamente <strong>gratuita</strong>. El año siguiente a partir del cual te hayas hecho miembro de la RSEF, pasarías a ser Miembro Estudiante Júnior, con su correspondiente cuota anual de 10 €/año.
+             Conseguir oportunidades laborales (de investigación y en empresa)
              </li>
            </ul>
         </div>
