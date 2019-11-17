@@ -30,7 +30,7 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
                 Introducirse en el mundo de la investigación
              </li>
              <li class="collection-item">
-                blabla
+                Organizar charlas, excursiones, etc, en el entorno universitario
              </li>
            </ul>
          </div>
@@ -42,10 +42,13 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
              Ampliar el Currículum Vitae
              </li>
              <li class="collection-item">
-             Empezar a crear una red de contactos propia
+                Empezar a crear una red de contactos propia
              </li>
              <li class="collection-item">
-             Conseguir oportunidades laborales (de investigación y en empresa)
+                Conseguir oportunidades laborales (de investigación y en empresa)
+             </li>
+             <li class="collection-item">
+                Adquirir y practicar la capacidad de liderazgo, y soft-skills como el trabajo en equipo, la creatividad, la capacidad de negociación o la gestión del tiempo.
              </li>
            </ul>
         </div>
@@ -54,5 +57,4 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
   </div>
 </div>
 
-
-
+Todas estas motivaciones que, si se analizan detenidamente, están estrechamente relacionadas con mejorar ciertas habilidades personales muy demandas tanto en investigación como en empresa, son las que hacen que asdasda tiren pa lante.
