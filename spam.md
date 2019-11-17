@@ -15,28 +15,25 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
 
 ## Si usas Gmail
 
-- Abre los contactos.
+<p>- Abre los contactos.</p>
   
-- Importa el .vcf descargado
+<p>- Importa el .vcf descargado</p>
   
-  Guía visual:
-  
-   {% if page.gallery1 != nil %}
+<strong>Guía gráfica:</strong>
    
    <div class="carousel">
       {% for image in site.static_files %}{% if image.path contains page.gallery1 %}
       <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
       {% endif %}{% endfor %}
     </div>
-    {% endif %}
 
 ## Si usas Outlook (msn, hotmail, etc)
 
-  - Abre los contactos (abajo a la izquierda)
+<p>- Abre los contactos (abajo a la izquierda)</p>
   
-  - Importa el.vcf descargado (arriba a la derecha)
+<p>- Importa el.vcf descargado (arriba a la derecha)</p>
   
-  <p>Guía visual:</p>
+<strong>Guía gráfica:</strong>
   
 <div class="carousel">
    {% for image in site.static_files %}{% if image.path contains page.gallery2 %}
