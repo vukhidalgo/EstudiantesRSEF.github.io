@@ -8,3 +8,6 @@ En esta sección te contamos todas las formas que tienes para participar en la v
 
 ## ¿Por qué participar en el Grupo de Estudiantes?
 
+El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estudiantes de física. Todos los miembros que forman parte de la Junta de Gobierno del GdeE, o que colaboran con ella, contribuyen al cumplimiento de los objetivos del Grupo de manera voluntaria, sin recibir remuneración alguna por su esfuerzo. Entonces, te preguntarás, ¿qué les motiva a invertir su tiempo? Y esa es una muy buena pregunta. Algunas de las motivaciones personales de los colaboradores o miembros de la Junta de Gobierno del Grupo son:
+
+
