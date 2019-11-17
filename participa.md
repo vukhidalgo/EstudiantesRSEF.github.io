@@ -21,10 +21,13 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
                 Involucrarse en la vida universitaria
              </li>
              <li class="collection-item">
-                Introducirse en el mundo de la investigación (conociendo a profesor@s a raíz de actividades organizadas con ellos, etc)
+                Conocer gente nueva
              </li>
              <li class="collection-item">
-                Introducirse a la divulgación científica
+                Introducirse en la divulgación científica
+             </li>
+             <li class="collection-item">
+                Introducirse en el mundo de la investigación
              </li>
              <li class="collection-item">
                 
