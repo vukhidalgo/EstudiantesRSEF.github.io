@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cómo evitar que los correos del Grupo se almacenen en la carpeta de Spam
+title: Evita Spam
 permalink: /spam/
 redirect_from:
 ---
