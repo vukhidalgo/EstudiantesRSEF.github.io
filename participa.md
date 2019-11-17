@@ -30,7 +30,7 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
                 Introducirse en el mundo de la investigación
              </li>
              <li class="collection-item">
-                
+                blabla
              </li>
            </ul>
          </div>
