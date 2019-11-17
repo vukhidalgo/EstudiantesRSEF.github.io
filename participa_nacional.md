@@ -5,7 +5,7 @@ permalink: /participa_nacional/
 redirect_from:
 ---
 
-Encuentra abajo la oportunidad que más encaje contigo. ;)
+Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa en estudiantes@rsef.es). ¡Te esperamos!
 
 ## Oportunidades
 
@@ -72,7 +72,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 <p>Tareas que llevar a cabo: mantenimiento, actualización y propuesta de mejora del código y contenido de la web del Grupo.</p>
 
 <p>Habilidades / Conocimientos necesarios: HTML5 y CSS. (Puedes hacerte una idea del nivel de simplicidad de nuestro código
-web aquí[https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io]).</p>
+web <a href="https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io">visitando nuestro repositorio</a>.</p>
 
 <p>Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.</p>
 
@@ -93,4 +93,4 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
   </li>
 </ul>
 
-<!-- Todas las aptitudes mencionadas son súper necesarias en ciencia estos días. (así que se pueden entrenar, etc.) -->  
+¿Tienes ganas de colaborar con nosotros pero no has encontrado una oportunidad que encaje contigo? ¡Entonces genial! Eso significa que puedes ayudar a crecer al Grupo en otros ámbitos que tal vez no nos hemos planteado. ¿Qué te parece si nos envías un correo a estudiantes@rsef.es y lo hablamos? ;)
