@@ -3,6 +3,7 @@ layout: page
 title: Evita que nuestros emails se archiven como SPAM
 permalink: /spam/
 gallery1: /img/NoMoreSpamGuideGmail/
+gallery2: /img/NoMoreSpamGuideOutlook/
 redirect_from:
 ---
 
@@ -14,8 +15,9 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
 
 ## Si usas Gmail
 
-  - Abre los contactos.
-  - Importa el .vcf descargado
+- Abre los contactos.
+  
+- Importa el .vcf descargado
   
   Guía visual:
   
@@ -31,9 +33,16 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
 ## Si usas Outlook (msn, hotmail, etc)
 
   - Abre los contactos (abajo a la izquierda)
+  
   - Importa el.vcf descargado (arriba a la derecha)
   
-  Guía visual:
+  <p>Guía visual:</p>
+  
+<div class="carousel">
+   {% for image in site.static_files %}{% if image.path contains page.gallery2 %}
+   <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
+   {% endif %}{% endfor %}
+</div>
   
 
 
