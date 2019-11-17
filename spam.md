@@ -2,6 +2,7 @@
 layout: page
 title: Evita que nuestro emails se archiven como SPAM
 permalink: /spam/
+gallery1:
 redirect_from:
 ---
 
@@ -18,10 +19,10 @@ A continuación te ofrecemos una breve guía para que los emails que recibas del
   
   Guía visual:
   
-   {% if page.gallery != nil %}
+   {% if page.gallery1 != nil %}
    
    <div class="carousel">
-      {% for image in site.static_files %}{% if image.path contains page.gallery %}
+      {% for image in site.static_files %}{% if image.path contains page.gallery1 %}
       <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
       {% endif %}{% endfor %}
     </div>
