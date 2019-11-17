@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evita que nuestro emails se archiven como SPAM
+title: Evita que nuestros emails se archiven como SPAM
 permalink: /spam/
 gallery1: /img/NoMoreSpamGuideGmail/
 redirect_from:
