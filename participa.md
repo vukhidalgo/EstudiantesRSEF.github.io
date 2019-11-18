@@ -55,7 +55,7 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
       </div>
         <ul class="collection">
          <li class="collection-item">
-            Apoyar los fines de la Real Sociedad Española de Física, una entidad sin ánimo de lucro en que ninguno de sus responsables - a ningún nivel - cobra salario por el tiempo que invierte en ella. En lugar de eso, todos los responsables de la Real Sociedad entienden que su esfuerzo para con la RSEF forma parte de su papel como ciudadan@s activos de la sociedad española, y que sólo creciendo en número de miembros - y, en particular, de miembros activamente involucrados - seremos capaces de promocionar y defender el papel y la posición de la física en nuestro país (y eso incluye la calidad de tus estudios, de tu formación complementaria y de tus oportunidades de empleo)
+            Apoyar los fines de la Real Sociedad Española de Física, una entidad sin ánimo de lucro en que ninguno de sus responsables - a ningún nivel - cobra salario por el tiempo que invierte en ella. En lugar de eso, todos los responsables de la Real Sociedad entienden que su esfuerzo para con la RSEF forma parte de su papel como ciudadan@s activos de la sociedad española, y que sólo creciendo en número de miembros - y, en particular, de miembros activamente involucrados - seremos capaces de promocionar y defender el papel y la posición de la física en nuestro país (y eso incluye la calidad de tus estudios, de tu formación complementaria y de tus oportunidades de empleo...)
          </li>
         </ul>
     </div>
