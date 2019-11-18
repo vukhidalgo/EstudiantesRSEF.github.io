@@ -94,3 +94,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 </ul>
 
 ¿Tienes ganas de colaborar con nosotros pero no has encontrado una oportunidad que encaje contigo? ¡Entonces genial! Eso significa que puedes ayudar a crecer al Grupo en otros ámbitos que tal vez no nos hemos planteado. ¿Qué te parece si nos envías un correo a estudiantes@rsef.es y lo hablamos? ;)
+
+<div class="row center">
+	<a href="{{ site.url }}/participa/" id="iaps-button" class="btn-large waves-effect waves-light">Volver a PARTICIPA</a>
+</div>
