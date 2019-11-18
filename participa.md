@@ -61,7 +61,6 @@ El Grupo de Estudiantes (GdeE) es la rama de la RSEF organizada por y para estud
     </div>
   </div>
 </div>
-
 Todas estas motivaciones que, si se analizan detenidamente, están estrechamente relacionadas con mejorar ciertas habilidades personales muy demandas tanto en investigación como en empresa, son las que llevan a los responsables del Grupo a seguir adelante con su tarea.
 
 Así que... Tú, ¿con cuál te quedas? Tanto si lo has decidido ya como si no, deja que te descubramos las <strong>oportunidades de voluntariado que ofrecemos en el Grupo de Estudiantes:</strong>
