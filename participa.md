@@ -80,8 +80,6 @@ Por cierto! Arriba no te hemos contado la única motivación que es común a tod
 
 <div class="container">
    <div class="section">
-     <!--   Icon Section   -->
-     <div class="row">
        <div class="col s12 m6">
          <div class="icon-block">
             <ul class="collection">
@@ -93,4 +91,4 @@ Por cierto! Arriba no te hemos contado la única motivación que es común a tod
         </div>
       </div>
    </div>
-</div>
+
