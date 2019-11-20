@@ -75,6 +75,7 @@ Así que... Tú, ¿con cuál te quedas? Tanto si lo has decidido ya como si no, 
       </div>
    </div>
 </div>
+   </div>
    
 Por cierto! Arriba no te hemos contado la única motivación que es común a todos los responsables del Grupo, y también de toda la RSEF, que es:
 
