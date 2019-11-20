@@ -62,34 +62,34 @@ Así que... Tú, ¿con cuál te quedas? Tanto si lo has decidido ya como si no, 
 
 <div class="container">
    <div class="section">
-     <div class="row">
-        <div class="col s12 m6">
-           <div class="row center">
-              <a href="{{ site.url }}/participa_nacional/" id="about-button" class="btn-large waves-effect waves-light">A nivel nacional</a>
-           </div>
-        </div>
-      <div class="col s12 m6">
-         <div class="row center">
-            <a href="{{ site.url }}/participa_local/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
+      <div class="row">
+         <div class="col s12 m6">
+            <div class="row center">
+               <a href="{{ site.url }}/participa_nacional/" id="about-button" class="btn-large waves-effect waves-light">A nivel nacional</a>
+            </div>
+         </div>
+         <div class="col s12 m6">
+            <div class="row center">
+               <a href="{{ site.url }}/participa_local/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
+            </div>
          </div>
       </div>
    </div>
 </div>
-   </div>
    
 Por cierto! Arriba no te hemos contado la única motivación que es común a todos los responsables del Grupo, y también de toda la RSEF, que es:
 
 <div class="container">
    <div class="section">
-       <div class="col s12 m6">
+      <div class="col s12 m6">
          <div class="icon-block">
             <ul class="collection">
                <li class="collection-item">
                   Apoyar los fines de la Real Sociedad Española de Física, una entidad sin ánimo de lucro en que ninguno de sus responsables - a ningún nivel - cobra salario por el tiempo que invierte en ella. En lugar de eso, todos los responsables de la Real Sociedad entienden que su esfuerzo para con la RSEF forma parte de su papel como ciudadan@s activos de la sociedad española, y que sólo creciendo en número de miembros - y, en particular, de miembros activamente involucrados - seremos capaces de promocionar y defender el papel y la posición de la física en nuestro país (y eso incluye la calidad de tus estudios, de tu formación complementaria, de tus oportunidades de empleo...)
                </li>
             </ul>
-          </div>
-        </div>
+         </div>
       </div>
    </div>
+</div>
 
