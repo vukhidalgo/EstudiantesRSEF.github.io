@@ -77,7 +77,7 @@ Así que... Tú, ¿con cuál te quedas? Tanto si lo has decidido ya como si no, 
    </div>
 </div>
    
-Por cierto! Arriba no te hemos contado la única motivación que es común a todos los responsables del Grupo, y también de toda la RSEF, que es:
+¡Por cierto! Arriba no te hemos contado la única motivación que es común a todos los responsables, tanto del Grupo como del resto de la RSEF, y de verdad creemos que es importante que la conozcas:
 
 <div class="container">
    <div class="section">
