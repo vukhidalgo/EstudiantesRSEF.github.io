@@ -21,10 +21,15 @@
        url: /eventonacional/
 # - text: Physicathon 2020 (Próximamente en UCM y Unizar)
 #   url: https://physicathon.org
+ - text: <strong>¡Participa!</strong>
+   url: /participa
+ #  subitems:
+ #    - text: A nivel nacional
+ #      url: /participa_nacional/
+ #    - text: Eventos Nacionales
+ #      url: /participa_local/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
-# - text: <strong>¡Colabora!</strong>
-#   url: /colabora/
 #   subitems:
 #    - text: Delegaciones
 #      url: /delegaciones/
@@ -32,5 +37,5 @@
 #      url: /blog/
 # - text: PLANCKS 2019
 #   url: /blog/2019/05/20/PLANCKS2019Results/
- - text: ICPS 2019
-   url: /eventointernacional/2019/08/10/ICPS2019/
+# - text: ICPS 2019
+#   url: /eventointernacional/2019/08/10/ICPS2019/
