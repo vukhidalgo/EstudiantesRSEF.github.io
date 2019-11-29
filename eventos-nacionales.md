@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eventos Nacionales
-permalink: /eventonacional/
+permalink: /eventos-nacionales/
 ---
 
 
@@ -9,7 +9,7 @@ permalink: /eventonacional/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
-{% if event.date >= site.time and event.categories contains "eventonacional" %}
+{% if event.date >= site.time and event.categories contains "eventos-nacionales" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">
@@ -20,7 +20,7 @@ permalink: /eventonacional/
 	    {% if event.poster %}
             <img style="height: 520px; object-fit: contain;" src="{{ event.poster }}" href="#{{ event.id | remove: "/" }}-modal">
         {% else %}
-            <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventonacional/IAPSposter.png">
+            <img style="height: 520px; object-fit: contain;" src="{{ site.url }}/img/eventos-nacionales/IAPSposter.png">
         {% endif %}
       </div>
       <div class="card-content">
@@ -56,7 +56,7 @@ permalink: /eventonacional/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
-{% if loopindex < 3 and event.date < site.time and event.categories contains "eventonacional" %}
+{% if loopindex < 3 and event.date < site.time and event.categories contains "eventos-nacionales" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">

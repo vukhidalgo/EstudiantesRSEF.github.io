@@ -52,7 +52,7 @@ layout: default
               {% assign loopindex = 0 %}
               {% assign array = site.events | reverse %}
               {% for event in array %}
-                {% if event.categories contains "eventonacional" or "eventointernacional" or "eventoespecial" %}
+                {% if event.categories contains "eventos-nacionales" or "eventos-internacionales" or "eventoespecial" %}
                   <li href="{{ event.site }}">
                     <a href="{{ event.site }}">
                       <img src="{{ event.cover }}" alt="{{ event.title }}">
@@ -79,7 +79,7 @@ layout: default
           </ul>
         </div>
         <div class="col s12 m5">
-		      {% include eventi_homepage.html %}
+		      {% include eventos-pagina-principal.html %}
         </div>
       </div>
     </div>
@@ -145,5 +145,5 @@ layout: default
 <!--   </div> -->
 <!-- </div> -->
 
-{% include eventi_homepage_modal.html %}
+{% include eventos-pagina-principal-modal.html %}
 {% include schema.html %}
