@@ -65,12 +65,12 @@ Así que... Tú, ¿con cuál te quedas? Tanto si lo has decidido ya como si no, 
       <div class="row">
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/participa_nacional/" id="about-button" class="btn-large waves-effect waves-light">A nivel nacional</a>
+               <a href="{{ site.url }}/participa-nacional/" id="about-button" class="btn-large waves-effect waves-light">A nivel nacional</a>
             </div>
          </div>
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/participa_local/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
+               <a href="{{ site.url }}/participa-local/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
             </div>
          </div>
       </div>

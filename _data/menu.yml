@@ -8,7 +8,7 @@
     - text: Blog
       url: /blog/
     - text: Junta de Gobierno
-      url: /juntadegobierno/
+      url: /junta-de-gobierno/
 #   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
 #     url: /delegacionesuniversitarias/
     - text: Documentos
@@ -25,9 +25,9 @@
    url: /participa
  #  subitems:
  #    - text: A nivel nacional
- #      url: /participa_nacional/
+ #      url: /participa-nacional/
  #    - text: Eventos Nacionales
- #      url: /participa_local/
+ #      url: /participa-local/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
 #   subitems:

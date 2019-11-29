@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participa en el Grupo de Estudiantes a nivel nacional
-permalink: /participa_nacional/
+permalink: /participa-nacional/
 redirect_from:
 ---
 

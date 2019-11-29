@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junta de Gobierno
-permalink: /juntadegobierno/
+permalink: /junta-de-gobierno/
 ---
 
 <div class="row">
