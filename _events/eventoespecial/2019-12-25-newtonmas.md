@@ -12,17 +12,17 @@ articolo: "-"
 site: http://www.mattdawsonillustration.com/#/new-gallery-63/
 link:
 ---
-
 <p style="text-align: justify">
   Aprovechando la oportunidad para desearos unas felices fiestas, rendimos homenaje a un hombre que cambiaría el mundo en una fría noche de invierno.
-</p>
-
-<p style="text-align: center; color=red;">
-  <strong>¡Feliz Cumpleaños Sir Isaac Newton PRS!</strong>
 </p>
 
 <img class="materialboxed" width="100%" src="/img/eventosespecial/newtonmas-tree.jpg">
 <p style="text-align: center;">
   <a href="http://www.mattdawsonillustration.com/#/new-gallery-63/">© Matthew Dawson 2019</a>
 </p>
+
+<p style="text-align: center; color=red;">
+  <strong>¡Feliz Cumpleaños Sir Isaac Newton PRS!</strong>
+</p>
+
 <img class="materialboxed" width="100%" src="/img/eventosespecial/snow.png">
