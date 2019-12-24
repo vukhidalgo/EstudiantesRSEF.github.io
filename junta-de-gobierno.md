@@ -61,8 +61,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 </ul>
 {% endif %}
 
-{% endfor %}
-
+{% if item.colaboradores-pasados != nil %}
 ## Colaboradores de cursos anteriores
 
 ### Curso 2018-2019
@@ -78,3 +77,6 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
       </li>
   {% endfor %}
 </ul>
+{% endif %}
+
+{% endfor %}
