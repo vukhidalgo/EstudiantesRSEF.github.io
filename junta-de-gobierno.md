@@ -65,6 +65,16 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 ## Colaboradores de cursos anteriores
 
-<p>Curso 2018 - 2019</p>
-<p>Alejandro Gallego Carro - Responsable de Relaciones Públicas</p>
-<p>Adrià Vicens Salomon - IAPS Representative</p>
+### Curso 2018-2019
+
+<ul class="collection">
+  {% for miembro in item.colaboradores-pasados %}
+      <li class="collection-item avatar">
+        <img src="{{ miembro.img }}" alt="" class="circle">
+        <span class="title">{{ miembro.nombre }}</span>
+        <p>
+          {{ miembro.rol }}
+        </p>
+      </li>
+  {% endfor %}
+</ul>
