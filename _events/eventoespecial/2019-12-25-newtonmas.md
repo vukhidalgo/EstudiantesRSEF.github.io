@@ -20,9 +20,9 @@ link:
   <strong>¡Feliz Cumpleaños Sir Isaac Newton PRS!</strong>
 </p>
 
-<img class="materialboxed" width="100%" src="/img/eventosespecial/2019-newtonmas/newtonmas-tree.jpg">
+<img class="materialboxed" width="100%" src="/img/eventoespecial/2019-newtonmas/newtonmas-year.jpg">
 <p style="text-align: center;">
   <a href="http://www.mattdawsonillustration.com/#/new-gallery-63/">© Matthew Dawson 2019</a>
 </p>
 
-<img class="materialboxed" width="100%" src="/img/eventosespecial/2019-newtonmas/snow.png">
+<img class="materialboxed" width="100%" src="/img/eventoespecial/2019-newtonmas/snow.png">
