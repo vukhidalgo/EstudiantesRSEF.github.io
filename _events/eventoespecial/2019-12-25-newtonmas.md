@@ -3,7 +3,7 @@ layout: event
 categories: eventoespecial
 title: "Newtonmas"
 startingdate: 2019-12-25 # Birth date in Julian Calendar
-endingdate: 2020-12-04 # Birth date in Gregorian Calendar
+endingdate: 2020-01-04 # Birth date in Gregorian Calendar
 #CL: Woolsthorpe Manor, UK
 #place: Woolsthorpe Manor, UK
 locandina: /img/eventoespecial/2019-newtonmas/newtonmas.jpg
