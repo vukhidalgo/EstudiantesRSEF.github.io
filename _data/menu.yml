@@ -8,7 +8,7 @@
     - text: Blog
       url: /blog/
     - text: Junta de Gobierno
-      url: /juntadegobierno/
+      url: /junta-de-gobierno/
 #   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
 #     url: /delegacionesuniversitarias/
     - text: Documentos
@@ -16,18 +16,18 @@
  - text: Eventos
    subitems:
      - text: Eventos Globales
-       url: /eventointernacional/
+       url: /eventos-internacionales/
      - text: Eventos Nacionales
-       url: /eventonacional/
+       url: /eventos-nacionales/
 # - text: Physicathon 2020 (Próximamente en UCM y Unizar)
 #   url: https://physicathon.org
  - text: <strong>¡Participa!</strong>
    url: /participa
  #  subitems:
  #    - text: A nivel nacional
- #      url: /participa_nacional/
+ #      url: /participa-nacional/
  #    - text: Eventos Nacionales
- #      url: /participa_local/
+ #      url: /participa-local/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
 #   subitems:
@@ -38,4 +38,4 @@
 # - text: PLANCKS 2019
 #   url: /blog/2019/05/20/PLANCKS2019Results/
 # - text: ICPS 2019
-#   url: /eventointernacional/2019/08/10/ICPS2019/
+#   url: /eventos-internacionales/2019/08/10/ICPS2019/

@@ -1,6 +1,6 @@
 ---
 layout: event
-categories: eventointernacional
+categories: eventos-internacionales
 title:  "iaps@GranSasso"
 startingdate: 2015-05-05
 endingdate: 2015-05-09

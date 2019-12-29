@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participa en el Grupo de Estudiantes a nivel local
-permalink: /participa_local/
+permalink: /participa-local/
 redirect_from:
 ---
 

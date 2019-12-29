@@ -59,7 +59,7 @@ ___
 
 * Corregido el error 20190505.2a.
 * Menú funcional y rediseñado ligeramente con entradas ocultas para futuros grandes eventos.
-* Para evitar confusiones, los eventosnacionales pasan a ser eventointernacional, así como los eventilocale pasan a ser eventonacional. Los specialevent pasan a ser eventoespecial.
+* Para evitar confusiones, los eventosnacionales pasan a ser eventos-internacionales, así como los eventilocale pasan a ser eventos-nacionales. Los specialevent pasan a ser eventoespecial.
 * **BUG 20190506.2a** Banner lateral para dispositivos móviles funciona cambiando el logo central de index pero no en el caso para el nuevo logo creado solo para ello. Indagaré en el banner.html para poder separar la vinculación.
 * Sistema de versionado creado a base de fechas, seguido por el número de modificación en el mismo día y en el caso de existir error, se añade una letra por orden de importancia.
 

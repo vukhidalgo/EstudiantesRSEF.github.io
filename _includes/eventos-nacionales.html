@@ -1,7 +1,7 @@
 
 <ul class="collection">
   {% for event in site.events reversed limit:npassati %}
-    {% if event.categories contains "eventonacional" %}
+    {% if event.categories contains "eventos-nacionales" %}
       <a class="collection-item modal-trigger aisf-text text-darken-2" href="#{{ event.id | remove: "/" }}-modal">
         <div class="row" style="margin:0">
           <div class="col s12 m8">{{ event.title }}</div>

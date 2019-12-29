@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nueva Delegación
-permalink: /nuevadelegacion/
+permalink: /nueva-delegacion/
 ---
 
 _Las Delegaciones del Grupo de Estudiantes de la Real Sociedad Española de Física agrupan a los miembros del Grupo de una universidad / centro de investigación que consideren conveniente asociarse para el mejor cumplimiento de los fines del Grupo en dicha universidad / centro de investigación y su ámbito local._
