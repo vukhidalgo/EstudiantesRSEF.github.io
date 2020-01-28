@@ -2,13 +2,13 @@
 layout: event
 categories: eventos-internacionales
 title:  "PLANCKS 2019 - Preliminares"
-startingdate: 2019-03-01
-endingdate: 2019-03-01
-place: España, Portugal
+startingdate: 2019-03-06
+endingdate: 2019-03-06
+place: España
 locandina: /img/eventos/2019-PLANCKS/Plancks2019.jpg
 cover: /img/eventos/2019-PLANCKS/Plancks2019.jpg
 gallery:
-site: http://www.plancks-2019.sdu.dk
+site: https://www.plancks.uk/london2020
 ---
 <p style="text-align: justify;">
 El próximo <strong>viernes 6 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2020.
