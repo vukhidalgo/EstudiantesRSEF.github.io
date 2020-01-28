@@ -41,7 +41,7 @@ Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen
 </h3>
 
 <p style="text-align: justify;">
-Por cierto, ¿habíamos mencionado ya que hace tres años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
+Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
 </p>
 
 <p style="text-align: justify;">
