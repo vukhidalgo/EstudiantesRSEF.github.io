@@ -45,7 +45,8 @@ Por cierto, ¿habíamos mencionado ya que hace tres años fue un equipo español
 </p>
 
 <p style="text-align: justify;">
-En caso de que queráis entrenaros con las pruebas de años anteriores, <a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">podéis encontrarlas aquí</a>.
+<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, 
+<a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">podéis encontrarlas aquí</a>.
 </p>
 
 <p style="text-align: justify;">
