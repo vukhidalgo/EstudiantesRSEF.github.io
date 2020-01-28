@@ -1,0 +1,56 @@
+---
+layout: event
+categories: eventos-internacionales
+title:  "PLANCKS 2020 - Preliminares"
+startingdate: 2020-03-06
+endingdate: 2020-03-06
+place: España
+locandina: /img/eventos/2020-PLANCKS/Plancks2020.jpg
+cover: /img/eventos/2020-PLANCKS/Plancks2020.jpg
+gallery:
+site: https://www.plancks.uk/london2020
+---
+<p style="text-align: justify;">
+El próximo <strong>viernes 6 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2020.
+</p>
+
+<p style="text-align: justify;">
+PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición
+internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. La prueba tiene lugar en un país distinto cada año, y se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. En la edición de 2020, por ejemplo, ¡una boat party y una bbq party están aseguradas!
+
+Este año, la <strong>prueba final</strong> tendrá lugar en <strong>Londres del 8 al 10 de mayo</strong> (pudiendo los participantes ampliar su estancia opcionalmente durante el 7 y el 11 de mayo), y entre los speakers invitados se encuentra el <a href="https://en.wikipedia.org/wiki/Jon_Butterworth">Prof. Jon Butterworth</a>, por ejemplo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las preliminares que organizamos a nivel nacional. 
+
+<p style="text-align: justify;">
+Este será el tercer año en que España organice unas preliminares nacionales para esta gran competición, que consistirán en un conjunto
+de <strong>4 problemas</strong> que habrá que resolver en <strong>2 horas</strong> durante la tarde del viernes 6 de marzo (los horarios
+podrán variar entre facultades: de 15:00h a 17:00h (turno 1) y de 16:00h a 18:00h (turno 2)). Esta primera fase nacional nos permitirá
+seleccionar a los 2 mejores equipos (3 si en la preliminar participaran más de 14 agrupaciones) para que nos representen en la
+competición internacional, o a los 3 mejores en el caso de que concurran a las preliminares más de 14 equipos en total, a nivel
+nacional.
+</p>
+
+<p style="text-align: justify;">
+Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes:
+<center>¡Incríbete aquí!</center>
+</p>
+
+<p style="text-align: justify;">
+Por cierto, ¿habíamos mencionado ya que hace tres años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
+</p>
+
+<p style="text-align: justify;">
+En caso de que queráis entrenaros con las pruebas de años anteriores, <a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">podéis encontrarlas aquí</a>.
+</p>
+
+<p style="text-align: justify;">
+<strong>DISCLAIMER</strong> | Todos los participantes han de comprometerse a cumplir: 
+las <a href="https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf">reglas generales de Plancks</a>
+y las <a href="http://www.plancks-2019.sdu.dk/files/AdditionGeneralPLANCKSrules.pdf">reglas añadidas en la edición 2019</a>,
+además del <a href="http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf">IAPS Code of Conduct</a>, y
+las <a href="http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf">IAPS Terms and Conditions</a>.
+</p>
+
+<p style="text-align: justify;">
+Y habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico
+en modo alguno.
+</p>
