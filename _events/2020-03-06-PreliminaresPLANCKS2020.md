@@ -34,8 +34,12 @@ nacional.
 
 <p style="text-align: justify;">
 Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes:
-<center>¡Incríbete aquí!</center>
 </p>
+<h3 style="text-align: center;">
+  <span style="color: #3366ff;">
+    <a href="">¡Inscríbete aquí!</a>
+  </span>
+</h3>
 
 <p style="text-align: justify;">
 Por cierto, ¿habíamos mencionado ya que hace tres años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
