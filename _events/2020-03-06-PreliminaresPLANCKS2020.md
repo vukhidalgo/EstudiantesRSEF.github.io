@@ -17,8 +17,11 @@ El próximo <strong>viernes 6 de marzo</strong> se celebrarán en España las Pr
 <p style="text-align: justify;">
 PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición
 internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. La prueba tiene lugar en un país distinto cada año, y se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. En la edición de 2020, por ejemplo, ¡una boat party y una bbq party están aseguradas!
+</p>
 
+<p style="text-align: justify;">
 Este año, la <strong>prueba final</strong> tendrá lugar en <strong>Londres del 8 al 10 de mayo</strong> (pudiendo los participantes ampliar su estancia opcionalmente durante el 7 y el 11 de mayo), y entre los speakers invitados se encuentra el <a href="https://en.wikipedia.org/wiki/Jon_Butterworth">Prof. Jon Butterworth</a>, por ejemplo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las preliminares que organizamos a nivel nacional. 
+</p>
 
 <p style="text-align: justify;">
 Este será el tercer año en que España organice unas preliminares nacionales para esta gran competición, que consistirán en un conjunto
