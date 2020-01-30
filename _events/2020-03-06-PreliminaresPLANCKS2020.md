@@ -10,6 +10,9 @@ cover: /img/eventos/2020-PLANCKS/PLANCKS2020.png
 gallery:
 site: https://www.plancks.uk/london2020
 ---
+
+<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/PLANCKS2020.png">
+
 <p style="text-align: justify;">
 El próximo <strong>viernes 6 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2020.
 </p>
@@ -20,7 +23,7 @@ internacional de física teórica para equipos de tres a cuatro estudiantes de g
 </p>
 
 <p style="text-align: justify;">
-Este año, la <strong>prueba final</strong> tendrá lugar en <strong>Londres del 8 al 10 de mayo</strong> (pudiendo los participantes ampliar su estancia opcionalmente durante el 7 y el 11 de mayo), y entre los speakers invitados se encuentra el <a href="https://en.wikipedia.org/wiki/Jon_Butterworth">Prof. Jon Butterworth</a>, por ejemplo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las preliminares que organizamos a nivel nacional. 
+Este año, la <strong>prueba final</strong> tendrá lugar en <strong>Londres del 8 al 10 de mayo</strong> (pudiendo los participantes ampliar su estancia opcionalmente durante el 7 y el 11 de mayo), y entre los speakers invitados se encuentra el <a href="https://en.wikipedia.org/wiki/Jon_Butterworth">Prof. Jon Butterworth</a>, por ejemplo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las preliminares que organizamos a nivel nacional.
 </p>
 
 <p style="text-align: justify;">
@@ -49,12 +52,12 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
 </p>
 
 <p style="text-align: justify;">
-<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, 
+<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores,
 <a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">podéis encontrarlas aquí</a>.
 </p>
 
 <p style="text-align: justify;">
-<strong>DISCLAIMER</strong> | Todos los participantes han de comprometerse a cumplir: 
+<strong>DISCLAIMER</strong> | Todos los participantes han de comprometerse a cumplir:
 las <a href="https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf">reglas generales de Plancks</a>,
 además del <a href="http://www.iaps.info/wp-content/uploads/2016/09/Code-of-Conduct_2016-1.pdf">IAPS Code of Conduct</a>, y
 las <a href="http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf">IAPS Terms and Conditions</a>. Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico
