@@ -56,8 +56,8 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
 <a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">podéis encontrarlas aquí</a>.
 </p>
 
-<div style="background-color:black;color:white;padding:20px;text-align: justify;">
-  <center>
+<div style="background-color:black;color:white;padding:20px;">
+  <justify>
     <em>
       <strong>DISCLAIMER</strong> | Todos los participantes han de comprometerse a cumplir:
       las <a href="https://www.iaps.info/wp-content/uploads/2016/09/PLANCKS_rules.pdf">reglas generales de Plancks</a>,
@@ -65,5 +65,5 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
       las <a href="http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf">IAPS Terms and Conditions</a>.
       Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
     </em>
-  </center>
+  </justify>
 </div>
