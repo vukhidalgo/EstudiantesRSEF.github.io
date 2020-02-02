@@ -62,7 +62,7 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
       <strong>DISCLAIMER</strong> | Todos los participantes:
     </em>
     <em>
-      - Declaran conocer que PLANCKS viene regulado por el Artículo 12 de las <a href=" https://drive.google.com/open?                           id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">reglas generales de Plancks</a>
+      - Declaran conocer que PLANCKS está regulado por el Artículo 12 de las <a href="https://drive.google.com/open? id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">IAPS Regulations</a>
     </em>
     <em>
       - Y han de comprometerse a cumplir: las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas              Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of          Conduct</a>.
