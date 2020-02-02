@@ -60,8 +60,14 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
   <justify>
     <em>
       <strong>DISCLAIMER</strong> | Todos los participantes:
+    </em>
+    <em>
       - Declaran conocer que PLANCKS viene regulado por el Artículo 12 de las <a href=" https://drive.google.com/open?                           id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">reglas generales de Plancks</a>
-      - Y han de comprometerse a cumplir: las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">reglas              generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of          Conduct</a>, y las <a href="http://www.iaps.info/wp-content/uploads/2017/09/iaps-Terms-and-Conditions.pdf">IAPS Terms and                Conditions</a>.
+    </em>
+    <em>
+      - Y han de comprometerse a cumplir: las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas              Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of          Conduct</a>.
+    </em>
+    <em>
       Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de                   intermediario económico en modo alguno.
     </em>
   </justify>
