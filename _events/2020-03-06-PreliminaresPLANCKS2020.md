@@ -30,8 +30,7 @@ Este año, la <strong>prueba final</strong> tendrá lugar en <strong>Londres del
 Este será el tercer año en que España organice unas preliminares nacionales para esta gran competición, que consistirán en un conjunto
 de <strong>4 problemas</strong> que habrá que resolver en <strong>2 horas</strong> durante la tarde del viernes 6 de marzo (los horarios
 podrán variar entre facultades: de 15:00h a 17:00h (turno 1) y de 16:00h a 18:00h (turno 2)). Esta primera fase nacional nos permitirá
-seleccionar a los 2 mejores equipos para que nos representen en la competición internacional, o a los 3 mejores en el caso de que concurran a las preliminares más de 14 equipos en total, a nivel
-nacional.
+seleccionar a los 2 mejores equipos para que nos representen en la competición internacional, o a los 3 mejores en el caso de que concurran a las preliminares más de 14 equipos en total, a nivel nacional (posibilidad todavía por confirmar).
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +38,7 @@ Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen
 </p>
 <h3 style="text-align: center;">
   <span style="color: #3366ff;">
-    <a href="https://forms.gle/enYfpEK9sHHxj8YK9aaa">¡Inscríbete aquí!</a>
+    <a href="https://forms.gle/enYfpEK9sHHxj8YK9">¡Inscríbete aquí!</a>
   </span>
 </h3>
 
