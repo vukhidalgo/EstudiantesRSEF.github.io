@@ -39,7 +39,7 @@ Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen
 </p>
 <h3 style="text-align: center;">
   <span style="color: #3366ff;">
-    <a href="">¡Inscríbete aquí!</a>
+    <a href="https://forms.gle/enYfpEK9sHHxj8YK9aaa">¡Inscríbete aquí!</a>
   </span>
 </h3>
 
