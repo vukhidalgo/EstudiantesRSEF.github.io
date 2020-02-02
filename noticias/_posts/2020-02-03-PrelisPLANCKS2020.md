@@ -2,7 +2,7 @@
 layout: post
 categories: noticias
 title:  "Abiertas las inscripciones a las Preliminares de PLANCKS 2020"
-date:   2020-02-03 10:00
+date:   2020-02-03 07:00
 author: Equipo Grupo de Estudiantes RSEF
 gallery: 2020-PLANCKS
 redirect_from:
