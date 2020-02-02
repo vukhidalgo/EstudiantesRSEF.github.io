@@ -4,7 +4,7 @@ categories: eventos-internacionales
 title:  "PLANCKS 2020 - Preliminares"
 startingdate: 2020-03-06
 endingdate: 2020-03-06
-place: España
+place: Toda España
 locandina: /img/eventos/2020-PLANCKS/PLANCKS2020.png
 cover: /img/eventos/2020-PLANCKS/PLANCKS2020.png
 gallery:
