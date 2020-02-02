@@ -53,7 +53,7 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
 
 <p style="text-align: justify;">
 <strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores,
-<a href="https://drive.google.com/file/d/1-MG6AJS1hoHyi_QHD3r70eiEeJ_ITCre/view?usp=sharing">podéis encontrarlas aquí</a>.
+<a href="https://drive.google.com/open?id=1V0Cn6W0cepcTO95AdsxO6Piy-mrrJW-i">podéis encontrarlas aquí</a>.
 </p>
 
 <div style="background-color:black;color:white;padding:20px;">
