@@ -33,12 +33,14 @@
       img: "/img/colaboradores/vuk.jpg"
       rol: "Responsable de Administración Web y Herramientas Digitales"
       descr: "Estudiante de Física en la UCM, es un apasionado del Cosmos y de la Astrofísica. Es miembro de la Free Software Foundation, un fiel defensor de la privacidad digital así como del código libre. Es un soñador nato por inspirar, divulgar y dejar un grano de arena por mejorar la sociedad en la que vive. En su tiempo libre se dedica a la guitarra clásica como solista y vive mayormente en el mundo de las artes y de la música."
-      mail: "estudiantes@rsef.es"
+      mail: "info@vukhidalgo.com"
       subject: "[Comité de Administración Web y Herramientas Digitales]"
   colaboradores-pasados:
     - nombre: "Alejandro Gallego Carro"
       img: "/img/colaboradores-pasados/alex-g.png"
       rol: "Responsable de Relaciones Públicas"
+      descr: &nbsp;  &nbsp;
     - nombre: "Adrià Vicens Salomon"
       img: "/img/colaboradores-pasados/adri.png"
       rol: "IAPS Representative"
+      descr: &nbsp;  &nbsp;  
