@@ -62,9 +62,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% endif %}
 
 {% if item.colaboradores-pasados != nil %}
-## Colaboradores de cursos anteriores
-
-### Curso 2018-2019
+## Colaboradores pasados
 
 <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
@@ -74,15 +72,10 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <p>
           {{ miembro.rol }}
           <br>
-          {{ miembro.descr }}
+          {{ miembro.tiempo }}
         </p>
-        <div class="secondary-content">
-            {% if miembro.mail != nil %}
-            <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
-            </a>
-            {% endif %}
-        </div>
       </li>
   {% endfor %}
 </ul>
 {% endif %}
+{% endfor %}
