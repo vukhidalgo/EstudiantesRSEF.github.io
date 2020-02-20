@@ -477,16 +477,6 @@ td, th{
        vertical-align: middle;
       }
 
-      .small-circle {
-       position: absolute;
-       width: 42px;
-       height: 42px;
-       overflow: hidden;
-       top: 15px;
-       display: inline-block;
-       vertical-align: middle;
-      }
-
       .tertiary-content {
 	     position: absolute;
 	     max-width: 20%;
@@ -622,7 +612,7 @@ span.badge {
     background-color: lighten($progress-bar-color, 40%);
     border-radius: 2px;
     margin: $element-top-margin 0 $element-bottom-margin 0;
-    overflow: visible;
+    overflow: hidden;
   .determinate {
     position: absolute;
     background-color: inherit;
