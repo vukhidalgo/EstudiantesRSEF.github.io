@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comité de Administración Web y Herramientas Digitales
-permalink: /CAWHD/
+permalink: /comite-administracion-web-y-herramientas-digitales/
 ---
 
 El sitio web de Estudiantes RSEF y los distintos portales de eventos son responsabilidad del Comité de Administración Web y Herramientas Digitales, integrado por:
