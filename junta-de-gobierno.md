@@ -65,15 +65,21 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 ## Colaboradores pasados
 
 <ul class="collection">
-  {% for miembro in item.colaboradores-pasados %}
+  {% for miembro in item.colaboradores %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="small-circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
           {{ miembro.rol }}
           <br>
-          {{ miembro.curso }}
+          {{ miembro.descr }}
         </p>
+        <div class="secondary-content">
+            {% if miembro.mail != nil %}
+            <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
+            </a>
+            {% endif %}
+        </div>
       </li>
   {% endfor %}
 </ul>
