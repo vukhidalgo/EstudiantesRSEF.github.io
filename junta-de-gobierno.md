@@ -73,10 +73,16 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <span class="title">{{ miembro.nombre }}</span>
         <p>
           {{ miembro.rol }}
+          <br>
+          {{ miembro.descr }}
         </p>
+        <div class="secondary-content">
+            {% if miembro.mail != nil %}
+            <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
+            </a>
+            {% endif %}
+        </div>
       </li>
   {% endfor %}
 </ul>
 {% endif %}
-
-{% endfor %}
