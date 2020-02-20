@@ -458,19 +458,38 @@ td, th{
 
     // Avatar Collection
     &.avatar {
-      min-height: 84px;
-      padding-left: 72px;
+      height: auto;
+      padding-left: 140px;
+      padding-top: 20px;
+      padding-bottom:20px;
+      padding-right: 10px;
       position: relative;
 
       .circle {
-        position: absolute;
-        width: 42px;
-        height: 42px;
-        overflow: hidden;
-        left: 15px;
-        display: inline-block;
-        vertical-align: middle;
+       position: absolute;
+       width: 100px;
+       height: 100px;
+       overflow: hidden;
+	     top: 15px;
+       left: 15px;
+	     bottom:15px;
+       display: inline-block;
+       vertical-align: middle;
       }
+
+      .tertiary-content {
+	     position: absolute;
+	     max-width: 20%;
+	     height: 80%;
+	     right: 10px;
+
+	img {
+		max-height: 100%;
+		max-width: 100%;
+		width: auto;
+	}
+      }
+
       i.circle {
         font-size: 18px;
         line-height: 42px;
@@ -593,7 +612,7 @@ span.badge {
     background-color: lighten($progress-bar-color, 40%);
     border-radius: 2px;
     margin: $element-top-margin 0 $element-bottom-margin 0;
-    overflow: hidden;
+    overflow: visible;
   .determinate {
     position: absolute;
     background-color: inherit;
