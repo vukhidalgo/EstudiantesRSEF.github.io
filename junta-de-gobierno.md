@@ -72,10 +72,11 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <p>
           {{ miembro.rol }}
           <br>
-          {{ miembro.tiempo }}
+          {{ miembro.curso }}
         </p>
       </li>
   {% endfor %}
 </ul>
 {% endif %}
+
 {% endfor %}

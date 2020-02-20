@@ -463,7 +463,7 @@ td, th{
       padding-top: 20px;
       padding-bottom:20px;
       padding-right: 10px;
-      position: middle;
+      position: relative;
 
       .circle {
        position: absolute;
@@ -483,8 +483,6 @@ td, th{
        height: 42px;
        overflow: hidden;
        top: 15px;
-       left: 15px;
-	     bottom:15px;
        display: inline-block;
        vertical-align: middle;
       }
