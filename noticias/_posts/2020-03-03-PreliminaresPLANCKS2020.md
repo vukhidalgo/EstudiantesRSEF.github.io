@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: noticias
-title:  "¡Se cierran las inscripciones a las Preliminares de PLANCKS 2020!"
+title:  "Cerradas las inscripciones a las Preliminares de PLANCKS 2020"
 date:   2020-03-03 00:01
 author: Equipo Grupo de Estudiantes RSEF
 gallery:
