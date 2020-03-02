@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify">
-  Las inscripciones para las Preliminares de PLANCKS 2020 se han cerrado. Queremos agradecer a todas las universidades y alumnos que han participado, dado que tenemos una gran noticia.
+  Las inscripciones para las Preliminares de PLANCKS 2020 se han cerrado. Queremos agradecer a todas las universidades y alumn@s que han participado, dado que tenemos una gran noticia.
 
   El índice de participación en las inscripciones de este año es histórico, con un total de 137 participantes de 7 universidades de todo el país. Nada de esto habría sido posible sin vosotr@s. ¡Sois lo mejor!
 </p>
