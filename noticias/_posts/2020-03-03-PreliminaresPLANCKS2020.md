@@ -14,4 +14,4 @@ redirect_from:
   El índice de participación en las inscripciones de este año es histórico, con un total de 137 participantes de 7 universidades de todo el país. Nada de esto habría sido posible sin vosotr@s. ¡Sois lo mejor!
 </p>
 
-<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/participacion-preliminares-plancks-2020.png">
+<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/participacion-preliminares-plancks-2020.svg">
