@@ -16,5 +16,5 @@ redirect_from:
 
 <img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/participacion-preliminares-plancks-2020.svg">
 <p style="text-align: center;">
-  <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
 </p>
