@@ -35,6 +35,16 @@
       descr: "Estudiante de Física en la UCM, es un apasionado del Cosmos y de la Astrofísica. Es miembro de la Free Software Foundation, un fiel defensor de la privacidad digital así como del código libre. Es un soñador nato por inspirar, divulgar y dejar un grano de arena por mejorar la sociedad en la que vive. En su tiempo libre se dedica a la guitarra clásica como solista y vive mayormente en el mundo de las artes y de la música."
       mail: "rsef@vukhidalgo.com"
       subject: "[Comité de Administración Web y Herramientas Digitales]"
+    - nombre: "Pedro Villaba González"
+      img: "/img/colaboradores/pedro-villaba-gonzalez.jpg"
+      rol: "Responsable de Redes Sociales y Relaciones Públicas"
+      descr: "Estudiante de grado en física en la UGR, actualmente de intercambio en Vancouver. Interesado en la parte más 'matemática' de la física, especialmente en Relatividad General, ha empezado a estudiar el grado en matemáticas por la UNED este mismo año. Fuera de lo académico le interesa bastante la política y la música."
+      mail: "estudiantes@rsef.es"
+    - nombre: ALberto Flores Ruiz
+      img: "/img/colaboradores/alberto-flores-ruiz.jpg"
+      rol: ""
+      descr: "Estudiante en la facultad de Física de Sevilla y miembro activo de la comunidad universitaria, actualmente soy alumno interno del departamento de Física de la Materia Condensada y presidente del Congreso de Estudiantes de Física e Ingeniería de Materiales de la Universidad de Sevilla. En el futuro me gustaría centrarme en el estudio de la superconductividad. Entre mis hobbies se encuentran la divulgación científica, la lectura y la música."
+      mail: "estudiantes@rsef.es"
   colaboradores-pasados:
     - nombre: "Alejandro Gallego Carro"
       rol: "Responsable de Relaciones Públicas"
