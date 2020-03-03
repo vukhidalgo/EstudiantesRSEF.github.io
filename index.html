@@ -69,6 +69,7 @@ layout: default
                     	<p class="light grey-text text-lighten-3">
                         {{ event.place }},
                         <br>
+new darkmode(options).showWidget();
                         {{ event.startingdate | date: '%b %Y' }}
                       </p>
                     </div>
@@ -139,3 +140,4 @@ layout: default
 
 {% include eventos-pagina-principal-modal.html %}
 {% include schema.html %}
+{% include darkmode.html %}
