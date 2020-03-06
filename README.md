@@ -1,102 +1,43 @@
-___
-Grupo de Estudiantes de la Real Sociedad Española de Física
-===
+# Grupo de Estudiantes de la Real Sociedad Española de Física
 
-___
-**Versión 20190705.1**
-___
+Official website of the [Student's Group of the Spanish Royal Physics Society](https://estudiantes.rsef.es/), member of the [International Association of Physics Students](https://www.iaps.info/).
 
-* *RESUELTO*: *BUG 20190604.1b**
-* *PUBLICADO*: nuevas noticias de PLANCKS. (¡Gracias Alex!)
-* *ERRORES*: **BUG 20190604.1a**, **BUG 20190506.2a**.
-* *PLANIFICACIÓN*: Rediseño del Blog.
-___
-**Versión 20190616.1**
-___
+## Built With
 
-* Se han arreglado las imágenes de los eventos nacionales pasados y presentes.
-* Se ha cambido en el índex.html el orden en el cual va el blog y las noticias.
-* *ERRORES*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
-* *PENDIENTE*: nuevas noticias de PLANCKS.
+* [Jekyll](https://jekyllrb.com/) - The web framework used
+* [Materialize CSS](https://materializecss.com/) - Initial CSS fork assets.
+* Javascript, HTML5 and Markdown syntax.
 
-___
-**Versión 20190609.1**
-___
+## Contributing
 
-* El menú ha sido reordenado (Álex).
-* *ERRORES*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
-* *PENDIENTE*: nuevas noticias de PLANCKS.
+Please read our [code of conduct](https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io/blob/master/CODE_OF_CONDUCT.md) before submitting pull requests.
 
-___
-**Versión 20190608.1**
-___
+## Versioning
 
-* El logo de mantenimientoha ha sido retirado. Se devuelve a su estado original.
-* *Persisten*: **BUG 20190604.1a**, **BUG 20190506.2a**, **BUG 20190604.1b**.
-* *Pendiente*: reordenación del menú.
-⋅⋅* **CONÓCENOS**: Noticias, Blog, Junta de Gobierno, Documentación.
-* *Pendiente*: nuevas noticias de PLANCKS
+We use [SemVer](http://semver.org/) for versioning in this fashion:
 
-___
-**Versión 20190604.1**
-___
+  * Major version numbers X change incrementally whenever significant change to the website code is being introduced. For example, a large or potentially backward-incompatible change to the base code. These should always be developed in separated Git branches and never be merged except a global consensus by the Executive Committee is reached.
 
-* El logo se ha remplazado por uno igual pero con un indicador de que la web se encuentra en mantenimiento por el aumento de errores que han ido apareciendo con la transición de idiomas y recategorización de las secciones. EL logo original se encuentra escondido con un clásico punto bajo el mismo nombre.
-* **BUG 20190604.1a**: error en la localización de los eventos en el index.html.
-* **BUG 20190506.2a**: sigue pendiente el logo lateral para dispositivos móviles aunque el nuevo banner con sus proporciones correctas se encuentra en /img/banner/.
-* Creacción de la sección de noticias y reclasificación en el index.html del Blog y Noticias.
-* **BUG 20190604.1b**: no aparecen las noticias o blogs por separado entrando desde el panel superior.
-* Se ha eliminado una sección no necesaria que se añadirá si es necesario por un pull del upstream de la antigua web de AEEF.
-* Prepaación para inclusión del lenguaje LATEX.
-* Se ha indicado el FaceID con su número correspondiente en config.yml
-* Se ha borrado el antiguo BingAuth dado que lleva a la página incorrecta. Se establecerá un ID nuevo a partir del schema.html para el buscador Bing.
-* Optimización de la carga de index.html por recomendación de Google Console.
-* Para la próxima versión se añadirán las nuevas noticias de PLANCKS y se simplificarán algunos enlaces por iconos en vez de texto por mantener la mayor simplicidad posible. Rediseño de las "slides" para una experiencia más fluida en el los dispositivos móviles.
+  * Common version numbers Y change incrementally whenever a new, minor feature is introduced, new content is released or when a set of smaller features is rolled out. These should be introduced using Pull Requests. These could be hold for a limited time in order to verify its integrity and mergeability.
+  
+  * Minor version numbers Z change incrementally whenever a critical or non-critical reversable patch or bug-fix is required. These are issued via Pull Requests and accepted as soon as possible in order to stabilize each Y version.
 
-___
-**Versión 20190505.2**
-___
+## Authors
 
-* Corregido el error 20190505.2a.
-* Menú funcional y rediseñado ligeramente con entradas ocultas para futuros grandes eventos.
-* Para evitar confusiones, los eventosnacionales pasan a ser eventos-internacionales, así como los eventilocale pasan a ser eventos-nacionales. Los specialevent pasan a ser eventoespecial.
-* **BUG 20190506.2a** Banner lateral para dispositivos móviles funciona cambiando el logo central de index pero no en el caso para el nuevo logo creado solo para ello. Indagaré en el banner.html para poder separar la vinculación.
-* Sistema de versionado creado a base de fechas, seguido por el número de modificación en el mismo día y en el caso de existir error, se añade una letra por orden de importancia.
+* **[Associazione Italiana Studenti di Fisica](https://ai-sf.it/)** - *Initial work*
+* **[Alejandro Fernández Muñoz](https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io)** - *Initial Fork. President of the GdeE RSEF & Active Developer* 
+* **[Vuk Hidalgo](https://github.com/vukhidalgo)** - *IT Commitee Manager and Mantainer of the GdeE RSEF Website*
 
-___
-**Versión 20190505.2**
-___
+## License
 
-* Corrección de la imagen de las becas ICPS.
-* Modificado el archivo CSS main.scss para tener las imágenes centradas por defecto.
-* Creación de sección de noticias, por ahora vacío y visible desde el menú.
-* El menú ha sido rediseñado, se intentará reducir las entradas y aumentar los menús colapsables (20190505.2a)
-* Logo ó banner lateral para dispositivos móviles ha sido corregido.
-* Google site verification updated to rsef.es.
-* Añadida la sección de noticias en la página principal.
-* Por corregir (20190505.1a)
+As firm supporters of free as in freedom software, all technical assets, except otherwise specified, used for the deployment of this website is licensed under the GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details.
 
-___
-**Versión 20190505.1**
-___
+Nonetheless, all content, including blog arcticles, news publications, pictures, and logos are copyrighted under the Spanish Royal Physics Society license [RSEF License](https://rsef.es/aviso-legal-y-politica-de-privacidad)
 
-* Nuevo schema.html creado para mayor visibilidad en los buscadores y redes sociales.
-* Google Search Console "La URL del campo "logo" no es válida" (20190505.1a).
-* Se han escondido varios logos antiguos y archivos no necesarios por ahora.
-* Limpieza de static_files para preparar el logo cuadrado para schema.html
+If explicitely specified, copyrighted material by other authors will be properly acknowledged.
 
-___
-**Versión 201904270.2**
-___
+## Acknowledgments
 
-* Rediseño del banner para pequeñas pantallas
-* Añadido Physicathon
-
-___
-**Versión 201904270.1**
-___
-
-* Transición de los enlaces en italiano al castellano.
-* Rediseño de la imagen del banner.
-* Limpieza de código.
-___
+* [Associazione Italiana Studenti di Fisica](https://ai-sf.it/) for the incredible initial source code.
+* [Spanish Royal Physics Society](http://rsef.es/) for the domain and tools provided.
+* Anybody who is willing to contribute to our code and use it for their own projects.

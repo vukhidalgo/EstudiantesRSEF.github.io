@@ -1,7 +1,7 @@
 # Site settings
 title: "Estudiantes RSEF"
 description: "Grupo de Estudiantes de la Real Sociedad Española de Física"
-banner: img/LogoEstRsef.png
+banner: img/logos/gdee-rsef.png
 url: "http://estudiantes.rsef.es" # the base hostname & protocol for your site
 destination: ../site/
 locale: "es"
