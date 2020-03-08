@@ -9,6 +9,6 @@ place: Por la equidad de género
 locandina: /img/eventoespecial/dia-internacional-de-la-mujer/dia-internacional-de-la-mujer.jpg
 cover: /img/eventoespecial/dia-internacional-de-la-mujer/dia-internacional-de-la-mujer.jpg
 articolo: "-"
-site: http://www.un.org/es/events/womensday/index.shtml
+site: https://www.un.org/en/observances/womens-day
 link:
 ---
