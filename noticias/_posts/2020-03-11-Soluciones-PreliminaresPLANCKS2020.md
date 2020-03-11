@@ -31,5 +31,3 @@ redirect_from:
 <p style="text-align: center">
   ¡no dejéis de seguir aprendiendo!
 </p>
-
-<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/use-the-time-to-get-ready.png">
