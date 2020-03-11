@@ -2,7 +2,7 @@
 layout: post
 categories: noticias
 title: "Soluciones a los problemas de las Preliminares de PLANCKS 2020"
-date: 2020-03-02 23:59
+date: 2020-03-02 20:30
 author: Equipo Grupo de Estudiantes RSEF
 redirect_from:
 ---
@@ -15,8 +15,9 @@ redirect_from:
   Probablemente, como participante, estarás con ganas de verlas. No negaremos que las reacciones serán de las más diversas...
 </p>
 
-<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/mr-bean-plancks.jpg">
 <p style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9LhLjpsstPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
   Mr Bean &#8482; - &copy; Tiger Aspect Productions
 </p>
 
