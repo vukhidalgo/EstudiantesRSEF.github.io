@@ -2,7 +2,7 @@
 layout: post
 categories: noticias
 title: "Soluciones a los problemas de las Preliminares de PLANCKS 2020"
-date: 2020-03-02 20:30
+date: 2020-03-11 20:30
 author: Equipo Grupo de Estudiantes RSEF
 redirect_from:
 ---
@@ -24,5 +24,12 @@ redirect_from:
 </div>
 
 <p style="text-align: justify">
-  Si no has participado, porque crees que no eres capaz, te animamos a que lo hagas el próximo año. Creemos que cada uno de vostro@s tiene el potencial, de no solo llegar a las finales, sino de revolucionar el mundo y de crear un lugar mejor para vivir como futuros físicos. Estos eventos os permiten ganar la confianza necesaria, así que, ¡no dejéis de seguir aprendiendo!
+  Si no has participado, porque crees que no eres capaz, te animamos a que lo hagas el próximo año. Creemos que cada uno de vostro@s tiene el potencial, de no solo llegar a las finales, sino de
+  <i>revolucionar el mundo y de crear un lugar mejor para vivir como futuros físicos</i>. Estos eventos os permiten ganar la confianza necesaria, así que,
 </p>
+
+<p style="text-align: center">
+  ¡no dejéis de seguir aprendiendo!
+</p>
+
+<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/use-the-time-to-get-ready.png">
