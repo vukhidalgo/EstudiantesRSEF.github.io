@@ -25,7 +25,7 @@ redirect_from:
 
 <p style="text-align: justify">
   Si no has participado, porque crees que no eres capaz, te animamos a que lo hagas el próximo año. Creemos que cada uno de vostro@s tiene el potencial, de no solo llegar a las finales, sino de
-  <i>revolucionar el mundo y de crear un lugar mejor para vivir como futuros físicos</i>. Estos eventos os permiten ganar la confianza necesaria, así que,
+  <i>revolucionar el mundo y de crear un lugar mejor para vivir como futuros físicos</i>. Estos eventos os permiten ganar la confianza necesaria para ello, así que,
 </p>
 
 <p style="text-align: center">
