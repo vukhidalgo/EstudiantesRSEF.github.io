@@ -17,9 +17,6 @@ redirect_from:
 
 <p style="text-align: center;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9LhLjpsstPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-  Mr Bean &#8482; - &copy; Tiger Aspect Productions
-</p>
 
 <div class="row center">
 	<a href="https://drive.google.com/file/d/1gnBpyVVlh56M9P8d-jouckT9WQ2ZIg5M/view?usp=sharing" id="iaps-button" class="btn-large waves-effect waves-light">VER LAS SOLUCIONES</a>
