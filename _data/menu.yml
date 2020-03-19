@@ -23,18 +23,7 @@
 #   url: https://physicathon.org
  - text: <strong>¡Participa!</strong>
    url: /participa
- #  subitems:
- #    - text: A nivel nacional
- #      url: /participa-nacional/
- #    - text: Eventos Nacionales
- #      url: /participa-local/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
- - text: PLANCKS'20
-   url: /eventos-internacionales/2020/03/06/PreliminaresPLANCKS2020/
  - text: ICPS'20
    url: /eventos-internacionales/2020/08/09/ICPS2020/
-# - text: PLANCKS 2019
-#   url: /blog/2019/05/20/PLANCKS2019Results/
-# - text: ICPS 2019
-#   url: /eventos-internacionales/2019/08/10/ICPS2019/
