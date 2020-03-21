@@ -34,7 +34,7 @@
       rol: "Responsable de Relaciones Públicas"
       descr: "Estudiante de grado en física en la UGR, actualmente de intercambio en Vancouver. Interesado en la parte más 'matemática' de la física, especialmente en Relatividad General, ha empezado a estudiar el grado en matemáticas por la UNED este mismo año. Fuera de lo académico le interesa bastante la política y la música."
       mail: "estudiantes@rsef.es"
-      subject: [Comité de Relaciones Públicas y Redes Sociales]
+      subject: "[Comité de Relaciones Públicas y Redes Sociales]"
     - nombre: Alberto Flores Ruiz
       img: "/img/colaboradores/alberto-flores-ruiz.jpg"
       rol: "Responsable de Redacción de Contenido Web y Redes Sociales. Organizador de Eventos"
@@ -55,10 +55,8 @@
       subject: "[Comité de Administración Web y Herramientas Digitales]"
   colaboradores-pasados:
     - nombre: "Alejandro Gallego Carro"
-      img: "/img/colaboradores/alejandro-gallego.png"
       rol: "Responsable de Relaciones Públicas"
       descr: "2018-2019"
     - nombre: "Adrià Vicens Salomon"
-      img: "/img/colaboradores/adria-vicens.png"
       rol: "IAPS Representative"
       descr: "2018-2019"
