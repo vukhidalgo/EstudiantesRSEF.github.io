@@ -55,8 +55,10 @@
       subject: "[Comité de Administración Web y Herramientas Digitales]"
   colaboradores-pasados:
     - nombre: "Alejandro Gallego Carro"
+      img: "/img/colaboradores/alejandro-gallego.png"
       rol: "Responsable de Relaciones Públicas"
       descr: "2018-2019"
     - nombre: "Adrià Vicens Salomon"
+      img: ""/img/colaboradores/adria-vicens.png""
       rol: "IAPS Representative"
       descr: "2018-2019"
