@@ -69,7 +69,6 @@ layout: default
                     	<p class="light grey-text text-lighten-3">
                         {{ event.place }},
                         <br>
-new darkmode(options).showWidget();
                         {{ event.startingdate | date: '%b %Y' }}
                       </p>
                     </div>
@@ -77,7 +76,7 @@ new darkmode(options).showWidget();
                   {% assign loopindex = loopindex | plus: 1%}
                 {% endif %}
 <!-- NUMBER OF SLIDES ON INDEX -->
-                {% if loopindex == 5 %}
+                {% if loopindex == 4 %}
                   {% break %}
                 {% endif %}
               {% endfor %}
