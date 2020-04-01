@@ -24,6 +24,10 @@ We use [SemVer](http://semver.org/) for versioning in this fashion:
 
   * Minor version numbers Z change incrementally whenever a critical or non-critical reversable patch or bug-fix is required. These are issued via Pull Requests and accepted as soon as possible in order to stabilize each Y version.
 
+## File Naming Convention
+
+It is in our best practice to use the most simple syntax possible for any file while preserving the name and structure of the contents in Castilian Spanish and American English. Use lower cases, delimit words by hyphens, not spaces. Dates are written in reverse manner always, followed by the file name as described: {YYYY-MM-DD}-{name-of-file}.{extension}.
+
 ## Authors
 
 * **[Associazione Italiana Studenti di Fisica](https://ai-sf.it/)** - *Initial work*
