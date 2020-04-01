@@ -6,9 +6,11 @@ Official website of the [Student's Group of the Spanish Royal Physics Society](h
 
 ## Built With
 
-* [Jekyll](https://jekyllrb.com/) - The web framework used
-* [Materialize CSS](https://materializecss.com/) - Some CSS forked assets.
-* Javascript, HTML5 and Markdown syntax.
+* [Jekyll](https://jekyllrb.com/) - Main Github Pages Web Framework.
+* [Materialize CSS](https://materializecss.com/) - Forked CSS assets for a consistent look using Google's Material Design Guidelines.
+* [JavaScript](https://www.w3schools.com/js/)
+* [HTML5](https://www.w3schools.com/html/html5_intro.asp)
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Content syntax.
 
 ## Contributing
 
