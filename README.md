@@ -30,6 +30,10 @@ We use [SemVer](http://semver.org/) for versioning in this fashion:
 
 It is in our best practice to use the most simple syntax possible for any file while preserving the name and structure of the contents in Castilian Spanish and American English. Use lower cases, delimit words by hyphens, not spaces. Dates are written in reverse manner always, followed by the file name as described: {YYYY-MM-DD}-{name-of-file}.{extension}.
 
+## Design
+
+The website follows the ever changing [Google's Material Guidelines](https://material.io/design/) in order to provide a consistent experience to the users. However, we stick to the [KISS](https://en.wikipedia.org/wiki/KISS_principle), Keep It Stupid Simple Principle, whenever it is possible. The website is prepared for a future implementation as a Progressive Web App (PWA).
+
 ## Authors
 
 * **[Associazione Italiana Studenti di Fisica](https://ai-sf.it/)** - *Initial work*
