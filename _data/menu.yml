@@ -25,7 +25,5 @@
    url: /participa
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
- - text: ICPS'20
-   url: /eventos-internacionales/2020/08/09/ICPS2020/
- - text: EN
-   url: https://translate.google.com/translate?hl=&sl=es&tl=en&u=https%3A%2F%2Festudiantes.rsef.es%2F
+# - text: ICPS'20
+#   url: /eventos-internacionales/2020/08/09/ICPS2020/
