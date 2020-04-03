@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify">
-  Las elecciones para la renovación bienal de la Junta de Gobierno del Grupo de Estudiantes ha comenzado.
+  Las elecciones para la renovación bienal de la Junta de Gobierno del Grupo de Estudiantes han comenzado.
 </p>
 
 <p style="text-align: justify">
