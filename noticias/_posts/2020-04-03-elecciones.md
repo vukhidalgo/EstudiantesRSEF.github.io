@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p style="text-align: justify">
-  Para votar a los candidatos y cantidatas que se han presentado para esta convocatoria, acude al e-mail que la Secretaría de la RSEF te ha enviado. El plazo para votar electrónicamente es del <b>3 de abril</b> al <b>5 de abril</b> <i>inclusive</b> hasta las 24 horas.
+  Para votar a los candidatos y cantidatas que se han presentado para esta convocatoria, acude al e-mail que la Secretaría de la RSEF te ha enviado. El plazo para votar electrónicamente es del <b>3 de abril</b> al <b>5 de abril</b> <i>inclusive</i> hasta las 24 horas.
 </p>
 
 <p style="text-align: justify">
