@@ -13,6 +13,16 @@ site: https://www.plancks.uk/london2020
 
 <img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/PLANCKS2020.png">
 
+---
+
+<h3 style="text-align: center;">
+  <span style="color: #3366ff;">
+    <a href="https://drive.google.com/file/d/1PQJ8c6XBPCJAFkZBbPsKkUG1TzvtoANh/view?usp=sharing"><strong>CLASIFICACIÓN FINAL</strong></a>
+  </span>
+</h3>
+
+---
+
 <p style="text-align: justify;">
 El próximo <strong>viernes 6 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2020.
 </p>
