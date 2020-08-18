@@ -1,6 +1,6 @@
 # Grupo de Estudiantes de la Real Sociedad Española de Física
 
-![](https://img.shields.io/badge/Version-1.2.3-brightgreen) ![](https://img.shields.io/badge/Code%20License-GPL--3.0-orange) ![](https://img.shields.io/badge/Content%20License-CC%20BY--NC--ND%204.0-blueviolet)
+![](https://img.shields.io/badge/Version-1.3.0-brightgreen) ![](https://img.shields.io/badge/Code%20License-GPL--3.0-orange) ![](https://img.shields.io/badge/Content%20License-CC%20BY--NC--ND%204.0-blueviolet)
 
 Official website of the [Student's Group of the Spanish Royal Physics Society](https://estudiantes.rsef.es/), member of the [International Association of Physics Students](https://www.iaps.info/).
 
