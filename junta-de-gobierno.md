@@ -62,7 +62,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% endif %}
 
 {% if item.colaboradores-pasados != nil %}
-## Colaboradores pasados
+## Miembros de la Junta de Gobierno y Colaboradores pasados
 
 <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
