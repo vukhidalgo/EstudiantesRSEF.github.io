@@ -1,4 +1,0 @@
-# Artículo!
-===
-
-## Soy especial!
