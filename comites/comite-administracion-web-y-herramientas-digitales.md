@@ -14,7 +14,7 @@ El sitio web de Estudiantes RSEF y los distintos portales de eventos son respons
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
   </li>
   <li class="collection-item avatar">
-    <img src="/img/junta/alex.jpg" alt="" class="circle">
+    <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
     <span class="title">Alejandro Fernández Muñoz</span>
     <p>Barcelona Institute of Science and Technology - Universitat Pompeu Fabra</p>
     <a href="mailto:" class="secondary-content"><i class="material-icons">email</i></a>
