@@ -19,7 +19,7 @@ y pese a esto, seguimos sin poder saludar a nuestro jardinero androide cuando va
 Desde 2008 cientos de científicos trabajan para entender mejor lo que se conoce como **memristores**: dispositivos nanoelectrónicos que intentan imitar el funcionamiento de las neuronas, planteándose como una gran oportunidad de cara al diseño de nuevas estructuras computacionales, y como propulsores de una revolución en el campo de la inteligencia artificial. Son muchas las preguntas que quedan por responder en torno a este tema así que en este artículo, para no extendernos demasiado, vamos a intentar responder las más básicas: ¿cómo? y ¿por qué?.
 
 
-### ¿Cómo aprende tu cerebro?
+### ¿Cómo aprende el cerebro?
 
 En primer lugar ¿por qué nuestros ordenadores no son androides (o algo parecido)?. Al fin y al cabo «inteligencia artificial» ya es algo que suena bastante bien, y contiene la
 palabra «inteligencia»... ¿es todo una mentira?, ¿¡por qué se empeñan en engañarnos!? Que no cunda el pánico, veamos qué es lo que hace especial a la inteligencia biológica.
