@@ -23,6 +23,8 @@ La forma que tiene el cerebro de almacenar información y, en consecuencia, apre
 ![Sinapsis](/img/blog/2020-10-11-memristores/Sinapsis.png)<br/>
 
 <a name="Fig1">**Figura 1**</a>: Esquema de una sinapsis entre dos neuronas [[1]](#Ref1).
+
+&nbsp;
 &nbsp;
 
 En este esquema podemos distinguir dos partes principales: el **axón terminal** y el **botón dendrítico**. Para no entrar mucho en la parte bioquímica, basta con pensar que el axón terminal es el cable final de una neurona, llamada **neurona presináptica** o emisora, mientras que el botón dendrítico es el cable inicial de la siguiente neurona, llamada **neurona postsináptica** o receptora. Cuando un impulso nervioso llega a la neurona presináptica, provoca que esta libere en el espacio sináptico una serie de neurotransmisores, que alcanzan la neurona postsináptica, pudiendo dar lugar a que el impulso continúe. Esta es la forma que tienen las neuronas de comunicarse entre ellas.
@@ -32,6 +34,8 @@ Pero, ¿qué tiene que ver esto con aprender? Cuando dos neuronas se conectan a 
 ![Grafo](/img/blog/2020-10-11-memristores/grafo.PNG)<br/>
 
 <a name="Fig2">**Figura 2**</a>: Esquema conceptual del modelo de aprendizaje biológico. En azul se muestran enlaces reforzados, que hacen emerger conceptos en forma de red de conexiones. De esta forma, reforzando conexiones podemos crear cada vez conceptos más complejos.
+
+&nbsp;
 &nbsp;
 
 Aquí podemos ver distintos nodos (que en la realidad estarían formados por subredes de neuronas) representando conceptos. Durante el aprendizaje de lo que es una manzana, en este ejemplo, se refuerzan las conexiones entre las características «redondo», «rojo» y «fruta». De esta forma el cerebro es capaz de representar un concepto abstracto simplemente usando el patrón que se forma gracias a las conexiones. Además, al estar reforzadas las conexiones, será capaz de recordar la manzana cuando vea una fruta roja, aunque no distinga bien su forma porque nos hayamos olvidado nuestras gafas en casa.
@@ -47,6 +51,8 @@ Todos los ordenadores que hay actualmente en el mercado y disponibles para cualq
 ![vNeumann](/img/blog/2020-10-11-memristores/vonneumann.jpg)<br/>
 
 <a name="Fig3">**Figura 3**</a>: Esquema de distribución de elementos según la arquitectura de von Neumann[[2]](#Ref2).
+
+&nbsp;
 &nbsp;
 
 El aspecto principal de este tipo de ordenadores es que la unidad de procesamiento, la CPU, (es decir, el lugar en el que se realizan las operaciones lógicas, donde el ordenador «piensa») está separado físicamente de la memoria, el lugar donde se almacena la información. Esto supone un grandísimo inconveniente, que en los últimos años ha empezado a preocupar a los científicos y científicas que se dedican a la computación. Tal y como están diseñados nuestros ordenadores, la CPU y la memoria deben intercambiar información **constantemente**, y ese flujo de información consume más tiempo que muchas actividades que tiene que realizar la CPU. Sería algo así como que un profesor en un examen nos mandara hacer una multiplicación, para luego ordenar entregar la respuesta en papel a un profesor en Pekín; la respuesta la podremos obtener rápido, pero perderíamos muchísimo tiempo en el viaje. Este problema se llama **cuello de botella de von Neumann** (en inglés *von Neumann bottleneck*), y es otro de los motivos por los que los memristores podrían suponer una revolución a nivel computacional, ya que en principio, como veremos más adelante, no tienen este problema. Este cuello de botella supone una gran desventaja para nuestras inteligencias artificiales, ya que su velocidad se ve mermada.
@@ -80,6 +86,8 @@ En resumen, hay dos problemas principales a los que la inteligencia artificial d
 <a name="Fig4">**Figura 4**</a>: Memristor antes y después del aprendizaje. El aumento de la conductividad en este caso va ligado de la creación de canales de conexión entre ambos terminales después de la aplicación sucesiva de diferencias de potencial.
 
 &nbsp;
+&nbsp;
+
 Recordemos que nuestro cerebro aprende reforzando conexiones entre neuronas a través de la acumulación de iones de calcio, lo que aumenta la probabilidad de que la corriente se transmita. En nuestro caso, es la disminución en la resistencia o la creación de canales de conducción lo que aumenta esa probabilidad. De esta forma, los memristores suponen un paso muy grande de cara a superar la arquitectura von Neumann, ¡la memoria se almacena en la misma unidad que transmite en el impulso!
 
 De cara a su aplicación para tareas que no estén relacionadas con inteligencia artificial, podemos crear redes (mallas) de memristores a través de los cuales la intensidad circula en columnas, y donde podmeos inducir potenciales en las filas. De esta forma los potenciales aplicados en la dirección transversal también pueden modificar la capa intermedia, y codificar información, ¡y estas redes ya se han hecho funcionar en el laboratorio! Aunque todavia a pequeña escala, es un gran paso para superar la arquitectura von Neumann.
@@ -95,6 +103,9 @@ La idea de los memristores es muy llamativa, y puede ser una revolución en la c
 ¿Será este el paso que nos faltaba para conseguir diseñar androides capaces de imitar comportamientos humanos, o todavía se nos escapa algo? ¿Surgirá la consciencia de forma espontánea al crear una red lo suficientemente grande de memristores, o nuestro cerebro esconde algún secreto todavía sin descubrir? ¿Soñarán nuestros portátiles con ovejas eléctricas?
 
 
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 ---
 
