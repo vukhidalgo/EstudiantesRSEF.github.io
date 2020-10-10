@@ -28,7 +28,7 @@ La forma que tiene el cerebro de almacenar información y, en consecuencia, apre
 ellas: las sinápsis. En la [Figura 1](#Fig1) se muestra un esquema de su funcionamiento.
 
 
-![Sinapsis](Sinapsis.png)<br/>
+![Sinapsis](/img/blog/2020-10-11-memristores/Sinapsis.png)<br/>
 <a name="Fig1">**Figura 1**</a>: Esquema de una sinapsis entre dos neuronas [[1]](#Ref1).
 
 
@@ -37,7 +37,7 @@ En este esquema podemos distinguir dos partes principales: el **axón terminal**
 Pero, ¿qué tiene que ver esto con aprender? Cuando dos neuronas se conectan a través de una sinapsis, la concentración de iones de calcio en la neurona postsináptica aumenta muchísimo<sup name="f1">[1](#foot1)</sup>, para luego caer rápidamente, en un tiempo del orden de los milisegundos. Sin embargo, si se da otra sinápsis antes de que la concentración haya disminuido demasiado, puede superarse un umbral y que la cantidad de iones se mantenga constante en un valor mucho mayor que el que había antes de estos dos impulsos. La presencia de estos iones hace que la posibilidad de transmisión entre las dos neuronas que constituyen el enlace sea mucho más probable, ¡y así es como aprendemos!<sup name="f2">[2](#foot2)</sup>. La próxima vez que la neurona presináptica se active, será más probable que se active la neurona postsináptica que hayamos activado antes más veces. Esta capacidad por la cual las conexiones entre las neuronas pueden potenciarse o debilitarse se llama plasticidad sináptica, y es la base del aprendizaje en los seres vivos.  Un esquema conceptual de esto se representa en la [Figura 2](#Fig2).
 
 
-![Grafo](grafo.PNG)<br/>
+![Grafo](/img/blog/2020-10-11-memristores/grafo.PNG)<br/>
 <a name="Fig2">**Figura 2**</a>: Esquema conceptual del modelo de aprendizaje biológico. En azul se muestran enlaces reforzados, que hacen emerger conceptos en forma de red de conexiones. De esta forma, reforzando conexiones podemos crear cada vez conceptos más complejos.
 
 
@@ -50,7 +50,7 @@ Cuando se descubrió esto y se pensó en implementarlo en ordenadores, se intent
 Todos los ordenadores que hay actualmente en el mercado y disponibles para cualquier persona (a fecha de 2020) siguen una arquitectura computacional que se suele llamar arquitectura de von Neumann. Este esquema se representa en la [Figura 3](#Fig3).
 
 
-![vNeumann](vonneumann.jpg)<br/>
+![vNeumann](/img/blog/2020-10-11-memristores/vonneumann.jpg)<br/>
 <a name="Fig3">**Figura 3**</a>: Esquema de distribución de elementos según la arquitectura de von Neumann[[2]](#Ref2).
 
 
@@ -76,7 +76,7 @@ En resumen, hay dos problemas principales a los que la inteligencia artificial d
 
 ¿Cómo consigue un memristor imitar a una neurona? Desde hace unos 50 años, los científicos y científicas que se dedican a la ciencia de materiales saben que cuando algunos óxidos son expuestos a estrés eléctrico se da una transición de aislante a conductor; es decir, que si aplicamos una diferencia de potencial lo suficientemente elevada podemos modificar la resistencia del material, disminuyéndola, ¡y esto es justo lo que hacen las neuronas! Otra alternativa consiste en crear «caminos» conductores entre los terminales. Esto se consigue gracias a que la aplicación sucesiva de diferencias de potencial cambia cómo se configuran los iones de la capa intermedia (ver [Figura 4](#Fig4)).
 
-![memristor](memristor.PNG)<br/>
+![memristor](/img/blog/2020-10-11-memristores/memristor.PNG)<br/>
 <a name="Fig4">**Figura 4**</a>: Memristor antes y después del aprendizaje. El aumento de la conductividad en este caso va ligado de la creación de canales de conexión entre ambos terminales después de la aplicación sucesiva de diferencias de potencial.
 
 
