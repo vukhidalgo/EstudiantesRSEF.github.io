@@ -19,11 +19,9 @@
        url: /eventos-internacionales/
      - text: Eventos Nacionales
        url: /eventos-nacionales/
-# - text: Physicathon 2020 (Próximamente en UCM y Unizar)
-#   url: https://physicathon.org
+# - text: ICPS'20
+#   url: /eventos-internacionales/2020/08/09/ICPS2020/
  - text: <strong>¡Participa!</strong>
    url: /participa
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
-# - text: ICPS'20
-#   url: /eventos-internacionales/2020/08/09/ICPS2020/
