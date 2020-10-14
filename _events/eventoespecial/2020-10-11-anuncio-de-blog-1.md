@@ -1,11 +1,14 @@
 ---
 layout: event
 categories: eventoespecial
-title: "¿Sabías que el Grupo de Estudiantes de la RSEF también tiene un blog?"
+title: ""
 startingdate: 2020-10-11
 endingdate: 2020-10-11
-locandina: /img/blog/2020-10-11-anuncio-de-blog/anuncio-de-blog-vacio.png
-cover: /img/blog/2020-10-11-anuncio-de-blog/anuncio-de-blog-vacio.png
+locandina: /img/blog/2020-10-11-anuncio-de-blog/anuncio-de-blog-1.png
+cover: /img/blog/2020-10-11-anuncio-de-blog/anuncio-de-blog-1.png
+articolo: "-"
+site: https://estudiantes.rsef.es/eventosespecial/2020/10/11/anuncio-de-blog/
+link:
 ---
 
 ![anuncio-de-blog-1](/img/blog/2020-10-11-anuncio-de-blog/anuncio-de-blog-1.png)<br/>
