@@ -3,8 +3,8 @@
    url: /about/
    slug: about
    subitems:
-    - text: Noticias
-      url: /noticias/
+#    - text: Noticias
+#      url: /noticias/
     - text: Blog
       url: /blog/
     - text: Junta de Gobierno
