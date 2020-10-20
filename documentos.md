@@ -6,6 +6,13 @@ redirect_from:
   - /it/documents?catid=0&id=27
 ---
 
+## Kit de Prensa
+
+Aquí puede encontrarse material informativo relacionado con el Grupo de Estudiantes de la RSEF. Los documentos se pueden descargar gratuitamente y utilizarse para publicitar el Grupo en universidades, institutos de investigación, etc.
+
+<div class="collection">
+  <a href="https://drive.google.com/file/d/1i_jCdBk4Bgh2hI38bfoDO7NrUjbkHksT/view"  class="collection-item">Flyer Eventos GdeE 2019-20</a>
+
 ## Estatutos y Reglamento Interno
 
 Los Estatutos constituyen el documento fundamental de la Real Sociedad Española de Física. En ellos se pueden encontrar las normas generales que regulan la Sociedad. El Reglamento General de los Grupos Especializados y de las Divisiones de la RSEF ejerce una función análoga a los Estatutos, pero está subordinado a estos. Estudiantes RSEF se rige por ambos.
