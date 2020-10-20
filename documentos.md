@@ -12,6 +12,7 @@ Aquí puede encontrarse material informativo relacionado con el Grupo de Estudia
 
 <div class="collection">
   <a href="https://drive.google.com/file/d/1i_jCdBk4Bgh2hI38bfoDO7NrUjbkHksT/view"  class="collection-item">Flyer Eventos GdeE 2019-20</a>
+</div>
 
 ## Estatutos y Reglamento Interno
 
