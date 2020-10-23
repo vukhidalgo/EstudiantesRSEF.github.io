@@ -26,7 +26,7 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 				<img src="{{ item.img }}" alt="" class="circle">
 				Delegación de <b> {{ item.nombre }} </b>
 				<p>
-				Presidente: {{ item.presidente }} 
+				Presidente/a: {{ item.presidente }} 
 				<br>
 				Fundación: {{ item.fundacion }}
 				<br>
