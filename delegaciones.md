@@ -52,4 +52,4 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 
 ## ¿Quieres crear una nueva Delegación?
 
-Consulta [esta](/nueva-delegacion/) página.
+Consulta [esta página](/nueva-delegacion/).
