@@ -23,4 +23,14 @@ Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estu
 
 ## Acuerdo con Young Minds
 
-En mayo de 2020, el GdeE firmó un acuerdo con <a href="https://www.epsyoungminds.org/">EPS Young Minds</a>, por el que una Delegación puede registrarse también como Local Section de EPS Young Minds (Aquí [Link embedded de http://www.epsyoungminds.org/wp-content/uploads/2014/04/Sample-Bylaw-for-EPS-Young-Minds-Local-Sections.pdf en “Aquí”] podéis encontrar los estatutos de las local sections de EPS Young Minds). Si ya tenéis constituída una delegación y estáis interesados en tomar ventaja de este acuerdo, enviad un correo a estudiantes@rsef.es para que se os proporcionen los documentos y pasos a seguir.
+
+ <div class="row">
+   <div class="col l4 offset-l4 s8 offset-s2">
+	    <h1>
+	       <img id="index-top-logo" src="/img/dulogos/YMlogo.jpg" alt="Logo EPS YM">
+	    </h1>
+   </div>
+ </div>
+
+
+En mayo de 2020, el GdeE firmó un acuerdo con <a href="https://www.epsyoungminds.org/">EPS Young Minds</a>, por el que toda Delegación del Grupo puede registrarse también como una de sus Local Sections (cuyos estatutos podéis encontrar en <a href="http://www.epsyoungminds.org/wp-content/uploads/2014/04/Sample-Bylaw-for-EPS-Young-Minds-Local-Sections.pdf">este enlace</a>). Por otro lado, si ya habéis constituido vuestra Delegación y estáis interesados en tomar ventaja de este acuerdo, enviad un correo a estudiantes@rsef.es para que os proporcionemos los documentos y os informemos de los pasos a seguir.
