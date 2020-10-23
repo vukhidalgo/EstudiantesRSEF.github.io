@@ -12,7 +12,7 @@ redirect_from:
 
 El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegaciones en:
 
-<ul class="collection">
+<!-- <ul class="collection">
 	{% for item in site.data.LC %}
 	    <li class="collection-item avatar" id="{{ item.nombre }}">
 	      	<img src="{{ item.img }}" alt="" class="circle">
@@ -47,6 +47,52 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 			        {% endif %}
 			</div>
 	    </li>
+	{% endfor %}
+</ul> -->
+
+<ul id="presidenti_LC" class="collection">
+	{% for item in site.data.LC %}
+		{% unless item.congelato %}
+			<li class="collection-item avatar" id="{{ item.nombre }}">
+				<!-- <div class="tertiary-content">
+					<img src="{{ item.logo }}">
+				</div> -->
+				{% assign image = "/img/presidenti/vuoto.png" %}
+				{% unless item.img == "" %}
+					{% assign image = item.img %}
+				{% endunless %}
+				<img src="{{ item.img }}" alt="" class="circle">
+				Comitato Locale	di <b> {{ item.nombre }} </b>
+				<p>
+				Presidente: {{ item.presidente }} 
+				<br>
+				Fondazione: {{ item.fundacion }}
+				<br>
+				{% if item.ex != nil %}
+				Ex presidenti: {{ item.ex }}
+				{% endif %} 				
+				</p>
+				<br>
+				{% if item.fb != nil %}	
+				<a href="{{ item.fb }}" target="_blank" title="Pagina Facebook">
+				<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
+				</a>
+				{% endif %}
+				{% if item.url != nil %}	
+				<a href="{{ item.url }}" target="_blank" title="Pagina Web">
+				<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
+				</a>
+				{% endif %}
+				{% if item.regolamento != nil %}
+				<a href="{{ item.reglamento }}" target="_blank" title="Regolamento Interno">
+				<i class="fa fa-lg fa-file-text"></i>
+				</a>
+				{% endif %}
+				<a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Indirizzo email">
+				<i class="fa fa-lg fa-envelope"></i>
+				</a>
+			</li>
+		{% endunless %}
 	{% endfor %}
 </ul>
 
