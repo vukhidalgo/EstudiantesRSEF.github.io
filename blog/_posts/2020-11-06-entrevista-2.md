@@ -24,8 +24,7 @@ era pequeña y hemos salido juntos, quedado, y he tenido una vida muy normal en 
 De estudiar cuando toca estudiar porque tocan exámenes, pero el resto del tiempo ser una
 estudiante normal.
 
-### Alberto - Alguna vez a lo largo de tu carrera has podido sentirte frustrada cuando no has
-alcanzado ciertos objetivos, ciertos resultados.
+### Alberto - Alguna vez a lo largo de tu carrera has podido sentirte frustrada cuando no has alcanzado ciertos objetivos, ciertos resultados.
 
 Si, yo creo que la frustración es algo que acompaña a nuestra profesión a diario. Por cada éxito
 tienes un montón de fracasos, esto es así. Por ejemplo, tardé cerca de un año en
@@ -43,8 +42,7 @@ cuenta si esto es para ti o si no. Si el problema te obsesiona y sigues pregunt�
 responder a ese problema, entonces es que eso te motiva. Si eso no ocurre durante tu tesis
 doctoral, no va a ocurrir después.
 
-### Miriam - Yo quería preguntarte, como lograste enfocar tu carrera. ¿Como conseguiste
-encontrar esa cosa que te motivara tanto?
+### Miriam - Yo quería preguntarte, como lograste enfocar tu carrera. ¿Como conseguiste encontrar esa cosa que te motivara tanto?
 
 Bueno, yo la verdad que he tenido unos mentores estupendos. Entonces claro, dar con la
 gente adecuada y que esta gente tenga un grupo de colaboradores extenso que te enseñen a
@@ -55,10 +53,7 @@ gente mejor. Y aunque empieces a hacer una investigación en un grupo, si no te 
 grupo siguiente, y si no al siguiente. Porque al final esto consiste en buscar la cosa que te
 motiva, porque es donde vas a dar lo mejor de ti.
 
-### Has mostrado siempre esa pasión por la ciencia y el querer dedicarte a la
-investigación. Pero seguro que varias personas que nos leen están acabando el grado o
-haciendo el master, y se estén planteando hacer un doctorado. ¿Cómo les ayudarías a ellos a
-decidir si hacer o no un doctorado?
+### Alejandro - Has mostrado siempre esa pasión por la ciencia y el querer dedicarte a la investigación. Pero seguro que varias personas que nos leen están acabando el grado o haciendo el master, y se estén planteando hacer un doctorado. ¿Cómo les ayudarías a ellos a decidir si hacer o no un doctorado?
 
 Yo creo que tienen la oportunidad de verlo a través de los trabajos de fin de grado (TFG) y
 trabajos de fin de master (TFM). El TFG a veces es más bibliográfico y sólo didáctico, pero el
@@ -71,8 +66,7 @@ somos gente abierta y cercana. Si un estudiante te pone un email para poder habl
 esto, tú lo vas a dar todo para tener una conversación e intentarle clarificar como es esta
 profesión.
 
-### Miriam - ¿Recomendarías a jóvenes investigadores que salieran y que vieran ellos mismos
-como funciona todo?
+### Miriam - ¿Recomendarías a jóvenes investigadores que salieran y que vieran ellos mismos como funciona todo?
 
 No es solo que lo recomiende, si no que creo que es necesario para tu desarrollo como
 científico que salgas y veas como se trabaja en otros sitios. No puedes basarte solo en lo que
