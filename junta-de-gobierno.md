@@ -32,7 +32,16 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           <br>
           {{ miembro.descr }}
         </p>
-        <div class="secondary-content"><a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i></a></div>
+        <div class="secondary-content">
+          {% if miembro.mail != nil %}
+          <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}">
+          <i class="fa fa-lg fa-envelope"></i>
+          </a>
+          {% if item.linkedin != nil %}	
+				  <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
+				  <i class="fab fa-linkedin" aria-hidden="true"></i>
+				  </a>
+        </div>
       </li>
   {% endfor %}
 </ul>
@@ -54,6 +63,10 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
             {% if miembro.mail != nil %}
             <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
             </a>
+            {% if item.linkedin != nil %}	
+				    <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
+				    <i class="fab fa-linkedin" aria-hidden="true"></i>
+				    </a>
             {% endif %}
         </div>
       </li>
