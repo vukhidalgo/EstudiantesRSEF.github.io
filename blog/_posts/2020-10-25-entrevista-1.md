@@ -42,7 +42,7 @@ membrana. Estamos replicando ésto en sistemas modelo para entender la física s
 bioquímica asociada a este tipo de procesos.
 
 
-### Ahora vamos a ir a comparar sistemas. Tu que has estudiado en España y has desarrollado tu carrera en España, EE.UU. y Francia, en que dirías que nos ganan y en que dirías que les ganamos en cuanto a sistema de investigación
+### Alejandro - Ahora vamos a ir a comparar sistemas. Tu que has estudiado en España y has desarrollado tu carrera en España, EE.UU. y Francia, en que dirías que nos ganan y en que dirías que les ganamos en cuanto a sistema de investigación
 
 En formación individual a través de sus programas educativos, yo creo que no tenemos nada que envidiarles, nosotros salimos perfectamente formados de nuestras
 universidades públicas o privadas. Pero si que es cierto que aquí tenemos que hacer un poco
@@ -62,7 +62,7 @@ embargo, si que recuerdo que el sueldo de posdoc en Francia es muy superior al s
 posdoc en España.
 
 
-### Ahora que estamos hablando de diferentes sistemas me gustaría preguntarte si has encontrado algún tipo de diferencias en cuanto a oportunidades y trato a la mujer se refiere.
+### Miriam - Ahora que estamos hablando de diferentes sistemas me gustaría preguntarte si has encontrado algún tipo de diferencias en cuanto a oportunidades y trato a la mujer se refiere.
 
 La verdad que, en mi época ya (soy del 81), no he vivido ninguna situación en la que nadie
 me tratara diferente por ser mujer. Creo que eso pertenece a una época anterior, afortunadamente. He participado
@@ -75,7 +75,7 @@ Lo que si que creo es que se tienen que renovar las generaciones, porque no tene
 mismo número de catedráticas que de catedráticos porque venimos de una época anterior. Y
 tiene que haber una regeneración para que estos números se igualen. Pero yo creo que se pueden igualar de forma natural.
 
-### ¿Nos puedes contar alguna metedura de pata en el laboratorio?
+### Miriam - ¿Nos puedes contar alguna metedura de pata en el laboratorio?
 
 Ahora mismo solo se me ocurre la de un compañero. Es físico, y ya sabéis que entre físicos y
 químicos siempre hay esa cosa de meterse los unos con los otros. Y bueno, cuando alguien no
