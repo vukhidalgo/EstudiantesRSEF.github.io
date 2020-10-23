@@ -40,10 +40,10 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 				<i class="fa fa-lg fa-instagram-square" aria-hidden="true"></i>
 				</a>
 				{% endif %}
-				<!-- {% if item.url != nil %}	
+				{% if item.url != nil %}	
 				<a href="{{ item.url }}" target="_blank" title="Pagina Web">
 				<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
-				</a> -->
+				</a>
 				{% endif %}
 				{% if item.reglamento != nil %}
 				<a href="{{ item.reglamento }}" target="_blank" title="Reglamento Interno">
