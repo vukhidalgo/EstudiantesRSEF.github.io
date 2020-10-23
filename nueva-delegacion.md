@@ -12,14 +12,14 @@ El artículo VI del <a href="https://drive.google.com/file/d/13SR3dI1NLcbd9UsrFm
 
 “Para fundar una Delegación será necesario presentar a la Junta de Gobierno del Grupo una petición firmada por los cuatro miembros que conformarán la primera Junta de Gobierno de la Delegación, así como por un profesor o investigador miembro de la RSEF que se haya comprometido a ofrecer soporte a la Delegación en la consecución de sus objetivos y a servir como nexo con la correspondiente facultad y universidad.”
 
-Los miembros de la junta de gobierno que en él se menciona deberán ocupar los cargos de:
+Los miembros de la junta de gobierno que en él se mencionan deberán ocupar los cargos de:
 
 - Presidenta/e
 - Vicepresidenta/e
 - Tesorera/o
 - Secretario/a
 
-Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a>, la fundación de la Delegación estará supeditada a su aprobación por parte de la junta de Gobierno del Grupo de Estudiantes. Si más de una agrupación de estudiantes desease constituir la Delegación de su universidad/centro de investigación, se espera que estas agrupaciones resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
+Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a>, la fundación de la Delegación estará supeditada a su aprobación por parte de la Junta de Gobierno del Grupo de Estudiantes. Si más de una agrupación de estudiantes desease constituir la Delegación de su universidad/centro de investigación, se espera que estas agrupaciones resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
 
 ## Acuerdo con Young Minds
 
