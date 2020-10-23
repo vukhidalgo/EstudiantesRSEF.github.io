@@ -38,9 +38,9 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           <i class="fa fa-lg fa-envelope"></i>
           </a>
           {% if item.linkedin != nil %}	
-				  <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
-				  <i class="fab fa-linkedin" aria-hidden="true"></i>
-				  </a>
+	  <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
+	  <i class="fab fa-linkedin" aria-hidden="true"></i>
+	  </a>
         </div>
       </li>
   {% endfor %}
@@ -64,9 +64,9 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
             <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
             </a>
             {% if item.linkedin != nil %}	
-				    <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
-				    <i class="fab fa-linkedin" aria-hidden="true"></i>
-				    </a>
+	    <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
+	    <i class="fab fa-linkedin" aria-hidden="true"></i>
+	    </a>
             {% endif %}
         </div>
       </li>
