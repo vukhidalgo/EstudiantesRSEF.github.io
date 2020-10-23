@@ -50,7 +50,7 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 				<i class="fa fa-lg fa-file-text"></i>
 				</a>
 				{% endif %}
-				<a href="mailto:{{ item.mail }}&#64;&#97;&#105;&#45;&#115;&#102;&#46;&#105;&#116;" title="Email Delegación">
+				<a href="mailto:{{ item.mail }};" title="Email Delegación">
 				<i class="fa fa-lg fa-envelope"></i>
 				</a>
 			</li>
