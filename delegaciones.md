@@ -28,8 +28,8 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 					Ex presidente: {{ item.ex }}
 				{% endif %} 				
 	      	</p>
+		<img src="{{ item.img }}" alt="" class="circle">
 	      	<div class="secondary-content">
-			<img src="{{ item.img }}" alt="" class="circle">
 				{% if item.fb != nil %}
 					<a href="{{ item.fb }}" title="Pagina Facebook">
 						<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
