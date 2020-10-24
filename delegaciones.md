@@ -7,7 +7,10 @@ redirect_from:
 
 {% assign n = 0 %}
 {% for item in site.data.LC %}
-	{% assign n = n | plus: 1 %}
+	{% unless item.congelato %}
+		{% assign n = n | plus: 1 %}
+	{% endunless%}
+	{% assign tot = tot | plus: 1 %}
 {% endfor %}
 
 El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegaciones en:
@@ -57,6 +60,31 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 		{% endunless %}
 	{% endfor %}
 </ul>
+
+</ul>
+{% unless tot == n %}
+<ul class="collapsible" data-collapsible="accordion">
+	<li>
+		<div class="collapsible-header"><h3>Delegaciones congeladas</h3></div>
+		<div class="collapsible-body">
+			<ul class="collection">
+			{% for item in site.data.LC %}
+				{% if item.congelado %}
+					<li class="collection-item" id="{{ item.nombre }}">
+						<span>
+							<h4> Delegación de <b> {{ item.nombre }} </b> </h4>
+							{% if item.ex != nil %}
+							Ex presidentas/es: {{ item.ex }}
+							{% endif %} 				
+						</span>
+					</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>	
+	</li>
+</ul>
+{% endunless %}
 
 
 ## ¿Quieres crear una nueva Delegación?
