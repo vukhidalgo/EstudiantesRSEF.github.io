@@ -22,7 +22,7 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 				<div class="tertiary-content">
 					<img src="{{ item.logo }}">
 				</div>
-				{% assign image = "/img/presidenti/vuoto.png" %}
+				{% assign image = "/img/copyright/rsef.jpg" %}
 				{% unless item.img == "" %}
 					{% assign image = item.img %}
 				{% endunless %}
