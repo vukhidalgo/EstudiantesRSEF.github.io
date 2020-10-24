@@ -38,11 +38,6 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 				{% endif %} 				
 				</p>
 				<br>
-				{% if item.ins != nil %}	
-				<a href="{{ item.ins }}" target="_blank" title="Página Instagram">
-				<i class="fab fa-instagram"></i>
-				</a>
-				{% endif %}
 				{% if item.url != nil %}	
 				<a href="{{ item.url }}" target="_blank" title="Página Web">
 				<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
