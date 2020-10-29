@@ -38,7 +38,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           <i class="fa fa-lg fa-envelope"></i>
           </a>
           {% if miembro.linkedin != nil %}	
-	  <a href="{{ miembro.linkedin }}" target="_blank" title="Pagina LinkedIn">
+	  <a href="{{ item.linkedin }}" target="_blank" title="Pagina LinkedIn">
 	  <i class="fab fa-linkedin"></i>
 	  </a>
         </div>
