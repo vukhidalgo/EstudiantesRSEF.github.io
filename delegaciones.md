@@ -26,12 +26,12 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 				<img src="{{ item.img }}" alt="" class="circle">
 				Delegación de <b> {{ item.nombre }} </b>
 				<p>
-				Presidenta/e: {{ item.presidente }} 
+				Presidente/a: {{ item.presidente }} 
 				<br>
 				Fundación: {{ item.fundacion }}
 				<br>
 				{% if item.ex != nil %}
-				Ex presidentas/es: {{ item.ex }}
+				Ex presidentes/as: {{ item.ex }}
 				{% endif %} 				
 				</p>
 				<br>
