@@ -478,7 +478,7 @@ td, th{
       }
 
       .tertiary-content {
-	     @if @media screen and (min-width: 300px) {
+	     @if (@media screen and (min-width: 300px)) {
 	     position: absolute;
 	     max-width: 20%;
 	     height: 80%;
