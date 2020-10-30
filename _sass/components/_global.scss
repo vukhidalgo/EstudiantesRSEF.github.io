@@ -476,10 +476,21 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
-	    
-     @media screen and (max-width: 300px) {
 
       .tertiary-content {
+	     @media screen and (min-width: 300px) {
+	     position: absolute;
+	     max-width: 20%;
+	     height: 80%;
+	     right: 10px;
+
+	img {
+		max-height: 100%;
+		max-width: 100%;
+		width: auto;
+	}
+       }
+	     @media screen and (max-width: 300px) {
 	     visibility: hidden;
 	     position: absolute;
 	     max-width: 20%;
@@ -487,12 +498,13 @@ td, th{
 	     right: 10px;
 
 	img {
-		max-height: 20%;
-		max-width: 20%;
+		max-height: 100%;
+		max-width: 100%;
 		width: auto;
 	}
+       }
       }
-     }
+     
 
       i.circle {
         font-size: 18px;
