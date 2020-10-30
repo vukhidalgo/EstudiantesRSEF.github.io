@@ -476,6 +476,7 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
+	    
 
       .tertiary-content {
 	     position: absolute;
@@ -488,7 +489,10 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
-       @media screen and (max-width: 300px) {
+       }
+	    
+      @media screen and (max-width: 300px) {
+       .tertiary-content {
 	     visibility: hidden;
 	     position: absolute;
 	     max-width: 20%;
