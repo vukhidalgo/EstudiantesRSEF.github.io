@@ -492,7 +492,7 @@ td, th{
        }
 	     @media screen and (max-width: 300px) {
 	     visibility: hidden;
-	     position: absolute;
+	     float: top;
 	     max-width: 20%;
 	     height: 80%;
 	     right: 10px;
