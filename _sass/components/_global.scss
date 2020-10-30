@@ -489,22 +489,6 @@ td, th{
 		width: auto;
 	}
       }
-	    
-      @media screen and (max-width: 300px) {
-       .tertiary-content {
-	     visibility: hidden;
-	     position: absolute;
-	     max-width: 20%;
-	     height: 80%;
-	     right: 10px;
-
-	img {
-		max-height: 100%;
-		max-width: 100%;
-		width: auto;
-	}
-       }
-      }
      
 
       i.circle {
