@@ -489,7 +489,7 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
-       } else {
+       } @else {
 	     visibility: hidden;
 	     position: absolute;
 	     max-width: 20%;
