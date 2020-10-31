@@ -7,12 +7,10 @@ author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Mu�
 redirect-from:
 ---
 
-## Laura Rodríguez Arriaga
+Laura Rodríguez Arriaga, premio Joven Investigadora en Física Experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA, 
+nos transmite una enorme pasión por su trabajo, así como los beneficios que éste puede aportar a la sociedad.
 
-Licenciada en física y química e investigadora de reputada trayectoria nacional e internacional, 
-premo Joven Investigadora en Física Experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA, 
-Laura nos transmite humildad y cercanía, además de una enorme pasión por su trabajo y
-del beneficio que podemos lograr con él para la sociedad.
+Entevistamos Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Muñoz, miembros del Grupo de Estudiantes de la RSEF.
 
 ### Miriam - ¿Nos podrías hablar de la investigación que haces día a día?
 
