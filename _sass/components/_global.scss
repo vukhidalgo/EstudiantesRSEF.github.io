@@ -484,7 +484,7 @@ td, th{
 	    
 	    
       .tertiary-content {
-	     @if $medium-and-up {
+	     @if $small-and-up {
 		     
 	     position: absolute;
 	     max-width: 20%;
