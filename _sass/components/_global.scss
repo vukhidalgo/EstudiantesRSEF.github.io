@@ -477,7 +477,7 @@ td, th{
        vertical-align: middle;
       }
     
-	    
+     @if $small-and-up{  
       .tertiary-content {		     
 	     float: right;
 	     max-width: 20%;
@@ -490,7 +490,24 @@ td, th{
 		width: auto;
 	}
  
-      }  
+      } 
+ 
+     }@else{ 
+      .tertiary-content {		     
+	     float: top;
+	     max-width: 20%;
+	     height: 80%;
+	     right: 10px;
+
+	img {
+		max-height: 100%;
+		max-width: 100%;
+		width: auto;
+	}
+ 
+      } 
+	     
+     }
      
 
       i.circle {
