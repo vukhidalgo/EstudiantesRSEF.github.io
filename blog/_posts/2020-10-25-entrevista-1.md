@@ -3,7 +3,7 @@ layout: post
 categories: blog
 title:  "Entrevista a Laura Rodríguez Arriaga - Primera Parte"
 date:  2020-10-11 23:59
-author: Sergio J Salvía Fernández
+author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Muñoz
 redirect-from:
 ---
 
