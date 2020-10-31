@@ -32,7 +32,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           <br>
           {{ miembro.descr }}
         </p>
-        <div class="secondary-content">
+        <div class="secondary-content-JdeG">
           <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}">
             <i class="fa fa-lg fa-envelope">
             </i>
