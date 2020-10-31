@@ -29,7 +29,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <span class="title">{{ miembro.nombre }}</span>
         <p>
           {{ miembro.rol }}
-          <br>
+        </p>
         <div class="secondary-content-JdeG">
           <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}">
             <i class="fa fa-lg fa-envelope">
@@ -42,7 +42,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 	  </a>
          {% endif %}
         </div>
-	  <br>
+	<p>
           {{ miembro.descr }}
         </p>
       </li>
