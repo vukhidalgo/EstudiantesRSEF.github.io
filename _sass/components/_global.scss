@@ -476,17 +476,10 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
+    
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-      .tertiary-content {
-	     @if $small-and-up {
-		     
-	     position: absolute;
+      .tertiary-content {		     
+	     float: left;
 	     max-width: 20%;
 	     height: 80%;
 	     right: 10px;
@@ -496,29 +489,8 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
-      } @else {
-	   
-	     visibility: hidden;
-	     position: absolute;
-	     max-width: 20%;
-	     height: 80%;
-	     right: 10px;
-
-	img {
-		max-height: 100%;
-		max-width: 100%;
-		width: auto;
-	}
-       }
-      }
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+ 
+      }  
      
 
       i.circle {
