@@ -1,11 +1,18 @@
-# Primera Parte
+---
+layout: post
+categories: blog
+title:  "Entrevista a Laura Rodríguez Arriaga - Primera Parte"
+date:  2020-10-11 23:59
+author: Sergio J Salvía Fernández
+redirect-from:
+---
 
 ## Laura Rodríguez Arriaga
 
-Licenciada en física y química, e investigadora de reputada trayectoria nacional e internacional, 
-premiada como joven investigadora experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA, 
-Laura Rodríguez Arriaga nos transmite una humildad y cercanía, además de una enorme pasión por su trabajo y
-el beneficio que podemos lograr con él para la sociedad.
+Licenciada en física y química e investigadora de reputada trayectoria nacional e internacional, 
+premo Joven Investigadora en Física Experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA, 
+Laura nos transmite humildad y cercanía, además de una enorme pasión por su trabajo y
+del beneficio que podemos lograr con él para la sociedad.
 
 ### Miriam - ¿Nos podrías hablar de la investigación que haces día a día?
 
@@ -42,7 +49,7 @@ membrana. Estamos replicando ésto en sistemas modelo para entender la física s
 bioquímica asociada a este tipo de procesos.
 
 
-### Alejandro - Ahora vamos a ir a comparar sistemas. Tu que has estudiado en España y has desarrollado tu carrera en España, EE.UU. y Francia, en que dirías que nos ganan y en que dirías que les ganamos en cuanto a sistema de investigación
+### Alejandro - Comparemos ahora sistemas. Tú que has estudiado en España y has desarrollado tu carrera en España, EE.UU. y Francia, en que dirías que nos ganan y en que dirías que les ganamos en cuanto a sistema de investigación
 
 En formación individual a través de sus programas educativos, yo creo que no tenemos nada que envidiarles, nosotros salimos perfectamente formados de nuestras
 universidades públicas o privadas. Pero si que es cierto que aquí tenemos que hacer un poco
