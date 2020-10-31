@@ -477,7 +477,15 @@ td, th{
        vertical-align: middle;
       }
 	    
+	    
+	    
+	    
+	    
+	    
+	    
       .tertiary-content {
+	     @if $medium-and-up {
+		     
 	     position: absolute;
 	     max-width: 20%;
 	     height: 80%;
@@ -488,7 +496,29 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
+      } @else {
+	   
+	     visibility: hidden;
+	     position: absolute;
+	     max-width: 20%;
+	     height: 80%;
+	     right: 10px;
+
+	img {
+		max-height: 100%;
+		max-width: 100%;
+		width: auto;
+	}
+       }
       }
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
      
 
       i.circle {
