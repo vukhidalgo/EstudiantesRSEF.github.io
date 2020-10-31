@@ -40,6 +40,16 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegación
 				<i class="fa fa-lg fa-instagram" aria-hidden="true"></i>
 				</a>
 				{% endif %}
+				{% if item.tw != nil %}	
+				<a href="{{ item.tw }}" target="_blank" title="Página Twitter">
+				<i class="fa fa-lg fa-twitter-square" aria-hidden="true"></i>
+				</a>
+				{% endif %}
+				{% if item.fb != nil %}	
+				<a href="{{ item.fb }}" target="_blank" title="Página Facebook">
+				<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
+				</a>
+				{% endif %}
 				{% if item.url != nil %}	
 				<a href="{{ item.url }}" target="_blank" title="Página Web">
 				<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
