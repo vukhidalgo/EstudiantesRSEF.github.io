@@ -1,6 +1,15 @@
+---
+layout: post
+categories: blog
+title:  "Entrevista a Laura Rodríguez Arriaga - Segunda Parte"
+date:  2020-11-08 00:00
+author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Muñoz
+redirect-from:
+---
+
 # Segunda parte
 
-### Alejandro - Nos podrías comentar tu paso por la universidad.
+### Alejandro - ¿Nos podrías comentar tu paso por la universidad?
 
 Empecé Química en la Universidad Complutense de Madrid, y en el segundo año te
 permitían simultanear, de forma que empecé primero de Física, estando en segundo de
@@ -24,7 +33,7 @@ era pequeña y hemos salido juntos, quedado, y he tenido una vida muy normal en 
 De estudiar cuando toca estudiar porque tocan exámenes, pero el resto del tiempo ser una
 estudiante normal.
 
-### Alberto - Alguna vez a lo largo de tu carrera has podido sentirte frustrada cuando no has alcanzado ciertos objetivos, ciertos resultados.
+### Alberto - ¿Alguna vez a lo largo de tu carrera has podido sentirte frustrada cuando no has alcanzado ciertos objetivos, ciertos resultados?
 
 Si, yo creo que la frustración es algo que acompaña a nuestra profesión a diario. Por cada éxito
 tienes un montón de fracasos, esto es así. Por ejemplo, tardé cerca de un año en
