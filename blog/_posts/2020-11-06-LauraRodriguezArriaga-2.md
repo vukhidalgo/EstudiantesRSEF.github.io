@@ -7,7 +7,6 @@ author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Mu�
 redirect-from:
 ---
 
-# Segunda parte
 
 ### Alejandro - ¿Nos podrías comentar tu paso por la universidad?
 
