@@ -7,21 +7,23 @@ author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Mu�
 redirect-from:
 ---
 
+Segunda parte de la entrevista a Laura Rodríguez Arriaga, premio Joven Investigadora en Física Experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA.
 
 ### Alejandro - ¿Nos podrías comentar tu paso por la universidad?
 
 Empecé Química en la Universidad Complutense de Madrid, y en el segundo año te
 permitían simultanear, de forma que empecé primero de Física, estando en segundo de
 Química. En los años siguientes hacía mi curso de Química y unas cuantas asignaturas de
-Física. Hasta que luego acabe Químicas en los años que establecía el programa, y una
-vez acabé, me puse en serio con la Física a la vez que con mi doctorado en Química-Física.
+Física. Hasta que luego acabé Químicas en los años que establecía el programa y, una
+vez terminada, me puse en serio con la Física a la vez que con mi doctorado en Química-Física.
+
 En Química hice mi la especialidad en Química Fundamental, centrándome y
-orientándome en Química-Ffísica, de forma que siempre he estado muy en contacto
+orientándome en Química-Física, de forma que siempre he estado muy en contacto
 con la Física. Y en Física hice la especialidad de Física de Materiales.
-Una formación converge con la otra, y bueno ahora yo trabajo en
+Una formación complementa a la otra, y bueno ahora yo trabajo en
 Física de la Materia Blanda, donde los aspectos físico-químicos
 químicos y biofísicos del sistema determinan sus propiedades.
-Entonces al final fFui buscando lo que quería hacer, dentro de unas licenciaturas que no tenían
+Entonces al final fui buscando lo que quería hacer, dentro de unas licenciaturas que no tenían
 unos planes de estudio tan especializados. Según avanza tu carrera sigues buscando tu sitio, y
 mi sitio era un lugar en medio de las dos disciplinas.
 
@@ -39,8 +41,8 @@ tienes un montón de fracasos, esto es así. Por ejemplo, tardé cerca de un añ
 desarrollar la técnica en la que ahora baso todos mis modelos, la
 microfluídica de vesículas. Estuve un año pegándome con
 unos dispositivos que no funcionan, que no hacían lo que yo quería… Y bueno, mi supervisor
-en Harvard de ese tiempo me dijo inténtalo 3 o 4 meses y si no sale ponte a hacer otra cosa, puesto que otros lo han intentado
-antes…. Y bueno, al final salió.
+en Harvard de ese tiempo me dijo "inténtalo 3 o 4 meses y si no sale ponte a hacer otra cosa, puesto que otros lo han intentado
+antes…". Y... Bueno, al final salió.
 
 La frustración es algo que acompaña a la investigación. Y yo siempre se lo digo
 a los estudiantes que trabajan conmigo, que por cada cosa que sale, hay muchas otras que no.
