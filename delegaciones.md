@@ -13,7 +13,7 @@ Descubre con este vídeo qué son y todo lo que nuestras Delegaciones pueden ofr
 
 <div class="section">
   <div class="row">
-    <div class="col 12 offset-8 s8 offset-s2">
+    <div class="col 12 offset-4 s8 offset-s2">
       <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/hm7Ur7Jxh_0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
     </div>
   </div>
