@@ -78,7 +78,7 @@ redirect_from:
          </div>
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/participa-local/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
+               <a href="{{ site.url }}/delegaciones/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
             </div>
          </div>
       </div>
