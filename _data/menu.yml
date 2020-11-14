@@ -22,8 +22,8 @@
    url: /participa/
    subitems:
      - text: Delegaciones
-       url: /noticias/
-     - text: Blog
-       url: /blog
+       url: /delegaciones/
+     - text: Junta de Gobierno
+       url: /participa-nacional/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
