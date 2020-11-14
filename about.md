@@ -18,7 +18,7 @@ Descubre en este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofr
 </div>
 
 <p style="text-align: justify">
-El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) fue fundado en octubre de 2018. Busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. El Grupo de Estudiantes es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
+El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) (en redes sociales, Estudiantes RSEF) fue fundado en octubre de 2018. Busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. El Grupo de Estudiantes es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
 </p>
 
 <!-- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center> -->
