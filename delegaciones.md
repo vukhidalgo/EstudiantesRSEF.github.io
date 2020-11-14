@@ -9,7 +9,7 @@ Desubre en esta página qué son, dónde están y cómo crear una nueva Delegaci
 
 ## ¿Qué son?
 
-Te invitamos a empezar con este vídeo, y descubrir todo lo que nuestras delegaciones pueden ofrecerte:
+Descubre con este vídeo qué son y todo lo que nuestras Delegaciones pueden ofrecerte:
 
 <div class="section">
   <div class="row">
