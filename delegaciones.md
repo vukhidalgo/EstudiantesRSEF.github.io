@@ -11,6 +11,16 @@ Desubre en esta página qué son, dónde están y cómo crear una nueva Delegaci
 
 Te invitamos a empezar con este vídeo, y descubrir todo lo que nuestras delegaciones pueden ofrecerte:
 
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="icon-block">
+      <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/hm7Ur7Jxh_0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>		</iframe></center>
+      </div>
+    </div>
+  </div>
+</div>
+
 <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/hm7Ur7Jxh_0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 ## ¿Dónde están?
