@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participa en el Grupo de Estudiantes a nivel nacional
+title: ¡Colabora con la Junta de Goberino del Grupo de Estudiantes!
 permalink: /participa-nacional/
 redirect_from:
 ---
