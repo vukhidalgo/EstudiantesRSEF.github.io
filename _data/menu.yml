@@ -21,7 +21,7 @@
  - text: <strong>¡Participa!</strong>
    url: /participa/
    subitems:
-     - text: A nivel local: Delegaciones
+     - text: Delegaciones
        url: /noticias/
      - text: Blog
        url: /blog
