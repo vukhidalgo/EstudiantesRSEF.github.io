@@ -5,6 +5,16 @@ permalink: /delegaciones/
 redirect_from:
 ---
 
+Desubre en esta página qué son, dónde están y cómo crear una nueva Delegación del Grupo de Estudiantes de la RSEF. 
+
+## ¿Qué son?
+
+Te invitamos a empezar con este vídeo, y descubrir todo lo que nuestras delegaciones pueden ofrecerte:
+
+<center><iframe width="100%" height="315" src="https://youtu.be/B327Xucbb30?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+
+## ¿Dónde están?
+
 {% assign n = 0 %}
 {% for item in site.data.LC %}
 	{% assign n = n | plus: 1 %}
