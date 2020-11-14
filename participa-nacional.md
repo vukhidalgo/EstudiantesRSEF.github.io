@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colabora con la Junta de Gobierno del Grupo de Estudiantes de la RSEF
+title: ¡Colabora con la Junta de Gobierno del Grupo de Estudiantes de la RSEF!
 permalink: /participa-nacional/
 redirect_from:
 ---
