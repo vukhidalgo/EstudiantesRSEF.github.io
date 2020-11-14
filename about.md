@@ -7,7 +7,7 @@ redirect_from:
 
 <!-- <img class="materialboxed" data-caption="Foto de todos los participantes en el ICPS 2019 en Colonia, por Stefano Ugliano" width="100%" src="{{ site.url }}/img/about/ICPS2019_Group_Photo_Stefano_Ugliano.jpg"> -->
 
-Descubre con este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofrecerte:
+Descubre en este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofrecerte:
 
 <div class="section">
   <div class="row">
@@ -41,14 +41,13 @@ El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) f
 6. <p style='text-align: justify;'>Asesorar y colaborar con el mundo empresarial en cuestiones relacionadas con la física y su enseñanza, así como con sus salidas profesionales y con la adquisición de aquellas habilidades necesarias para triunfar en el mundo empresarial.</p>
 7. <p style='text-align: justify;'>Contribuir a la educación científica y tecnológica de la sociedad, promoviendo actividades de divulgación y difusión de la física.</p>
 
+## Delegaciones
+
+El Grupo de Estudiantes de la RSEF se organiza, a nivel de universidad y centro de investigación, en Delegaciones. <a href="/delegaciones/">Descubre aquí</a> toda la información sobre qué son, dónde están y cómo crear una nueva Delegación del Grupo de Estudiantes de la RSEF.
+
 ## Junta de Gobierno
 
 <p style='text-align: justify;'>La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes, y está actualmente compuesta por 8 miembros. Para saber más sobre la Junta de Gobierno <a href="/junta-de-gobierno/">pulsa aquí</a>.</p>
-
-<!-- ## Delegaciones Universitarias
-
-El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegaciones/">aquí</a>. -->
-
 
 ## Sede
 
