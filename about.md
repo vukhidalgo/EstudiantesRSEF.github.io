@@ -11,8 +11,8 @@ Descubre en este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofr
 
 <div class="section">
   <div class="row">
-    <div class="col 12 offset-4 s8 offset-s2">
-      <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/B327Xucbb30?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+    <div class="col 12 offset-8 s8 offset-s2">
+      <center><iframe width="100" height="315" src="https://www.youtube.com/embed/B327Xucbb30?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
     </div>
   </div>
 </div>
