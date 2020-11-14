@@ -5,16 +5,26 @@ permalink: /about/
 redirect_from:
 ---
 
-<img class="materialboxed" data-caption="Foto de todos los participantes en el ICPS 2019 en Colonia, por Stefano Ugliano" width="100%" src="{{ site.url }}/img/about/ICPS2019_Group_Photo_Stefano_Ugliano.jpg">
+<!-- <img class="materialboxed" data-caption="Foto de todos los participantes en el ICPS 2019 en Colonia, por Stefano Ugliano" width="100%" src="{{ site.url }}/img/about/ICPS2019_Group_Photo_Stefano_Ugliano.jpg"> -->
+
+Descubre con este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofrecerte:
+
+<div class="section">
+  <div class="row">
+    <div class="col 12 offset-4 s8 offset-s2">
+      <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/B327Xucbb30?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+    </div>
+  </div>
+</div>
 
 <p style="text-align: justify">
-  Estudiantes RSEF es el Grupo de Estudiantes de la Real Sociedad Española de Física. Fundado en octubre de 2018, busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. Estudiantes RSEF es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
+El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) fue fundado en octubre de 2018. Busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. El Grupo de Estudiantes es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
 </p>
 
 <!-- <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LNLHu74EysY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center> -->
 
 <p style="text-align: justify">
-  Para conocer más detalles acerca de Estudiantes RSEF consulta nuestros <a href="/documentos/">documentos oficiales</a>.
+  Para conocer más detalles acerca del Grupo de Estudiantes consulta nuestros <a href="/documentos/">documentos oficiales</a>.
 </p>
 
 ## Principales objetivos
@@ -37,7 +47,7 @@ redirect_from:
 
 <!-- ## Delegaciones Universitarias
 
-El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegacionesuniversitarias/">aquí</a>. -->
+El Grupo de Estudiantes de la RSEF se organiza en Delegaciones Universitarias, dirigidas por la Junta de Gobierno. La lista de las Delegaciones Universitarias se puede encontrar <a href="/delegaciones/">aquí</a>. -->
 
 
 ## Sede
