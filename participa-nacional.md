@@ -5,7 +5,7 @@ permalink: /participa-nacional/
 redirect_from:
 ---
 
-Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa en estudiantes@rsef.es). ¡Te esperamos!
+Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa más en estudiantes@rsef.es). ¡Te esperamos!
 
 ## Oportunidades
 
