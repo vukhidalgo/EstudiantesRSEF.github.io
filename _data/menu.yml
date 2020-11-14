@@ -1,5 +1,4 @@
- -
-   text: Conócenos
+ - text: Conócenos
    url: /about/
    slug: about
    subitems:
@@ -9,8 +8,6 @@
       url: /blog/
     - text: Junta de Gobierno
       url: /junta-de-gobierno/
-#   - text: Delegaciones Universitarias (Vamos a ocultarlo por ahora)
-#     url: /delegacionesuniversitarias/
     - text: Documentos
       url: /documentos/
  - text: Eventos
@@ -23,5 +20,10 @@
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
  - text: <strong>¡Participa!</strong>
    url: /participa
+      subitems:
+     - text: Delegaciones
+       url: /delegaciones/
+     - text: A nivel nacional
+       url: /participa-nacional/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
