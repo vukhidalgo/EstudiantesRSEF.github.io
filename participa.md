@@ -21,19 +21,19 @@ redirect_from:
        <div class="col s12 m6">
          <div class="icon-block">
            <ul class="collection">
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Involucrarse en la vida universitaria
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Conocer gente nueva
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Introducirse en la divulgación científica
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Introducirse en el mundo de la investigación
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Organizar charlas, excursiones, etc, en el entorno universitario
              </li>
            </ul>
