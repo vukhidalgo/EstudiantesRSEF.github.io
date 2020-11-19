@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "Blog del Grupo de Estudiantes de la RSEF"
 redirect_from:
   - /blog.html
 ---

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Participa en el Grupo de Estudiantes a nivel nacional
+title: ¡Colabora con la Junta de Gobierno del Grupo de Estudiantes de la RSEF!
 permalink: /participa-nacional/
 redirect_from:
 ---
 
-Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa en estudiantes@rsef.es). ¡Te esperamos!
+Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa más en estudiantes@rsef.es). ¡Te esperamos!
 
 ## Oportunidades
 
@@ -27,7 +27,7 @@ equipo y proactividad. Capacidad de autocrítica constructiva.</p>
 <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
 largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2021.</p>
 
 <div class="row">
    <div style="text-align:right;">
@@ -52,7 +52,7 @@ proactividad. Capacidad de autocrítica constructiva.</p>
 <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
 largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2021.</p>
 
 <p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
 
@@ -82,7 +82,7 @@ con el código.</p>
 <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
 largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-<p>Duración de la colaboración: hasta el 1 de Octubre de 2020.</p>
+<p>Duración de la colaboración: hasta el 1 de Octubre de 2021.</p>
 
 <div class="row">
    <div style="text-align:right;">

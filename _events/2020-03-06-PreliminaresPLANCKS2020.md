@@ -5,13 +5,13 @@ title:  "PLANCKS 2020 - Preliminares"
 startingdate: 2020-03-06
 endingdate: 2020-03-06
 place: Toda España
-locandina: /img/eventos/2020-PLANCKS/PLANCKS2020.png
-cover: /img/eventos/2020-PLANCKS/PLANCKS2020.png
+locandina: /img/eventos/2020-PLANCKS/PrelisPLANCKS2020_transparent.png
+cover: /img/eventos/2020-PLANCKS/PrelisPLANCKS2020_transparent.png
 gallery:
 site: https://www.plancks.uk/london2020
 ---
 
-<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/PLANCKS2020.png">
+<img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/PrelisPLANCKS2020_white.png">
 
 ---
 

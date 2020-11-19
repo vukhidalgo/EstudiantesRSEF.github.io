@@ -29,10 +29,22 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <span class="title">{{ miembro.nombre }}</span>
         <p>
           {{ miembro.rol }}
-          <br>
+        </p>
+        <div class="secondary-content-JdeG">
+          <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}">
+            <i class="fa fa-lg fa-envelope">
+            </i>
+          </a>
+         {% if miembro.linkedin != nil %}	
+	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
+	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
+            </i>
+	  </a>
+         {% endif %}
+        </div>
+	<p>
           {{ miembro.descr }}
         </p>
-        <div class="secondary-content"><a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i></a></div>
       </li>
   {% endfor %}
 </ul>
@@ -47,15 +59,22 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <span class="title">{{ miembro.nombre }}</span>
         <p>
           {{ miembro.rol }}
-          <br>
+        </p>
+        <div class="secondary-content-JdeG">
+          <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}">
+            <i class="fa fa-lg fa-envelope">
+            </i>
+          </a>
+         {% if miembro.linkedin != nil %}	
+	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
+	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
+            </i>
+	  </a>
+         {% endif %}
+        </div>
+	<p>
           {{ miembro.descr }}
         </p>
-        <div class="secondary-content">
-            {% if miembro.mail != nil %}
-            <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
-            </a>
-            {% endif %}
-        </div>
       </li>
   {% endfor %}
 </ul>
@@ -71,15 +90,18 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <span class="title">{{ miembro.nombre }}</span>
         <p>
           {{ miembro.rol }}
-          <br>
+        </p>
+        <div class="secondary-content-JdeG">
+         {% if miembro.linkedin != nil %}	
+	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
+	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
+            </i>
+	  </a>
+         {% endif %}
+        </div>
+	<p>
           {{ miembro.descr }}
         </p>
-        <div class="secondary-content">
-            {% if miembro.mail != nil %}
-            <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}"><i class="fa fa-lg fa-envelope"></i>
-            </a>
-            {% endif %}
-        </div>
       </li>
   {% endfor %}
 </ul>

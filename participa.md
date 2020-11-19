@@ -21,19 +21,19 @@ redirect_from:
        <div class="col s12 m6">
          <div class="icon-block">
            <ul class="collection">
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Involucrarse en la vida universitaria
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Conocer gente nueva
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Introducirse en la divulgación científica
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Introducirse en el mundo de la investigación
              </li>
-             <li class="collection-item" style="text-align: justify">
+             <li class="collection-item">
                 Organizar charlas, excursiones, etc, en el entorno universitario
              </li>
            </ul>
@@ -73,12 +73,12 @@ redirect_from:
       <div class="row">
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/participa-nacional/" id="about-button" class="btn-large waves-effect waves-light">A nivel nacional</a>
+               <a href="{{ site.url }}/participa-nacional/" id="about-button" class="btn-large waves-effect waves-light">Con la Junta de Gobierno</a>
             </div>
          </div>
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/participa-local/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local</a>
+               <a href="{{ site.url }}/delegaciones/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local: Delegaciones</a>
             </div>
          </div>
       </div>

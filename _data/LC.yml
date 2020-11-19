@@ -1,20 +1,13 @@
-- nombre: "Zaragoza"
-  img: "/img/dulogos/Zaragoza.png"
-  mail: "hbarra.aeef@gmail.com"
-  presidente: "Jorge Morón Vidal"
-  fundacion: "05/2018"
-  fb:
-  reglamento:
-  ex: 
-  logo: 
-  
 - nombre: "Madrid - UCM"
-  img: "/img/dulogos/Zaragoza.png"
-  mail: "Por ver"
-  presidente: "Víctor"
+  img: "/img/dulogos/DUCM/VictorAlvarez.jpg"
+  mail: "estudiantesrsef.ucm@gmail.com"
+  presidente: "Víctor Álvarez Martínez"
   fundacion: "07/2019"
-  fb:
+  ins: "https://www.instagram.com/estudiantesrsef_ucm/"
+  tw: "https://twitter.com/GdeE_RSEF_UCM"
+  fb: "https://www.facebook.com/EstudiantesRSEF.UCM/"
   reglamento:
   ex: 
-  logo: 
+  logo: "/img/dulogos/DUCM/LogoDUCM.jpeg"
+  congelado:
 

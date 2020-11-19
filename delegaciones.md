@@ -5,51 +5,86 @@ permalink: /delegaciones/
 redirect_from:
 ---
 
+En esta página podrás encontrar información sobre qué son, dónde están y cómo crear una nueva Delegación del Grupo de Estudiantes de la RSEF. 
+
+## ¿Qué son?
+
+Descubre con este vídeo todo lo que nuestras Delegaciones pueden ofrecerte:
+
+<div class="section">
+  <div class="row">
+    <div class="col 12 offset-4 s8 offset-s2">
+	    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/hm7Ur7Jxh_0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>			</iframe></center>
+    </div>
+  </div>
+</div>
+
+## ¿Dónde están?
+
 {% assign n = 0 %}
 {% for item in site.data.LC %}
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
-El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegaciones en:
+El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegación en:
 
-<ul class="collection">
+<ul id="presidenti_LC" class="collection">
 	{% for item in site.data.LC %}
-	    <li class="collection-item avatar" id="{{ item.nombre }}">
-	      	<img src="{{ item.img }}" alt="" class="circle">
-	      	<span class="title">
-				Delegación de {{ item.nombre }}
-			</span>
-	      	<p>
-				Presidente: {{ item.presidente }} 
+		{% unless item.congelado %}
+			<li class="collection-item avatar" id="{{ item.nombre }}">
+				<div class="tertiary-content">
+					<img src="{{ item.logo }}">
+				</div>
+				{% assign image = "/img/presidenti/vuoto.png" %}
+				{% unless item.img == "" %}
+					{% assign image = item.img %}
+				{% endunless %}
+				<img src="{{ item.img }}" alt="" class="circle">
+				Delegación de <b> {{ item.nombre }} </b>
+				<p>
+				Presidenta/e: {{ item.presidente }} 
 				<br>
-	        	        Fundación: {{ item.fundacion }}
+				Fundación: {{ item.fundacion }}
 				<br>
 				{% if item.ex != nil %}
-					Ex presidente: {{ item.ex }}
+				Ex presidentes/as: {{ item.ex }}
 				{% endif %} 				
-	      	</p>
-	      	<div class="secondary-content">
-				{% if item.fb != nil %}
-					<a href="{{ item.fb }}" title="Pagina Facebook">
-						<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
-					</a>
+				</p>
+				<br>
+				{% if item.ins != nil %}	
+				<a href="{{ item.ins }}" target="_blank" title="Página Instagram">
+				<i class="fa fa-lg fa-instagram" aria-hidden="true"></i>
+				</a>
+				{% endif %}
+				{% if item.tw != nil %}	
+				<a href="{{ item.tw }}" target="_blank" title="Página Twitter">
+				<i class="fa fa-lg fa-twitter-square" aria-hidden="true"></i>
+				</a>
+				{% endif %}
+				{% if item.fb != nil %}	
+				<a href="{{ item.fb }}" target="_blank" title="Página Facebook">
+				<i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i>
+				</a>
+				{% endif %}
+				{% if item.url != nil %}	
+				<a href="{{ item.url }}" target="_blank" title="Página Web">
+				<i class="fas fa-lg fa-globe" aria-hidden="true"></i>
+				</a>
 				{% endif %}
 				{% if item.reglamento != nil %}
-		        	<a href="{{ item.reglamento }}" title="Reglamento Interno">
-						<i class="fa fa-lg fa-file-text"></i>
-					</a>
+				<a href="{{ item.reglamento }}" target="_blank" title="Reglamento Interno">
+				<i class="fa fa-lg fa-file-text"></i>
+				</a>
 				{% endif %}
-			        {% if item.mail != nil %}
-	      		        <a href="mailto:{{ item.mail }}@rsef.es" title="Email Delegación">
-					      <i class="fa fa-lg fa-envelope"></i>
-				        </a>
-			        {% endif %}
-			</div>
-	    </li>
+				<a href="mailto:{{ item.mail }};" title="Email Delegación">
+				<i class="fa fa-lg fa-envelope"></i>
+				</a>
+			</li>
+		{% endunless %}
 	{% endfor %}
 </ul>
 
 
 ## ¿Quieres crear una nueva Delegación?
 
-Consulta [esta](/nueva-delegacion/) página.
+Consulta [esta página](/nueva-delegacion/).

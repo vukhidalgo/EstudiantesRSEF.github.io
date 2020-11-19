@@ -476,9 +476,10 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
-
-      .tertiary-content {
-	     position: absolute;
+    
+     @if $small-and-up{  
+      .tertiary-content {		     
+	     float: right;
 	     max-width: 20%;
 	     height: 80%;
 	     right: 10px;
@@ -488,7 +489,26 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
-      }
+ 
+      } 
+ 
+     }@else{ 
+      .tertiary-content {		     
+	     float: top;
+	     max-width: 20%;
+	     height: 80%;
+	     right: 10px;
+
+	img {
+		max-height: 100%;
+		max-width: 100%;
+		width: auto;
+	}
+ 
+      } 
+	     
+     }
+     
 
       i.circle {
         font-size: 18px;
@@ -515,6 +535,12 @@ td, th{
       }
 
     }
+	  
+      .secondary-content-JdeG {
+        flote: right;
+        top: 16px;
+        right: 16px;
+      }
 
 
     &:last-child {

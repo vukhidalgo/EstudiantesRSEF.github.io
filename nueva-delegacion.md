@@ -1,43 +1,38 @@
 ---
 layout: page
-title: Nueva Delegación
+title: Constituir Nueva Delegación
 permalink: /nueva-delegacion/
 ---
 
-_Las Delegaciones del Grupo de Estudiantes de la Real Sociedad Española de Física agrupan a los miembros del Grupo de una universidad / centro de investigación que consideren conveniente asociarse para el mejor cumplimiento de los fines del Grupo en dicha universidad / centro de investigación y su ámbito local._
+_Las Delegaciones del Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física agrupan a los miembros del Grupo de una universidad / centro de investigación que consideren conveniente asociarse para el mejor cumplimiento de los fines del Grupo en dicha universidad / centro de investigación y su ámbito local._
+
+## ¿Quieres crear una Delegación?
+
+El artículo VI del <a href="https://drive.google.com/file/d/13SR3dI1NLcbd9UsrFmm3sukIKfZnV3K1/view">Reglamento de las Delegaciones del GdeE</a> regula la fundación de una Delegación.
+
+“Para fundar una Delegación será necesario presentar a la Junta de Gobierno del Grupo una petición firmada por los cuatro miembros que conformarán la primera Junta de Gobierno de la Delegación, así como por un profesor o investigador miembro de la RSEF que se haya comprometido a ofrecer soporte a la Delegación en la consecución de sus objetivos y a servir como nexo con la correspondiente facultad y universidad.”
+
+Los miembros de la junta de gobierno que en él se mencionan deberán ocupar los cargos de:
+
+- Presidenta/e
+- Vicepresidenta/e
+- Tesorera/o
+- Secretario/a
+
+Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a>, la fundación de la Delegación estará supeditada a su aprobación por parte de la Junta de Gobierno del Grupo de Estudiantes. Si más de una agrupación de estudiantes desease constituir la Delegación de su universidad/centro de investigación, se espera que estas agrupaciones resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
+
+## Acuerdo con Young Minds
 
 
-## ¿Por qué fundar una Delegación del Grupo de Estudiantes de la RSEF?
-
-Los estudiantes que dirigen las Delegaciones del Grupo de Estudiantes tienen motivaciones muy - muy - variadas. Algunas de ellas son:
-
-· Tener ganas de involucrarse en la vida universitaria y/o el mundo de la investigación, lo cual pueden conseguir organizando visitas a
-centros como el CSIC o charlas con científicos de renombre. (Además, es habitual que los estudiantes que demuestran su valía organizando este tipo de actividades se ganen la confianza de los científicos con quienes entran en contacto para organizar actividades. Y 
-
-· Querer aumentar la propia red de contactos, tanto a nivel local, nacional e internacional, como resultado tanto de las actividades organizadas a nivel local como de las oportunidades que el Grupo de Estudiantes brinda a nivel nacional e internacional.
-
-· Aportar un granito de arena a la divulgación científica (organizando talleres, exhibiciones o ferias de física).
+ <div class="row">
+   <div class="col l4 offset-l4 s8 offset-s2">
+	    <h1>
+	       <img id="index-top-logo" src="/img/dulogos/YMlogo.jpg" alt="Logo EPS YM">
+	    </h1>
+   </div>
+ </div>
 
 
+En mayo de 2020, el GdeE firmó un acuerdo con el proyecto <a href="https://www.epsyoungminds.org/">Young Minds</a> de la European Physical Society, por el que toda Delegación del Grupo puede registrarse también como una de sus Local Sections (cuyos estatutos podéis encontrar en <a href="http://www.epsyoungminds.org/wp-content/uploads/2014/04/Sample-Bylaw-for-EPS-Young-Minds-Local-Sections.pdf">este enlace</a>).
 
-Con carácter general, nuestro objetivo es contar con representación en todas las universidades del país que impartan física, garantizando así la mayor presencia posible de la Asociación en el territorio nacional y la continuidad de la misma, independientemente del compromiso individual.
-
-Además, las Delegaciones Universitarias tienen derecho de voto en lo que las concierne en las Juntas de Gobierno de la Asociación, lo que permite influir en las decisiones que se toman a nivel universitario y de organización (ver Artículo 17 de los [Estatutos de la AEEF](/documentos/)).
-
-Asimismo, las Delegaciones Universitarias pueden organizar actividades y eventos a propia discreción, siempre que cumplan para ello con lo establecido en sus respectivo Reglamento General (ver [Reglamento Interno - Reglamento General de las Delegaciones Universitarias de la AEEF](/documentos/)).
-
-
-## Crear una Delegación Universitaria
-
-El Artículo 3 del Reglamento General de las DUs regula cómo crear una Delegación Universitaria:
-
-“La creación de una DU es competencia de la Junta de Gobierno de la AEEF de acuerdo con el Art. 6 de los Estatutos. Una DU podrá constituirse cuando lo soliciten a la AEEF un número no inferior a 5 miembros de la AEEF de ese centro. La propuesta deberá incluir una Junta de Gobierno provisional de la DU; la Comisión Permanente de la AEEF también podrá designar un Presidente provisional con el encargo de poner en marcha una DU.”
-
-Cada universidad tiene derecho a crear su propia Delegación Universitaria. Además, animamos a las Delegaciones Universitarias de la misma ciudad a colaborar entre sí y coordinarse para organizar actividades de forma conjunta.
-
-Si más de un grupo de estudiantes desease constituir la Delegación Universitaria de su universidad, se espera que estos grupos resuelvan sus propios conflictos de intereses. Mientras tanto, y por norma general, no se aceptará ninguna de las peticiones.
-
-Toda Delegación Universitaria debe estar encabezada por un Presidente/a que será el representante último de la AEEF en su universidad.
-El formulario de inscripción se puede encontrar aquí.
-
-Podéis encontrar el formulario de inscripción de la DU aquí ([.docx](https://drive.google.com/open?id=0B5Xs4TPtLJkWZWdpN2QyNzFpU2M)). Este debe ser completado y enviado por email para su evaluación a nuestra <a href="mailto:estudiantes@rsef.es">Junta de Gobierno</a>.
+Por otro lado, si ya habéis constituido vuestra Delegación y estáis interesados en tomar ventaja de este acuerdo, enviad un correo a <a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a> para que os proporcionemos los documentos y os informemos de los pasos a seguir.
