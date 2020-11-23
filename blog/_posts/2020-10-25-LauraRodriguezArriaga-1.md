@@ -47,7 +47,7 @@ membrana. Estamos replicando ésto en sistemas modelo para entender la física s
 bioquímica asociada a este tipo de procesos.
 
 
-### Alejandro - Comparemos ahora sistemas. Tú que has estudiado en España y has desarrollado tu carrera en España, EE.UU. y Francia, en que dirías que nos ganan y en que dirías que les ganamos en cuanto a sistema de investigación
+### Alejandro - Comparemos ahora sistemas. Tú que has estudiado en España y has desarrollado tu carrera en España, EE.UU. y Francia, ¿en que dirías que nos ganan y en que dirías que les ganamos en cuanto a sistema de investigación?
 
 En formación individual a través de sus programas educativos, yo creo que no tenemos nada que envidiarles, nosotros salimos perfectamente formados de nuestras
 universidades públicas o privadas. Pero si que es cierto que aquí tenemos que hacer un poco
@@ -89,4 +89,4 @@ utilizando mezcla piraña, que es una mezcla de ácido sulfúrico y agua oxigena
 muchas veces para limpiar. Se le cayó y lo recogió con un papel. No se dio cuenta de que si
 haces eso el papel se quema. Luego tiró el papel en una papelera. Y cuando pasamos por
 ahí, había olor a quemado y tuvimos que apagar el pequeño incendio que se formó en la
-papelera. Pero seguro que a mi también me han pasado cosas parecidas….
+papelera. Pero seguro que a mi también me han pasado cosas parecidas…
