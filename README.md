@@ -38,7 +38,7 @@ The website follows the ever changing [Google's Material Guidelines](https://mat
 
 * **[Associazione Italiana Studenti di Fisica](https://ai-sf.it/)** - *Initial work*
 * **[Alejandro Fernández Muñoz](https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io)** - *Initial Fork. President of the GdeE RSEF & Active Developer*
-* **[Vuk Hidalgo Dojcinovic](https://github.com/vukhidalgo)** - *IT Commitee Manager and Mantainer of the GdeE RSEF Website*
+* **[Vuk Hidalgo Dojcinovic](https://github.com/vukhidalgo)** - *Former IT Commitee Manager of the GdeE RSEF Website*
 
 ## License
 
