@@ -9,6 +9,8 @@ redirect_from:
 
 Descubre en este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofrecerte:
 
+<center><iframe width="700" height="394" src="https://www.youtube.com/embed/B327Xucbb30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 <div class="section">
   <div class="row">
     <div class="col 12 offset-4 s8 offset-s2">
