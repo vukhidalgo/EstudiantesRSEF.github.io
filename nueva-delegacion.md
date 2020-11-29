@@ -8,7 +8,7 @@ _Las Delegaciones del Grupo de Estudiantes (GdeE) de la Real Sociedad Española 
 
 ## ¿Quieres crear una Delegación?
 
-El artículo VI del <a href="https://drive.google.com/file/d/13SR3dI1NLcbd9UsrFmm3sukIKfZnV3K1/view">Reglamento de las Delegaciones del GdeE</a> regula la fundación de una Delegación.
+El artículo VI del <a href="https://drive.google.com/file/d/1OGBXq-Osl458eIn0ClnywWqxC8JwQy5Z/view?usp=sharing">Reglamento de las Delegaciones del GdeE</a> regula la fundación de una Delegación.
 
 “Para fundar una Delegación será necesario presentar a la Junta de Gobierno del Grupo una petición firmada por los cuatro miembros que conformarán la primera Junta de Gobierno de la Delegación, así como por un profesor o investigador miembro de la RSEF que se haya comprometido a ofrecer soporte a la Delegación en la consecución de sus objetivos y a servir como nexo con la correspondiente facultad y universidad.”
 
