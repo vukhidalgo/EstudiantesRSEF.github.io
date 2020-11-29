@@ -7,7 +7,7 @@ author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Mu�
 redirect-from:
 ---
 
-Segunda parte de la entrevista a Laura Rodríguez Arriaga, premio Joven Investigadora en Física Experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA.
+Segunda parte de la entrevista a Laura Rodríguez Arriaga, <strong>premio Joven Investigadora en Física Experimental 2019 de la Real Sociedad Española de Física – Fundación BBVA</strong>.
 
 ### Alejandro - ¿Nos podrías contar cómo fue tu paso por la universidad?
 
