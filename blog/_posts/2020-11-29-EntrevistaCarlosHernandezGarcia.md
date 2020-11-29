@@ -10,11 +10,3 @@ redirect-from:
 Entrevista a Carlos Hernández García, premio Joven Investigador en Física Teórica 2019 de la Real Sociedad Española de Física – Fundación BBVA. En la descripción del vídeo, en YouTube, tenéis el enlace al minuto de cada pregunta, para que os podáis desplazar más rápido a las que más os hayan llamado la atención. Eso sí: os aseguramos que las respuestas de Carlos hacen que toda la entrevista sea digna de verse. ¡Esperamos que la disfrutéis tanto como nosotros al hacerla!
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/nvYPc_flK6M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<div class="section">
-  <div class="row">
-    <div class="col 12 offset-4 s8 offset-s2">
-      <center><iframe width="700" height="394" src="https://www.youtube.com/embed/nvYPc_flK6M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-    </div>
-  </div>
-</div>
