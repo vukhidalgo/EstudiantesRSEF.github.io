@@ -11,7 +11,7 @@ redirect_from:
 Aquí puede encontrarse material informativo relacionado con el Grupo de Estudiantes de la RSEF. Los documentos se pueden descargar gratuitamente y utilizarse para publicitar el Grupo en universidades, institutos de investigación, etc.
 
 <div class="collection">
-  <a href="https://drive.google.com/file/d/1i_jCdBk4Bgh2hI38bfoDO7NrUjbkHksT/view"  class="collection-item">Flyer Eventos GdeE 2019-20</a>
+  <a href="https://drive.google.com/file/d/1BJgCyQ7jiVLi8juj2ArERhF__sN3cziv/view?usp=sharing"  class="collection-item">Flyer Eventos GdeE 2019-20</a>
 </div>
 
 ## Estatutos y Reglamento Interno
