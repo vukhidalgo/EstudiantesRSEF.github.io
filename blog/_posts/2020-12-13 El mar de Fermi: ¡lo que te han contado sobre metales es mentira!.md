@@ -2,7 +2,7 @@
 layout: post
 categories: blog 
 title:  "El mar de Fermi: ¡lo que te han contado sobre metales y electrones es mentira!"
-date:  
+date:  2020-12-12 23:59
 author: Sergio J Salvía Fernández
 redirect-from:
 ---
@@ -40,12 +40,12 @@ Recuperemos nuestro problema original. Cuando un conjunto de electrones libres s
 
 La forma en la que los electrones se distribuyen por niveles en un sólido sigue una distribución que se conoce como **distribución de Fermi-Dirac**, formando lo que a veces se llama _mar de Fermi_ (ver [Figura 2](#Fig2)). En el sólido, todos los estados con la misma energía forman un nivel energético, por lo que el conjunto total de estados forma una estructura formada por distintos niveles. Cuando la temperatura es próxima a cero los electrones se ordenan ocupando niveles de energía de forma consecutiva, ya que no pueden ocupar todos el mismo nivel, llenando hasta una cierta energía: el nivel de Fermi. A medida que la temperatura aumenta, los electrones de los niveles más altos pueden saltar a niveles superiores que estén vacíos, y así poco a poco redistribuirse. 
 
-![Fermi](mar_fermi.png)<br/>
+![Fermi](/img/blog/2020-12-13-Fermi/mar_fermi.png)<br/>
 <a name="Fig2">**Figura 2**</a>: Esquema del mar de Fermi. Aquí hemos elegido representar únicamente dos electrones por nivel, aunque en realidad cada nivel contendrá varios valores distintos de momento cristalino.
 
 Como esto puede ser un poco abstracto, intentemos dar un ejemplo ilustrativo. Imaginemos un centro comercial sin ascensor que se caracteriza por tener varias plantas, y en cada planta un conjunto de tiendas. En cada tienda sólo se permite la entrada a dos personas (para poder mantener así la distancia de seguridad), por lo que cada planta tiene un aforo limitado (no vale quedarse en los pasillos deambulando). En nuestro ejemplo, los estados vienen representados por planta (energía) y tienda (momento cristalino), haciendo los clientes las de electrones. Los protocolos de seguridad juegan el papel del Principio de exclusión de Pauli<sup name="f5">[5](#foot5)</sup>. Este símil resulta conveniente porque las tiendas se reparten en el espacio, al igual que los valores de momento cristalino *k* en realidad se representan por vectores de componentes (*k*<sub>x</sub> ,*k*<sub>y</sub>,*k*<sub>z</sub>), siendo por tanto puntos en un espacio tridimensional que llamamos *espacio recíproco* o sipmlemente *espacio k*. Esto implica que en realidad la distribución que hemos representado en la [Figura 2](#Fig2) tome forma esférica en dicho espacio (ver [Figura 3](#Fig3)). La próxima vez que hablemos de metales esto será relevante, pero de momento sigamos con nuestro centro comercial.
 
-![Esfera_fermi](esfera_fermi.PNG)<br/>
+![Esfera_fermi](/img/blog/2020-12-13-Fermi/esfera_fermi.PNG)<br/>
 <a name="Fig3">**Figura 3**</a>: En realidad, el momento cristalino *k* se trata de un vector con componentes (*k*<sub>x</sub> ,*k*<sub>y</sub>,*k*<sub>z</sub>). El diagrama que hemos representado antes toma entonces una forma esférica, siendo la última capa lo que se conoce como **superficie de Fermi**, que lleva asociada la energía correspondiente al nivel de Fermi. Los niveles energéticos tienen ahora formas de esferas que están contenidas dentro de la esfera de Fermi.
 
 Llegan las 8 de la mañana, y la gente empieza a entrar en el centro comercial. Al principio, la gente intenta quedarse en las tiendas de la planta baja (al fin y al cabo, a nadie le gusta subir escaleras). Sin embargo, cuando la primera planta ha llenado el aforo, las personas que entren deben subir a la siguiente. Esto supone un ordenamiento similar al que ocurre en la [Figura 2](#Fig2).
