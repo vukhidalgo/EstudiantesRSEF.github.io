@@ -25,7 +25,7 @@ El comportamiento de la capacidad calorífica de sustancias gaseosas a finales d
 Apoyándose en este conocimiento, y considerando que los electrones de un metal se debían comportar de la misma forma que en un gas, los científicos y científicas de la época supusieron que en un metal la capacidad calorífica debería tener una contribución constante, que no dependía de la temperatura. Esto implicaría que los metales conductores deberían tener capacidades caloríficas bastante superiores a los aislantes, ya que en estos últimos no estaría presente el susodicho gas. Sin embargo, este hecho **no se encuentra experimentalmente**. Cuando medimos la capacidad calorífica de un sólido aislante y otro conductor, podemos observar que en realidad sus comportamientos son bastante parecidos a temperaturas bajas, siendo en realidad la contribución de los electrones directamente proporcional a la temperatura, pero... ¿por qué?
 
 
-![Calorimetria](calorimetria.jpg)<br/>
+![Calorimetria](/img/blog/2020-12-13-Fermi/calorimetria.jpg)<br/>
 <a name="Fig1">**Figura 1**</a>: Ejemplo de la dependencia de la capacidad calorífica para algunos sólidos. Podemos comparar el diamante (aislante) con el cobre (Cu, metal), y ver que efectivamente sus comportamientos son similares en lo que a forma respecta. También podemos observar como a temperaturas bajas (por debajo de 100 K, lo que son unos -173 grados centígrados, todas las curvas empiezan a tomar valores muy parecidos). 
 
 ### Teoría cuántica para los metales: La distribución de Fermi Dirac.
