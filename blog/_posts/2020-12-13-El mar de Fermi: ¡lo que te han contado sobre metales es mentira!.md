@@ -8,8 +8,6 @@ redirect-from:
 ---
 
 
-# El mar de Fermi: ¡lo que te han contado sobre metales es mentira!
-
 Es Lunes, 12 de la mañana, y tu *yo* de hace unos cuantos años (los suficientes para que estés en el instituto) se encuentra postergado en su pupitre esperando a ver qué le cuentan hoy en la asignatura de Física y Química. Pasados unos minutos el profesor da la avanzadilla: metales. Empieza explicando sus propiedades: alta densidad, brillo metálico característico, elevada maleabilidad, y especialmente una elevada conductividad eléctrica y térmica. A continuación se propone explicar el porqué de estos dos últimos aspectos, y es aquí donde el engaño se consuma.
 
 Cuando se nos enseña qué son los metales se suele decir que son materiales en los que los átomos parecen compartir libremente todos sus electrones, formando lo que a veces se llama *gas de electrones*. Esta es una visión clásica, que ayuda para dar una primera idea, y que está inspirada en el comportamiento de los gases ideales. Fue desarrollada principalmente en torno a 1900, por científicos tan importantes como Drude, y aportó ideas que fueron matizadas más adelante, pero es equívoca, y para corregirla había que traer conceptos de la revolución cuántica que estaba teniendo lugar en paralelo.
