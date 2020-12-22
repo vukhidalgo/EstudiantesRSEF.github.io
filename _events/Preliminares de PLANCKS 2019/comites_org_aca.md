@@ -5,9 +5,9 @@ permalink: /ComPreliminaresPLANCKS19/
 ---
 
 <div class="no-pad-top" id="index-page">
+  <div class="container">
         <h3 class="justify"><strong>Preliminares de PLANCKS 2019</strong></h3>
           <h2 class="justify"><strong>Comités Organizador y Académico</strong></h2>
-  <div class="container">
     <div class="section">
       <div class="row">
         <div class="col s12 m6">
