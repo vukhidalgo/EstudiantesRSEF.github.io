@@ -22,10 +22,10 @@ permalink: /ComPreliminaresPLANCKS19/
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité Académico</h2>
-            <p align="center">Juan León - Presidente y autor de problema</p>
-            <p align="center">Artemio González - Autor de problema</p>
-            <p align="center">Daniel Alonso - Autor de problema</p>
-            <p align="center">Carlos Muñoz - Autor de problema</p>
+            <p align="center">Prof. Juan León - Presidente y autor de problema</p>
+            <p align="center">Prof. Artemio González - Autor de problema</p>
+            <p align="center">Prof. Daniel Alonso - Autor de problema</p>
+            <p align="center">Prof. Carlos Muñoz - Autor de problema</p>
           </div>
         </div>
       </div>
