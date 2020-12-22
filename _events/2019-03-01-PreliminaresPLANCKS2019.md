@@ -9,7 +9,7 @@ locandina: /img/eventos/2019-PLANCKS/Plancks2019.jpg
 cover: /img/eventos/2019-PLANCKS/Plancks2019.jpg
 gallery:
 site: http://www.plancks-2019.sdu.dk
-ranking:
+ranking: https://drive.google.com/file/d/18BUBT9_nS0wDNjePr4-Jzsgw4XInbLjp/view?usp=sharing
 exam: https://drive.google.com/file/d/1j0IewcSefmyEWBaP_a55NuztcNXNT_6k/view?usp=sharing
 ---
 <p style="text-align: justify;">
