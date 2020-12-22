@@ -9,10 +9,13 @@ permalink: /PreliminaresPLANCKS/
     <div class="section">
       <h3 class="center"><strong>Preliminares de PLANCKS</strong></h3>
         <p>
+          ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
+        </p>
+        <p>
           PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. La prueba tiene lugar en un país distinto cada año, y se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las Preliminares que organizamos a nivel nacional.
         </p>
         <p>
-         En esta página puedes encontrar toda la información que necesitas sobre Preliminares pasadas (¡con cuyos exámenes poder practicar!), así como sobre el formato, fecha, hora y lugar (en 2021, online) de la próxima edición (aviso: la información sobre la próxima edición se actualizará en torno a mediados - finales de enero de 2021).     
+         En esta página puedes encontrar toda la información que necesitas sobre Preliminares pasadas (¡con cuyos exámenes poder practicar!), así como sobre el formato, fecha, hora y lugar (en 2021, online) de la próxima edición (aviso: la información sobre la próxima edición se actualizará en torno a mediados - finales de enero de 2021).   
         </p>
       
 <!-- <div class="container">
