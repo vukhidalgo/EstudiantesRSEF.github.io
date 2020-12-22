@@ -9,6 +9,8 @@ locandina: /img/eventos/2019-PLANCKS/Plancks2019.jpg
 cover: /img/eventos/2019-PLANCKS/Plancks2019.jpg
 gallery:
 site: http://www.plancks-2019.sdu.dk
+ranking:
+exam: https://drive.google.com/file/d/1j0IewcSefmyEWBaP_a55NuztcNXNT_6k/view?usp=sharing
 ---
 <p style="text-align: justify;">
 El próximo <strong>viernes 1 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2019.
