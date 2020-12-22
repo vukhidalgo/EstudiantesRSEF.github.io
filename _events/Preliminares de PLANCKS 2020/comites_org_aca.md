@@ -23,7 +23,7 @@ permalink: /ComPreliminaresPLANCKS20/
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité Académico</h2>
-            <p align="center">Prof. Juan León (QUINFOG) - Presidente y autor de problema</p>
+            <p align="center">Prof. Juan León (CSIC) - Presidente y autor de problema</p>
             <p align="center">Prof. Emili Bagán (UAB) - Autor de problema</p>
             <p align="center">Prof. Juan P. García Villaluenga (UCM)  - Autor de problema</p>
             <p align="center">Prof. Diego Porras (CSIC) - Autor de problema</p>
