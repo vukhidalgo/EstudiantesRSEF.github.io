@@ -7,13 +7,12 @@ permalink: /PreliminaresPLANCKS/
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
-      <h3 class="center">Preliminares de PLANCKS</h3>
+      <h3 class="center"><strong>Preliminares de PLANCKS</strong></h3>
         <p>
-          PLANCKS is an annual international physics contest for bachelor and master students. It’s usually a three day event and can include in addition to the competition itself social events like a symposium, excursions, parties and the award ceremony. PLANCKS is arranged by different IAPS member committees.
-          <br>
-         Participants of PLANCKS compete in teams consisting of three to four members and they have to answer very difficult physics exercises. Some countries are currently organising a preliminary for PLANCKS and the winners of these preliminaries will participate in PLANCKS, in other countries people can show interest and the participants will be selected by a random number generator.
-          <br>
-          The intention of the competition is to increase international collaboration, social activities and personal development of individual contestants. By gathering physics students from different parts of the world, a setting to exchange ideas and experiences and to challenge each other is created.       
+          PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. La prueba tiene lugar en un país distinto cada año, y se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las Preliminares que organizamos a nivel nacional.
+        </p>
+        <p>
+         En esta página puedes encontrar toda la información que necesitas sobre ediciones pasadas (¡con cuyos exámenes poder practicar!), así como sobre el formato, fecha, hora y lugar (en 2021, online) e la próxima edición (aviso: la información sobre la próxima edición se actualizará en torno a mediados - finales de enero de 2021).     
         </p>
       
       {% assign loopindex = 0 %}
