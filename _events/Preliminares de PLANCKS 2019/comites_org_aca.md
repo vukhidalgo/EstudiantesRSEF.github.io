@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preliminares de PLANCKS 2019
+title: ComPreliminaresPLANCKS19
 permalink: /ComPreliminaresPLANCKS19/
 ---
 
