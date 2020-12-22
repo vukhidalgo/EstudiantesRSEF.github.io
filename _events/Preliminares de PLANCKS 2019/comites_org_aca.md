@@ -13,19 +13,19 @@ permalink: /ComPreliminaresPLANCKS19/
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité Organizador</h2>
-            <p align="justify">Alejandro Fernández Muñoz - Presidente</p>
-            <p align="justify">Diego Fernández Prado - IAPS Representative</p>
-            <p align="justify">Vuk Hidalgo Dojčinović - Web y herramientas digitales</p>
-            <p align="justify">Alejandro Gallego Carro - RRSS y difusión</p>
+            <p align="center">Alejandro Fernández Muñoz - Presidente</p>
+            <p align="center">Diego Fernández Prado - IAPS Representative</p>
+            <p align="center">Vuk Hidalgo Dojčinović - Web y herramientas digitales</p>
+            <p align="center">Alejandro Gallego Carro - RRSS y difusión</p>
           </div>
         </div>
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité Académico</h2>
-            <p align="justify">Juan León - Presidente y autor de problema</p>
-            <p align="justify">Artemio González - Autor de problema</p>
-            <p align="justify">Daniel Alonso - Autor de problema</p>
-            <p align="justify">Carlos Muñoz - Autor de problema</p>
+            <p align="center">Juan León - Presidente y autor de problema</p>
+            <p align="center">Artemio González - Autor de problema</p>
+            <p align="center">Daniel Alonso - Autor de problema</p>
+            <p align="center">Carlos Muñoz - Autor de problema</p>
           </div>
         </div>
       </div>
