@@ -42,7 +42,7 @@ permalink: /PreliminaresPLANCKS/
           	<div class="card-action">
           	  <a href="{{ event.ranking }}">Clasificación</a>
               <a href="{{ event.exam }}">Soluciones</a>
-          	  <a href="{{ event.url }}">Post original</a>
+          	  <a href="{{ event.url }}">Post web</a>
               <a href="{{ event.url }}">Comités Organizador y Académico</a>
           	</div>
           </div>
