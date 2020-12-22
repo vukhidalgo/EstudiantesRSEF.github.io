@@ -31,4 +31,13 @@ permalink: /ComPreliminaresPLANCKS19/
       </div>
     </div>
   </div>
+  <div class="container">
+   <div class="section">
+      <div class="row center">
+        <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+      </div>
+   </div>
+</div>
+  
+  
 </div>
