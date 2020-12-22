@@ -65,7 +65,7 @@ permalink: /eventos-internacionales/
           </div>
     	<div class="card-action">
     	  <a href="{{ event.site }}">Sitio</a>
-    	  <a href="{{ event.url }}">Report</a>
+    	  <a href="{{ event.url }}">Info</a>
     	</div>
     </div>
   </div>
