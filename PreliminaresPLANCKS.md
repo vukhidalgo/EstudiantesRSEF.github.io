@@ -33,8 +33,9 @@ permalink: /PreliminaresPLANCKS/
           	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
                 </div>
           	<div class="card-action">
-          	  <a href="{{ event.site }}">Site</a>
-          	  <a href="{{ event.url }}">Info</a>
+          	  <a href="{{ event.ranking }}">Clasificación</a>
+              <a href="{{ event.exam }}">Examen con soluciones</a>
+          	  <a href="{{ event.url }}">Post original</a>
           	</div>
           </div>
         </div>
