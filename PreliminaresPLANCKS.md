@@ -43,6 +43,8 @@ permalink: /PreliminaresPLANCKS/
           	  <a href="{{ event.ranking }}">Clasificación</a>
               <a href="{{ event.exam }}">Examen con soluciones</a>
           	  <a href="{{ event.url }}">Post original</a>
+              <a href="{{ event.url }}">Comités Organizador y Académico</a>
+              <a href="{{ event.url }}">Post original</a>
           	</div>
           </div>
         </div>
