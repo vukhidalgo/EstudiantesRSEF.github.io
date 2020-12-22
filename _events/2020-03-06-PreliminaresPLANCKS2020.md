@@ -16,7 +16,8 @@ site: https://www.plancks.uk/london2020
 ---
 
 <h3 style="text-align: center;">
-  <span style="color: #3366ff;">
+  <!-- <span style="color: #3366ff;"> -->
+  <span>
     <a href="https://drive.google.com/file/d/1PQJ8c6XBPCJAFkZBbPsKkUG1TzvtoANh/view?usp=sharing"><strong>CLASIFICACIÓN FINAL</strong></a> | <a href="https://drive.google.com/file/d/1gnBpyVVlh56M9P8d-jouckT9WQ2ZIg5M/view?usp=sharing"><strong>EXAMEN CON SOLUCIONES</strong></a>
   </span>
 </h3>
