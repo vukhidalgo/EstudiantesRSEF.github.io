@@ -15,13 +15,13 @@ permalink: /PreliminaresPLANCKS/
          En esta página puedes encontrar toda la información que necesitas sobre Preliminares pasadas (¡con cuyos exámenes poder practicar!), así como sobre el formato, fecha, hora y lugar (en 2021, online) de la próxima edición (aviso: la información sobre la próxima edición se actualizará en torno a mediados - finales de enero de 2021).     
         </p>
       
-<div class="container">
+<!-- <div class="container">
    <div class="section">
       <div class="row center">
         <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Preliminares de PLANCKS 2021</a>
       </div>
    </div>
-</div>
+</div> -->
       
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
