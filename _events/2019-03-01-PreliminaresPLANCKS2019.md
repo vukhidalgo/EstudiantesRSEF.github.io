@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-internacionales
-title:  "PLANCKS 2019 - Preliminares"
+title:  "Preliminares de PLANCKS 2019"
 startingdate: 2019-03-01
 endingdate: 2019-03-01
 place: España, Portugal
