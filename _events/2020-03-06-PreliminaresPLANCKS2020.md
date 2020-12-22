@@ -9,6 +9,8 @@ locandina: /img/eventos/2020-PLANCKS/PrelisPLANCKS2020_transparent.png
 cover: /img/eventos/2020-PLANCKS/PrelisPLANCKS2020_transparent.png
 gallery:
 site: https://www.plancks.uk/london2020
+ranking: https://drive.google.com/file/d/1PQJ8c6XBPCJAFkZBbPsKkUG1TzvtoANh/view?usp=sharing
+exam: https://drive.google.com/file/d/1gnBpyVVlh56M9P8d-jouckT9WQ2ZIg5M/view?usp=sharing
 ---
 
 <img class="materialboxed" width="100%" src="/img/eventos/2020-PLANCKS/PrelisPLANCKS2020_white.png">
