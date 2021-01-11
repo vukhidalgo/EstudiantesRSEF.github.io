@@ -25,7 +25,7 @@ permalink: /PreliminaresPLANCKS/
       </div>
    </div>
 </div> -->
-      
+
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
       {% if event.title contains "Preliminares de PLANCKS"%}
@@ -43,8 +43,8 @@ permalink: /PreliminaresPLANCKS/
           	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
                 </div>
           	<div class="card-action">
-          	  <a href="{{ event.ranking }}">Clasificación</a>
-              <a href="{{ event.exam }}">Soluciones</a>
+          	  <a href="{{ event.ranking }}" target="_blank">Clasificación</a>
+              <a href="{{ event.exam }}" target="_blank">Soluciones</a>
           	  <a href="{{ event.url }}">Post web</a>
               <a href="{{ event.comm }}">Comités Organizador y Académico</a>
           	</div>
