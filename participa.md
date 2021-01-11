@@ -73,12 +73,12 @@ redirect_from:
       <div class="row">
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/participa-nacional/" id="about-button" class="btn-large waves-effect waves-light">Con la Junta de Gobierno</a>
+               <a href="{{ site.url }}/delegaciones/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local: Delegaciones</a>
             </div>
          </div>
          <div class="col s12 m6">
             <div class="row center">
-               <a href="{{ site.url }}/delegaciones/" id="iaps-button" class="btn-large waves-effect waves-light">A nivel local: Delegaciones</a>
+               <a href="{{ site.url }}/participa-nacional/" id="about-button" class="btn-large waves-effect waves-light">Con la Junta de Gobierno</a>
             </div>
          </div>
       </div>
