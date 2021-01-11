@@ -40,8 +40,8 @@ permalink: /PreliminaresPLANCKS/
             </div>
             <div class="card-content">
           	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
-          	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} - {{ event.endingdate | date: '%d %b %Y' }}</small></p>
-                </div>
+          	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} {% if event.endingdate != nil %} - {{ event.endingdate | date: '%d %b %Y' }}                    {% endif %} </small></p>
+            </div>
           	<div class="card-action">
           	  <a href="{{ event.ranking }}" target="_blank">Clasificación</a>
               <a href="{{ event.exam }}" target="_blank">Soluciones</a>
