@@ -28,10 +28,10 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 
 <p><strong>Requisitos del cargo de Supervisor/a:</strong></p>
 
-<ul class="bd">
+<list class="a">
   <li>Ser investigador pre- o post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2021 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2021.</li>
   <li>Comprometerse a tener disponibilidad en el rango horario 16h - 19h el viernes 5 de marzo de 2021, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
-</ul>
+</list>
 
 <p><strong>Responsabilidades del cargo de Supervisor/a:</strong></p>
 
@@ -42,7 +42,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 <div class="container">
    <div class="section">
       <div class="row center">
-        <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="iaps-button" class="btn-large waves-effect waves-light">Inscríbete como supervisor/a</a>
+        <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
      </div>
      <div class="row center">
        <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
