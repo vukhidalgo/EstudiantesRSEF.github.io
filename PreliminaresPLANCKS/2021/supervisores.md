@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SupPreliminaresPLANCKS21
-permalink: PreliminaresPLANCKS/2021/Supervisores/
+permalink: /PreliminaresPLANCKS/2021/Supervisores/
 ---
 
 <div class="no-pad-top" id="index-page">
