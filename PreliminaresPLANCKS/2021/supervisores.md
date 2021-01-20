@@ -39,18 +39,13 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 
 <div class="container">
    <div class="section">
-      <div class="row">
-         <div class="col s12 m6">
-            <div class="row center">
-               <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="iaps-button" class="btn-large waves-effect waves-light">Inscríbete como supervisor/a</a>
-            </div>
-         </div>
-         <div class="col s12 m6">
-            <div class="row center">
-               <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
-            </div>
-         </div>
-      </div>
-   </div>
+      <div class="row center">
+        <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="iaps-button" class="btn-large waves-effect waves-light">Inscríbete como supervisor/a</a>
+     </div>
+     <div class="row center">
+       <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+     </div>
+  </div>
 </div>
+
     
