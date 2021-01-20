@@ -13,8 +13,9 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
         <h3 class="justify"><strong>Preliminares de PLANCKS 2021</strong></h3>
           <h2 class="justify"><strong>Supervisores - Información e inscripción</strong></h2>
     <div class="section">
+      <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/HeaderPrelisPLANCKS21.png">
     
-    Fecha del evento: viernes 5 de marzo de 2021 | Hora: de 16:00h a 19:00h | Lugar: online (posiblemente zoom) | Contacto con el Comité Organizador: mailto:estudiantes@rsef.es
+<p><strong>Fecha del evento: viernes 5 de marzo de 2021 | Hora: de 16:00h a 19:00h | Lugar: online (posiblemente zoom) | Contacto con el Comité Organizador: estudiantes@rsef.es</strong></p>
 
 <p><strong>Contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</strong></p>
 
