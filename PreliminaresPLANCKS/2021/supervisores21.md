@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SupPreliminaresPLANCKS21
+title: Supervisores Preliminares PLANCKS 21
 permalink: /PreliminaresPLANCKS/2021/Supervisores/
 ---
 
