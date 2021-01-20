@@ -36,9 +36,9 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 
 <p><strong>Responsabilidades del cargo de Supervisor/a:</strong></p>
 
-<ul class="bd">
+<list class="a">
   <li>Supervisar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Se entregará una guía con indicaciones relativas a la supervisión a medida que se aproxime el examen.</li>
-</ul>
+</list>
 
 <div class="container">
    <div class="section">
