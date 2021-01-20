@@ -37,17 +37,20 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 
 - Supervisar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Se entregará una guía con indicaciones relativas a la supervisión a medida que se aproxime el examen.
 
-
-<p>En los próximos días podrá encontrarse más información sobre la edición 2021 de las Preliminares de PLANCKS en la página web oficial del evento:</p>
-    
-    
-    </div>
-  </div>
-  <div class="container">
-    <div class="section">
-      <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+<div class="container">
+   <div class="section">
+      <div class="row">
+         <div class="col s12 m6">
+            <div class="row center">
+               <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="iaps-button" class="btn-large waves-effect waves-light">Inscríbete como supervisor/a</a>
+            </div>
+         </div>
+         <div class="col s12 m6">
+            <div class="row center">
+               <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+            </div>
+         </div>
       </div>
-    </div>
-  </div>  
+   </div>
 </div>
+    
