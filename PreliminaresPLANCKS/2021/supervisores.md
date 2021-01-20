@@ -4,10 +4,6 @@ title: SupPreliminaresPLANCKS21
 permalink: /PreliminaresPLANCKS/2021/Supervisores/
 ---
 
-<img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/HeaderPrelisPLANCKS21.png">
-
----
-
 <div class="no-pad-top" id="index-page">
   <div class="container">
         <h3 class="justify"><strong>Preliminares de PLANCKS 2021</strong></h3>
