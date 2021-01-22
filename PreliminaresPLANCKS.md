@@ -12,7 +12,7 @@ permalink: /PreliminaresPLANCKS/
           ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
         </p>
         <p>
-          PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es una competición internacional de física teórica. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+          PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es una competición internacional de física teórica auspiciada por la International Association of Physics Students (IAPS). En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (este año online) para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
         </p>
         <p>
           <strong>En esta web encontrarás información sobre</strong>: 
