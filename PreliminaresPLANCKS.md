@@ -22,8 +22,8 @@ permalink: /PreliminaresPLANCKS/
         <li>Sobre los <a href="#Sup">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
         <li>Sobre <a href="#EdAnt"> ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
-      
-      <h2 id="#Prelis2021">Preliminares de PLANCKS 2021</h2>
+     
+      <h2 id="Prelis2021">Preliminares de PLANCKS 2021</h2>
         <p>
           Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar <strong>online</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h</strong> (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
         </p>
@@ -34,7 +34,7 @@ permalink: /PreliminaresPLANCKS/
         P.D.: Más abajo podéis encontrar información sobre Preliminares pasadas, ¡incluidos sus exámenes con los que practicar! Es algo que os recomendamos encarecidamente si aspiráis a representarnos en la fase internacional.
         </p>
       
-      <h2 id="#Sup">Supervisores de examen 2021</h2>
+      <h2 id="Sup">Supervisores de examen 2021</h2>
         <p>
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores.
         </p>
@@ -47,7 +47,7 @@ permalink: /PreliminaresPLANCKS/
    </div>
 </div>
 
-      <h2 id="#EdAnt">Ediciones Anteriores</h2>
+      <h2 id="EdAnt">Ediciones Anteriores</h2>
         <p>
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
