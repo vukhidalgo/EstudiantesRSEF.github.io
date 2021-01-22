@@ -12,16 +12,22 @@ permalink: /PreliminaresPLANCKS/
           ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
         </p>
         <p>
-          PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. La prueba tiene lugar en un país distinto cada año, y se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las Preliminares que organizamos a nivel nacional.
+         PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es una competición internacional de física teórica. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
         </p>
         <p>
-         En esta página puedes encontrar toda la información que necesitas sobre Preliminares pasadas (¡con cuyos exámenes poder practicar!), así como sobre el formato, fecha, hora y lugar (en 2021, online) de la próxima edición (aviso: la información sobre la próxima edición se actualizará en torno a mediados - finales de enero de 2021).   
+         Las <strong>Preliminares de PLANCKS 2021</strong> consistirán en un conjunto de <strong>4-5 problemas</strong>, y tendrán lugar <strong>online</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h</strong> (se requerirá conectarse con 15 minutos de antelación). Tod@ estudiante que desee participar deberá reunir un equipo de tres a cuatro personas, también estudiantes de grado y/o máster. Una vez formado el equipo, deberá incribirse en esta web. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
+        </p>
+        <p>
+         <strong>La inscripción a las Preliminares de PLANCKS 2021 se abrirá en esta página web a las 00:01 del 1 de febrero de 2021. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza!
+        </p>
+        <p>
+        P.D.: En esta página podéis encontrar información sobre Preliminares pasadas, ¡incluidos sus exámenes con los que practicar! Es algo que os recomendamos encarecidamente si aspiráis a representarnos en la fase internacional.
         </p>
       
 <div class="container">
    <div class="section">
       <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Información Supervisores/as de examen 2021</a>
+        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Info Supervisores/as examen 2021</a>
       </div>
    </div>
 </div>
