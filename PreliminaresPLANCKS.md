@@ -12,16 +12,31 @@ permalink: /PreliminaresPLANCKS/
           ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
         </p>
         <p>
-         PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es una competición internacional de física teórica. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+          PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es una competición internacional de física teórica. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. ¿Cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
         </p>
         <p>
-         Las <strong>Preliminares de PLANCKS 2021</strong> consistirán en un conjunto de <strong>4-5 problemas</strong>, y tendrán lugar <strong>online</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h</strong> (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
+          En esta web encontrarás información sobre: 
+        </p>
+      <list class="a">
+        <li>La <a href="#Prelis2021">edición 2021 de las Preliminares de PLANCKS</a>.</li>
+        <li>Sobre los <a href="#Sup">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
+        <li>Sobre <a href="#EdAnt"> ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
+      </list>
+      
+      <h2 id="#Prelis2021">Preliminares de PLANCKS 2021</h2>
+        <p>
+          Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar <strong>online</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h</strong> (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
         </p>
         <p>
           Tod@ estudiante que desee participar deberá reunir un equipo de tres a cuatro personas, también estudiantes de grado y/o máster. Una vez formado el equipo, deberá rellenar el formulario de inscripción. <strong>La inscripción a las Preliminares de PLANCKS 2021 se abrirá en esta página web a las 00:01 del 1 de febrero de 2021</strong>. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
         </p>
         <p>
         P.D.: Más abajo podéis encontrar información sobre Preliminares pasadas, ¡incluidos sus exámenes con los que practicar! Es algo que os recomendamos encarecidamente si aspiráis a representarnos en la fase internacional.
+        </p>
+      
+      <h2 id="#Sup">Supervisores de examen 2021</h2>
+        <p>
+          Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores.
         </p>
       
 <div class="container">
@@ -31,6 +46,11 @@ permalink: /PreliminaresPLANCKS/
       </div>
    </div>
 </div>
+
+      <h2 id="#EdAnt">Ediciones Anteriores</h2>
+        <p>
+          Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
+        </p>
 
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
