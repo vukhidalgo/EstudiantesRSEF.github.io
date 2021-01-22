@@ -22,33 +22,32 @@ permalink: /PreliminaresPLANCKS/
         <li>Los <a href="#Sup">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
         <li><a href="#EdAnt">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
-      <p></p> <!-- Some very ugly way of spacing... -->
-      <h2 id="Prelis2021"><strong>Preliminares de PLANCKS 2021</strong></h2>
+    </div>
+    <div class="section">
+      <h3 id="Prelis2021"><strong>Preliminares de PLANCKS 2021</strong></h3>
         <p>
           Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar online el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
         </p>
         <p>
           Tod@ estudiante que desee participar deberá reunir un equipo de tres a cuatro personas, también estudiantes de grado y/o máster. Una vez formado el equipo, deberá rellenar el formulario de inscripción. <strong>La inscripción a las Preliminares de PLANCKS 2021 se abrirá en esta página web a las 00:01 del 1 de febrero de 2021</strong>. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
         </p>
-      <p></p> <!-- Some very ugly way of spacing... -->
-      <h2 id="Sup"><strong>Supervisores de examen 2021</strong></h2>
+    </div>
+    <div class="section">
+      <h3 id="Sup"><strong>Supervisores de examen 2021</strong></h3>
         <p>
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
-      
-<div class="container">
-   <div class="section">
-      <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as examen 2021</a>
+      <div class="section">
+        <div class="row center">
+          <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as examen 2021</a>
+        </div>
       </div>
-   </div>
-</div>
-      <p></p> <!-- Some very ugly way of spacing... -->
-      <h2 id="EdAnt"><strong>Ediciones Anteriores</strong></h2>
+      <div class="section">
+      <h3 id="EdAnt"><strong>Ediciones Anteriores</strong></h3>
         <p>
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
-
+      </div>
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
       {% if event.title contains "Preliminares de PLANCKS"%}
