@@ -18,7 +18,7 @@ permalink: /PreliminaresPLANCKS/
          Las <strong>Preliminares de PLANCKS 2021</strong> consistirán en un conjunto de <strong>4-5 problemas</strong>, y tendrán lugar <strong>online</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h</strong> (se requerirá conectarse con 15 minutos de antelación). Tod@ estudiante que desee participar deberá reunir un equipo de tres a cuatro personas, también estudiantes de grado y/o máster. Una vez formado el equipo, deberá incribirse en esta web. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
         </p>
         <p>
-         <strong>La inscripción a las Preliminares de PLANCKS 2021 se abrirá en esta página web a las 00:01 del 1 de febrero de 2021. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza!
+         <strong>La inscripción a las Preliminares de PLANCKS 2021 se abrirá en esta página web a las 00:01 del 1 de febrero de 2021. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza! </strong>
         </p>
         <p>
         P.D.: En esta página podéis encontrar información sobre Preliminares pasadas, ¡incluidos sus exámenes con los que practicar! Es algo que os recomendamos encarecidamente si aspiráis a representarnos en la fase internacional.
