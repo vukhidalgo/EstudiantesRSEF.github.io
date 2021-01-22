@@ -19,8 +19,8 @@ permalink: /PreliminaresPLANCKS/
         </p>
       <list class="a">
         <li>La <a href="#Prelis2021">edición 2021 de las Preliminares de PLANCKS</a>.</li>
-        <li>Sobre los <a href="#Sup">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
-        <li>Sobre <a href="#EdAnt"> ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
+        <li>Los <a href="#Sup">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
+        <li><a href="#EdAnt">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
       <p></p> <!-- Some very ugly way of spacing... -->
       <h2 id="Prelis2021"><strong>Preliminares de PLANCKS 2021</strong></h2>
