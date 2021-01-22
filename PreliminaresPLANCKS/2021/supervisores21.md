@@ -11,15 +11,11 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
     <div class="section">
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/HeaderPrelisPLANCKS21.png">
     
-<p><strong>Fecha del evento: viernes 5 de marzo de 2021 | Hora: de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación) | Lugar: online (posiblemente zoom) | Contacto con el Comité Organizador: estudiantes@rsef.es</strong></p>
+<p>Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
-<p><strong>Contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</strong></p>
+<p>Las Preliminares de PLANCKS son la fase española - clasificatoria - para PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS (International Association of Physics Students). PLANCKS es una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. Este año, tanto las Preliminares como la prueba final se realizarán online.</p>
 
-<p>Hola! Si has llegado hasta esta página es que se te ha propuesto como posible Supervisor/a de las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
-
-<p>Las Preliminares de PLANCKS son la fase nacional clasificatoria para PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS (International Association of Physics Students). PLANCKS es una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. Este año, tanto las Preliminares como la prueba final se realizarán online.</p>
-
-<p>Como puedes ver arriba, la fecha y hora de celebración de las Preliminares es el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada online para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas <strong>en todo momento</strong>. Por eso contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</p>
+<p>Las Preliminares de PLANCKS 2021 tendrán lugar el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada online para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas <strong>en todo momento</strong>. Por eso <strong>contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</strong></p>
 
 <p><strong>Requisitos del cargo de Supervisor/a:</strong></p>
 
