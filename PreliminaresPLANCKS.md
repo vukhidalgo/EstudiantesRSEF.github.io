@@ -33,13 +33,13 @@ permalink: /PreliminaresPLANCKS/
       
       ##<h2 id="Sup"><strong>Supervisores de examen 2021</strong></h2>
         <p>
-          Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores.
+          Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
       
 <div class="container">
    <div class="section">
       <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Info Supervisores/as examen 2021</a>
+        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as examen 2021</a>
       </div>
    </div>
 </div>
