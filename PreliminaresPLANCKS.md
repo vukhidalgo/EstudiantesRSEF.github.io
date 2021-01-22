@@ -34,9 +34,9 @@ permalink: /PreliminaresPLANCKS/
         P.D.: Más abajo podéis encontrar información sobre Preliminares pasadas, ¡incluidos sus exámenes con los que practicar! Es algo que os recomendamos encarecidamente si aspiráis a representarnos en la fase internacional.
         </p>
       
-      <h2 id="Sup"><strong>Supervisores de examen 2021</strong></h2>
+      ##<h2 id="Sup"><strong>Supervisores de examen 2021</strong></h2>
         <p>
-          Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores.
+          Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores.
         </p>
       
 <div class="container">
