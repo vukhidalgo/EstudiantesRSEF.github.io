@@ -21,7 +21,7 @@ permalink: /PreliminaresPLANCKS/
 <div class="container">
    <div class="section">
       <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as 2021</a>
+        <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Información Supervisores/as de examen 2021</a>
       </div>
    </div>
 </div>
