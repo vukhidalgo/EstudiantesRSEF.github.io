@@ -18,13 +18,14 @@ permalink: /PreliminaresPLANCKS/
           <strong>En esta web encontrarás información sobre</strong>: 
         </p>
       <list class="a">
-        <li>La <a href="#Prelis2021">edición 2021 de las Preliminares de PLANCKS</a>.</li>
-        <li>Los <a href="#Sup">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
-        <li><a href="#EdAnt">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
+        <li>La <a href="#Equipos">edición 2021 de las Preliminares de PLANCKS</a>.</li>
+        <li>Los <a href="#Supervisores">requisitos, responsabilidades e inscripción de los Supervisores de examen</a> de la edición 2021.</li>
+        <li><a href="#EdicionesAnteriores">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
     </div>
     <div class="section">
-      <h3 id="Prelis2021">Preliminares de PLANCKS 2021</h3>
+      <h3>Preliminares de PLANCKS 2021</h3>
+      <h2 id="Equipos">Equipos - Información & Inscripción</h2>
         <p>
           Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar online el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
         </p>
@@ -33,7 +34,8 @@ permalink: /PreliminaresPLANCKS/
         </p>
     </div>
     <div class="section">
-      <h3 id="Sup">Supervisores de examen 2021</h3>
+      <h3>Preliminares de PLANCKS 2021</h3>
+      <h2 id="Supervisores">Supervisores de examen - Información & Inscripción</h2>
         <p>
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
@@ -43,7 +45,7 @@ permalink: /PreliminaresPLANCKS/
         </div>
       </div>
       <div class="section">
-      <h3 id="EdAnt">Ediciones Anteriores</h3>
+      <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
         <p>
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
