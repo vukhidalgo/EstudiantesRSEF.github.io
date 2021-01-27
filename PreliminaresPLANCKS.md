@@ -18,8 +18,8 @@ permalink: /PreliminaresPLANCKS/
           <strong>En esta web encontrarás información sobre</strong>: 
         </p>
       <list class="a">
-        <li>La <a href="#Equipos">Equipos</a> - Preliminares de PLANCKS 2021.</li>
-        <li>Los <a href="#Supervisores">Supervisores de examen</a> - Preliminares de PLANCKS 2021.</li>
+        <li><a href="#Equipos">Equipos</a> - Preliminares de PLANCKS 2021.</li>
+        <li><a href="#Supervisores">Supervisores de examen</a> - Preliminares de PLANCKS 2021.</li>
         <li><a href="#EdicionesAnteriores">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
     </div>
