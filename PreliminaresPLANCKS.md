@@ -33,9 +33,11 @@ permalink: /PreliminaresPLANCKS/
           Tod@ estudiante que desee participar deberá reunir un equipo de tres a cuatro personas, también estudiantes de grado y/o máster. Una vez formado el equipo, deberá rellenar el formulario de inscripción. <strong>La inscripción a las Preliminares de PLANCKS 2021 se abrirá en esta página web a las 00:01 del 1 de febrero de 2021</strong>. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
         </p>
       
-      <p style="text-align:center"><strong>Las inscripciones abrirán en:</strong></p>
+      <h2 style="text-align: center;">Las inscripciones abrirán en:</h2>
       
+      <h3 style="text-align: center;">
       <p id="demo" style="text-align:center"></p>
+      </h3>
 
 <script>
 // Set the date we're counting down to
