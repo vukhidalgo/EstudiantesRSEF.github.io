@@ -15,13 +15,13 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 
 <p>Las Preliminares de PLANCKS son la fase española - clasificatoria - para PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS (International Association of Physics Students). PLANCKS es una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. Este año, tanto las Preliminares como la prueba final se realizarán online.</p>
 
-<p>Las Preliminares de PLANCKS 2021 tendrán lugar el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada online para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas <strong>en todo momento</strong>. Por eso, <strong>contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</strong></p>
+<p>Las Preliminares de PLANCKS 2021 tendrán lugar el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación; se darán 20 minutos tras el examen para el escaneo, ensamblaje y envío de las solcuones en formato .pdf). Durante las Preliminares, cada equipo contará con una sala de videollamada online para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas <strong>en todo momento</strong>. Por eso, <strong>contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</strong></p>
 
 <p><strong>Requisitos del cargo de Supervisor/a:</strong></p>
 
 <list class="a">
   <li>Ser investigador post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2021 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2021.</li>
-  <li>Comprometerse a tener disponibilidad en el rango horario 16h - 19h el viernes 5 de marzo de 2021 (se requerirá conectarse con 15 minutos de antelación), así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
+  <li>Comprometerse a tener disponibilidad en el rango horario 15:45h - 19:20h el viernes 5 de marzo de 2021, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
 </list>
 
 <p><strong>Responsabilidades del cargo de Supervisor/a:</strong></p>
