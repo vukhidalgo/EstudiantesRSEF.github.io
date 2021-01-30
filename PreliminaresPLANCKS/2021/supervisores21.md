@@ -9,7 +9,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
         <h3 class="justify"><strong>Preliminares de PLANCKS 2021</strong></h3>
           <h2 class="justify"><strong>Supervisores - Información e inscripción</strong></h2>
     <div class="section">
-      <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/HeaderPrelisPLANCKS21.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header Supervisores - Prelis PLANCKS 21.png">
     
 <p>Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
