@@ -8,6 +8,7 @@ permalink: /PreliminaresPLANCKS/
   <div class="container">
     <div class="section">
       <h3 class="center"><strong>Preliminares de PLANCKS</strong></h3>
+      <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
         <p>
           ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
         </p>
