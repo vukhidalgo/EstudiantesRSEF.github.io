@@ -23,11 +23,11 @@ comm: /ComPreliminaresPLANCKS21/
       <div class="row">
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center">Cierre de inscripciones en:</h2>
+            <h2 class="center">Cierre de inscripciones:</h2>
             <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Feb 1, 2021 00:01:00").getTime();
+var countDownDate = new Date("Feb 26, 2021 23:59:59").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
