@@ -61,7 +61,7 @@ var x = setInterval(function() {
           <div class="icon-block">
             <h2 class="center">Equipos inscritos</h2>
             <h3 style="text-align: center;">0 / 30</h3>
-            <h1 class="center">Last update: 00:00 2020/02/01</h1>
+            <p class="center">(Last update: 00:00 2020/02/01)</p>
           </div>
         </div>
       </div>
