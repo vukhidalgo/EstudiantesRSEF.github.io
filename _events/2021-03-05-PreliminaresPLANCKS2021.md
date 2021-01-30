@@ -14,7 +14,7 @@ exam:
 comm: /ComPreliminaresPLANCKS21/
 ---
 
-<img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
+<img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header Equipos - Prelis PLANCKS 21.png">
 
 ---
 
@@ -70,27 +70,26 @@ var x = setInterval(function() {
 
 ---
 
-<!--
-
-
 <p style="text-align: justify;">
-El próximo <strong>viernes 6 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2020.
+El próximo <strong>viernes 5 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2021.
 </p>
 
 <p style="text-align: justify;">
-PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS, consiste en una competición
-internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. La prueba tiene lugar en un país distinto cada año, y se enmarca en un evento de varios días repleto de charlas, excursiones y actividades para que los participantes se conozcan entre sí. En la edición de 2020, por ejemplo, ¡una boat party y una bbq party están aseguradas!
+PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics
+Students (IAPS). En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas,
+excursiones y actividades (este año online) para que los participantes se conozcan entre sí.
 </p>
 
 <p style="text-align: justify;">
-Este año, la <strong>prueba final</strong> tendrá lugar en <strong>Londres del 8 al 10 de mayo</strong> (pudiendo los participantes ampliar su estancia opcionalmente durante el 7 y el 11 de mayo), y entre los speakers invitados se encuentra el <a href="https://en.wikipedia.org/wiki/Jon_Butterworth">Prof. Jon Butterworth</a>, por ejemplo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe clasificarse en las preliminares que organizamos a nivel nacional.
+Este año, la <strong>prueba final</strong> tendrá lugar <strong>online del 6 al 9 de mayo</strong>. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final?
+Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
 </p>
 
 <p style="text-align: justify;">
-Este será el tercer año en que España organice unas preliminares nacionales para esta gran competición, que consistirán en un conjunto
-de <strong>4 problemas</strong> que habrá que resolver en <strong>2 horas</strong> durante la tarde del viernes 6 de marzo (los horarios
-podrán variar entre facultades: de 15:00h a 17:00h (turno 1) y de 16:00h a 18:00h (turno 2)). Esta primera fase nacional nos permitirá
-seleccionar a los 2 mejores equipos para que nos representen en la competición internacional, o a los 3 mejores en el caso de que concurran a las preliminares más de 14 equipos en total, a nivel nacional (posibilidad todavía por confirmar).
+Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar online (zoom) el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15
+minutos de antelación; los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y subir los correspondientes archivos). Durante las Preliminares, cada
+equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en
+todo momento. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
 </p>
 
 <p style="text-align: justify;">
@@ -133,4 +132,3 @@ Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el
   </justify>
 </div>
 
--->
