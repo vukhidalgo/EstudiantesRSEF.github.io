@@ -24,7 +24,7 @@ comm: /ComPreliminaresPLANCKS21/
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Cierre inscripciones</h2>
-            <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
+            <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Feb 26, 2021 23:59:59").getTime();
@@ -60,7 +60,7 @@ var x = setInterval(function() {
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Equipos inscritos</h2>
-            <h3 style="text-align: center;">0 / 30</h3>
+            <h2 style="text-align: center;">0 / 30</h2>
             <p class="center">(Last update: 00:00 2020/02/01)</p>
           </div>
         </div>
@@ -86,10 +86,7 @@ Desde España, debe lograrlo en las Preliminares que organizamos a nivel naciona
 </p>
 
 <p style="text-align: justify;">
-Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar online (zoom) el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15
-minutos de antelación; los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y subir los correspondientes archivos). Durante las Preliminares, cada
-equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en
-todo momento. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
+Las <strong>Preliminares de PLANCKS 2021</strong> consistirán en un conjunto de <strong>4 problemas</strong>, y tendrán lugar <strong>online (zoom)</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación; los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y subir los correspondientes archivos)</strong>. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
 </p>
 
 <p style="text-align: justify;">
@@ -97,7 +94,7 @@ Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen
 </p>
 <h3 style="text-align: center;">
   <span style="color: #3366ff;">
-    <strike>¡Inscríbete aquí!</strike> <strong>INSCRIPCIONES CERRADAS</strong>
+    <strike>¡Inscríbete aquí!</strike>
   </span>
 </h3>
 
@@ -106,12 +103,12 @@ Una vez os hayáis inscrito, nos pondremos en contacto con vosotros para informa
 </p>
 
 <p style="text-align: justify;">
-Por cierto, ¿habíamos mencionado que hace tres años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
+Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
 </p>
 
 <p style="text-align: justify;">
 <strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores,
-<a href="https://drive.google.com/open?id=1V0Cn6W0cepcTO95AdsxO6Piy-mrrJW-i">podéis encontrarlas aquí</a>.
+<a href="/PreliminaresPLANCKS/">podéis encontrarlas aquí</a>.
 </p>
 
 <div style="background-color:black;color:white;padding:20px;">
