@@ -75,7 +75,11 @@ El próximo <strong>viernes 5 de marzo</strong> se celebrarán en España las Pr
 </p>
 
 <p style="text-align: justify;">
-<strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (este año online) para que los participantes se conozcan entre sí. Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+<strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (este año online) para que los participantes se conozcan entre sí.
+</p>
+
+<p style="text-align: justify;">
+Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
 </p>
 
 <p style="text-align: justify;">
