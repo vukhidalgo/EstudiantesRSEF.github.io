@@ -14,6 +14,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
     <div class="section">
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header Supervisores - Prelis PLANCKS 21.png">
     </div>
+    <hr>
     <div class="section">
       <div class="row">
         <div class="col s12 m6">
@@ -54,7 +55,8 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
         </div>
       </div>
     </div>
-
+    <hr>
+      
 <p style="text-align: justify;">Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
 <p style="text-align: justify;">Las Preliminares de PLANCKS son la fase española - clasificatoria - para PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS (International Association of Physics Students). PLANCKS es una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. Este año, tanto las Preliminares como la prueba final se realizarán online.</p>
