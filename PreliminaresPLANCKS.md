@@ -29,7 +29,7 @@ permalink: /PreliminaresPLANCKS/
       <h3 id="PLANCKS&IAPS">PLANCKS 2021 & IAPS</h3>
       <h2>Sitios Web oficiales</h2>
       <p style="text-align: justify;">
-        Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza IAPS, la International Association of Physics Students. Por cierto, ¿sabías que, desde España, sólo se puede formar parte de IAPS través del Grupo de Estudiantes de la RSEF?
+        Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza IAPS, la International Association of Physics Students. Por cierto, ¿sabías que, desde España, sólo se puede formar parte de IAPS a través del Grupo de Estudiantes de la RSEF?
       </p>
       <div class="section">
         <div class="row">
