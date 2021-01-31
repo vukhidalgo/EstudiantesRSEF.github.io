@@ -10,7 +10,60 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
           <h2 class="justify"><strong>Supervisores - Información e inscripción</strong></h2>
     <div class="section">
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header Supervisores - Prelis PLANCKS 21.png">
+    </div>
     
+---
+    <div class="section">
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="icon-block">
+            <p class="center"><strong>CIERRE INSCRIPCIONES</strong></p>
+            <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Feb 26, 2021 23:59:59").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="countdown"
+  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown").innerHTML = "INSCRIPCIONES CERRADAS";
+  }
+}, 1000);
+</script>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="icon-block">
+            <p class="center"><strong>SUPERVISORES INSCRITOS</strong></p>
+            <h2 style="text-align: center;">0 / 40</h2>
+            <p class="center">(Last update: 00:00 2020/02/01)</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+---
+
 <p>Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
 <p>Las Preliminares de PLANCKS son la fase española - clasificatoria - para PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS (International Association of Physics Students). PLANCKS es una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. Este año, tanto las Preliminares como la prueba final se realizarán online.</p>
