@@ -141,13 +141,6 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
         <p style="text-align: justify;">
       - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of Conduct</a>.
         </p>
-    </em>
-  </justify>
-</div>
-
-<div style="background-color:black;color:white;padding:20px;">
-  <justify>
-    <em>
         <p style="text-align: justify;">
       Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
         </p>
