@@ -104,7 +104,7 @@ Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un e
     <em>
       <strong>DISCLAIMER: Reglas y Acciones de Supervisión Preliminares 2021</strong> | Todos los participantes:
         <p style="text-align: justify;">
-      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/1dRn9dc3tiuYS_SJNyvpDXDpxgAJ_JX76/view?usp=sharing">Reglas de las Preliminares de PLANCKS 2021</a>.
+      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing">Reglas de las Preliminares de PLANCKS 2021</a>.
         </p>
         <p style="text-align: justify;">
       - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing">Acciones de Supervisión</a> que puedan realizare durante la prueba.
