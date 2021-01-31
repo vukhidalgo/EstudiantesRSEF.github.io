@@ -19,10 +19,30 @@ permalink: /PreliminaresPLANCKS/
           <strong>En esta web encontrarás información sobre</strong>: 
         </p>
       <list class="a">
+        <li><a href="#PLANCKS&IAPS">Sitios Web oficiales</a> - PLANCKS 2021 y IAPS.</li>
         <li><a href="#Equipos">Equipos</a> - Preliminares de PLANCKS 2021.</li>
         <li><a href="#Supervisores">Supervisores de examen</a> - Preliminares de PLANCKS 2021.</li>
         <li><a href="#EdicionesAnteriores">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
+    </div>
+    <div class="section">
+      <h3 id="PLANCKS&IAPS">PLANCKS 2021 & IAPS</h3>
+      <h2>Sitios Web oficiales</h2>
+      <p style="text-align: justify;">
+        Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza la IAPS, la International Association of Physics Students, de la que sólo se puede formar parte, desde España, a través del Grupo de Estudiantes de la RSEF.
+      </p>
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">PLANCKS 2021</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Descubre IAPS</a>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="section">
       <h3 id="Equipos">Preliminares de PLANCKS 2021</h3>
@@ -70,7 +90,6 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-
     </div>
     <div class="section">
       <h3 id="Supervisores">Preliminares de PLANCKS 2021</h3>
@@ -78,6 +97,7 @@ var x = setInterval(function() {
         <p style="text-align: justify;">
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
+      </div>
       <div class="section">
         <div class="row center">
           <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as examen 2021</a>
