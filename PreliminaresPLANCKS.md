@@ -55,7 +55,7 @@ permalink: /PreliminaresPLANCKS/
     </div>
     <div class="section">
       <div class="row center">
-        <a href="https://2021.plancks.org/" class="btn-large waves-effect waves-light">Equipos 2021</a>
+        <a href="https://estudiantes.rsef.es/eventos-internacionales/2021/03/05/PreliminaresPLANCKS2021/" class="btn-large waves-effect waves-light">Equipos 2021</a>
       </div>
     </div>
     <div class="section">
