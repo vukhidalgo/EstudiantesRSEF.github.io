@@ -50,7 +50,7 @@ permalink: /PreliminaresPLANCKS/
       <h3 id="Equipos">Preliminares de PLANCKS 2021</h3>
       <h2>Equipos - Información & Inscripción</h2>
         <p style="text-align: justify;">
-          Clica en el botón inferior y descubre todo lo que necesitas saber para competir en las Preliminares de PLANCKS 2021: formato, fechas y formulario de inscripción. Este año, el formato online nos obliga a limitar las plazas, y esto es <em>first come, first served!</em>
+          Clica en el botón inferior y descubre todo lo que necesitas saber para competir en las Preliminares de PLANCKS 2021: formato, fechas y formulario de inscripción. Este año, el formato online nos obliga a admitir a tan sólo a 30 equipos, y esto es <em>first come, first served</em>, así que date prisa y... ¡No pierdas tu plaza!
         </p>
     </div>
     <div class="section">
