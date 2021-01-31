@@ -5,8 +5,6 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 ---
 
 <div class="no-pad-top" id="index-page">
-  
----
 
   <div class="container">
     <h3 class="justify"><strong>Preliminares de PLANCKS 2021</strong></h3>
