@@ -19,7 +19,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
         <div class="col s12 m6">
           <div class="icon-block">
             <p class="center"><strong>CIERRE INSCRIPCIONES</strong></p>
-            <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
+            <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
             <script>
               // Set the date we're counting down to
               var countDownDate = new Date("Feb 26, 2021 23:59:59").getTime();
@@ -48,7 +48,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
         <div class="col s12 m6">
           <div class="icon-block">
             <p class="center"><strong>SUPERVISORES INSCRITOS</strong></p>
-            <h2 style="text-align: center;">0 / 40</h2>
+            <h3 style="text-align: center;">0 / 40</h3>
             <p class="center">(Last update: 00:00 2020/02/01)</p>
           </div>
         </div>
