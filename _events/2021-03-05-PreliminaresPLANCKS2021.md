@@ -6,7 +6,7 @@ startingdate: 2021-03-05
 endingdate:
 place: Toda España
 locandina: /img/eventos/2020-PLANCKS/PrelisPLANCKS2020_transparent.png
-cover: /img/eventos/2020-PLANCKS/PrelisPLANCKS2020_transparent.png
+cover: /img/eventos/2021-PLANCKS/WebPostCover_PrelisPLANCKS2021_white.png
 gallery:
 site: /PreliminaresPLANCKS/
 ranking: 
