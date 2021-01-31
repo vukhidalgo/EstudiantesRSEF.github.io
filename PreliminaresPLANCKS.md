@@ -31,15 +31,17 @@ permalink: /PreliminaresPLANCKS/
       <p style="text-align: justify;">
         Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza la IAPS, la International Association of Physics Students, de la que sólo se puede formar parte, desde España, a través del Grupo de Estudiantes de la RSEF.
       </p>
-      <div class="row">
-        <div class="col s12 m6">
-          <div class="row center">
-            <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">PLANCKS 2021</a>
+      <div class="section">
+        <div class="row">
+          <div class="col s12 m6">
+            <div class="row center">
+              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">PLANCKS 2021</a>
+            </div>
           </div>
-        </div>
-        <div class="col s12 m6">
-          <div class="row center">
-            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Descubre IAPS</a>
+          <div class="col s12 m6">
+            <div class="row center">
+              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Descubre IAPS</a>
+            </div>
           </div>
         </div>
       </div>
