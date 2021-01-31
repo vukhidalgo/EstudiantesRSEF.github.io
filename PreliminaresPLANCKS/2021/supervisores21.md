@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: Supervisores Preliminares PLANCKS 21
 permalink: /PreliminaresPLANCKS/2021/Supervisores/
 ---
