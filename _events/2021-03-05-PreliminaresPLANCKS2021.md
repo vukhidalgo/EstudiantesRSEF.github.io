@@ -99,19 +99,18 @@ Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un e
 <li>Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
 </list>
 
-<div style="background-color:light-blue;color:white;padding:20px;">
+<div style="background-color:#B3B8ED;color:white;padding:20px;">
   <justify>
     <em>
-      <strong>DISCLAIMER: Reglas PLANCKS 2021</strong> | Todos los participantes:
+      <strong>DISCLAIMER: Reglas y Acciones de Supervisión Preliminares 2021</strong> | Todos los participantes:
         <p style="text-align: justify;">
-      - Declaran conocer que PLANCKS está regulado por el Artículo 12 de las
-          <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">IAPS Regulations</a>.
+      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/1dRn9dc3tiuYS_SJNyvpDXDpxgAJ_JX76/view?usp=sharing">Reglas de las Preliminares de PLANCKS 2021</a>.
         </p>
         <p style="text-align: justify;">
-      - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas                     Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of           Conduct</a>.
+      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing">Acciones de Supervisión</a> que puedan realizare durante la prueba.
         </p>
-        <p style="text-align: justify;">
-      Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de                   intermediario económico en modo alguno.
+          
+      Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
         </p>
     </em>
   </justify>
