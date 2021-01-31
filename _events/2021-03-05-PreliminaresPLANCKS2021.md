@@ -139,7 +139,7 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 
 <h3 style="text-align: center;">
   <span style="color: #3366ff;">
-    <a href="https://forms.gle/uUXB3aN5bgcKqDTn7" id="about-button" class="btn-large waves-effect waves-light">¡Inscríbete aquí!</a>
+    <a href="https://forms.gle/uUXB3aN5bgcKqDTn7" target="_blank" class="btn-large waves-effect waves-light">¡Inscríbete aquí!</a>
   </span>
 </h3>
 
