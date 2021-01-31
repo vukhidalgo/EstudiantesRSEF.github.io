@@ -50,17 +50,20 @@ permalink: /PreliminaresPLANCKS/
       <h3 id="Equipos">Preliminares de PLANCKS 2021</h3>
       <h2>Equipos - Información & Inscripción</h2>
         <p style="text-align: justify;">
-          Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar online el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
+          Clica en el botón inferior y descubre todo lo que necesitas saber para competir en las Preliminares de PLANCKS 2021: formato, fechas y formulario de inscripción. Este año, el formato online nos obliga a limitar las plazas, y esto es <em>first come, first served!</em>
         </p>
-        <p style="text-align: justify;">
-          Para participar necesitaréis reunir un equipo de tres a cuatro estudiantes de grado y/o máster. Una vez formado el equipo, deberéis rellenar el formulario de inscripción. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
-        </p>
-      
-      <h2 style="text-align: center;">Las inscripciones abrirán en:</h2>
-      
-      <h3 style="text-align: center;">
-      <p id="demo" style="text-align:center"></p>
-      </h3>
+    </div>
+    <div class="section">
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://2021.plancks.org/" class="btn-large waves-effect waves-light">Equipos 2021 2021</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <p class="center"><strong>APERTURA INSCRIPCIONES</strong></p>
+            <h3 style="text-align: center;"><p id="demo" style="text-align:center"></p></h3>
 
 <script>
 // Set the date we're counting down to
@@ -88,10 +91,14 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "INSCRIPCIONES ABIERTAS";
+    document.getElementById("demo").innerHTML = "¡INSCRIPCIONES ABIERTAS!";
   }
 }, 1000);
 </script>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="section">
       <h3 id="Supervisores">Preliminares de PLANCKS 2021</h3>
