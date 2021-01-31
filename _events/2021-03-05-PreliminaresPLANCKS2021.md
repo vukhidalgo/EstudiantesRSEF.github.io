@@ -93,11 +93,11 @@ Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un e
 <p style="text-align: justify;">
 <strong>REQUISITOS ESPECIALES</strong> Como estas Preliminares serán online, desde el Comité Organizador de la prueba entendemos que los siguientes requisitos son indispensables para el correcto desarrollo de la competición: 
   
-<p style="text-align: justify;">
+<p>
 <list class="a">
-<li>Todos los participantes deberán conectarse conectarse con 15 minutos de antelación (a las 15:45h) el día del examen.</li>
-<li>Todos los equipos dispondrán e 20 minutos tras el examen para escanear, montar, y enviar sus soluciones.</li>
-<li>Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
+<li style="text-align: justify;">Todos los participantes deberán conectarse conectarse con 15 minutos de antelación (a las 15:45h) el día del examen.</li>
+<li style="text-align: justify;">Todos los equipos dispondrán e 20 minutos tras el examen para escanear, montar, y enviar sus soluciones.</li>
+<li style="text-align: justify;">Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
 </list>
 </p>
 
