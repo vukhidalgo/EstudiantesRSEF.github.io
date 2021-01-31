@@ -67,7 +67,7 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 </p>
 
 <p style="text-align: justify;">
-<strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar online (zoom) el viernes 5 de marzo de 16:00h a 19:00h. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Es por eso que contar con el número suficiente de supervisores es el mayor reto organizativo al que nos enfrentamos en esta edición de las Preliminares.
+<strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar online (zoom) el viernes 5 de marzo de 15:45h a 19:20h. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Es por eso que contar con el número suficiente de supervisores es el mayor reto organizativo al que nos enfrentamos en esta edición de las Preliminares.
 </p>
 
 <p style="text-align: justify;">
