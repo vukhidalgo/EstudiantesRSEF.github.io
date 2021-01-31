@@ -54,6 +54,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
       </div>
     </div>
     <hr>
+      <div class="section">
       
 <p style="text-align: justify;">Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
@@ -90,7 +91,8 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 <p style="text-align: justify;">
 <strong>¿Cómo puedo supervisar un examen en las Preliminares 2021?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: ¡inscríbete! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
 </p>
-
+      </div>
+      
 <div class="section">
   <div class="row center">
     <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
