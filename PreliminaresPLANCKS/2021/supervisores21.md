@@ -80,16 +80,17 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 </list>
 
 <p style="text-align: justify;">
-<strong>¿Cuáles son las responsabilidades del cargo de Supervisor/a?</strong> Son dos:
+<strong>¿Cuáles son las responsabilidades del cargo de Supervisor/a?</strong> Son tres:
 </p>
 
 <list class="a">
-  <li>Vigilar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Además, también supone llevar a cabo las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> previstas, de manera aleatoria y ocasional a lo largo del examen.</li>
-  <li>Conocer las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a>.</li>
+  <li style="text-align: justify;"Vigilar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Además, también supone llevar a cabo las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> previstas, de manera aleatoria y ocasional a lo largo del examen.</li>
+  <li style="text-align: justify;"Conocer las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a>.</li>
+  <li style="text-align: justify;">Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
 </list>
 
 <p style="text-align: justify;">
-<strong>¿Cómo puedo supervisar un examen en las Preliminares 2021?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: ¡inscríbete! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
+<strong>¿Cómo puedo supervisar un examen en las Preliminares 2021?</strong> Es muy sencillo: sólo tienes que rellenar el siguiente formulario. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.
 </p>
       </div>
       
