@@ -111,7 +111,7 @@ El próximo <strong>viernes 5 de marzo</strong> se celebrarán en España las <s
 </p>
 
 <p style="text-align: justify;">
-<strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (este año online) para que los participantes se conozcan entre sí.
+<strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (ahora online) para que los participantes se conozcan entre sí.
 </p>
 
 <p style="text-align: justify;">
