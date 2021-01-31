@@ -12,7 +12,7 @@ permalink: /PreliminaresPLANCKS/
         <p>
           ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
         </p>
-        <p>
+        <p style="text-align: justify;">
           PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (este año online) para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
         </p>
         <p>
@@ -27,10 +27,10 @@ permalink: /PreliminaresPLANCKS/
     <div class="section">
       <h3 id="Equipos">Preliminares de PLANCKS 2021</h3>
       <h2>Equipos - Información & Inscripción</h2>
-        <p>
+        <p style="text-align: justify;">
           Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4-5 problemas, y tendrán lugar online el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación). Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
         </p>
-        <p>
+        <p style="text-align: justify;">
           Para participar necesitaréis reunir un equipo de tres a cuatro estudiantes de grado y/o máster. Una vez formado el equipo, deberéis rellenar el formulario de inscripción. Este año, las plazas son limitadas, y nuestra filosofía es 'first come, first served', ¡así que apuntaros cuanto antes y no perdáis vuestra plaza! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
         </p>
       
@@ -75,7 +75,7 @@ var x = setInterval(function() {
     <div class="section">
       <h3 id="Supervisores">Preliminares de PLANCKS 2021</h3>
       <h2>Supervisores de examen - Información & Inscripción</h2>
-        <p>
+        <p style="text-align: justify;">
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
       <div class="section">
@@ -85,7 +85,7 @@ var x = setInterval(function() {
       </div>
       <div class="section">
       <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
-        <p>
+        <p style="text-align: justify;">
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
       </div>
