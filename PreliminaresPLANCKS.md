@@ -57,7 +57,7 @@ permalink: /PreliminaresPLANCKS/
       <div class="row">
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://2021.plancks.org/" class="btn-large waves-effect waves-light">Equipos 2021 2021</a>
+            <a href="https://2021.plancks.org/" class="btn-large waves-effect waves-light">Equipos 2021</a>
           </div>
         </div>
         <div class="col s12 m6">
