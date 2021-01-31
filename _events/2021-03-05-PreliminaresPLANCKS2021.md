@@ -132,7 +132,7 @@ Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un e
 <p>
 <list class="a">
 <li style="text-align: justify;">Todos los participantes deberán conectarse conectarse con 15 minutos de antelación (a las 15:45h) el día del examen.</li>
-<li style="text-align: justify;">Todos los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y enviar sus soluciones.</li>
+<li style="text-align: justify;">Todos los equipos dispondrán de 20 minutos tras el examen (hasta las 19:20h) para escanear, montar, y enviar sus soluciones en formato .pdf.</li>
 <li style="text-align: justify;">Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
 </list>
 </p>
