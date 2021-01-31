@@ -148,9 +148,14 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
 </p>
 
 <p style="text-align: justify;">
-<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, 
-<a href="/PreliminaresPLANCKS/">podéis encontrarlas aquí</a>.
+<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, podéis encontrarlas aquí:
 </p>
+
+<div class="section">
+  <div class="row center">
+    <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+  </div>
+</div>
 
 <div style="background-color:#B3B8ED;color:black;padding:20px;">
   <justify>
