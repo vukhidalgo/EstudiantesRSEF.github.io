@@ -75,23 +75,44 @@ El próximo <strong>viernes 5 de marzo</strong> se celebrarán en España las Pr
 </p>
 
 <p style="text-align: justify;">
-PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics
-Students (IAPS). En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. La competición se enmarca en un evento de varios días repleto de charlas,
-excursiones y actividades (este año online) para que los participantes se conozcan entre sí.
+<strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas, excursiones y actividades (este año online) para que los participantes se conozcan entre sí. Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
 </p>
 
 <p style="text-align: justify;">
-Este año, la <strong>prueba final</strong> tendrá lugar <strong>online del 6 al 9 de mayo</strong>. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final?
-Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+<strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de <strong>4 problemas</strong>, y tendrán lugar <strong>online (zoom)</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación; los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y subir los correspondientes archivos)</strong>. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
 </p>
 
 <p style="text-align: justify;">
-Las <strong>Preliminares de PLANCKS 2021</strong> consistirán en un conjunto de <strong>4 problemas</strong>, y tendrán lugar <strong>online (zoom)</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación; los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y subir los correspondientes archivos)</strong>. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
+<strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: ¡inscríbete!
 </p>
 
 <p style="text-align: justify;">
-Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes:
-</p>
+<strong>REQUISITOS ESPECIALES</strong> Como estas Preliminares serán online, desde el Comité Organizador de la prueba entendemos que los siguientes dos requisitos son indispensables para el correcto desarrollo de la competición: 
+  
+<list class="a">
+<li>Todos los participantes deberán conectarse conectarse con 15 minutos de antelación (a las 15:45h) el día del examen.</li>
+<li>Todos los equipos dispondrán e 20 minutos tras el examen para escanear, montar, y enviar sus soluciones en formato .pdf.</li>
+<li>Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
+</list>
+
+<div style="background-color:light-blue;color:white;padding:20px;">
+  <justify>
+    <em>
+      <strong>DISCLAIMER: Reglas PLANCKS 2021</strong> | Todos los participantes:
+        <p style="text-align: justify;">
+      - Declaran conocer que PLANCKS está regulado por el Artículo 12 de las
+          <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">IAPS Regulations</a>.
+        </p>
+        <p style="text-align: justify;">
+      - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas                     Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of           Conduct</a>.
+        </p>
+        <p style="text-align: justify;">
+      Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de                   intermediario económico en modo alguno.
+        </p>
+    </em>
+  </justify>
+</div>
+
 <h3 style="text-align: center;">
   <span style="color: #3366ff;">
     <strike>¡Inscríbete aquí!</strike>
@@ -99,15 +120,11 @@ Así que si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen
 </h3>
 
 <p style="text-align: justify;">
-Una vez os hayáis inscrito, nos pondremos en contacto con vosotros para informaros del aula y del turno de examen que corresponda a vuestra facultad.
-</p>
-
-<p style="text-align: justify;">
 Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
 </p>
 
 <p style="text-align: justify;">
-<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores,
+<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, 
 <a href="/PreliminaresPLANCKS/">podéis encontrarlas aquí</a>.
 </p>
 
