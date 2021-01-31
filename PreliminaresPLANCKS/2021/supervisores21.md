@@ -5,6 +5,9 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
 ---
 
 <div class="no-pad-top" id="index-page">
+  
+---
+
   <div class="container">
     <h3 class="justify"><strong>Preliminares de PLANCKS 2021</strong></h3>
     <h2 class="justify"><strong>Supervisores - Información e inscripción</strong></h2>
@@ -71,13 +74,14 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
   <li>Supervisar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Se entregará una guía con indicaciones relativas a la supervisión a medida que se aproxime el examen.</li>
 </list>
 
-    <div class="section">
-      <div class="row center">
-        <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
-      </div>
-      <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
-    </div>
+      <div class="section">
+        <div class="row center">
+          <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
+        </div>
+        <div class="row center">
+          <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+        </div>
+     </div>
   </div>
 </div>
 
