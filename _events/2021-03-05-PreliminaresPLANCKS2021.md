@@ -166,7 +166,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
   </justify>
 </div>
 
-<div style="background-color:#656CAC;color:white;padding:20px;">
+<div style="background-color:black;color:white;padding:20px;">
   <justify>
     <em>
       <strong>DISCLAIMER 2: Términos y Condiciones de IAPS</strong> | Todos los participantes:
