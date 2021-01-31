@@ -71,7 +71,7 @@ var x = setInterval(function() {
 ---
 
 <p style="text-align: justify;">
-El próximo <strong>viernes 5 de marzo</strong> se celebrarán en España las Preliminares de PLANCKS 2021.
+El próximo <strong>viernes 5 de marzo</strong> se celebrarán en España las <strong>Preliminares de PLANCKS 2021</strong>.
 </p>
 
 <p style="text-align: justify;">
