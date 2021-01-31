@@ -128,7 +128,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
 <a href="/PreliminaresPLANCKS/">podéis encontrarlas aquí</a>.
 </p>
 
-<div style="background-color:black;color:white;padding:20px;">
+<div style="background-color:#B3B8ED;color:black;padding:20px;">
   <justify>
     <em>
       <strong>DISCLAIMER</strong> | Todos los participantes:
