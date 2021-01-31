@@ -23,7 +23,7 @@ comm: /ComPreliminaresPLANCKS21/
       <div class="row">
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center">Cierre inscripciones</h2>
+            <p class="center"><strong>CIERRE INSCRIPCIONES</strong></p>
             <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
 <script>
 // Set the date we're counting down to
@@ -59,7 +59,7 @@ var x = setInterval(function() {
         </div>
         <div class="col s12 m6">
           <div class="icon-block">
-            <h2 class="center">Equipos inscritos</h2>
+            <p class="center"><strong>EQUIPOS INSCRITOS</strong></p>
             <h2 style="text-align: center;">0 / 30</h2>
             <p class="center">(Last update: 00:00 2020/02/01)</p>
           </div>
@@ -130,7 +130,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
   </justify>
 </div>
 
-<div style="background-color:black;color:whitek;padding:20px;">
+<div style="background-color:black;color:white;padding:20px;">
   <justify>
     <em>
       <strong>DISCLAIMER 2: Términos y Condiciones de IAPS</strong> | Todos los participantes:
@@ -145,7 +145,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
   </justify>
 </div>
 
-<div style="background-color:black;color:whitek;padding:20px;">
+<div style="background-color:black;color:white;padding:20px;">
   <justify>
     <em>
         <p style="text-align: justify;">
