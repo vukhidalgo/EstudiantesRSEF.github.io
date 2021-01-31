@@ -60,7 +60,6 @@ var x = setInterval(function() {
         </div>
       </div>
     </div>
-  </div>
 
 ---
 
