@@ -83,38 +83,23 @@ Este año, PLANCKS tendrá lugar online del 6 al 9 de mayo. ¿Y cómo puede un e
 </p>
 
 <p style="text-align: justify;">
-<strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de <strong>4 problemas</strong>, y tendrán lugar <strong>online (zoom)</strong> el <strong>viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación; los equipos dispondrán de 20 minutos tras el examen para escanear, montar, y subir los correspondientes archivos)</strong>. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
+<strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar online (zoom) el viernes 5 de marzo de 16:00h a 19:00h. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento.
 </p>
 
 <p style="text-align: justify;">
-<strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: ¡inscríbete!
+<strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: ¡inscríbete! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
 </p>
 
 <p style="text-align: justify;">
-<strong>REQUISITOS ESPECIALES</strong> Como estas Preliminares serán online, desde el Comité Organizador de la prueba entendemos que los siguientes dos requisitos son indispensables para el correcto desarrollo de la competición: 
+<strong>REQUISITOS ESPECIALES</strong> Como estas Preliminares serán online, desde el Comité Organizador de la prueba entendemos que los siguientes requisitos son indispensables para el correcto desarrollo de la competición: 
   
+<p style="text-align: justify;">
 <list class="a">
 <li>Todos los participantes deberán conectarse conectarse con 15 minutos de antelación (a las 15:45h) el día del examen.</li>
-<li>Todos los equipos dispondrán e 20 minutos tras el examen para escanear, montar, y enviar sus soluciones en formato .pdf.</li>
+<li>Todos los equipos dispondrán e 20 minutos tras el examen para escanear, montar, y enviar sus soluciones.</li>
 <li>Todos los equipos deberán comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
 </list>
-
-<div style="background-color:#B3B8ED;color:white;padding:20px;">
-  <justify>
-    <em>
-      <strong>DISCLAIMER: Reglas y Acciones de Supervisión Preliminares 2021</strong> | Todos los participantes:
-        <p style="text-align: justify;">
-      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing">Reglas de las Preliminares de PLANCKS 2021</a>.
-        </p>
-        <p style="text-align: justify;">
-      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing">Acciones de Supervisión</a> que puedan realizare durante la prueba.
-        </p>
-          
-      Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
-        </p>
-    </em>
-  </justify>
-</div>
+</p>
 
 <h3 style="text-align: center;">
   <span style="color: #3366ff;">
@@ -134,16 +119,37 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
 <div style="background-color:#B3B8ED;color:black;padding:20px;">
   <justify>
     <em>
-      <strong>DISCLAIMER</strong> | Todos los participantes:
+      <strong>DISCLAIMER 1: Reglas y Acciones de Supervisión Preliminares 2021</strong> | Todos los participantes:
+        <p style="text-align: justify;">
+      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing">Reglas de las Preliminares de PLANCKS 2021</a>.
+        </p>
+        <p style="text-align: justify;">
+      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing">Acciones de Supervisión</a> que puedan realizare durante la prueba.
+        </p>
+    </em>
+  </justify>
+</div>
+
+<div style="background-color:black;color:whitek;padding:20px;">
+  <justify>
+    <em>
+      <strong>DISCLAIMER 2: Términos y Condiciones de IAPS</strong> | Todos los participantes:
         <p style="text-align: justify;">
       - Declaran conocer que PLANCKS está regulado por el Artículo 12 de las
           <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">IAPS Regulations</a>.
         </p>
         <p style="text-align: justify;">
-      - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas                     Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of           Conduct</a>.
+      - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of Conduct</a>.
         </p>
+    </em>
+  </justify>
+</div>
+
+<div style="background-color:black;color:whitek;padding:20px;">
+  <justify>
+    <em>
         <p style="text-align: justify;">
-      Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de                   intermediario económico en modo alguno.
+      Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
         </p>
     </em>
   </justify>
