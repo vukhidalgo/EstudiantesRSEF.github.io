@@ -57,31 +57,49 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
       
 <p style="text-align: justify;">Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
-<p style="text-align: justify;">Las Preliminares de PLANCKS son la fase española - clasificatoria - para PLANCKS (Physics League Across Numerous Countries for Kick-ass Students), el segundo mayor evento de IAPS (International Association of Physics Students). PLANCKS es una competición internacional de física teórica para equipos de tres a cuatro estudiantes de grado y/o máster. Este año, tanto las Preliminares como la prueba final se realizarán online.</p>
+<p style="text-align: justify;">
+<strong>¿Qué es PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí.
+</p>
 
-<p style="text-align: justify;">Las Preliminares de PLANCKS 2021 tendrán lugar el viernes 5 de marzo de 16:00h a 19:00h (se requerirá conectarse con 15 minutos de antelación; se darán 20 minutos tras el examen para el escaneo, ensamblaje y envío de las solcuones en formato .pdf). Durante las Preliminares, cada equipo contará con una sala de videollamada online para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas <strong>en todo momento</strong>. Por eso, <strong>contar con el número necesario de Supervisores es el mayor reto organizativo al que nos enfrentamos en las Preliminares de PLANCKS 2021. Vuestro papel es fundamental.</strong></p>
+<p style="text-align: justify;">
+Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará organizada por la Universidad de Oporto. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+</p>
 
-<p><strong>Requisitos del cargo de Supervisor/a:</strong></p>
+<p style="text-align: justify;">
+<strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar online (zoom) el viernes 5 de marzo de 16:00h a 19:00h. Durante las Preliminares, cada equipo contará con una sala de videollamada para que sus miembros puedan comunicarse entre sí y realizar el examen. Todas y cada una de esas salas estarán supervisadas en todo momento. Es por eso que contar con el número suficiente de supervisores es el mayor reto organizativo al que nos enfrentamos en esta edición de las Preliminares.
+</p>
+
+<p style="text-align: justify;">
+<strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:
+</p>
 
 <list class="a">
   <li>Ser investigador post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2021 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2021.</li>
   <li>Comprometerse a tener disponibilidad en el rango horario 15:45h - 19:20h el viernes 5 de marzo de 2021, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
 </list>
 
-<p><strong>Responsabilidades del cargo de Supervisor/a:</strong></p>
+<p style="text-align: justify;">
+<strong>¿Cuáles son las responsabilidades del cargo de Supervisor/a?</strong> Son dos:
+</p>
 
 <list class="a">
-  <li>Supervisar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Se entregará una guía con indicaciones relativas a la supervisión a medida que se aproxime el examen.</li>
+  <li>Vigilar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Además, también supone llevar a cabo las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> previstas, de manera aleatoria y ocasional a lo largo del examen.</li>
+  <li>Conocer las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a>.</li>
 </list>
 
-      <div class="section">
-        <div class="row center">
-          <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
-        </div>
-        <div class="row center">
-          <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
-        </div>
-     </div>
+<p style="text-align: justify;">
+<strong>¿Cómo puedo supervisar un examen en las Preliminares 2021?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: ¡inscríbete! Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
+</p>
+
+<div class="section">
+  <div class="row center">
+    <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
+  </div>
+  <div class="row center">
+    <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+  </div>
+</div>
+
   </div>
 </div>
 
