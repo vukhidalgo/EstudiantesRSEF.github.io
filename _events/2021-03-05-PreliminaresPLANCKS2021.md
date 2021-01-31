@@ -148,7 +148,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
 </p>
 
 <p style="text-align: justify;">
-<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, podéis encontrarlas aquí:
+<strong>AYUDA</strong> | En caso de que queráis entrenaros con las pruebas de años anteriores, podéis encontrarlas en la sección <em>Ediciones Anteriores</em> al clicar el siguiente botón:
 </p>
 
 <div class="section">
