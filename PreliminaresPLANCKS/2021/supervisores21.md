@@ -56,7 +56,7 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
     <hr>
       <div class="section">
       
-<p style="text-align: justify;">Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
+<p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un posible Supervisor/a de examen en las Preliminares de PLANCKS 2021. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
 
 <p style="text-align: justify;">
 <strong>¿Qué es PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí.
