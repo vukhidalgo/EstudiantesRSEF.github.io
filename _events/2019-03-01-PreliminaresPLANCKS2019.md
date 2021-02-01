@@ -5,8 +5,8 @@ title:  "Preliminares de PLANCKS 2019"
 startingdate: 2019-03-01
 endingdate: 
 place: Toda España
-locandina: /img/eventos/2019-PLANCKS/Plancks2019.jpg
-cover: /img/eventos/2019-PLANCKS/Plancks2019.jpg
+locandina: /img/eventos/2019-PLANCKS/Cover_LogoPLANCKS2019+Prelis_transparent.png
+cover: /img/eventos/2019-PLANCKS/Cover_LogoPLANCKS2019+Prelis_transparent.png
 gallery:
 site: http://www.plancks-2019.sdu.dk
 ranking: https://drive.google.com/file/d/18BUBT9_nS0wDNjePr4-Jzsgw4XInbLjp/view?usp=sharing
