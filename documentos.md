@@ -16,7 +16,7 @@ Aquí puede encontrarse material informativo relacionado con el Grupo de Estudia
 
 ## Estatutos y Reglamento Interno
 
-Los Estatutos constituyen el documento fundamental de la Real Sociedad Española de Física. En ellos se pueden encontrar las normas generales que regulan la Sociedad. El Reglamento General de los Grupos Especializados y de las Divisiones de la RSEF ejerce una función análoga a los Estatutos, pero está subordinado a estos. Estudiantes RSEF se rige por ambos.
+Los Estatutos constituyen el documento fundamental de la Real Sociedad Española de Física. En ellos se pueden encontrar las normas generales que regulan la Sociedad. El Reglamento General de los Grupos Especializados y de las Divisiones de la RSEF ejerce una función análoga a los Estatutos, pero está subordinado a estos. El Grupo de Estudiantes RSEF se rige por ambos.
 
 <div class="collection">
   <a href="http://rsef.es/images/Fisica/2018ESTATUTOSRSEF_JGO4-V-2018.pdf"  class="collection-item">Estatutos</a>
