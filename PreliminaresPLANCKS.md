@@ -75,7 +75,7 @@ permalink: /PreliminaresPLANCKS/
         <p style="text-align: justify;">
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
-      </div> <!--
+      </div>
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
       {% if event.title contains "Preliminares de PLANCKS"%}
@@ -108,5 +108,5 @@ permalink: /PreliminaresPLANCKS/
       {% endfor %}
       {% if loopindex == 1 %} 
       </div>
-      {% endif %} -->
+      {% endif %}
     </div>
