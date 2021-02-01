@@ -153,7 +153,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
 
 <div class="section">
   <div class="row center">
-    <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
+    <a href="{{ site.url }}/PreliminaresPLANCKS/" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
   </div>
 </div>
 
@@ -162,10 +162,10 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
     <em>
       <strong>DISCLAIMER 1: Reglas y Acciones de Supervisión Preliminares 2021</strong> | Todos los participantes:
         <p style="text-align: justify;">
-      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing">Reglas de las Preliminares de PLANCKS 2021</a>.
+      - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a>.
         </p>
         <p style="text-align: justify;">
-      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing">Acciones de Supervisión</a> que puedan realizare durante la prueba.
+      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> que puedan realizare durante la prueba.
         </p>
     </em>
   </justify>
@@ -177,10 +177,10 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
       <strong>DISCLAIMER 2: Términos y Condiciones de IAPS</strong> | Todos los participantes:
         <p style="text-align: justify;">
       - Declaran conocer que PLANCKS está regulado por el Artículo 12 de las
-          <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m">IAPS Regulations</a>.
+          <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m" target="_blank">IAPS Regulations</a>.
         </p>
         <p style="text-align: justify;">
-      - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO">Reglas Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE">IAPS Code of Conduct</a>.
+      - Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO" target="_blank">Reglas Generales de Plancks</a>, además del <a href="https://drive.google.com/open?id=1KQUTc_WqUgbXHQo-V-EE8_F94c5n6dpE" target="_blank">IAPS Code of Conduct</a>.
         </p>
         <p style="text-align: justify;">
       Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.
