@@ -11,7 +11,7 @@ Descubre en este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofr
 
 <center><iframe width="700" height="394" src="https://www.youtube.com/embed/B327Xucbb30?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<p style="text-align: justify">
+<!-- <p style="text-align: justify">
 El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) (en redes sociales, Estudiantes RSEF) fue fundado en octubre de 2018. Busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. El Grupo de Estudiantes es, además, National Committee Spain en la International Association of Physics Students (IAPS), la mayor organización de estudiantes de física del mundo.
 </p>
 
@@ -21,7 +21,7 @@ El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) (
   Para conocer más detalles acerca del Grupo de Estudiantes consulta nuestros <a href="/documentos/">documentos oficiales</a>.
 </p>
 
-## Principales objetivos
+<!-- ## Principales objetivos
 
 <p style='text-align: justify;'>
   En líneas generales, los principales objetivos del Grupo de Estudiantes de la RSEF son:
@@ -33,7 +33,7 @@ El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) (
 4. <p style='text-align: justify;'>Fomentar el debate sobre la enseñanza de la física en todos los niveles y actuar como puente entre asesores especializados y organismos competentes sobre la materia.</p>
 5. <p style='text-align: justify;'>Participar en la constitución de comisiones científicas de ámbito universitario y estatal así como en las representaciones españolas en instituciones y comisiones científicas internacionales de ámbito estudiantil.</p>
 6. <p style='text-align: justify;'>Asesorar y colaborar con el mundo empresarial en cuestiones relacionadas con la física y su enseñanza, así como con sus salidas profesionales y con la adquisición de aquellas habilidades necesarias para triunfar en el mundo empresarial.</p>
-7. <p style='text-align: justify;'>Contribuir a la educación científica y tecnológica de la sociedad, promoviendo actividades de divulgación y difusión de la física.</p>
+7. <p style='text-align: justify;'>Contribuir a la educación científica y tecnológica de la sociedad, promoviendo actividades de divulgación y difusión de la física.</p> -->
 
 ## Delegaciones
 
