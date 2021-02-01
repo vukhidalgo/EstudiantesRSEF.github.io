@@ -165,7 +165,7 @@ Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español 
       - Se comprometen a cumplir las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a>.
         </p>
         <p style="text-align: justify;">
-      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> que puedan realizare durante la prueba.
+      - Y aceptan someterse a las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> que puedan realizarse durante la prueba.
         </p>
     </em>
   </justify>
