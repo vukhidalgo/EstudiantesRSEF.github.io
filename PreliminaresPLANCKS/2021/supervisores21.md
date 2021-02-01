@@ -90,6 +90,10 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 </list>
 
 <p style="text-align: justify;">
+<strong>Importante:</strong> cuando un supervisor/a haya sido reclutado por uno de los equipos participantes, dicho supervisor/a vigilará un equipo distinto al responsable de su alistamiento.
+</p>
+
+<p style="text-align: justify;">
 <strong>¿Cómo puedo supervisar un examen en las Preliminares 2021?</strong> Es muy sencillo: sólo tienes que rellenar el siguiente formulario. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.
 </p>
       </div>
