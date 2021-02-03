@@ -47,8 +47,8 @@ permalink: /PreliminaresPLANCKS/2021/Supervisores/
         <div class="col s12 m6">
           <div class="icon-block">
             <p class="center"><strong>SUPERVISORES INSCRITOS</strong></p>
-            <h3 style="text-align: center;">5 / 40</h3>
-            <p class="center">(Last update: 22:00 2020/02/02)</p>
+            <h3 style="text-align: center;">9 / 40</h3>
+            <p class="center">(Last update: 22:00 2020/02/03)</p>
           </div>
         </div>
       </div>
