@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ComPreliminaresPLANCKS19
-permalink: /ComPreliminaresPLANCKS19/
+permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2019/
 ---
 
 <div class="no-pad-top" id="index-page">
