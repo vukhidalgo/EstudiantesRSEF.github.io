@@ -75,7 +75,7 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 </p>
 
 <list class="a">
-  <li>Ser investigador post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2021 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2021.</li>
+  <li>Ser investigador pre- o post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2021 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2021.</li>
   <li>Comprometerse a tener disponibilidad en el rango horario 15:45h - 19:20h el viernes 5 de marzo de 2021, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
 </list>
 
