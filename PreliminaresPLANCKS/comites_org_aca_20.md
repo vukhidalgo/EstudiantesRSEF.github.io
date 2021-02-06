@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ComPreliminaresPLANCKS20
-permalink: /ComPreliminaresPLANCKS20/
+permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2020/
 ---
 
 <div class="no-pad-top" id="index-page">
