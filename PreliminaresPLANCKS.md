@@ -24,7 +24,10 @@ permalink: /PreliminaresPLANCKS/
         <li><a href="#Supervisores">Supervisores de examen</a> - Preliminares de PLANCKS 2021.</li>
         <li><a href="#EdicionesAnteriores">Ediciones anteriores de las Preliminares</a>, con cuyos exámenes poder practicar.</li>
       </list>
-    </div>
+      <p style="text-align: justify;">
+        Además, puedes <a href="/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2021.
+      </p>
+    </div>    
     <div class="section">
       <h3 id="PLANCKS&IAPS">PLANCKS 2021 & IAPS</h3>
       <h2>Sitios Web oficiales</h2>
