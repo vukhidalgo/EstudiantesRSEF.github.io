@@ -16,7 +16,7 @@ permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/
             <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
             <p align="center">Alejandro Fernández Muñoz - Vicepresidente y IT Manager</p>
             <p align="center">Pedro Villalba González - Responsable de Relaciones Públicas</p>
-            <p align="center">Sergio Salvía Fernández - Community Manager</p>
+            <p align="center">Sergio Salvía Fernández - Relaciones Públicas</p>
             <p align="center">Alba Tacoronte Hernández - Diseño gráfico</p>
             <p align="center">Cristina Balsells Llort - Responsable de Logística</p>
             <p align="center">Alberto Flores Ruiz - Logística</p>
