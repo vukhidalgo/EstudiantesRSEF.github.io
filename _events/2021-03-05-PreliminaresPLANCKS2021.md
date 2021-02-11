@@ -24,7 +24,7 @@ comm: /ComPreliminaresPLANCKS21/
         <div class="col s12 m6">
           <div class="icon-block">
             <p class="center"><strong>APERTURA INSCRIPCIONES</strong></p>
-            <!-- <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
+            <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Feb 26, 2021 23:59:59").getTime();
@@ -54,11 +54,9 @@ var x = setInterval(function() {
     document.getElementById("countdown").innerHTML = "INSCRIPCIONES CERRADAS";
   }
 }, 1000);
-</script> -->
+</script>
 
-      <h2 style="text-align: center;">
-      <p id="demo" style="text-align:center"></p>
-      </h2>
+      <!-- <h2 style="text-align: center;"><p id="demo" style="text-align:center"></p></h2>
 
 <script>
 // Set the date we're counting down to
@@ -89,7 +87,7 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "INSCRIPCIONES ABIERTAS";
   }
 }, 1000);
-</script>
+</script> -->
           </div>
         </div>
         <div class="col s12 m6">
