@@ -90,7 +90,6 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-
           </div>
         </div>
         <div class="col s12 m6">
@@ -99,6 +98,11 @@ var x = setInterval(function() {
             <h2 style="text-align: center;">39 / 40</h2>
             <p class="center">(Last update: 22:00 2020/02/11)</p>
           </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col s12 m6">
+          <p class="center"><strong>1ª RONDA de INSCRIPCIÓN COMPLETADA | 30/30 EQUIPOS | 1 Feb - 9 Feb </strong></p>
         </div>
       </div>
     </div>
