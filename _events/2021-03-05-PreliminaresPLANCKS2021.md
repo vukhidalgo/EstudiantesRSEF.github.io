@@ -23,7 +23,7 @@ comm: /ComPreliminaresPLANCKS21/
       <div class="row">
         <div class="col s12 m6">
           <div class="icon-block">
-            <p class="center"><strong>APERTURA INSCRIPCIONES</strong></p>
+            <p class="center"><strong>CIERRE INSCRIPCIONES</strong></p>
             <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
 <script>
 // Set the date we're counting down to
