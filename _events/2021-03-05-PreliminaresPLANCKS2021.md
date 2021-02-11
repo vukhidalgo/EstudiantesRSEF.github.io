@@ -102,7 +102,7 @@ var x = setInterval(function() {
       </div>
       <div class="row">
         <div class="col s12 m6">
-          <p class="center"><strong>1ª RONDA de INSCRIPCIÓN COMPLETADA | 30/30 EQUIPOS | 1 Feb - 9 Feb </strong></p>
+          <p class="center"><strong>1ª RONDA de INSCRIPCIÓN COMPLETADA | 30/30 EQUIPOS | 1 Feb - 8 Feb </strong></p>
         </div>
       </div>
       <div class="row">
