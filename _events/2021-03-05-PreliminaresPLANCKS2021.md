@@ -93,16 +93,21 @@ var x = setInterval(function() {
         <div class="col s12 m6">
           <div class="icon-block">
             <p class="center"><strong>EQUIPOS INSCRITOS</strong></p>
-            <h2 style="text-align: center;">39 / 40</h2>
+            <h2 style="text-align: center;">41 / 45</h2>
             <p class="center">(Last update: 22:00 2020/02/11)</p>
           </div>
         </div>
       </div>
       <div class="row">
-        <p class="center"><strong>1ª RONDA de INSCRIPCIÓN COMPLETADA | 30/30 EQUIPOS | 1 Feb - 8 Feb </strong></p>
+        <div class="col s12 m6">
+          <p class="center"><strong>1ª RONDA de INSCRIPCIÓN COMPLETADA | 30/30 EQUIPOS | 1 Feb - 8 Feb </strong></p>
+        </div>
+        <div class="col s12 m6">
+          <p class="center"><strong>2ª RONDA de INSCRIPCIÓN COMPLETADA | 10/10 EQUIPOS | 9 Feb - 11 Feb</strong></p>
+        </div>
       </div>
       <div class="row">
-        <p class="center"><strong>2ª RONDA de INSCRIPCIÓN ABIERTA | 9/10 EQUIPOS | 9 Feb - </strong></p>
+        <p class="center"><strong>3ª RONDA de INSCRIPCIÓN ABIERTA | 1/5 EQUIPOS | 12 Feb - </strong></p>
       </div>
     </div>
   </div>
