@@ -85,7 +85,7 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 
 <list class="a">
   <li style="text-align: justify;">Vigilar uno de los equipos competidores en las Preliminares de PLANCKS 2021. Ello implica estar presente - en todo momento - en la sala de videollamada online que se habilite para que los miembros del equipo correspondiente puedan comunicarse entre sí. Además, también supone llevar a cabo las <a href="https://drive.google.com/file/d/174QFmkkqtWbnPDPnf7A9AJGavISVt3hT/view?usp=sharing" target="_blank">Acciones de Supervisión</a> previstas (<a href="https://drive.google.com/file/d/1MnnLd7JjcK7XFnInQ7dgIjU6JlDVmjXd/view?usp=sharing" target="_blank">versión en castellano</a>), de manera aleatoria y ocasional a lo largo del examen.</li>
-  <li style="text-align: justify;">Conocer las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a> (<a href="https://drive.google.com/file/d/1LpAvFetgsMj9xv-jrRNK75qgL3dOtAa_/view?usp=sharing" target="_blank">versión en castellano</a>).</li>
+  <li style="text-align: justify;">Conocer las <a href="https://drive.google.com/file/d/11HKI7XNq6Xd60zAzpkYeO4hwhHg2qwIU/view?usp=sharing" target="_blank">Reglas de las Preliminares de PLANCKS 2021</a> (<a href="https://drive.google.com/file/d/1SLYZ_gxa1fR8_m9Vxg4tbkjpVivQS3c4/view?usp=sharing" target="_blank">versión en castellano</a>).</li>
   <li style="text-align: justify;">Comprometerse a asistir a una breve sesión online (20 minutos) en que se practicará el funcionamiento de la herramienta zoom.</li>
 </list>
 
