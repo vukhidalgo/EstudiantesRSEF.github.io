@@ -93,8 +93,8 @@ var x = setInterval(function() {
         <div class="col s12 m6">
           <div class="icon-block">
             <p class="center"><strong>EQUIPOS INSCRITOS</strong></p>
-            <h2 style="text-align: center;">41 / 45</h2>
-            <p class="center">(Last update: 22:00 2021/02/12)</p>
+            <h2 style="text-align: center;">43 / 45</h2>
+            <p class="center">(Last update: 22:00 2021/02/15)</p>
           </div>
         </div>
       </div>
