@@ -111,7 +111,7 @@ var x = setInterval(function() {
           <p class="center"><strong>3ª RONDA de INSCRIPCIÓN COMPLETADA | 5/5 EQUIPOS | 12 Feb - 16 Feb</strong></p>
         </div> 
         <div class="col s12 m6">
-          <p class="center"><strong>4ª RONDA de INSCRIPCIÓN ABIERTA | 2/5 EQUIPOS | 25 Feb - </strong></p>
+          <p class="center"><strong>4ª RONDA de INSCRIPCIÓN ABIERTA | 1/5 EQUIPOS | 25 Feb - </strong></p>
         </div> 
       </div>
     </div>
