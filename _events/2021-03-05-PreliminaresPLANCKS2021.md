@@ -27,7 +27,7 @@ comm: /ComPreliminaresPLANCKS21/
             <h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Feb 26, 2021 23:59:59").getTime();
+var countDownDate = new Date("Feb 27, 2021 23:59:59").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
