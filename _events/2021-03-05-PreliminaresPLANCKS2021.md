@@ -150,11 +150,11 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 </list>
 </p>
 
-<h3 style="text-align: center;">
+<!-- <h3 style="text-align: center;">
   <span style="color: #3366ff;">
     <a href="https://forms.gle/uUXB3aN5bgcKqDTn7" target="_blank" class="btn-large waves-effect waves-light">¡Inscríbete aquí!</a>
   </span>
-</h3>
+</h3> -->
 
 <p style="text-align: justify;">
 Por cierto, ¿habíamos mencionado que hace cuatro años fue un equipo español el vencedor de la final internacional de PLANCKS? Hagamos que este año el premio vuelva a casa.
