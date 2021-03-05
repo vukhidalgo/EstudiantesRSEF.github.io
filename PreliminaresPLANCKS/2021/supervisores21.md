@@ -99,10 +99,10 @@ Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará or
 </p>
       </div>
       
-<div class="section">
+<!-- <div class="section">
   <div class="row center">
     <a href="https://forms.gle/xMAEtM7MKuB4QMYZ6" id="about-button" class="btn-large waves-effect waves-light" target="_blank">Inscríbete como supervisor/a</a>
-  </div>
+  </div> -->
   <div class="row center">
     <a href="{{ site.url }}/PreliminaresPLANCKS/" id="about-button" class="btn-large waves-effect waves-light">Volver a Preliminares de PLANCKS</a>
   </div>
