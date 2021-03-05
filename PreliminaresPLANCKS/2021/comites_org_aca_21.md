@@ -27,10 +27,10 @@ permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité Académico</h2>
-            <p align="center">Confidencial hasta celebración de la prueba</p>
-            <!-- <p align="center">Prof. Emili Bagán (UAB) - Autor de problema</p>
-            <p align="center">Prof. Juan P. García Villaluenga (UCM)  - Autor de problema</p>
-            <p align="center">Prof. Diego Porras (CSIC) - Autor de problema</p> -->
+            <p align="center">Juan León (QUINFOG, CSIC) - Presidente del Comité y Autor de Problema</p>
+            <p align="center">María Varela del Arco (UCM) - Autora de Problema</p>
+            <p align="center">Antonio Guirao (UMU) - Autor de Problema</p>
+            <p align="center">Lucas Lamata (US) - Autor de Problema</p>
           </div>
         </div>
       </div>
