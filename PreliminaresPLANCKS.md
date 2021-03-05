@@ -12,7 +12,6 @@ permalink: /PreliminaresPLANCKS/
       <hr>
       <h3 style="text-align: center;">
       <span style="color: #A1A7EA;">
-      <span>
       <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing"><strong>SOLUCIONES A LAS PRELIMINARES DE PLANCKS 2021</strong></a>
       </span>
       </h3>
