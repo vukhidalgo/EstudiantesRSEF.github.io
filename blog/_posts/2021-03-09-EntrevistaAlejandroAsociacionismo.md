@@ -11,4 +11,8 @@ redirect-from:
 
 Samuel G. Huete, de Jóvenes Investigadores de la <a href="https://www.semicrobiologia.org/" target='_blank'>Sociedad Española de Microbiología (SEM)</a>, nos trae esta entrevista a nuestro Presidente, desde la sección "Micro Joven" del boletín mensual de la SEM.
 
-<a href="https://drive.google.com/file/d/1g51ggDBcr2V7ZRtb7SEtqU7AeKwZoofZ/view?usp=sharing" target='_blank'>Clica aquí para acceder a la entrevista</a>.
+<div class="section">
+  <div class="row center">
+    <a href="https://drive.google.com/file/d/1g51ggDBcr2V7ZRtb7SEtqU7AeKwZoofZ/view?usp=sharing" target="_blank" class="btn-large waves-effect waves-light">Accede aquí a la entrevista</a>
+  </div>
+</div>
