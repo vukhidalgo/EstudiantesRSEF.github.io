@@ -10,14 +10,12 @@
       url: /junta-de-gobierno/
     - text: Documentos
       url: /documentos/
- - text: Eventos
+ - text: Oportunidades
    subitems:
-     - text: Eventos Globales
-       url: /eventos-internacionales/
-     - text: Eventos Nacionales
-       url: /eventos-nacionales/
-     - text: Preliminares PLANCKS
-       url: /PreliminaresPLANCKS/
+     - text: Eventos 
+       url: /eventos/
+     - text: Internships DataBase
+       url: https://estudiantesrsef.vercel.app/
 # - text: ICPS'20
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
  - text: <strong>¡Participa!</strong>
