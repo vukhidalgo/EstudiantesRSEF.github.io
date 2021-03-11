@@ -15,7 +15,7 @@
      - text: Eventos 
        url: /eventos/
      - text: Internships DataBase
-       url: https://estudiantesrsef.vercel.app/
+       url: https://estudiantesrsef.vercel.app/ target="_blank"
      - text: Preliminares PLANCKS
        url: /PreliminaresPLANCKS/
 # - text: ICPS'20
