@@ -1,4 +1,4 @@
- - text: Conócenos
+ - text: <strong>Conócenos</strong>
    url: /about/
    slug: about
    subitems:
@@ -10,13 +10,13 @@
       url: /junta-de-gobierno/
     - text: Documentos
       url: /documentos/
- - text: Oportunidades
+ - text: <strong>Oportunidades</strong>
    subitems:
      - text: Eventos 
        url: /eventos/
      - text: Internships DataBase
        url: https://estudiantesrsef.vercel.app/
-     - text: <strong>PLANCKS</strong>
+     - text: Preliminares PLANCKS
        url: /PreliminaresPLANCKS/
 # - text: ICPS'20
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
