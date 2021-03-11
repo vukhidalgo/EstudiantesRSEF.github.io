@@ -4,7 +4,7 @@
     <ul id="dropdown-{{ item.slug }}" class="dropdown-content">
       <li><a href="{{ item.url }}">{{ item.text }}</a></li>
       {% for subitem in item.subitems %}
-      <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+      <li><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %}>{{ subitem.text }}</a></li>
       {% endfor %}
     </ul>
 {% endif %}
