@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Eventos Internacionales
-permalink: /eventos-internacionales/
+title: Nuestros Eventos
+permalink: /eventos/
 ---
 
-¡Bienvenid@ a nuestra página de eventos globales! Aquí te presentamos algunos de los mejores eventos que existen para estudiantes de física a nivel internacional.
+¡Bienvenid@ a nuestra página de eventos! Aquí te presentamos algunos de los mejores eventos que existen para estudiantes de física a nivel nacional e internacional.
 
 ## Próximamente
 
