@@ -14,19 +14,16 @@
    subitems:
      - text: Eventos 
        url: /eventos/
-     - text: Internships DataBase
-       url: https://estudiantesrsef.vercel.app/ 
-       blank: YES
-     - text: Preliminares PLANCKS
-       url: /PreliminaresPLANCKS/
-# - text: ICPS'20
-#   url: /eventos-internacionales/2020/08/09/ICPS2020/
- - text: <strong>¡Participa!</strong>
-   url: /participa/
-   subitems:
      - text: Delegaciones
        url: /delegaciones/
      - text: Junta de Gobierno
        url: /participa-nacional/
+     - text: Internships DataBase
+       url: https://estudiantesrsef.vercel.app/ 
+       blank: YES
+# - text: ICPS'20
+#   url: /eventos-internacionales/2020/08/09/ICPS2020/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
+ - text: <strong>PLANCKS</strong>
+   url: /PreliminaresPLANCKS/
