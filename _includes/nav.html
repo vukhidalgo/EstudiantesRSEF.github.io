@@ -12,6 +12,7 @@
 {% endif %}
 {% endfor %}
 
+<script>
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
@@ -19,6 +20,7 @@ function scrollFunction() {
     document.getElementById("dropdown-{{ item.slug }}").style.top = "0";
   } 
 }
+</script>
 
 <nav class="EstudiantesRSEF" role="navigation">
     <div class="nav-wrapper container">
