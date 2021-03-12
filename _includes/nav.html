@@ -12,6 +12,16 @@
 {% endif %}
 {% endfor %}
 
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("nav").style.top = "0";
+  } else {
+    document.getElementById("nav").style.top = "0";
+  }
+}
+
 <nav class="EstudiantesRSEF" role="navigation">
     <div class="nav-wrapper container">
         <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
