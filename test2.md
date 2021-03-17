@@ -34,7 +34,6 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         </p>
       </li>
 	</a>
-	<hr>
   {% endfor %}
 </ul>
 </div>
