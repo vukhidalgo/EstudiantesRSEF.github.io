@@ -24,7 +24,8 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <ul class="collection">
   {% for miembro in item.miembros %}	
-	<a href="https://www.iaps.info/" target="_blank"><li class="collection-item avatar waves-effect waves-light"></a>
+	<a href="https://www.iaps.info/" target="_blank">
+	<li class="collection-item avatar waves-effect waves-light">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
@@ -34,6 +35,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           {{ miembro.descr }}
         </p>
       </li>
+	</a>
   {% endfor %}
 </ul>
 
