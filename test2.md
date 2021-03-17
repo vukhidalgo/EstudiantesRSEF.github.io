@@ -85,7 +85,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
-      <li class="collection-item avatar">
+      <li class="collection-item avatar waves-effect waves-light">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
@@ -110,4 +110,4 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% endfor %}
 
 
-<a href="https://www.iaps.info/" target="_blank" class="btn-floating waves-effect waves-light">Descubre IAPS</a>
+<a href="https://www.iaps.info/" target="_blank" class="btn-large waves-effect waves-light">Descubre IAPS</a>
