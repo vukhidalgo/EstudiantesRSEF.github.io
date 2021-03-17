@@ -110,4 +110,4 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% endfor %}
 
 
-<a href="https://www.iaps.info/" target="_blank" class="fixed-action-btn waves-effect waves-light">Descubre IAPS</a>
+<a href="https://www.iaps.info/" target="_blank" class="btn-flat waves-effect waves-light">Descubre IAPS</a>
