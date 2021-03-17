@@ -4,11 +4,8 @@ title: Preliminares PLANCKS
 permalink: /test/
 ---
 
-<div class="no-pad-top" id="index-page">
-  <div class="container">
-    <div class="section">
-      <ul class="collection">
 {% for item in site.data.EC %}
+      <ul class="collection">
   {% for miembro in item.miembros %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
@@ -34,8 +31,6 @@ permalink: /test/
       </li>
   {% endfor %}
 </ul>
-    </div>
-  </div>
-</div>
+
 
 
