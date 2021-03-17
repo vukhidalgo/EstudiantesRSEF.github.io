@@ -30,7 +30,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <img src="" alt="imagen" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
-          {{ miembro.rol }}
+          {{ miembro.nombre }}
         </p>
       </li>
 	</a>
