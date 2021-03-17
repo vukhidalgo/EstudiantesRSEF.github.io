@@ -37,7 +37,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 	<hr>
   {% endfor %}
 </ul>
-</div class="collection waves-effect waves-light">
+</div>
 
 {% endfor %}
 
