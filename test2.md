@@ -24,7 +24,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <ul class="collection">
   {% for miembro in item.miembros %}	
-      <li class="collection-item avatar">
+      <li class="collection-item avatar waves-effect waves-light">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
@@ -85,7 +85,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
-      <li class="collection-item avatar waves-effect waves-light">
+      <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
