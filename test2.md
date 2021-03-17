@@ -24,7 +24,8 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <ul class="collection">
   {% for miembro in item.miembros %}	
-      <li class="collection-item avatar waves-effect waves-light">
+      <a href="https://www.iaps.info/" target="_blank" class="waves-effect waves-light">
+	<li class="collection-item avatar waves-effect waves-light">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
@@ -46,68 +47,11 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           {{ miembro.descr }}
         </p>
       </li>
+	</a>
   {% endfor %}
 </ul>
-
-{% if item.colaboradores != nil %}
-## Colaboradores ({{item.curso}})
-
-<ul class="collection">
-  {% for miembro in item.colaboradores %}
-      <li class="collection-item avatar">
-        <img src="{{ miembro.img }}" alt="" class="circle">
-        <span class="title">{{ miembro.nombre }}</span>
-        <p>
-          {{ miembro.rol }}
-        </p>
-        <div class="secondary-content-JdeG">
-          <a href="mailto:{{ miembro.mail }}?subject={{ miembro.subject }}">
-            <i class="fa fa-lg fa-envelope">
-            </i>
-          </a>
-         {% if miembro.linkedin != nil %}	
-	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
-	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
-            </i>
-	  </a>
-         {% endif %}
-        </div>
-	<p>
-          {{ miembro.descr }}
-        </p>
-      </li>
-  {% endfor %}
-</ul>
-{% endif %}
-
-{% if item.colaboradores-pasados != nil %}
-## Miembros de la Junta de Gobierno y Colaboradores pasados
-
-<ul class="collection">
-  {% for miembro in item.colaboradores-pasados %}
-      <li class="collection-item avatar">
-        <img src="{{ miembro.img }}" alt="" class="circle">
-        <span class="title">{{ miembro.nombre }}</span>
-        <p>
-          {{ miembro.rol }}
-        </p>
-        <div class="secondary-content-JdeG">
-         {% if miembro.linkedin != nil %}	
-	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
-	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
-            </i>
-	  </a>
-         {% endif %}
-        </div>
-	<p>
-          {{ miembro.descr }}
-        </p>
-      </li>
-  {% endfor %}
-</ul>
-{% endif %}
 
 {% endfor %}
 
 
-<a href="https://www.iaps.info/" target="_blank" class="btn-large waves-effect waves-light">Descubre IAPS</a>
+<a href="https://www.iaps.info/" target="_blank" class="waves-effect waves-light">Descubre IAPS</a>
