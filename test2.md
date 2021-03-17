@@ -24,7 +24,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <ul class="collection">
   {% for miembro in item.miembros %}	
-	<a href="https://www.iaps.info/" target="_blank" style="color: rgba(0,0,0,0.0)"><li class="collection-item avatar waves-effect waves-light"></a>
+	<a href="https://www.iaps.info/" target="_blank"><li class="collection-item avatar waves-effect waves-light"></a>
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
         <p>
