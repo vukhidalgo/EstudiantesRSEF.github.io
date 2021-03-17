@@ -8,6 +8,7 @@ permalink: /test/
   <div class="container">
     <div class="section">
       <ul class="collection">
+{% for item in site.data.EC %}
   {% for miembro in item.miembros %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
