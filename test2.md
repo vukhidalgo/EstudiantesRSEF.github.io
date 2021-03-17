@@ -22,7 +22,45 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
-<div class="collection waves-effect waves-light">
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="row center">
+        <ul class="collection waves-effect waves-light">
+  {% for miembro in item.miembros %}	
+	<a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
+	<li class="collection-item avatar">
+        <img src="" alt="imagen" class="circle">
+        <span class="title">{{ miembro.nombre }}</span>
+        <p>
+          {{ miembro.nombre }}
+        </p>
+      </li>
+	</a>
+  {% endfor %}
+</ul>
+      </div>
+    </div>
+    <div class="col s12 m6">
+      <div class="row center">
+        <ul class="collection waves-effect waves-light">
+  {% for miembro in item.miembros %}	
+	<a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
+	<li class="collection-item avatar">
+        <img src="" alt="imagen" class="circle">
+        <span class="title">{{ miembro.nombre }}</span>
+        <p>
+          {{ miembro.nombre }}
+        </p>
+      </li>
+	</a>
+  {% endfor %}
+</ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 <ul class="collection waves-effect waves-light">
   {% for miembro in item.miembros %}	
 	<a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
@@ -36,7 +74,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 	</a>
   {% endfor %}
 </ul>
-</div>
+
 
 {% endfor %}
 
