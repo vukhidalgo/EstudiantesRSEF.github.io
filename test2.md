@@ -40,4 +40,13 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% endfor %}
 
 
+\\ btn NO
+\\ fixed-action-btn NO
+\\ btn-flat NO 
+\\ btn-floating NO
+\\ btn-large NO
+\\ collection-item WORKS 1/2
+\\ collection NO
+\\ collection-item avatar NO, almost but no
+
 <a href="https://www.iaps.info/" target="_blank" class="waves-effect waves-light">Descubre IAPS</a>
