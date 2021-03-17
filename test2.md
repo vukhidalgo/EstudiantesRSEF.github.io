@@ -22,7 +22,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
-<ul class="collection">
+<ul class="collection waves-effect waves-light">
   {% for miembro in item.miembros %}	
 	<a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
 	<li class="collection-item avatar waves-effect waves-light">
