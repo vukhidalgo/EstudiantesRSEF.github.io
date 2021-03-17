@@ -484,6 +484,20 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
+	    
+      .circle-float {
+       position: float;
+       width: 100px;
+       height: 100px;
+       padding-top: 20px;
+       padding-bottom:20px;
+       overflow: hidden;
+	     top: 15px;
+             left: 15px;
+	     bottom:15px;
+       display: inline-block;
+       vertical-align: middle;
+      }
     
      @if $small-and-up{  
       .tertiary-content {		     
