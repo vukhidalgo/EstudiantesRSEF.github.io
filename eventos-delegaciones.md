@@ -56,7 +56,7 @@ permalink: /eventos-delegaciones/
 
 {% assign loopindex = 0 %}
 {% for event in site.events reversed%}
-{% if loopindex < 3 and event.date < site.time and event.categories contains "eventos-nacionales" %}
+{% if loopindex < 3 and event.date < site.time and event.categories contains "eventos-delegaciones" %}
 {% assign rowfinder = loopindex | modulo:2 %}
 {% if rowfinder == 0 %}
 <div class="row">
