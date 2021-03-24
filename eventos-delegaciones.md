@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eventos Nacionales
-permalink: /eventos-nacionales/
+permalink: /eventos-delegaciones/
 ---
 
 
