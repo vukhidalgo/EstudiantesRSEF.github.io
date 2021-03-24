@@ -162,7 +162,6 @@ permalink: /eventos-delegaciones/
                 </table>
               </div>
             </li>
-            {% endfor %}
         </ul>
     </div>
 </div>
