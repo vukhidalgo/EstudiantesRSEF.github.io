@@ -25,7 +25,7 @@ permalink: /eventos-delegaciones/
       </div>
       <div class="card-content">
       	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
-    	<p>{{ event.CL }}</p>
+    	<p>{{ event.delegacion }}</p>
       </div>
     	<div class="card-action">
             {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
@@ -72,7 +72,7 @@ permalink: /eventos-delegaciones/
       </div>
       <div class="card-content">
       	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
-    	<p>{{ event.CL }}</p>
+    	<p>{{ event.delegacion }}</p>
       </div>
     	<div class="card-action">
             {% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}
@@ -110,7 +110,43 @@ permalink: /eventos-delegaciones/
                 <table class="centered striped">
                   <tbody>
                     {% for event in site.events reversed%}
-                    {% if event.date < site.time and event.CL contains item.nome %}
+                    {% if event.date < site.time and event.delegacion contains item.nome %}
+                    <tr>
+                      <td>{{ event.title }}</td>
+                      <td>{{ event.date | date: '%d %b %Y' }}</td>
+                      <td>{% if event.facebook %}<a href="{{ event.facebook }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>{% endif %}</td>
+                      <td>{% if event.poster %}<a href="{{ event.poster }}"><i class="fa fa-lg fa-file-image-o"></i></a>{% endif %}</td>
+                      <td>{% if event.link %}<a href="{{ event.link }}"><i class="fa fa-lg fa-link"></i></a>{% endif %}</td>
+                      <td>{% if event.gallery %}<a href="{{ event.gallery }}"><i class="fa fa-lg fa-camera-retro"></i></a>{% endif %}</td>
+                      <td>{% if event.report %}<a href="{{ event.report}}"><i class="fa fa-lg fa-file-text"></i></a>{% endif %}</td>
+                    </tr>
+                    {% endif %}
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<div class="section">
+
+<div class="row">
+    <div class="col s12">
+        <ul class="collapsible popout" data-collapsible="accordion">
+            <li>
+              <div class="collapsible-header">
+                <div class="center">
+                  Otros eventos locales patrocinados
+                </div>
+              </div>
+              <div class="collapsible-body">
+                <table class="centered striped">
+                  <tbody>
+                    {% for event in site.events reversed%}
+                    {% if event.date < site.time and event.delegacion contains "otros" %}
                     <tr>
                       <td>{{ event.title }}</td>
                       <td>{{ event.date | date: '%d %b %Y' }}</td>

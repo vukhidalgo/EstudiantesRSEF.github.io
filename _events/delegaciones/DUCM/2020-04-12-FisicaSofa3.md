@@ -4,7 +4,7 @@ categories: eventos-delegaciones
 title: "Física desde el sofá. Naturaleza cuántica del Universo."
 startingdate: 2021-04-12
 endingdate: 2021-04-12
-CL: Madrid - UCM
+delegacion: Madrid - UCM
 place: Online
 poster: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa3.jpg
 cover: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa3.jpg

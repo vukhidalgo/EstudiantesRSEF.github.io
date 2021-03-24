@@ -4,17 +4,17 @@ categories: eventos-delegaciones
 title: "Física desde el sofá. Encuentros en la primera fase cuántica."
 startingdate: 2020-06-02
 endingdate: 2020-06-02
-CL: Madrid - UCM
+delegacion: Madrid - UCM
 place: Online
 poster: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa1.jpg
 cover: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa1.jpg
 gallery:
 articolo: "-"
 report:
-facebook: 
-site: 
-link: 
-youtube: 
+facebook:
+site:
+link:
+youtube:
 ---
 
 <img class="materialboxed" width="100%" src="/img/eventonacional/2019-PATC/2019-PATC-poster.jpg">

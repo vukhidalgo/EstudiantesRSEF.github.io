@@ -4,17 +4,17 @@ categories: eventos-delegaciones
 title: "Física desde el sofá. El poder del océano."
 startingdate: 2021-03-17
 endingdate: 2021-03-17
-CL: Madrid - UCM
+delegacion: Madrid - UCM
 place: Online
 poster: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa2.jpg
 cover: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa2.jpg
 gallery:
 articolo: "-"
 report:
-facebook: 
-site: 
-link: 
-youtube: 
+facebook:
+site:
+link:
+youtube:
 ---
 
 <img class="materialboxed" width="100%" src="/img/eventonacional/2019-PATC/2019-PATC-poster.jpg">
