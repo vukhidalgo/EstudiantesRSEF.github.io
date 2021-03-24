@@ -11,16 +11,16 @@
   logo: "/img/delegaciones/DUCM/LogoDUCM.jpeg"
   congelado:
   
-  - nombre: "Santiago de Compostela (USC)"
+- nombre: "Santiago de Compostela (USC)"
   img: "/img/delegaciones/DUSC/MartaBarreiro.jpg"
-  mail: ""
+  mail: 
   presidente: "Marta Barreiro García"
   fundacion: "03/2021"
-  ins: ""
-  tw: ""
-  fb: ""
+  ins: 
+  tw: 
+  fb: 
   reglamento:
   ex: 
-  logo: ""
+  logo: 
   congelado:
 

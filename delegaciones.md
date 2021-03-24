@@ -20,7 +20,7 @@ Descubre con este vídeo todo lo que nuestras Delegaciones pueden ofrecerte:
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
-El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegación en:
+El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegaciones en:
 
 <ul id="presidenti_LC" class="collection">
 	{% for item in site.data.LC %}
