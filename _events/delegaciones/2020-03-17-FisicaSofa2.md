@@ -1,19 +1,20 @@
 ---
 layout: event
-categories: eventos-nacionales
-title: "Physics Around The Clock 2019"
-startingdate: 2019-02-16
-endingdate: 2019-02-17
-CL: Zaragoza
-place: Zaragoza
-poster: /img/eventonacional/2019-PATC/2019-PATC-poster.jpg
-cover: /img/eventonacional/2019-PATC/2019-PATC-logo.png
+categories: eventos-delegaciones
+title: "Física desde el sofá. El poder del océano."
+startingdate: 2021-03-17
+endingdate: 2021-03-17
+CL: Madrid - UCM
+place: Online
+poster: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa2.jpg
+cover: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa2.jpg
 gallery:
 articolo: "-"
 report:
-facebook: https://www.facebook.com/physicsatc/
-site: https://www.facebook.com/physicsatc/
-link: http://eventos.unizar.es/44351/detail/physics-around-the-clock-2019.html
+facebook: 
+site: 
+link: 
+youtube: 
 ---
 
 <img class="materialboxed" width="100%" src="/img/eventonacional/2019-PATC/2019-PATC-poster.jpg">
