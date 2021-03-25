@@ -7,7 +7,7 @@ author: Samuel G. Huete, Alejandro Fernández Muñoz
 redirect-from:
 ---
 
-<img class="materialboxed" width="100%" src="/img/blog/2021-03-11-PrelisPLANCKS2021/CollagePreliminaresPLANCKS2021.png">
+<img class="materialboxed" width="100%" src="/img/blog/2021-03-11-PrelisPLANCKS2021/CollagePreliminaresPLANCKS2021.jpg">
 
 Esta edición de las Preliminares de PLANCKS iba a ser especial por las circunstancias (online, con Zoom como única herramienta de comunicación...), pero lo ha acabado siendo por sus cifras: 45 equipos, 51 supervisores, ¡y más de 250 personas implicadas! La mayor movilización de personas que han conseguido el Grupo de Estudiantes en su historia.
 
