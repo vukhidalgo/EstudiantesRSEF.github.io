@@ -7,7 +7,7 @@ author: Hannes Vogel, Alejandro Fernández Muñoz
 redirect-from:
 ---
 
-<img class="materialboxed" width="100%" src="/img/blog/2021-03-09-EntrevistaAlejandroScienceAdvocacy/science-advocacy_web.png">
+<img class="materialboxed" width="100%" src="/img/blog/2021-01-21-EntrevistaAlejandroScienceAdvocacy/science-advocacy_web.png">
 
 Hannes Vogel, expresidente del grupo Joven de la Sociedad Alemana de Física, la <a href="https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akjdpg" target='_blank'>jDPG</a>, nos trae esta entrevista a nuestro Presidente.
 
