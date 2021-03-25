@@ -133,6 +133,8 @@ permalink: /eventos-delegaciones/
     </div>
 </div>
 
+// SAME COLLAPSIBLE FOR "otros"
+
 <div class="section">
 
 <div class="row">
