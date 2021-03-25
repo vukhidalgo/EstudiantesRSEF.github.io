@@ -13,16 +13,11 @@ permalink: /test2/
     </div>
 </div>
 
-
-{% for item in site.data.EC2 %}
-
-## Junta de Gobierno ({{item.anno}})
-
-Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
-{% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
-{% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
+## Junta de Gobierno
 
 <!-- First design -->
+
+{% for item in site.data.EC2 %}
 
 <div class="section">
   <div class="row">
@@ -42,7 +37,11 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
       </div>
     </div>
 
+{% endfor %}
+
 <!-- Second design -->
+
+{% for item in site.data.EC3 %}
 
     <div class="col s12 m6">
       <div class="row center">
@@ -62,7 +61,11 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
   </div>
 </div>
 
+{% endfor %}
+
 <!-- Third design -->
+
+{% for item in site.data.EC2 %}
 
 <div class="col s12 m6">
   <div class="row center">
