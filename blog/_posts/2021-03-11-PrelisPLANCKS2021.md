@@ -3,7 +3,7 @@ layout: post
 categories: blog 
 title:  "Preliminares de PLANCKS 2021: un éxito absoluto"
 date:  2021-03-09 23:59
-author: Samuel G. Huete, Alejandro Fernández Muñoz
+author: Equipo del Grupo de Estudiantes de la RSEF
 redirect-from:
 ---
 
