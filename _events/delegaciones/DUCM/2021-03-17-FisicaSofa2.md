@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-delegaciones
-title: "Flores sobre el desierto de Atacama. El poder del océano."
+title: "Flores sobre Atacama: el poder del océano"
 startingdate: 2021-03-17
 endingdate: 2021-03-17
 delegacion: Madrid - UCM
