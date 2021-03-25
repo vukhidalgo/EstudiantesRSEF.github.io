@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-delegaciones
-title: "Física desde el sofá. El poder del océano."
+title: "Flores en Atacama. El poder del océano."
 startingdate: 2021-03-17
 endingdate: 2021-03-17
 delegacion: Madrid - UCM
