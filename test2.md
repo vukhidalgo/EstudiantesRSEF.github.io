@@ -14,7 +14,7 @@ permalink: /test2/
 </div>
 
 
-{% for item in site.data.EC %}
+{% for item in site.data.EC2 %}
 
 ## Junta de Gobierno ({{item.anno}})
 
