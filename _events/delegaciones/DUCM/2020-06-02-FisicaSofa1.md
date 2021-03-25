@@ -9,7 +9,7 @@ place: Online
 poster: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaSofa1.jpg
 cover: /img/delegaciones/DUCM/eventos/FisicaSofa/FisicaDesdeSofa.png
 gallery:
-articolo: "-"
+articolo:
 report:
 facebook:
 site:
