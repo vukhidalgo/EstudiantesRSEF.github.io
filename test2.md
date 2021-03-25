@@ -90,6 +90,3 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 \\ collection-item WORKS 1/2
 \\ collection NO
 \\ collection-item avatar NO, almost but no
-\\ {{ miembro.img }}
-
-<a href="https://www.iaps.info/" target="_blank" class="waves-effect waves-light">Descubre IAPS</a>
