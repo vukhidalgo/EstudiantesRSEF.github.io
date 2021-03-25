@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-delegaciones
-title: "La naturaleza cuántica de nuestro Universo."
+title: "Introducción a la naturaleza cuántica de nuestro Universo."
 startingdate: 2021-04-12
 endingdate: 2021-04-12
 delegacion: Madrid - UCM
