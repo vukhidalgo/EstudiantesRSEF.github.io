@@ -4,14 +4,6 @@ title: Eventos Nacionales
 permalink: /eventos-delegaciones/
 ---
 
-<div class="collapsible big">
-  <div class="collapsible-header">
-    <div class="center">
-      LOS EVENTOS DE NUESTRAS DELEGACIONES
-    </div>
-  </div>
-  <div class="collapsible-body">
-
 <!-- Showcase de próximos eventos de nuestras Delegaciones -->
 
 ## Próximamente
@@ -181,7 +173,4 @@ permalink: /eventos-delegaciones/
     </div>
 </div>
 
-</div>
-
-  </div>
 </div>
