@@ -4,6 +4,7 @@ title: Eventos Nacionales
 permalink: /eventos-delegaciones/
 ---
 
+<!-- Showcase de próximos eventos de nuestras Delegaciones -->
 
 ## Próximamente
 
@@ -51,6 +52,7 @@ permalink: /eventos-delegaciones/
 </ul>
 {% endif %}
 
+<!-- Showcase de eventos pasados de nuestras Delegaciones -->
 
 ## Eventos Pasados
 
@@ -95,6 +97,7 @@ permalink: /eventos-delegaciones/
 </div>
 {% endif %}
 
+<!-- Collapsible para agrupar eventos pasados de nuestras Delegaciones -->
 
 <div class="section">
 
@@ -133,7 +136,7 @@ permalink: /eventos-delegaciones/
     </div>
 </div>
 
-// SAME COLLAPSIBLE FOR "otros"
+<!-- Mismo collapsible para "otros" -->
 
 <div class="section">
 
