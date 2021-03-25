@@ -82,6 +82,8 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
   </div>
 </div>
 
+{% endfor %}
+
 \\ btn NO
 \\ fixed-action-btn NO
 \\ btn-flat NO
