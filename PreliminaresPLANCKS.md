@@ -11,20 +11,26 @@ permalink: /PreliminaresPLANCKS/
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
       <hr>
       <h2 style="text-align: center;">
-      <span style="color: #A1A7EA;">
-      <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing" target="_blank"><strong>SOLUCIONES A LAS PRELIMINARES DE PLANCKS 2021</strong></a>
-      </span>
+        <span style="color: #A1A7EA;">
+                    <a href="https://drive.google.com/file/d/1vkbGygtuxF4Ab_NX7RdlsYhjJjEdjueh/view?usp=sharing" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2021</strong></a>
+        </span>
       </h2>
       <hr>
-        <p>
-          ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
-        </p>
-        <p style="text-align: justify;">
-          PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará organizada por la Universidad de Oporto. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
-        </p>
-        <p>
-          <strong>En esta web encontrarás información sobre</strong>: 
-        </p>
+      <h2 style="text-align: center;">
+        <span style="color: #A1A7EA;">
+          <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing" target="_blank"><strong>SOLUCIONES A LAS PRELIMINARES DE PLANCKS 2021</strong></a>
+        </span>
+      </h2>
+      <hr>
+      <p>
+        ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
+      </p>
+      <p style="text-align: justify;">
+        PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará organizada por la Universidad de Oporto. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+      </p>
+      <p>
+        <strong>En esta web encontrarás información sobre</strong>: 
+      </p>
       <list class="a">
         <li><a href="#PLANCKS&IAPS">Sitios Web oficiales</a> - PLANCKS 2021 y IAPS.</li>
         <li><a href="#Equipos">Equipos</a> - Preliminares de PLANCKS 2021.</li>
