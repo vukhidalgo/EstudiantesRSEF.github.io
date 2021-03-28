@@ -12,7 +12,7 @@ permalink: /PreliminaresPLANCKS/
       <hr>
       <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
-                    <a href="https://drive.google.com/file/d/1vkbGygtuxF4Ab_NX7RdlsYhjJjEdjueh/view?usp=sharing" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2021</strong></a>
+                    <a href="https://drive.google.com/file/d/1d6sKWbm1QmstBNHFFsVg59GJnwAJ_zyD/view?usp=sharing" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2021</strong></a>
         </span>
       </h2>
       <hr>
