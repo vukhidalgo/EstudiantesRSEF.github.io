@@ -16,17 +16,22 @@ permalink: /PreliminaresPLANCKS/
         </span>
       </h2>
       <hr>
-      <h2 style="text-align: center;">
-        <span style="color: #A1A7EA;">
-          <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing" target="_blank"><strong>SOLUCIONES A LAS PRELIMINARES DE PLANCKS 2021</strong></a>
-        </span>
-      </h2>
-      <hr>
-      <h2 style="text-align: center;">
-        <span style="color: #A1A7EA;">
-          <a href="https://drive.google.com/file/d/1j1qbKGx-HjzGUhvvFB6CfNEPhj7na1BW/view?usp=sharing" target="_blank"><strong>FOTO DE GRUPO - PRELIMINARES DE PLANCKS 2021</strong></a>
-        </span>
-      </h2>
+      <div class="row">
+        <div class="col s12 m6">
+          <h2 style="text-align: center;">
+            <span style="color: #A1A7EA;">
+              <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing" target="_blank"><strong>SOLUCIONES</strong></a>
+            </span>
+          </h2>
+        </div>
+        <div class="col s12 m6">
+          <h2 style="text-align: center;">
+            <span style="color: #A1A7EA;">
+              <a href="https://drive.google.com/file/d/1j1qbKGx-HjzGUhvvFB6CfNEPhj7na1BW/view?usp=sharing" target="_blank"><strong>FOTO DE GRUPO</strong></a>
+            </span>
+          </h2>
+        </div>  
+      </div>
       <hr>
       <p>
         ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
