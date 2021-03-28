@@ -20,7 +20,7 @@ permalink: /PreliminaresPLANCKS/
         <div class="col s12 m6">
           <h2 style="text-align: center;">
             <span style="color: #A1A7EA;">
-              <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing" target="_blank"><strong>SOLUCIONES</strong></a>
+              <a href="https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing" target="_blank"><strong>SOLUCIONES EXAMEN</strong></a>
             </span>
           </h2>
         </div>
