@@ -2,7 +2,7 @@
 layout: post
 categories: blog 
 title:  "La historia de los fotones frustrados"
-date:  
+date:  2021-05-16 12:00
 author: Sergio J Salvía Fernández
 redirect-from:
 ---
