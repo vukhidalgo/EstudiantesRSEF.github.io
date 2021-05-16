@@ -7,7 +7,6 @@ author: Sergio J Salvía Fernández
 redirect-from:
 ---
 
-
 # La historia de los fotones frustrados
 
 En las películas de ciencia ficción, la aparición de personajes capaces de controlar la materia a su alrededor sin tocarla es un tema recurrente. Soñamos con poder manipular aquello que nos rodea a distancia, sin tocar. Pero, ¿y si esto fuera posible?
