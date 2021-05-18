@@ -7,7 +7,7 @@ permalink: /JornadasVerano2021/test
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
-      <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21.jpg">
+      <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
       <p>
         ¡Bienvenid@ a la página web oficial de las Jornadas de Verano del Grupo de Estudiantes de la RSEF!
       </p>
