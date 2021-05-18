@@ -129,21 +129,36 @@ permalink: /JornadasVerano2021/test
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
       </div>
-      <div class="section">
-        <div class="row center">
-	  <ul class="collection with-header" id="index-collection-eventi">
-	  <div class="modal">
-	    <div class="modal-content">
-              <h4>A ver qué sale</h4>
-	      <p>Aquí un párrafo tonto.</p>
-              <div class="modal-footer">
-              <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
-  	      </div>
-            </div>
-            <a href="#{{ http://estudiantes.rsef.es/PreliminaresPLANCKS/ }}-modal" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
-	  </ul>
+
+<!-- MODAL TEST -->
+
+<div class="container">
+  <h2>Modal Example</h2>
+  <!-- Trigger the modal with a button -->
+  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Modal Header</h4>
+        </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
         </div>
       </div>
+
+    </div>
+  </div>
+  
+</div>
 
     <!-- INSCRÍBETE -->
 
