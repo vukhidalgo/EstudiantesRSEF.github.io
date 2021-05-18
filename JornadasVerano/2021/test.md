@@ -89,6 +89,7 @@ permalink: /JornadasVerano2021/test
           <div class="col s12 m6 l4">
             <div class="row center">
               <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Aprender</a>
+	      <a class="collection-item modal-trigger aisf-text text-darken-2" href="https://estudiantes.rsef.es/PreliminaresPLANCKS/">
             </div>
           </div>
           <div class="col s12 m6 l4">
