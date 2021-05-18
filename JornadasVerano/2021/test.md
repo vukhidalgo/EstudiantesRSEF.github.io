@@ -130,27 +130,6 @@ permalink: /JornadasVerano2021/test
         </p>
      </div>
 
-<!-- MODAL TEST 1 -->
-
-<div class="section">
-  <h2>Modal Example</h2>
-  <!-- Trigger the modal with a button -->
-  <button class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FFDE59" data-toggle="modal" data-target="#myModal">Open Modal</button>
-
-  <!-- Modal -->
-  <div class="modal" id="myModal" role="dialog">
-      <!-- Modal content-->
-      <div class="modal-content">
-          <button type="button" class="modal-close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Modal Header</h4>
-          <p>Some text in the modal.</p>
-      </div>
-      <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-  </div>
-</div>
-
 <!-- MODAL TEST 2 -->
 
 <div id="modal-container">
