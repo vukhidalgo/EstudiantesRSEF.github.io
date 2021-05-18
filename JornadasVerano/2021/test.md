@@ -156,6 +156,67 @@ permalink: /JornadasVerano2021/test
   </div>
 </div>
 
+<!-- MODAL TEST 2 -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<button class="btn btn-default" data-toggle="modal" data-target="#settings">
+            <img src="img/settings.png" alt="" class="img-circle">
+        </button>
+<button class="btn btn-default" data-toggle="modal" data-target="#help">
+            <img src="img/help.png" alt="" class="img-circle">
+        </button>
+   
+        <div id="settings" class="modal fade" role="dialog">
+        	<div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">Settings</h3>
+                </div>
+                <div class="modal-body">
+                    <h4> Tethering</h4>
+                    <label>Name: </label>
+                    <input type="text" id="wlanName" size="15">
+                    <label>Passphrase: </label>
+                    <input type="text" id="passPhrase" size="15">
+                    <br>
+                    <br>
+                    <button type="button" class="btn btn-success" onclick="enableTethering()">Enable tethering</button>
+                    <button type="button" class="btn btn-danger" onclick="disableTethering()">Disable tethering</button>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            	</div>
+       		 </div>
+   		 </div>
+   		 </div>
+
+          
+
+
+
+      
+    <div id="help" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title">Help</h3>
+                </div>
+                <div class="modal-body">
+                      *CONTENT TO BE MADE*
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            	</div>
+        	</div>
+   		 </div> 
+   	</div>
+
     <!-- INSCRÍBETE -->
 
       <div class="section">
