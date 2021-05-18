@@ -88,17 +88,17 @@ permalink: /JornadasVerano2021/test
         <div class="row">
           <div class="col s12 m6 l4">
             <div class="row center">
-              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Aprender</a>
+              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FF914D">Aprender</a>
             </div>
           </div>
           <div class="col s12 m6 l4">
             <div class="row center">
-              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Conocer</a>
+              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FFBD59">Conocer</a>
             </div>
           </div>
           <div class="col s12 m6 l4">
             <div class="row center">
-              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Desarrollar</a>
+              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FFDE59">Desarrollar</a>
             </div>
           </div>
         </div>
