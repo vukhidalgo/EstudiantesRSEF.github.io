@@ -16,7 +16,7 @@ permalink: /JornadasVerano2021/test
       </p>
 
       <!-- INDEX AS TEXT -->
-
+      <!--
       <p>
         <strong>En esta web encontrarás información sobre</strong>:
       </p>
@@ -29,7 +29,8 @@ permalink: /JornadasVerano2021/test
       <p style="text-align: justify;">
         Además, puedes <a href="/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/">consultar aquí</a> los integrantes del Comité Organizador de las Jornadas de Verano 2021.
       </p>
-    </div>    
+    </div>  
+    -->  
 
     <!-- INDEX AS BUTTONS -->
 
