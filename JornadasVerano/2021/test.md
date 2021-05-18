@@ -60,7 +60,7 @@ permalink: /JornadasVerano2021/test
 
     <div class="section">
       <h3 id="Actividades">Actividades - Jornadas de Verano 2021</h3>
-      <h2>Aprender Física, Conocer Personas, Desarrollar Habilidades</h2>
+      <h2>Aprender Física · Conocer Personas · Desarrollar Habilidades</h2>
       <p style="text-align: justify;">
         Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza IAPS, la International Association of Physics Students. Por cierto, ¿sabías que, desde España, sólo se puede formar parte de IAPS a través del Grupo de Estudiantes de la RSEF?
       </p>
