@@ -109,12 +109,12 @@ permalink: /JornadasVerano2021/test
       <h3 id="Horario">Horario - Jornadas de Verano 2021</h3>
       <h2>Día a día, del 13 al 15 de julio de 2021</h2>
         <p style="text-align: justify;">
-          Clica en el botón inferior y descubre todo lo que necesitas saber para competir en las Preliminares de PLANCKS 2021: formato, fechas y formulario de inscripción. Este año, el formato online nos obliga a admitir a tan sólo a 30 equipos, y esto es <em>first come, first served</em>, así que date prisa y... ¡No pierdas tu plaza!
+          Próximamente iremos detallando el día a día de las Jornadas
         </p>
     </div>
     <div class="section">
       <div class="row center">
-        <a href="https://estudiantes.rsef.es/eventos-internacionales/2021/03/05/PreliminaresPLANCKS2021/" class="btn-large waves-effect waves-light">Equipos 2021</a>
+        <img class="materialboxed" width="80%" src="/img/eventos/2021-Jornadas/HorarioGeneral.png">
       </div>
     </div>
 
