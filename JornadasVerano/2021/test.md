@@ -89,7 +89,6 @@ permalink: /JornadasVerano2021/test
           <div class="col s12 m6 l4">
             <div class="row center">
               <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Aprender</a>
-	      <a class="collection-item modal-trigger aisf-text text-darken-2" href="https://estudiantes.rsef.es/PreliminaresPLANCKS/"><div>Aprender</div></a>
             </div>
           </div>
           <div class="col s12 m6 l4">
@@ -132,7 +131,7 @@ permalink: /JornadasVerano2021/test
       </div>
       <div class="section">
         <div class="row center">
-          <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as examen 2021</a>
+          <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
         </div>
       </div>
 
