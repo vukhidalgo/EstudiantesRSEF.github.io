@@ -109,7 +109,7 @@ permalink: /JornadasVerano2021/test
       <h3 id="Horario">Horario - Jornadas de Verano 2021</h3>
       <h2>Día a día, del 13 al 15 de julio de 2021</h2>
         <p style="text-align: justify;">
-          Próximamente iremos detallando el día a día de las Jornadas
+          Iremos desvelando la agenda de cada día en nuestras redes sociales, ¡así que permanece atent@!
         </p>
     </div>
     <div class="section">
