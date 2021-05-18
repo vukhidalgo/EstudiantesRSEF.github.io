@@ -35,17 +35,17 @@ permalink: /JornadasVerano2021/test
 
     <div class="section">
       <div class="row">
-        <div class="col s12 m6">
+        <div class="col s4 m6">
           <div class="row center">
 		        <a href="#Actividades" class="btn-large waves-effect waves-light">Actividades</a>
           </div>
         </div>
-        <div class="col s12 m6">
+        <div class="col s4 m6">
           <div class="row center">
 		        <a href="#Horario" class="btn-large waves-effect waves-light">Horario</a>
           </div>
         </div>
-        <div class="col s12 m6">
+        <div class="col s4 m6">
           <div class="row center">
             <a href="#Ponentes" class="btn-large waves-effect waves-light">Ponentes</a>
           </div>
