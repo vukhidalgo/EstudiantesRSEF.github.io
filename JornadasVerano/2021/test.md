@@ -62,7 +62,7 @@ permalink: /JornadasVerano2021/test
     <!-- ACTIVIDADES -->
 
     <div class="section">
-      <h3 id="Actividades">Actividades - Jornadas de Verano 2021</h3>
+      <h3 id="Actividades">Actividades</h3>
       <h2>Aprender Física · Conocer Personas · Desarrollar Habilidades</h2>
       <p style="text-align: justify;">
         Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza IAPS, la International Association of Physics Students. Por cierto, ¿sabías que, desde España, sólo se puede formar parte de IAPS a través del Grupo de Estudiantes de la RSEF?
@@ -108,7 +108,7 @@ permalink: /JornadasVerano2021/test
     <!-- HORARIO -->
 
     <div class="section">
-      <h3 id="Horario">Horario - Jornadas de Verano 2021</h3>
+      <h3 id="Horario">Horario</h3>
       <h2>Día a día, del 13 al 15 de julio de 2021</h2>
         <p style="text-align: justify;">
           Iremos desvelando la agenda de cada día en nuestras redes sociales, ¡así que permanece atent@!
@@ -123,7 +123,7 @@ permalink: /JornadasVerano2021/test
     <!-- PONENTES -->
 
     <div class="section">
-      <h3 id="Ponentes">Ponentes - Jornadas de Verano 2021</h3>
+      <h3 id="Ponentes">Ponentes</h3>
       <h2>Elegimos que nos enseñen los mejores</h2>
         <p style="text-align: justify;">
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
