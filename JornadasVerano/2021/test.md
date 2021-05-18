@@ -53,7 +53,7 @@ permalink: /JornadasVerano2021/test
       </div>
       <div class="row center">
         <div class="col s12 m6">
-          <a href="#Participar" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">¡Inscríbete!</a>
+          <a href="#Participar" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#BBA67A">¡Inscríbete!</a>
         </div>
       </div>
     </div>
