@@ -107,7 +107,7 @@ permalink: /JornadasVerano2021/test
 
     <div class="section">
       <h3 id="Horario">Horario - Jornadas de Verano 2021</h3>
-      <h2>Equipos - Información & Inscripción</h2>
+      <h2>Día a día, del 13 al 15 de julio de 2021</h2>
         <p style="text-align: justify;">
           Clica en el botón inferior y descubre todo lo que necesitas saber para competir en las Preliminares de PLANCKS 2021: formato, fechas y formulario de inscripción. Este año, el formato online nos obliga a admitir a tan sólo a 30 equipos, y esto es <em>first come, first served</em>, así que date prisa y... ¡No pierdas tu plaza!
         </p>
@@ -122,7 +122,7 @@ permalink: /JornadasVerano2021/test
 
     <div class="section">
       <h3 id="Ponentes">Ponentes - Jornadas de Verano 2021</h3>
-      <h2>Ponentes - Elegimos que nos enseñen los mejores</h2>
+      <h2>Elegimos que nos enseñen los mejores</h2>
         <p style="text-align: justify;">
           Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
         </p>
