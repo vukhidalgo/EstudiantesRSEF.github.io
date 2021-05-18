@@ -14,6 +14,9 @@ permalink: /JornadasVerano2021/test
       <p style="text-align: justify;">
         PÁRRAFO DESCRIPCIÓN (como en la web de las Prelis).
       </p>
+
+      <!-- INDEX AS TEXT -->
+
       <p>
         <strong>En esta web encontrarás información sobre</strong>:
       </p>
@@ -27,6 +30,31 @@ permalink: /JornadasVerano2021/test
         Además, puedes <a href="/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/">consultar aquí</a> los integrantes del Comité Organizador de las Jornadas de Verano 2021.
       </p>
     </div>    
+
+    <!-- INDEX AS BUTTONS -->
+
+    <div class="section">
+      <div class="row">
+        <div class="col s12 m6">
+          <div class="row center">
+		        <a href="#Actividades" class="btn-large waves-effect waves-light">Actividades</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+		        <a href="#Horario" class="btn-large waves-effect waves-light">Horario</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="#Ponentes" class="btn-large waves-effect waves-light">Ponentes</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ACTIVIDADES -->
+
     <div class="section">
       <h3 id="Actividades">Actividades - Jornadas de Verano 2021</h3>
       <h2>Sitios Web oficiales</h2>
@@ -48,6 +76,9 @@ permalink: /JornadasVerano2021/test
         </div>
       </div>
     </div>
+
+    <!-- HORARIO -->
+
     <div class="section">
       <h3 id="Horario">Horario - Jornadas de Verano 2021</h3>
       <h2>Equipos - Información & Inscripción</h2>
@@ -60,6 +91,9 @@ permalink: /JornadasVerano2021/test
         <a href="https://estudiantes.rsef.es/eventos-internacionales/2021/03/05/PreliminaresPLANCKS2021/" class="btn-large waves-effect waves-light">Equipos 2021</a>
       </div>
     </div>
+
+    <!-- PONENTES -->
+
     <div class="section">
       <h3 id="Ponentes">Ponentes - Jornadas de Verano 2021</h3>
       <h2>Ponentes - Elegimos que nos enseñen los mejores</h2>
@@ -78,37 +112,7 @@ permalink: /JornadasVerano2021/test
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
       </div>
-      {% assign loopindex = 0 %}
-      {% for event in site.events reversed %}
-      {% if event.title contains "Preliminares de PLANCKS"%}
-      {% assign rowfinder = loopindex | modulo:2 %}
-      {% if rowfinder == 0 %}
-      <div class="row">
-      {% endif %}
-        <div class="col s12 m6">
-          <div class="card horizontal">
-            <div class="card-image">
-      	      <img style="height: 230px; object-fit: cover;" src="{{ event.cover }}">
-            </div>
-            <div class="card-content">
-          	<span class="card-title grey-text text-darken-4">{{ event.title }}</span>
-          	<p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} {% if event.endingdate != nil %} - {{ event.endingdate | date: '%d %b %Y' }}                    {% endif %} </small></p>
-            </div>
-          	<div class="card-action">
-          	  <a href="{{ event.ranking }}" target="_blank">Clasificación</a>
-              <a href="{{ event.exam }}" target="_blank">Soluciones</a>
-          	  <a href="{{ event.url }}">Post web</a>
-              <a href="{{ event.comm }}">Comités Organizador y Académico</a>
-          	</div>
-          </div>
-        </div>
-      {% if rowfinder == 1 %}
-      </div>
-      {% endif %}
-      {% assign loopindex = loopindex | plus: 1 %}
-      {% endif %}
-      {% endfor %}
-      {% if loopindex == 1 %}
-      </div>
-      {% endif %}
     </div>
+
+  </div>
+</div>
