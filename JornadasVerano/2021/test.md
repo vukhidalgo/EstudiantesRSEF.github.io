@@ -109,8 +109,11 @@ permalink: /JornadasVerano2021/test
           <a href="{{ site.url }}/PreliminaresPLANCKS/2021/Supervisores/" id="about-button" class="btn-large waves-effect waves-light">Supervisores/as examen 2021</a>
         </div>
       </div>
+
+    <!-- INSCRÍBETE -->
+
       <div class="section">
-      <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
+      <h3 id="Participar">¡Inscríbete!</h3>
         <p style="text-align: justify;">
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
