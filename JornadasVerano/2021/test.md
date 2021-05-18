@@ -122,4 +122,3 @@ permalink: /JornadasVerano2021/test
     </div>
 
   </div>
-</div>
