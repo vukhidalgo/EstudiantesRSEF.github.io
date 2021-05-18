@@ -131,7 +131,10 @@ permalink: /JornadasVerano2021/test
       </div>
       <div class="section">
         <div class="row center">
-          <a href="#{{ site.url }}/PreliminaresPLANCKS/-modal" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
+	  <ul class="collection with-header" id="index-collection-eventi">
+	    <li class="collection-header"><span>Próximos eventos</span></li>
+            <a href="#{{ http://estudiantes.rsef.es/PreliminaresPLANCKS/ }}-modal" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
+	  </ul>
         </div>
       </div>
 
