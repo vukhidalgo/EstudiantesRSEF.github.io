@@ -60,20 +60,42 @@ permalink: /JornadasVerano2021/test
 
     <div class="section">
       <h3 id="Actividades">Actividades - Jornadas de Verano 2021</h3>
-      <h2>Sitios Web oficiales</h2>
+      <h2>Aprender Física, Conocer Personas, Desarrollar Habilidades</h2>
       <p style="text-align: justify;">
         Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza IAPS, la International Association of Physics Students. Por cierto, ¿sabías que, desde España, sólo se puede formar parte de IAPS a través del Grupo de Estudiantes de la RSEF?
       </p>
       <div class="section">
         <div class="row">
-          <div class="col s12 m6">
+          <div class="col s12 m6 l4">
             <div class="row center">
-              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">PLANCKS 2021</a>
+  		        <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/aprender.png">
             </div>
           </div>
-          <div class="col s12 m6">
+          <div class="col s12 m6 l4">
             <div class="row center">
-              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Descubre IAPS</a>
+  		        <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/conocer.png">
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="row center">
+              <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/desarrollar.png">
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col s12 m6 l4">
+            <div class="row center">
+              <a href="#Actividades" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Aprender</a>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="row center">
+              <a href="#Horario" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Conocer</a>
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="row center">
+              <a href="#Ponentes" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Desarrollar</a>
             </div>
           </div>
         </div>
