@@ -132,7 +132,7 @@ permalink: /JornadasVerano2021/test
 
 <!-- MODAL TEST 2 -->
 
-<div id="modal-container">
+<div class="section" id="modal-container">
   <div class="modal-background">
     <div class="modal">
       <h2>I'm a Modal</h2>
