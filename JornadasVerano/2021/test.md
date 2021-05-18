@@ -47,7 +47,7 @@ permalink: /JornadasVerano2021/test
         </div>
         <div class="col s12 m6 l4">
           <div class="row center">
-            <a href="#Ponentes" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Ponentes</a>
+            <a href="#Ponentes" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Ponentes</a> <!-- otro posible color: #BBA67A -->
           </div>
         </div>
       </div>
