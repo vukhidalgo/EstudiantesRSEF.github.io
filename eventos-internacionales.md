@@ -78,7 +78,3 @@ permalink: /eventos/
 {% if rowfinder == 0 %}
 </div>
 {% endif %}
-
-
-
-<!-- {% include eventos-modal.html %} -->
