@@ -130,63 +130,27 @@ permalink: /JornadasVerano2021/test
         </p>
      </div>
 
-<!-- MODAL TEST 3 -->
+<!-- MODAL TEST 4 -->
 
-<!-- <div class="section">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<button onclick="document.getElementById('id01').style.display='block'" class="btn-large waves-effect waves-light">Open Modal</button>
 
-
-<button class="btn btn-default" data-toggle="modal" data-target="#settings">
-            <img src="img/settings.png" alt="" class="img-circle">
-        </button>
-<button class="btn btn-default" data-toggle="modal" data-target="#help">
-            <img src="" alt="NO PIC">
-        </button>
-   
-        <div id="settings" class="modal fade" role="dialog">
-        	<div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h3 class="modal-title">Settings</h3>
-                </div>
-                <div class="modal-body">
-                    <h4> Tethering</h4>
-                    <label>Name: </label>
-                    <input type="text" id="wlanName" size="15">
-                    <label>Passphrase: </label>
-                    <input type="text" id="passPhrase" size="15">
-                    <br>
-                    <br>
-                    <button type="button" class="btn btn-success" onclick="enableTethering()">Enable tethering</button>
-                    <button type="button" class="btn btn-danger" onclick="disableTethering()">Disable tethering</button>
-
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            	</div>
-       		 </div>
-   		 </div>
-   		 </div>
-      
-    <div id="help" class="modal fade" role="dialog">
-        <div class="modal-dialog">
-
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h3 class="modal-title">Help</h3>
-                </div>
-                <div class="modal-body">
-                      *CONTENT TO BE MADE*
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            	</div>
-        	</div>
-   		 </div> 
-   	</div>
-   	</div> -->
+<div id="id01" class="modal">
+  <div class="modal-content">
+    <h4>Título</h4>
+    <div class="right">
+      <a href="{{ site.url }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
+      <a href="{{ site.url }}"><i class="fa fa-lg fa-picture-o"></i></a>
+      <a href="{{ site.url }}"><i class="fa fa-lg fa-link"></i></a>
+      <a href="{{ site.url }}"><i class="fa fa-lg fa-file-text"></i></a>
+    </div>
+  </div>
+  
+  <img class="responsive-img" style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
+  
+  <div class="modal-footer">
+    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
+  </div>
+</div>
 
     <!-- INSCRÍBETE -->
 
