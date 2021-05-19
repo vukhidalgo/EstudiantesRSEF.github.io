@@ -130,41 +130,6 @@ permalink: /JornadasVerano2021/test
         </p>
      </div>
 
-<!-- MODAL TEST 4 -->
-
-<button onclick="document.getElementById('id01').style.display='block'" class="btn-large waves-effect waves-light">Open Modal</button>
-
-<div id="id01" class="modal">
-  <div class="modal-content">
-    <h4>Título</h4>
-    <p>Párrafo tonto. </p>
-  </div>  
-  <div class="modal-footer">
-    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
-  </div>
-</div>
-
-
-<!-- MODAL TEST 5 -->
-
-<div class="section">
-
-<!-- Trigger/Open The Modal -->
-<button id="myBtn">Open Modal</button>
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
-  </div>
-
-</div>
-
-</div>
-
 <!-- MODAL TEST 6 -->
 
 <div class="section">
