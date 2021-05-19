@@ -137,19 +137,32 @@ permalink: /JornadasVerano2021/test
 <div id="id01" class="modal">
   <div class="modal-content">
     <h4>Título</h4>
-    <div class="right">
-      <a href="{{ site.url }}"><i class="fa fa-lg fa-facebook-square" aria-hidden="true"></i></a>
-      <a href="{{ site.url }}"><i class="fa fa-lg fa-picture-o"></i></a>
-      <a href="{{ site.url }}"><i class="fa fa-lg fa-link"></i></a>
-      <a href="{{ site.url }}"><i class="fa fa-lg fa-file-text"></i></a>
-    </div>
-  </div>
-  
-  <img class="responsive-img" style="width: 80%; display: block; margin-left: auto; margin-right: auto;" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
-  
+    <p>Párrafo tonto. </p>
+  </div>  
   <div class="modal-footer">
-    <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
+    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Cerrar</a>
   </div>
+</div>
+
+
+<!-- MODAL TEST 5 -->
+
+<div class="section">
+
+<!-- Trigger/Open The Modal -->
+<button id="myBtn">Open Modal</button>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
+
+</div>
+
 </div>
 
     <!-- INSCRÍBETE -->
