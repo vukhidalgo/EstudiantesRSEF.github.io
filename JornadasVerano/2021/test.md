@@ -118,7 +118,7 @@ permalink: /JornadasVerano2021/test
         <div class="container">
     <div class="section">
       <div class="row center">
-        <a href="/JornadasVerano2021/ComiteOrganizador/" class="btn-large waves-effect waves-light modal-trigger">Volver a Jornadas Verano 2021</a>
+        <a href="/JornadasVerano2021/ComiteOrganizador/?modal=true" class="btn-large waves-effect waves-light modal-trigger">Volver a Jornadas Verano 2021</a>
       </div>
     </div>
   </div>  
