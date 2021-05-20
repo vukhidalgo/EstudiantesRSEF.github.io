@@ -37,4 +37,4 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
   <div class="row center">
     <a href="{{ site.url }}" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Volver a Jornadas Verano 2021</a>
   </div>
-</div>
+
