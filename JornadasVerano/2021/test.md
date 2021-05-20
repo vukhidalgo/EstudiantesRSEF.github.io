@@ -14,24 +14,10 @@ permalink: /JornadasVerano2021/test
       <p style="text-align: justify;">
         PÁRRAFO DESCRIPCIÓN (como en la web de las Prelis).
       </p>
-
-      <!-- INDEX AS TEXT -->
-      <!--
-      <p>
-        <strong>En esta web encontrarás información sobre</strong>:
-      </p>
-      <list class="a">
-        <li><a href="#Actividades">Actividades que realizaremos.</a></li>
-        <li><a href="#Horario">Horario</a> de las Jornadas.</li>
-        <li><a href="#Ponentes">Ponentes</a> que intervendrán.</li>
-        <li><a href="#Participar">Cómo participar</a> en el evento.</li>
-      </list>
       <p style="text-align: justify;">
         Además, puedes <a href="/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/">consultar aquí</a> los integrantes del Comité Organizador de las Jornadas de Verano 2021.
       </p>
-    </div>  
-    -->  
-
+	    
     <!-- INDEX AS BUTTONS -->
 
     <div class="section">
@@ -82,23 +68,6 @@ permalink: /JornadasVerano2021/test
           <div class="col s12 m6 l4">
             <div class="row center">
               <img class="materialboxed" width="80%" src="/img/eventos/2021-Jornadas/desarrollar.png">
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col s12 m6 l4">
-            <div class="row center">
-              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FF914D">Aprender</a>
-            </div>
-          </div>
-          <div class="col s12 m6 l4">
-            <div class="row center">
-              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FFBD59">Conocer</a>
-            </div>
-          </div>
-          <div class="col s12 m6 l4">
-            <div class="row center">
-              <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#FFDE59">Desarrollar</a>
             </div>
           </div>
         </div>
