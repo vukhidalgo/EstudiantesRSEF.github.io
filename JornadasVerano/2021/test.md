@@ -113,6 +113,14 @@ permalink: /JornadasVerano2021/test
 	  </ul>
         </div>
       </div>
+      
+        <div class="container">
+    <div class="section">
+      <div class="row center">
+        <a href="{{ site.url }}/PreliminaresPLANCKS/" class="btn-large waves-effect waves-light modal-trigger">Volver a Jornadas Verano 2021</a>
+      </div>
+    </div>
+  </div>  
 
     <!-- INSCRÍBETE -->
 
