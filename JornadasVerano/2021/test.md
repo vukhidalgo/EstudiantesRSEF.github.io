@@ -15,7 +15,7 @@ permalink: /JornadasVerano2021/test
         PÁRRAFO DESCRIPCIÓN (como en la web de las Prelis).
       </p>
       <p style="text-align: justify;">
-        Además, puedes <a href="/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/">consultar aquí</a> los integrantes del Comité Organizador de las Jornadas de Verano 2021.
+        Además, puedes <a href="/JornadasVerano2021/ComiteOrganizador/">consultar aquí</a> los integrantes del Comité Organizador de las Jornadas de Verano 2021.
       </p>
 	    
     <!-- INDEX AS BUTTONS -->
@@ -105,7 +105,7 @@ permalink: /JornadasVerano2021/test
         <div class="row center">
 	  <ul class="collection with-header" id="index-collection-eventi">
 	    <li class="collection-header"><span>Próximos eventos</span></li>
-            <a href="#{{ site.url }}-modal" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
+            <a href="#/JornadasVerano2021/ComiteOrganizador/" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
 	  </ul>
         </div>
       </div>
@@ -118,7 +118,7 @@ permalink: /JornadasVerano2021/test
         <div class="container">
     <div class="section">
       <div class="row center">
-        <a href="{{ site.url }}/PreliminaresPLANCKS/" class="btn-large waves-effect waves-light modal-trigger">Volver a Jornadas Verano 2021</a>
+        <a href="/JornadasVerano2021/ComiteOrganizador/" class="btn-large waves-effect waves-light modal-trigger">Volver a Jornadas Verano 2021</a>
       </div>
     </div>
   </div>  
