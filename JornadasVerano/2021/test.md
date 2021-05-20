@@ -106,12 +106,13 @@ permalink: /JornadasVerano2021/test
 	  <ul class="collection with-header" id="index-collection-eventi">
 	    <li class="collection-header"><span>Próximos eventos</span></li>
             <a href="#{{ site.url }}-modal" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
-	      <div class="modal-content">
-    		<span class="close">&times;</span>
-   		<p>Some text in the Modal..</p>
-	      </div>
 	  </ul>
         </div>
+      </div>
+      
+      <div class="modal-content">
+    	<span class="close">&times;</span>
+   	<p>Some text in the Modal..</p>
       </div>
       
         <div class="container">
