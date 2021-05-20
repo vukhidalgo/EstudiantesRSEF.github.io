@@ -4,14 +4,6 @@ title: ComJornadasVerano21
 permalink: /JornadasVerano2021/ComiteOrganizador/
 ---
 
-<script>
-    $(document).ready(function() {
-      if (getQueryVariable("modal") == "true") {
-        $("#tuModal").modal("show");
-      }
-    });
-</script>
-
 <div class="no-pad-top" id="index-page">
   <div class="container">
         <h3 class="justify"><strong>Jornadas de Verano 2021</strong></h3>
