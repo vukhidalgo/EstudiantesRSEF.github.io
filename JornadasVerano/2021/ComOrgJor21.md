@@ -11,7 +11,6 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
     <div class="section">
       <div class="row center">
           <div class="icon-block">
-            <h2 class="center">Comité Organizador</h2>
             <p align="center">Cristina Balsells Llort - Presidenta</p>
             <p align="center">Alejandro Fernández Muñoz - Vicepresidente y IT Manager</p>
             <p align="center">Pedro Villalba González - Responsable de Relaciones Públicas</p>
