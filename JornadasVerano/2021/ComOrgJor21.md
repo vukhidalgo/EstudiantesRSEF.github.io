@@ -9,8 +9,7 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
         <h3 class="justify"><strong>Jornadas de Verano 2021</strong></h3>
           <h2 class="justify"><strong>Comité Organizador</strong></h2>
     <div class="section">
-      <div class="row">
-        <div class="col s12 m6">
+      <div class="row center">
           <div class="icon-block">
             <h2 class="center">Comité Organizador</h2>
             <p align="center">Cristina Balsells Llort - Presidenta</p>
@@ -28,11 +27,7 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
       </div>
     </div>
   </div>
-  <div class="container">
-    <div class="section">
-      <div class="row center">
-        <a href="{{ site.url }}" class="btn-large waves-effect waves-light">Volver a Jornadas Verano 2021</a>
-      </div>
-    </div>
-  </div>  
+  <div class="row center">
+    <a href="{{ site.url }}" class="btn-large waves-effect waves-light">Volver a Jornadas Verano 2021</a>
+  </div>
 </div>
