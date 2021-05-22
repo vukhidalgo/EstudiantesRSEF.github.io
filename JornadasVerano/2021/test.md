@@ -95,7 +95,7 @@ permalink: /JornadasVerano2021/test
       <h3 id="Ponentes">Ponentes</h3>
       <h2>Elegimos que nos enseñen los mejores</h2>
         <p style="text-align: justify;">
-          Clica en el botón inferior y descubre cómo convertirte en Supervisor/a de examen en las Preliminares de PLANCKS 2021. Se te redirigirá a una página con información sobre las Preliminares, y sobre los requisitos y responsabilidades del cargo. En esa página podrás acceder también al formulario de inscripción para Supervisores/as.
+          Ya nos han confirmado...
         </p>
      </div>
 
