@@ -156,13 +156,6 @@ permalink: /JornadasVerano2021/test
                      {{ miembro.horario }}
                    </p>
                    </div>
-                   <div class="secondary-content-JdeG">
-                    {% if miembro.linkedin != nil %}
-                      <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
-                        <i class="fa fa-lg fa-linkedin-square" aria-hidden="true"></i>
-                      </a>
-                    {% endif %}
-                   </div>
                  </li>
              {% endif %}
              {% endfor %}
