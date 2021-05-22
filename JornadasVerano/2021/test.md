@@ -131,6 +131,19 @@ permalink: /JornadasVerano2021/test
           Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
         </p>
       </div>
+      <div class="section">
+      <div class="row">
+        <div class="col s12 m6 l6">
+          <div class="row center">
+		        <a href="{{ site.url }}/inscripcion" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción RSEF</a>
+          </div>
+        </div>
+        <div class="col s12 m6 l6">
+          <div class="row center">
+		        <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Jornadas 2021</a>
+          </div>
+        </div>
+      </div>
     </div>
-
   </div>
+</div>
