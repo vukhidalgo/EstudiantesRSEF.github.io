@@ -147,6 +147,7 @@ permalink: /JornadasVerano2021/test
                    <p>
                      {{ miembro.rol }}
                    </p>
+                   <br>
                    <div style="text-align: justify;">
                    <p>
                      {{ miembro.descr }}
