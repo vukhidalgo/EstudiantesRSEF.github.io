@@ -20,7 +20,7 @@ permalink: /JornadasVerano2021/test
       <p style="text-align: justify;">
         <a href="/JornadasVerano2021/ComiteOrganizador/">Consulta aquí</a> quién integra el Comité Organizador de las Jornadas de Verano 2021.
       </p>
-	    
+
     <!-- INDEX AS BUTTONS -->
 
     <div class="section">
@@ -99,6 +99,102 @@ permalink: /JornadasVerano2021/test
         </p>
      </div>
 
+     {% for item in site.data.jornadas %}
+     {% if item.anno = 2021 %}
+
+     <div class="section">
+       <div class="row">
+         <div class="col s12 m6 l6">
+           <div class="row center">
+           <ul class="collection">
+             {% for miembro in item.miembros %}
+             {% if miembro.class = academia %}
+                 <li class="collection-item avatar">
+                   <img src="{{ miembro.img }}" alt="" class="circle">
+                   <span class="title">{{ miembro.nombre }}</span>
+                   <p>
+                     {{ miembro.rol }}
+                   </p>
+                   <p>
+                     {{ miembro.descr }}
+                   </p>
+                   <p>
+                     {{ miembro.horario }}
+                   </p>
+                   <div class="secondary-content-JdeG">
+                    {% if miembro.linkedin != nil %}
+                      <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
+                        <i class="fa fa-lg fa-linkedin-square" aria-hidden="true"></i>
+                      </a>
+                    {% endif %}
+                   </div>
+                 </li>
+             {% endfor %}
+           </ul>
+           </div>
+         </div>
+         <div class="col s12 m6 l6">
+           <div class="row center">
+           <ul class="collection">
+             {% for miembro in item.miembros %}
+             {% if miembro.class = empresa %}
+                 <li class="collection-item avatar">
+                   <img src="{{ miembro.img }}" alt="" class="circle">
+                   <span class="title">{{ miembro.nombre }}</span>
+                   <p>
+                     {{ miembro.rol }}
+                   </p>
+                   <p>
+                     {{ miembro.descr }}
+                   </p>
+                   <p>
+                     {{ miembro.horario }}
+                   </p>
+                   <div class="secondary-content-JdeG">
+                    {% if miembro.linkedin != nil %}
+                      <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
+                        <i class="fa fa-lg fa-linkedin-square" aria-hidden="true"></i>
+                      </a>
+                    {% endif %}
+                   </div>
+                 </li>
+             {% endfor %}
+           </ul>
+           </div>
+           <div class="row center">
+           <ul class="collection">
+             {% for miembro in item.miembros %}
+             {% if miembro.class = mixto %}
+                 <li class="collection-item avatar">
+                   <img src="{{ miembro.img }}" alt="" class="circle">
+                   <span class="title">{{ miembro.nombre }}</span>
+                   <p>
+                     {{ miembro.rol }}
+                   </p>
+                   <p>
+                     {{ miembro.descr }}
+                   </p>
+                   <p>
+                     {{ miembro.horario }}
+                   </p>
+                   <div class="secondary-content-JdeG">
+                    {% if miembro.linkedin != nil %}
+                      <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
+                        <i class="fa fa-lg fa-linkedin-square" aria-hidden="true"></i>
+                      </a>
+                    {% endif %}
+                   </div>
+                 </li>
+             {% endfor %}
+           </ul>
+           </div>
+         </div>
+       </div>
+     </div>
+
+     {% endif %}
+     {% endfor %}
+
 <!-- MODAL TEST 7 -->
 
       <div class="section">
@@ -109,12 +205,12 @@ permalink: /JornadasVerano2021/test
 	  </ul>
         </div>
       </div>
-      
+
       <div class="modal-content">
     	<span class="close">&times;</span>
    	<p>Some text in the Modal..</p>
       </div>
-      
+
         <div class="container">
     <div class="section">
       <div class="row center">
@@ -132,7 +228,7 @@ permalink: /JornadasVerano2021/test
         </p>
 	<h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
       </div>
-      
+
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Jun 1, 2021 00:00:01").getTime();
@@ -142,28 +238,28 @@ var x = setInterval(function() {
 
   // Get today's date and time
   var now = new Date().getTime();
-    
+
   // Find the distance between now and the count down date
   var distance = countDownDate - now;
-    
+
   // Time calculations for days, hours, minutes and seconds
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    
+
   // Output the result in an element with id="countdown"
   document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
   + minutes + "m " + seconds + "s ";
-    
-  // If the count down is over, write some text 
+
+  // If the count down is over, write some text
   if (distance < 0) {
     clearInterval(x);
     document.getElementById("countdown").innerHTML = "INSCRIPCIONES ABIERTAS";
   }
 }, 1000);
 </script>        
-  
+
       <div class="section">
       <div class="row">
         <div class="col s12 m6 l6">
