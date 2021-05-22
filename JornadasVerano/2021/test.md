@@ -144,7 +144,7 @@ permalink: /JornadasVerano2021/test
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
-                   <p style="text-align: justify;">
+                   <p>
                      {{ miembro.rol }}
                    </p>
                    <p style="text-align: justify;">
