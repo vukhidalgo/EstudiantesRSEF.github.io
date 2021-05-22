@@ -106,7 +106,7 @@ permalink: /JornadasVerano2021/test
        <div class="row">
          <div class="col s12 m6 l6">
            <div class="row center">
-           <h2>Academia</h2>
+           <h2 style="text-align: justify;">Academia</h2>
            <ul class="collection">
              {% for miembro in item.miembros %}
              {% if miembro.class contains "academia" %}
@@ -137,7 +137,7 @@ permalink: /JornadasVerano2021/test
          </div>
          <div class="col s12 m6 l6">
            <div class="row center">
-           <h2>Empresa</h2>
+           <h2 style="text-align: justify;">Empresa</h2>
            <ul class="collection">
              {% for miembro in item.miembros %}
              {% if miembro.class contains "empresa" %}
@@ -166,7 +166,7 @@ permalink: /JornadasVerano2021/test
            </ul>
            </div>
            <div class="row center">
-           <h2>Mixtos</h2>
+           <h2 style="text-align: justify;">Mixtos</h2>
            <ul class="collection">
              {% for miembro in item.miembros %}
              {% if miembro.class contains "mixto" %}
