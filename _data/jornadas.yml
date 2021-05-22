@@ -1,5 +1,5 @@
 - anno: "2021"
-  academia:
+  miembros:
     - nombre: "Alejandro Fernández Muñoz"
       img: "/img/junta/alejandro-fernandez.jpg"
       rol: "Presidente"
@@ -56,14 +56,13 @@
       mail: "estudiantes@rsef.es"
       subject: "[Proyecto FERMI]"
       linkedin: "https://www.linkedin.com/in/imanol-corredoira-fernandez-9a6215140/"
-  empresa:
     - nombre: "Juan Pedro Moreno"
+      class: "empresa"
       img: "/img/colaboradores/sergio-salvia.jpg"
       rol: "Ex Presidente y Consejero Delegado de Accenture España, Portugal e Israel"
       descr: "Charla 'Físicos en consultoría'"
       horario: "Miércoles 14 de 10h a 10.30h "
       linkedin: ""
-  mixtos:
     - nombre: "Antonio Mariscal Castilla"
       img: "/img/colaboradores/antonio-mariscal.jpg"
       rol: "Colaborador - Proyecto FERMI (Abril 2020 - Octubre 2020)"
