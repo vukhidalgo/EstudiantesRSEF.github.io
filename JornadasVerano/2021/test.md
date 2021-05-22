@@ -100,7 +100,7 @@ permalink: /JornadasVerano2021/test
      </div>
 
      {% for item in site.data.jornadas %}
-     {% if item.anno = 2021 %}
+     {% if item.anno contains "2021" %}
 
      <div class="section">
        <div class="row">
@@ -129,6 +129,7 @@ permalink: /JornadasVerano2021/test
                     {% endif %}
                    </div>
                  </li>
+             {% endif %}
              {% endfor %}
            </ul>
            </div>
@@ -158,6 +159,7 @@ permalink: /JornadasVerano2021/test
                     {% endif %}
                    </div>
                  </li>
+             {% endif %}
              {% endfor %}
            </ul>
            </div>
@@ -185,6 +187,7 @@ permalink: /JornadasVerano2021/test
                     {% endif %}
                    </div>
                  </li>
+             {% endif %}
              {% endfor %}
            </ul>
            </div>
