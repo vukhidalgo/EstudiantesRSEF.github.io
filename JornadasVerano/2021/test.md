@@ -108,7 +108,7 @@ permalink: /JornadasVerano2021/test
            <div class="row center">
            <ul class="collection">
              {% for miembro in item.miembros %}
-             {% if miembro.class = academia %}
+             {% if miembro.class contains "academia" %}
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
@@ -137,7 +137,7 @@ permalink: /JornadasVerano2021/test
            <div class="row center">
            <ul class="collection">
              {% for miembro in item.miembros %}
-             {% if miembro.class = empresa %}
+             {% if miembro.class contains "empresa" %}
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
@@ -164,7 +164,7 @@ permalink: /JornadasVerano2021/test
            <div class="row center">
            <ul class="collection">
              {% for miembro in item.miembros %}
-             {% if miembro.class = mixto %}
+             {% if miembro.class contains "mixto" %}
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
