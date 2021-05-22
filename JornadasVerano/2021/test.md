@@ -30,7 +30,7 @@ Este 2021, la primera edición de las Jornadas de Verano tendrá lugar del 13 al
       <div class="row">
         <div class="col s12 m6 l3">
           <div class="row center">
-		        <a href="#Actividades" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Actividades</a>
+		        <a href="#Actividades" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Objetivos</a>
           </div>
         </div>
         <div class="col s12 m6 l3">
