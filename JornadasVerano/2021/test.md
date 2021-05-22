@@ -173,7 +173,7 @@ var x = setInterval(function() {
         </div>
         <div class="col s12 m6 l6">
           <div class="row center">
-		        <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Jornadas 2021</a>
+		        <a href="" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Jornadas Verano 2021</a>
           </div>
         </div>
       </div>
