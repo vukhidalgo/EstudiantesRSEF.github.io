@@ -128,9 +128,45 @@ permalink: /JornadasVerano2021/test
       <div class="section">
       <h3 id="Participar">¡Inscríbete!</h3>
         <p style="text-align: justify;">
-          Consulta en esta sección información sobre ediciones anteriores de las Preliminares de PLANCKS, como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.
+          Tiempo hasta apertura de inscripciones:
         </p>
+	<h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
       </div>
+      
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jun 1, 2021 00:00:01").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="countdown"
+  document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown").innerHTML = "INSCRIPCIONES ABIERTAS";
+  }
+}, 1000);
+</script>      
+      
+      
+      
+  
       <div class="section">
       <div class="row">
         <div class="col s12 m6 l6">
