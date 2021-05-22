@@ -201,30 +201,6 @@ permalink: /JornadasVerano2021/test
      {% endif %}
      {% endfor %}
 
-<!-- MODAL TEST 7 -->
-
-      <div class="section">
-        <div class="row center">
-	  <ul class="collection with-header" id="index-collection-eventi">
-	    <li class="collection-header"><span>Próximos eventos</span></li>
-            <a href="#/JornadasVerano2021/ComiteOrganizador/" class="collection-item modal-trigger aisf-text text-darken-2">Supervisores/as examen 2021</a>
-	  </ul>
-        </div>
-      </div>
-
-      <div class="modal-content">
-    	<span class="close">&times;</span>
-   	<p>Some text in the Modal..</p>
-      </div>
-
-        <div class="container">
-    <div class="section">
-      <div class="row center">
-        <a href="/JornadasVerano2021/ComiteOrganizador/?modal=true" class="btn-large waves-effect waves-light modal-trigger">Volver a Jornadas Verano 2021</a>
-      </div>
-    </div>
-  </div>  
-
     <!-- INSCRÍBETE -->
 
       <div class="section">
