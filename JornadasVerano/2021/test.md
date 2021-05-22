@@ -128,9 +128,9 @@ permalink: /JornadasVerano2021/test
       <div class="section">
       <h3 id="Participar">¡Inscríbete!</h3>
         <p style="text-align: justify;">
-          Tiempo hasta apertura de inscripciones:
+          ¿Deseando que lleguen las Jornadas? ¡Y nosotros también! Ya sólo faltan para que puedas inscribirte...
         </p>
-	<h2 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h2>
+	<h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
       </div>
       
 <script>
