@@ -12,16 +12,16 @@ permalink: /JornadasVerano2021/test
         ¡Bienvenid@ a la página web oficial de las Jornadas de Verano del Grupo de Estudiantes de la RSEF!
       </p>
       <p style="text-align: justify;">
-        Las Jornadas de Verano son un evento de tres días creado por y para estudiantes de grado, máster y doctorado en física de toda España. Tiene como principal objetivo ofrecer oportunidades únicas de desarrollo profesional y personal más allá de las aulas, y seguir construyendo así una comunidad de físic@s unida y conectada, en la que poder aprender los unos de los otros e ir abriéndonos puertas en el mundo laboral.
-	      
-Las Jornadas de Verano 2021 tendrán lugar del 13 al 15 de julio en formato on-line, y tratarán temáticas muy diversas: física experimental y teórica, divulgación, empresa... ¡y no faltarán oportunidades para conocer a otros estudiantes!
-
-Para apuntarte simplemente debes ser miembro del Grupo de Estudiantes de la RSEF. ¿Aún no lo eres? Estás a cinco minutos de serlo. [poner hiperlink a página de la web para apuntarse]
-
-¡Síguenos en las redes y estate atent@ porque pronto abriremos inscripciones!.
+        Las Jornadas de Verano son un evento de tres días creado por y para estudiantes de grado, máster y doctorado en física de toda España. Tiene como principal objetivo ofrecer oportunidades únicas de desarrollo profesional y personal más allá de las aulas. Además, queremos seguir construyendo una comunidad de físic@s unida y conectada en torno al Grupo de Estudiantes de la RSEF, en la que poder aprender los unos de los otros e ir abriéndonos puertas en el mundo laboral.
       </p>
       <p style="text-align: justify;">
-        Además, puedes <a href="/JornadasVerano2021/ComiteOrganizador/">consultar aquí</a> los integrantes del Comité Organizador de las Jornadas de Verano 2021.
+Este 2021, la primera edición de las Jornadas de Verano tendrá lugar del 13 al 15 de julio en formato on-line, y tratarán temáticas muy diversas: física experimental y teórica, divulgación, empresa... ¡y no faltarán oportunidades para conocer a otros estudiantes! Para apuntarte simplemente debes ser miembro del Grupo de Estudiantes de la RSEF. ¿Aún no lo eres? <a href="{{ site.url }}/inscripcion" target="_blank">Estás a cinco minutos de serlo.</a>
+      </p>    
+      <p style="text-align: justify;">
+¡Síguenos en las redes y estate atent@ porque pronto abriremos inscripciones!
+      </p>
+      <p style="text-align: justify;">
+        <a href="/JornadasVerano2021/ComiteOrganizador/">Consulta aquí</a> quién integra el Comité Organizador de las Jornadas de Verano 2021.
       </p>
 	    
     <!-- INDEX AS BUTTONS -->
