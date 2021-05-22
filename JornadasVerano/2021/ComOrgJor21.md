@@ -20,7 +20,7 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
             <p align="center">Cristina Balsells Llort - Responsable de Logística</p>
             <p align="center">Imanol Corredoira Fernández - Logística</p>
             <p align="center">Jorge Morón Vidal - Logística</p>
-            <p align="center">Irene Irene - Logística</p>
+            <p align="center">Irene Carrión López - Logística</p>
           </div>
         </div>
       </div>
