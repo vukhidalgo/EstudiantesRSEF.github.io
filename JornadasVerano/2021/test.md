@@ -113,13 +113,13 @@ permalink: /JornadasVerano2021/test
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.rol }}
                    </p>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.descr }}
                    </p>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.horario }}
                    </p>
                    <div class="secondary-content-JdeG">
@@ -144,13 +144,13 @@ permalink: /JornadasVerano2021/test
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.rol }}
                    </p>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.descr }}
                    </p>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.horario }}
                    </p>
                    <div class="secondary-content-JdeG">
@@ -173,13 +173,13 @@ permalink: /JornadasVerano2021/test
                  <li class="collection-item avatar">
                    <img src="{{ miembro.img }}" alt="" class="circle">
                    <span class="title">{{ miembro.nombre }}</span>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.rol }}
                    </p>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.descr }}
                    </p>
-                   <p>
+                   <p style="text-align: justify;">
                      {{ miembro.horario }}
                    </p>
                    <div class="secondary-content-JdeG">
