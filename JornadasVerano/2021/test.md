@@ -51,14 +51,11 @@ Para apuntarte simplemente debes ser miembro del Grupo de Estudiantes de la RSEF
       </div>
     </div>
 
-    <!-- ACTIVIDADES -->
+    <!-- OBJETIVOS -->
 
     <div class="section">
-      <h3 id="Actividades">Actividades</h3>
+      <h3 id="Actividades">Objetivos</h3>
       <h2>Aprender Física · Conocer Personas · Desarrollar Habilidades</h2>
-      <p style="text-align: justify;">
-        Descubre abajo toda la información sobre PLANCKS 2021 y sobre todas las oportunidades y eventos que organiza IAPS, la International Association of Physics Students. Por cierto, ¿sabías que, desde España, sólo se puede formar parte de IAPS a través del Grupo de Estudiantes de la RSEF?
-      </p>
       <div class="section">
         <div class="row">
           <div class="col s12 m6 l4">
