@@ -95,7 +95,7 @@ permalink: /JornadasVerano2021/test
       <h3 id="Ponentes">Ponentes</h3>
       <h2>Elegimos que nos enseñen los mejores</h2>
         <p style="text-align: justify;">
-          Ya nos han confirmado...
+          Ya nos han confirmado:
         </p>
      </div>
 

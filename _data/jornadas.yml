@@ -1,9 +1,18 @@
 - anno: "2021"
   miembros:
+    #EMPRESA
     - nombre: "Juan Pedro Moreno"
       class: "empresa"
       img: "/img/eventos/2021-Jornadas/ponentes/JuanPedroMoreno.jpg"
       rol: "Ex Presidente y Consejero Delegado de Accenture España, Portugal e Israel"
       descr: "Charla 'Físicos en consultoría'"
       horario: "Miércoles 14 de 10h a 10.30h "
+      linkedin: ""
+    #MIXTOS
+    - nombre: "Neus Sabaté"
+      class: "mixto"
+      img: "/img/eventos/2021-Jornadas/ponentes/Neus.jpg"
+      rol: "Co-fundadora de Fuelium y Premio RSEF - Fund. BBVA de Física, Innovación y Tecnología 2020"
+      descr: "Mesa Redonda de Spin-offs"
+      horario: "Martes 13 de 11h a 12h "
       linkedin: ""
