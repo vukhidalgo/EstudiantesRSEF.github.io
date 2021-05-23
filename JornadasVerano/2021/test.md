@@ -102,8 +102,8 @@ permalink: /JornadasVerano2021/test
      {% for item in site.data.jornadas %}
      {% if item.anno contains "2021" %}
 
-     <div class="section" style="column-gap: 100px">
-       <div class="row">
+     <div class="section">
+       <div class="row-padding">
          <div class="col s12 m6 l6">
            <div class="row center">
            <h2 style="text-align: justify;">Academia</h2>
