@@ -102,8 +102,8 @@ permalink: /JornadasVerano2021/test
      {% for item in site.data.jornadas %}
      {% if item.anno contains "2021" %}
 
-     <div class="section">
-       <div class="row" style="column-gap: 40px">
+     <div class="section" style="column-gap: 40px">
+       <div class="row">
          <div class="col s12 m6 l6">
            <div class="row center">
            <h2 style="text-align: justify;">Academia</h2>
@@ -117,7 +117,7 @@ permalink: /JornadasVerano2021/test
                  {{ miembro.rol }}
                </p>
                <hr>
-               <div style="text-align: right;">
+               <div style="text-align: left;">
                <p>
                  {{ miembro.descr }}
                </p>
@@ -169,7 +169,7 @@ permalink: /JornadasVerano2021/test
                  {{ miembro.rol }}
                </p>
                <hr>
-               <div style="text-align: right;">
+               <div style="text-align: left;">
                <p>
                  {{ miembro.descr }}
                </p>
