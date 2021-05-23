@@ -1,5 +1,13 @@
 - anno: "2021"
   miembros:
+    #ACADEMIA
+    - nombre: "Profa. Alicia Sintes"
+      class: "academia"
+      img: "/img/eventos/2021-Jornadas/ponentes/AliciaSintes.jpg"
+      rol: "Experta en Ondas Gravitacionales y Líder del único grupo de investigación en España en LIGO"
+      descr: "Ponencia 'Título de la Ponencia'"
+      horario: "Martes 13 de xx.xxh a xx.xxh"
+      linkedin: ""
     #EMPRESA
     - nombre: "Juan Pedro Moreno"
       class: "empresa"
@@ -9,7 +17,7 @@
       horario: "Miércoles 14 de 10h a 10.30h"
       linkedin: ""
     #MIXTOS
-    - nombre: "Neus Sabaté"
+    - nombre: "Dra. Neus Sabaté"
       class: "mixto"
       img: "/img/eventos/2021-Jornadas/ponentes/Neus.jpg"
       rol: "Co-fundadora de Fuelium y Premio RSEF - Fund. BBVA de Física, Innovación y Tecnología 2020"
