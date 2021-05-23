@@ -104,7 +104,7 @@ permalink: /JornadasVerano2021/test
 
      <div class="section">
        <div class="row">
-         <div class="col s12 m6 l6-padding">
+         <div class="col s12 m6 l6">
            <div class="row center">
            <h2 style="text-align: justify;">Academia</h2>
            <ul class="collection">
