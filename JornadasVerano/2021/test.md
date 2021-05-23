@@ -85,7 +85,7 @@ permalink: /JornadasVerano2021/test
     </div>
     <div class="section">
       <div class="row center">
-        <img class="materialboxed" width="80%" src="/img/eventos/2021-Jornadas/HorarioGeneral.png">
+        <img class="materialboxed" width="80%" src="/img/eventos/2021-Jornadas/HorarioJornadasAmpliado.png">
       </div>
     </div>
 
