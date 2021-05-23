@@ -102,7 +102,7 @@ permalink: /JornadasVerano2021/test
      {% for item in site.data.jornadas %}
      {% if item.anno contains "2021" %}
 
-     <div class="section">
+     <div class="section" style="column-gap: 100px">
        <div class="row">
          <div class="col s12 m6 l6">
            <div class="row center">
