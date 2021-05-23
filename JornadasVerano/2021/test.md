@@ -117,7 +117,7 @@ permalink: /JornadasVerano2021/test
                  {{ miembro.rol }}
                </p>
                <hr>
-               <div style="text-align: justify;">
+               <div style="text-align: right;">
                <p>
                  {{ miembro.descr }}
                </p>
@@ -169,7 +169,7 @@ permalink: /JornadasVerano2021/test
                  {{ miembro.rol }}
                </p>
                <hr>
-               <div style="text-align: justify;">
+               <div style="text-align: right;">
                <p>
                  {{ miembro.descr }}
                </p>
