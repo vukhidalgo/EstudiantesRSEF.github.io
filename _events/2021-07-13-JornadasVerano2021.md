@@ -4,7 +4,7 @@ categories: eventos-internacionales
 title:  "Jornadas de Verano 2021"
 startingdate: 2021-07-13
 endingdate: 2021-07-15
-place: Toda España
+place: Toda España (online)
 locandina:
 cover: /img/eventos/2021-Jornadas/JornadasVeranoCover.png
 gallery:
