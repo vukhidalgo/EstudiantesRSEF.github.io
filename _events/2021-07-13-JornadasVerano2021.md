@@ -6,11 +6,11 @@ startingdate: 2021-07-13
 endingdate: 2021-07-15
 place: Toda España
 locandina:
-cover: /img/eventos/2021-Jornadas/JornadasVeranoCoverLogo.jpg
+cover: /img/eventos/2021-Jornadas/JornadasVeranoCover.png
 gallery:
 site: /JornadasVerano2021/
 ranking: 
-exam: /img/eventos/2021-Jornadas/JornadasVeranoCover.jpg
+exam:
 comm: /JornadasVerano2021/ComiteOrganizador/
 ---
 
