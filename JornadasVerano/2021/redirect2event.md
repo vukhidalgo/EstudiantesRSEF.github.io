@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jornadas de Verano 2021
-permalink: /JornadasVerano2021/test
+title: Redirect code
+permalink: /redirect/test
 ---
 <html>
 <head>
@@ -10,3 +10,5 @@ permalink: /JornadasVerano2021/test
         content="1; url = https://estudiantes.rsef.es/JornadasVerano2021/" />
 </head>
 </html>
+
+<!-- This code redirects from the file permalink to the site indicated in the <meta> container -->
