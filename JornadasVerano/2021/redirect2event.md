@@ -7,6 +7,6 @@ permalink: /JornadasVerano2021/
 <head>
     <title>HTML Redirect</title>
     <meta http-equiv="refresh"
-        content="1; url = https://estudiantes.rsef.es/PreliminaresPLANCKS/" />
+        content="1; url = https://estudiantes.rsef.es/eventos-internacionales/2021/07/13/JornadasVerano2021/" />
 </head>
 </html>
