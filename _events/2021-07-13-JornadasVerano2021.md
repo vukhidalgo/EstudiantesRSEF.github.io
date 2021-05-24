@@ -5,12 +5,12 @@ title:  "Jornadas de Verano 2021"
 startingdate: 2021-07-13
 endingdate: 2021-07-15
 place: Toda España
-locandina: /img/eventos/2021-Jornadas/JornadasVeranoLocandina.jpg
-cover: /img/eventos/2021-Jornadas/JornadasVeranoCover.jpg
+locandina:
+cover: /img/eventos/2021-Jornadas/JornadasVeranoLocandina.jpg
 gallery:
 site: /JornadasVerano2021/
 ranking: 
-exam: 
+exam: /img/eventos/2021-Jornadas/JornadasVeranoCover.jpg
 comm: /JornadasVerano2021/ComiteOrganizador/
 ---
 
