@@ -201,7 +201,7 @@ permalink: /JornadasVerano2021/test
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jun 1, 2021 00:00:01").getTime();
+var countDownDate = new Date("Jun 2, 2021 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
