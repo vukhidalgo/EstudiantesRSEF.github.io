@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jornadas de Verano 2021
-permalink: /JornadasVerano2021/test
+permalink: /JornadasVerano2021/
 ---
 
 <div class="no-pad-top" id="index-page">
