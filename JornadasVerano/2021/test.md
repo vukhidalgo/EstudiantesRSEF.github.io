@@ -73,6 +73,32 @@ permalink: /JornadasVerano2021/test
         </div>
       </div>
     </div>
+    
+     <!-- OBJETIVOS Size Test -->
+
+    <div class="section">
+      <h3 id="Actividades">Objetivos</h3>
+      <h2>Aprender Física · Conocer Personas · Desarrollar Habilidades</h2>
+      <div class="section">
+        <div class="row">
+          <div class="col s12 m6 l4">
+            <div class="row center">
+  		        <img class="materialboxed" width="70%" src="/img/eventos/2021-Jornadas/aprender.png">
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="row center">
+  		        <img class="materialboxed" width="70%" src="/img/eventos/2021-Jornadas/conocer.png">
+            </div>
+          </div>
+          <div class="col s12 m6 l4">
+            <div class="row center">
+              <img class="materialboxed" width="70%" src="/img/eventos/2021-Jornadas/desarrollar.png">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- HORARIO -->
 
