@@ -14,9 +14,12 @@ exam: /img/eventos/2021-Jornadas/JornadasVeranoCover.jpg
 comm: /JornadasVerano2021/ComiteOrganizador/
 ---
 
+<img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
+      
+---
+
   <div class="container">
     <div class="section">
-      <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
       <p>
         ¡Bienvenid@ a la página web oficial de las Jornadas de Verano del Grupo de Estudiantes de la RSEF!
       </p>
