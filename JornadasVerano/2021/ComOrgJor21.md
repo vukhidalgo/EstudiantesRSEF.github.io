@@ -17,7 +17,7 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
             <p align="center">Sergio Salvía Fernández - Relaciones Públicas</p>
             <p align="center">Alba Tacoronte Hernández - Diseño gráfico</p>
             <p align="center">Fátima Moñino - Redes Sociales</p>
-            <p align="center">Cristina Balsells Llort - Responsable de Logística</p>
+            <p align="center">Inmaculada Pérez Pérez - Responsable de Logística</p>
             <p align="center">Imanol Corredoira Fernández - Logística</p>
             <p align="center">Jorge Morón Vidal - Logística</p>
             <p align="center">Irene Carrión López - Logística</p>
