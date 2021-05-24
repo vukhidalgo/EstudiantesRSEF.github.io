@@ -14,7 +14,6 @@ exam: /img/eventos/2021-Jornadas/JornadasVeranoCover.jpg
 comm: /JornadasVerano2021/ComiteOrganizador/
 ---
 
-<div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
       <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
@@ -255,4 +254,4 @@ var x = setInterval(function() {
       </div>
     </div>
   </div>
-</div>
+
