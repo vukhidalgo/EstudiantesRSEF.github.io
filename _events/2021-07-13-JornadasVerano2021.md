@@ -15,10 +15,7 @@ comm: /JornadasVerano2021/ComiteOrganizador/
 ---
 
 <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
-      
----
 
-  <div class="container">
     <div class="section">
       <p>
         ¡Bienvenid@ a la página web oficial de las Jornadas de Verano del Grupo de Estudiantes de la RSEF!
@@ -256,5 +253,5 @@ var x = setInterval(function() {
         </div>
       </div>
     </div>
-  </div>
+
 
