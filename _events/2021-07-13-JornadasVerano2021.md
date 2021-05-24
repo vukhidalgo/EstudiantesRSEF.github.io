@@ -34,8 +34,6 @@ comm: /JornadasVerano2021/ComiteOrganizador/
   </div>
   
  ---
-  
-    <!-- INDEX AS BUTTONS -->
 
     <div class="section">
       <div class="row">
