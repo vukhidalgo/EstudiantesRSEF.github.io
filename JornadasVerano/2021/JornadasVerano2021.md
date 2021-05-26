@@ -106,7 +106,7 @@ permalink: /JornadasVerano2021/
        <div class="row">
          <div class="col s12 m6 l6">
            <div class="row center">
-           <h2 style="text-align: justify; indent-text: 5em;">Academia</h2>
+           <h2 style="text-align: justify; text-indent: 2em;">Academia</h2>
            <ul class="collection">
              {% for miembro in item.miembros %}
              {% if miembro.class contains "academia" %}
@@ -133,7 +133,7 @@ permalink: /JornadasVerano2021/
          </div>
          <div class="col s12 m6 l6">
            <div class="row center">
-           <h2 style="text-align: justify; indent-text: 5em;">Empresa</h2>
+           <h2 style="text-align: justify; text-indent: 2em;">Empresa</h2>
            <ul class="collection">
              {% for miembro in item.miembros %}
              {% if miembro.class contains "empresa" %}
@@ -158,7 +158,7 @@ permalink: /JornadasVerano2021/
            </ul>
            </div>
            <div class="row center">
-           <h2 style="text-align: justify; indent-text: 5em;">Mixtos</h2>
+           <h2 style="text-align: justify; text-indent: 2em;">Mixtos</h2>
            <ul class="collection">
              {% for miembro in item.miembros %}
              {% if miembro.class contains "mixto" %}
