@@ -33,6 +33,12 @@ permalink: /test2/
 
 <!-- TEST WITH ANOTHER ELEMENT! -->
 
+  <div class="progress">
+      <div class="indeterminate"></div>
+  </div>
+
+<!-- TEST WITH ANOTHER ELEMENT! -->
+
   <!-- Element Showed -->
   <a id="menu" class="waves-effect waves-light btn btn-floating" ><i class="material-icons">menu</i></a>
 
