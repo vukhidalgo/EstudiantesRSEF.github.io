@@ -13,8 +13,10 @@ permalink: /test2/
     </div>
 </div>
 
+<div class="row">
 <!-- Modal Trigger -->
 <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+</div>
 
 <!-- Modal Structure -->
 <div id="modal1" class="modal">
@@ -26,6 +28,7 @@ permalink: /test2/
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
   </div>
 </div>
+
 
 ## Junta de Gobierno
 
