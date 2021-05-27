@@ -6,7 +6,7 @@ permalink: /junta-de-gobierno/
 
 <div class="row">
   <div class="col s12 m4">
-    <img class="materialboxed" data-caption="Logo de Estudiantes RSEF." width="100%" src="{{ site.url }}/img/logos/gdee-rsef.png">
+    <img data-caption="Logo de Estudiantes RSEF." width="100%" src="{{ site.url }}/img/logos/gdee-rsef.png">
   </div>
     <div class="col s12 m4 offset-m1">
   <p>La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes de la RSEF, y está actualmente compuesta por 8 miembros.</p>
@@ -35,7 +35,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
             <i class="fa fa-lg fa-envelope">
             </i>
           </a>
-         {% if miembro.linkedin != nil %}	
+         {% if miembro.linkedin != nil %}
 	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
 	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
             </i>
@@ -65,7 +65,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
             <i class="fa fa-lg fa-envelope">
             </i>
           </a>
-         {% if miembro.linkedin != nil %}	
+         {% if miembro.linkedin != nil %}
 	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
 	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
             </i>
@@ -92,7 +92,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
           {{ miembro.rol }}
         </p>
         <div class="secondary-content-JdeG">
-         {% if miembro.linkedin != nil %}	
+         {% if miembro.linkedin != nil %}
 	  <a href="{{ miembro.linkedin }}" target="_blank" title="Perfil LinkedIn">
 	    <i class="fa fa-lg fa-linkedin-square" aria-hidden="true">
             </i>
