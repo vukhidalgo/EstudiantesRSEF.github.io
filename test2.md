@@ -23,8 +23,8 @@ permalink: /test2/
 <!-- Modal Structure -->
 <div id="modal1" class="modal">
   <div class="modal-content">
-    <div class="collection">
-      <div class="collection-item avatar">
+    <ul class="collection">
+      <li class="collection-item avatar">
         <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
         <span class="title">Nombre Apellidos</span>
         <p>
@@ -39,8 +39,8 @@ permalink: /test2/
           Horario
         </p>
         </div>
-      </div>  
-    </div>
+      </li>  
+    </ul>
     <h2 class="justify"><strong>Jornadas de Verano 2021</strong></h2>
     <h3 class="justify"><strong>Comité Organizador</strong></h3>
 
