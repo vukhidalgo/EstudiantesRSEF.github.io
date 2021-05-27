@@ -21,8 +21,8 @@ permalink: /JornadasVerano2021/
         <strong>Fdo.: el <a href="#ModalComOrgJor21">Comité Organizador de las Jornadas de Verano 2021</a>.</strong>
       </p>
 
-      <!-- Modal Comité Organizador -->
-      
+      <!-- MODAL COMITÉ ORGANIZADOR -->
+
       <div id="ModalComOrgJor21" class="modal">
         <div class="modal-content">
           <h2 class="justify"><strong>Jornadas de Verano 2021</strong></h2>
