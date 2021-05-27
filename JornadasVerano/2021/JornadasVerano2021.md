@@ -227,11 +227,25 @@ permalink: /JornadasVerano2021/
     <!-- INSCRÍBETE -->
 
       <div class="section">
-      <h3 id="Participar">¡Inscríbete!</h3>
+        <h3 id="Participar">¡Inscríbete!</h3>
         <p style="text-align: justify;">
           ¿Deseando que lleguen las Jornadas? ¡Y nosotros también! Ya sólo faltan para que puedas inscribirte...
         </p>
-	<h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
+	      <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
+        <div class="row">
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <h2>Paso 1:</h2>
+              <a href="{{ site.url }}/inscripcion" target="_blank" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Grupo Estudiantes RSEF</a>
+            </div>
+          </div>
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <h2>Paso 2:</h2>
+              <a href="" target="_blank" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Jornadas Verano 2021</a>
+            </div>
+          </div>
+        </div>
       </div>
 
 <script>
@@ -265,21 +279,7 @@ var x = setInterval(function() {
 }, 1000);
 </script>        
 
-      <div class="section">
-      <div class="row">
-        <div class="col s12 m6 l6">
-          <div class="row center">
-            <h2>Paso 1:</h2>
-		        <a href="{{ site.url }}/inscripcion" target="_blank" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Grupo Estudiantes RSEF</a>
-          </div>
-        </div>
-        <div class="col s12 m6 l6">
-          <div class="row center">
-            <h2>Paso 2:</h2>
-		        <a href="" target="_blank" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Jornadas Verano 2021</a>
-          </div>
-        </div>
-      </div>
+
     </div>
   </div>
 </div>
