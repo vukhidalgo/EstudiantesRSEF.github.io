@@ -24,7 +24,7 @@ permalink: /test2/
 <div id="modal1" class="modal">
   <div class="modal-content">
     <ul class="collection">
-      <li class="collection-item avatar">
+      <li class="collection-item avatar3">
         <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
         <span class="title">Nombre Apellidos</span>
         <p>
