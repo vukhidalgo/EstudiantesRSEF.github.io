@@ -23,8 +23,8 @@ permalink: /test2/
 <!-- Modal Structure -->
 <div id="modal1" class="modal">
   <div class="modal-content">
-    <h4>Modal Header</h4>
-    <p>A bunch of text</p>
+    <h3 class="justify"><strong>Jornadas de Verano 2021</strong></h3>
+    <h2 class="justify"><strong>Comité Organizador</strong></h2>
 
     {% for item in site.data.jornadas %}
 
@@ -46,6 +46,7 @@ permalink: /test2/
 
     {% endfor %}
 
+    <p>Puedes conocer más acerca de cada uno de nosotr@s en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo.</p>
 
   </div>
   <div class="modal-footer">
