@@ -29,8 +29,11 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
 
     {% endfor %}
 
-    <p>Puedes conocer más acerca de cada uno de nosotr@s en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</> del Grupo.</p>
+    <p>Puedes conocer más acerca de cada uno de nosotr@s en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo.</p>
 
     <div class="row center">
       <a href="{{ site.url }}/JornadasVerano2021/" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Volver a Jornadas Verano 2021</a>
     </div>
+
+  </div>
+</div>
