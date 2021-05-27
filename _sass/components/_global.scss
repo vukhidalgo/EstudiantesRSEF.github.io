@@ -482,9 +482,9 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
-    
-     @if $small-and-up{  
-      .tertiary-content {		     
+
+     @if $small-and-up{
+      .tertiary-content {
 	     float: right;
 	     max-width: 20%;
 	     height: 80%;
@@ -495,11 +495,11 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
- 
-      } 
- 
-     }@else{ 
-      .tertiary-content {		     
+
+      }
+
+     }@else{
+      .tertiary-content {
 	     float: top;
 	     max-width: 20%;
 	     height: 80%;
@@ -510,11 +510,11 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
- 
-      } 
-	     
+
+      }
+
      }
-     
+
 
       i.circle {
         font-size: 18px;
@@ -541,7 +541,7 @@ td, th{
       }
 
     }
-	  
+
     &.avatar2 {
       height: auto;
       padding-left: 10px;
@@ -561,9 +561,9 @@ td, th{
        display: inline-block;
        vertical-align: middle;
       }
-    
-     @if $small-and-up{  
-      .tertiary-content {		     
+
+     @if $small-and-up{
+      .tertiary-content {
 	     float: right;
 	     max-width: 20%;
 	     height: 80%;
@@ -574,11 +574,11 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
- 
-      } 
- 
-     }@else{ 
-      .tertiary-content {		     
+
+      }
+
+     }@else{
+      .tertiary-content {
 	     float: top;
 	     max-width: 20%;
 	     height: 80%;
@@ -589,11 +589,11 @@ td, th{
 		max-width: 100%;
 		width: auto;
 	}
- 
-      } 
-	     
+
+      }
+
      }
-     
+
 
       i.circle {
         font-size: 18px;
@@ -620,7 +620,86 @@ td, th{
       }
 
     }
-	  
+
+    &.avatar3 {
+      height: auto;
+      padding-left: 140px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 10px;
+      position: relative;
+
+      .circle {
+       position: absolute;
+       width: 200px;
+       height: 200px;
+       overflow: hidden;
+       top: 15px;
+             left: 15px;
+       bottom:15px;
+       display: inline-block;
+       vertical-align: middle;
+      }
+
+     @if $small-and-up{
+      .tertiary-content {
+       float: right;
+       max-width: 20%;
+       height: 80%;
+       right: 10px;
+
+  img {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+  }
+
+      }
+
+     }@else{
+      .tertiary-content {
+       float: top;
+       max-width: 20%;
+       height: 80%;
+       right: 10px;
+
+  img {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+  }
+
+      }
+
+     }
+
+
+      i.circle {
+        font-size: 18px;
+        line-height: 42px;
+        color: #fff;
+        background-color: #999;
+        text-align: center;
+      }
+
+
+      .title {
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      p {
+        margin: 0;
+      }
+
+      .secondary-content {
+        position: absolute;
+        top: 16px;
+        right: 16px;
+      }
+
+    }
+
       .secondary-content-JdeG {
         flote: right;
         top: 16px;
