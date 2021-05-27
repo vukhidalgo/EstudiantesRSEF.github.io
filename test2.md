@@ -23,8 +23,8 @@ permalink: /test2/
 <!-- Modal Structure -->
 <div id="modal1" class="modal">
   <div class="modal-content">
-    <h3 class="justify"><strong>Jornadas de Verano 2021</strong></h3>
-    <h2 class="justify"><strong>Comité Organizador</strong></h2>
+    <h2 class="justify"><strong>Jornadas de Verano 2021</strong></h2>
+    <h3 class="justify"><strong>Comité Organizador</strong></h3>
 
     {% for item in site.data.jornadas %}
 
