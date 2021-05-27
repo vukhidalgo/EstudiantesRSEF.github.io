@@ -15,7 +15,7 @@ permalink: /JornadasVerano2021/ComiteOrganizador/
       <div class="row center">
       {% for miembro in item.miembros %}
       {% if miembro.class contains "OC" %}
-        <ul class="collection">
+        <ul class="collection waves-effect waves-light">
           <li class="collection-item avatar2">
             <img src="{{ miembro.img }}" alt="imagen" class="circle">
             <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
