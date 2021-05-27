@@ -25,8 +25,8 @@ permalink: /JornadasVerano2021/
 
       <div id="ModalComOrgJor21" class="modal">
         <div class="modal-content">
-          <h2 class="justify"><strong>Jornadas de Verano 2021</strong></h2>
-          <h3 class="justify"><strong>Comité Organizador</strong></h3>
+          <h3 class="justify"><strong>Jornadas de Verano 2021</strong></h3>
+          <h2 class="justify"><strong>Comité Organizador</strong></h2>
 
           {% for item in site.data.jornadas %}
 
