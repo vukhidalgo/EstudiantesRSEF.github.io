@@ -25,9 +25,31 @@ permalink: /test2/
   <div class="modal-content">
     <h4>Modal Header</h4>
     <p>A bunch of text</p>
+
+    {% for item in site.data.jornadas %}
+
+    <div class="col s12 m6">
+      <div class="row center">
+      {% for miembro in item.miembros %}
+      {% if miembro.class contains "OC" %}
+        <ul class="collection waves-effect waves-light">
+          <li class="collection-item avatar2">
+            <img src="{{ miembro.img }}" alt="imagen" class="circle">
+            <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
+            <p>{{ miembro.rol }}</p>
+          </li>
+        </ul>
+      {% endif %}
+      {% endfor %}
+      </div>
+    </div>
+
+    {% endfor %}
+
+
   </div>
   <div class="modal-footer">
-    <a href="#!" class="modal-close waves-effect waves-green btn-flat">Agree</a>
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
 </div>
 
