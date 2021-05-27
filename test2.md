@@ -46,7 +46,7 @@ permalink: /test2/
 
     {% endfor %}
 
-    <p>Puedes conocer más acerca de cada uno de nosotr@s en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo de Estudiantes de la RSEF.</p>
+    <p>Conócenos mejor en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo de Estudiantes de la RSEF.</p>
 
   </div>
   <div class="modal-footer">
