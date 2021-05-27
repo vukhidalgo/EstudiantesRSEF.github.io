@@ -26,7 +26,8 @@ permalink: /test2/
     <ul class="collection">
       <li class="collection-item avatar3">
         <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
-        <span class="title">Nombre Apellidos</span>
+        <h2 class="justify"><strong>Ignacio Cirac Sasturiain</strong></h2>
+        <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
         <p>
           Rol
         </p>
@@ -44,30 +45,6 @@ permalink: /test2/
         </div>
       </li>  
     </ul>
-    <h2 class="justify"><strong>Jornadas de Verano 2021</strong></h2>
-    <h3 class="justify"><strong>Comité Organizador</strong></h3>
-
-    {% for item in site.data.jornadas %}
-
-    <div class="col s12 m6">
-      <div class="row center">
-      {% for miembro in item.miembros %}
-      {% if miembro.class contains "OC" %}
-        <ul class="collection waves-effect waves-light">
-          <li class="collection-item avatar2">
-            <img src="{{ miembro.img }}" alt="imagen" class="circle">
-            <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
-            <p>{{ miembro.rol }}</p>
-          </li>
-        </ul>
-      {% endif %}
-      {% endfor %}
-      </div>
-    </div>
-
-    {% endfor %}
-
-    <p>Conócenos mejor en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo de Estudiantes de la RSEF.</p>
 
   </div>
   <div class="modal-footer">
