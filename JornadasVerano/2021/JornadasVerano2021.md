@@ -17,9 +17,44 @@ permalink: /JornadasVerano2021/
       <p style="text-align: justify;">
 	Si eres una persona inquieta, con ganas de aprender y seguir creciendo, no lo dudes: apúntate a las Jornadas y ayúdanos a seguir construyendo una comunidad de físic@s unida y conectada. Para participar, simplemente debes ser miembro del Grupo de Estudiantes de la RSEF ¿Que aún no lo eres? <a href="{{ site.url }}/inscripcion" target="_blank">Estás a cinco minutos de conseguirlo.</a> ¡Síguenos en las redes y estate atent@ porque pronto abriremos inscripciones!
       </p>
-      <p style="text-align: justify;">
-        <span><a href="/JornadasVerano2021/ComiteOrganizador/">Consulta aquí</a> quién integra el Comité Organizador de las Jornadas de Verano 2021.</span>
+      <p style="text-align: right;">
+        <strong>Fdo.: el <a href="#ModalComOrgJor21">Comité Organizador de las Jornadas de Verano 2021</a>.</strong>
       </p>
+
+      <!-- Modal Comité Organizador -->
+      
+      <div id="ModalComOrgJor21" class="modal">
+        <div class="modal-content">
+          <h2 class="justify"><strong>Jornadas de Verano 2021</strong></h2>
+          <h3 class="justify"><strong>Comité Organizador</strong></h3>
+
+          {% for item in site.data.jornadas %}
+
+          <div class="col s12 m6">
+            <div class="row center">
+            {% for miembro in item.miembros %}
+            {% if miembro.class contains "OC" %}
+              <ul class="collection waves-effect waves-light">
+                <li class="collection-item avatar2">
+                  <img src="{{ miembro.img }}" alt="imagen" class="circle">
+                  <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
+                  <p>{{ miembro.rol }}</p>
+                </li>
+              </ul>
+            {% endif %}
+            {% endfor %}
+            </div>
+          </div>
+
+          {% endfor %}
+
+          <p>Conócenos mejor en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo de Estudiantes de la RSEF.</p>
+
+        </div>
+        <div class="modal-footer">
+          <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+        </div>
+      </div>
 
     <!-- INDEX AS BUTTONS -->
 
