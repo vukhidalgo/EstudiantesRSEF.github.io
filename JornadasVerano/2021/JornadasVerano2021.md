@@ -18,7 +18,7 @@ permalink: /JornadasVerano2021/
 	Si eres una persona inquieta, con ganas de aprender y seguir creciendo, no lo dudes: apúntate a las Jornadas y ayúdanos a seguir construyendo una comunidad de físic@s unida y conectada. Para participar, simplemente debes ser miembro del Grupo de Estudiantes de la RSEF ¿Que aún no lo eres? <a href="{{ site.url }}/inscripcion" target="_blank">Estás a cinco minutos de conseguirlo.</a> ¡Síguenos en las redes y estate atent@ porque pronto abriremos inscripciones!
       </p>
       <p style="text-align: right;">
-        <strong>Fdo.: el <a href="#ModalComOrgJor21">Comité Organizador de las Jornadas de Verano 2021</a>.</strong>
+        <strong>Fdo.: el <a class="modal-trigger" href="#ModalComOrgJor21">Comité Organizador de las Jornadas de Verano 2021</a>.</strong>
       </p>
 
       <!-- MODAL COMITÉ ORGANIZADOR -->
