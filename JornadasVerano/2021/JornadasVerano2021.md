@@ -251,11 +251,6 @@ permalink: /JornadasVerano2021/
           </div>
         </div>
       </div>
-      <div class="section">
-        <div class="row center">
-        <h3 style="text-align: center;">¿Te lo vas a perder?</h3>
-        </div>
-      </div>
 
 <script>
 // Set the date we're counting down to
