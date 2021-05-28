@@ -234,7 +234,7 @@ permalink: /JornadasVerano2021/
 	      <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
         <h2 style="text-align: center;">Estudiante menor de 25 años: Membresía RSEF 2021 + Jornadas = 10€</h2>
         <h2 style="text-align: center;">Estudiante entre de 25 y 30 años: Membresía RSEF 2021 + Jornadas = 30€</h2>
-        <h2 style="text-align: center;">¿Te lo vas a perder?</h2>
+        <h3 style="text-align: center;">¿Te lo vas a perder?</h3>
         <div class="row">
           <div class="col s12 m6 l6">
             <div class="row center">
