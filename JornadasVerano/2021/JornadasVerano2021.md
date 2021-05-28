@@ -232,7 +232,7 @@ permalink: /JornadasVerano2021/
           ¿Deseando que lleguen las Jornadas? ¡Y nosotros también! Ya sólo faltan para que puedas inscribirte...
         </p>
 	      <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
-        <h5 style="text-align: center;">Estudiante menor de 25 años: Membresía + Jornadas = 10€</h5>
+        <h6 style="text-align: center;">Estudiante menor de 25 años: Membresía + Jornadas = 10€</h6>
         <h5 style="text-align: center;">Estudiante entre de 25 y 30 años: Membresía + Jornadas = 30€</h5>
         <h5 style="text-align: center;">¿Te lo vas a perder?</h5>
         <div class="row">
