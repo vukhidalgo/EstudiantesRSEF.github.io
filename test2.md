@@ -27,9 +27,10 @@ permalink: /test2/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
       <div class="row">
-        <div class="col s12 m6 offset-s2">
+        <div class="col s12 m6 l2"></div> <!-- Just because offset is not working -->
+        <div class="col s12 m6 l4 offset-s2">
           <div class="row center">
-          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="60%">
+          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
           </div>
         </div>
         <div class="col s12 m6 l6">
