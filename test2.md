@@ -43,6 +43,7 @@ permalink: /test2/
         <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
       </div>
       <div class="row">
+        <h4 class="justify"><strong>Biografía</strong></h4>
         <p style="text-align: justify;">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
