@@ -56,11 +56,11 @@ permalink: /test2/
       <div class="row">
         <div class="col s12 m6 l3">
           <div class="row center">
-          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%" style="padding-top: 15px; padding-left: 15px; padding-bottom: 15px;">
+          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
           </div>
         </div>
         <div class="col s12 m6 l9">
-          <div class="row center">
+          <div class="row" style="padding-left: 15px">
             <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </p>
