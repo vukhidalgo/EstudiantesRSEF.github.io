@@ -53,7 +53,7 @@ permalink: /test2/
 
   </div>
   <div class="modal-footer">
-    <a href="#!" class="modal-close waves-effect waves-light btn-flat">CERRAR</a>
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
 </div>
 
