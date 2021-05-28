@@ -52,7 +52,7 @@ permalink: /test2/
       </li>  
     </ul>
 
-    <div class="section">
+    <div class="section" style="padding-left: 10px; padding-right: 10px;">
       <div class="row">
         <div class="col s12 offset-s1 m6 l3">
           <div class="row center">
