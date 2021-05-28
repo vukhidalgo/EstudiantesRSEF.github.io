@@ -54,7 +54,7 @@ permalink: /test2/
 
     <div class="section">
       <div class="row">
-        <div class="col s12 m6 l3">
+        <div class="col s12 offset-s1 m6 l3">
           <div class="row center">
           <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
           </div>
