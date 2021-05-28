@@ -61,12 +61,17 @@ permalink: /test2/
         </div>
         <div class="col s12 m6 l8">
           <div class="row" style="padding-left: 30px">
-            <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
+            <h2 class="justify"><strong>Ignacio Cirac Sasturiain</strong></h2>
+            <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
           </div>
         </div>
       </div>
+      <div class="row">
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+
     </div>
 
   </div>
