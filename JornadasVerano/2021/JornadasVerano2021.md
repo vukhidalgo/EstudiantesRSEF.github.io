@@ -232,8 +232,8 @@ permalink: /JornadasVerano2021/
           ¿Deseando que lleguen las Jornadas? ¡Y nosotros también! Ya sólo faltan para que puedas inscribirte...
         </p>
 	      <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
-        <h2 style="text-align: center;">Estudiante (x<25 años): Membresía RSEF 2021 + Jornadas = 10€</h2>
-        <h2 style="text-align: center;">Estudiante (25<span>&#8804;</span>x<30 años): Membresía RSEF 2021 + Jornadas = 30€</h2>
+        <h2 style="text-align: center;">Estudiante (menor 25 años): Membresía RSEF 2021 + Jornadas = 10€</h2>
+        <h2 style="text-align: center;">Estudiante (entre 25 y 30 años): Membresía RSEF 2021 + Jornadas = 30€</h2>
       </div>
       <div class="section">
         <div class="row">
