@@ -31,7 +31,7 @@ permalink: /test2/
           <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
           </div>
         </div>
-        <div class="col s12 m6 l6">
+        <div class="col s12 m6 l6" style="vertical-align:middle;">
           <div class="row center" style="padding-left: 30px; vertical-align:middle;">
             <h2 class="justify"><strong>Ignacio Cirac Sasturiain</strong></h2>
             <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
