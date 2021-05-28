@@ -56,7 +56,7 @@ permalink: /test2/
       <div class="row">
         <div class="col s12 m6 l3">
           <div class="row center">
-          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
+          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%" style="padding-top: 15px; padding-left: 15px; padding-bottom: 15px;">
           </div>
         </div>
         <div class="col s12 m6 l9">
