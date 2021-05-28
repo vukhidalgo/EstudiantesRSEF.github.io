@@ -52,6 +52,8 @@ permalink: /test2/
       </li>  
     </ul>
 
+  <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
+
   </div>
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
