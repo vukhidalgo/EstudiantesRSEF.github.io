@@ -54,12 +54,12 @@ permalink: /test2/
 
     <div class="section" style="padding-left: 20px; padding-right: 20px;">
       <div class="row">
-        <div class="col s12 m6 l4">
+        <div class="col s12 m6 l4 offset-s2">
           <div class="row center">
           <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
           </div>
         </div>
-        <div class="col s12 m6 l8">
+        <div class="col s12 m6 l6">
           <div class="row center" style="padding-left: 30px;">
             <h2 class="justify"><strong>Ignacio Cirac Sasturiain</strong></h2>
             <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
