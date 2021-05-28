@@ -249,7 +249,7 @@ permalink: /JornadasVerano2021/
           </div>
         </div>
         <div class="row center">
-        <h2 style="text-align: center;">¿Te lo vas a perder?</h2>
+        <h3 style="text-align: center;">¿Te lo vas a perder?</h3>
         </div>
       </div>
 
