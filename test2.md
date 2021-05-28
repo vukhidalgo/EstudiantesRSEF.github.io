@@ -33,7 +33,7 @@ permalink: /test2/
         </div>
         <div class="col s12 m6 l6">
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h2 class="justify"><strong>Prof. Ignacio Cirac Sasturiain</strong></h2>
+            <h2 class="justify"><strong>Prof. Ignacio Cirac</strong></h2>
             <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
