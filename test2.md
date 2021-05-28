@@ -23,34 +23,6 @@ permalink: /test2/
 <!-- Modal Structure -->
 <div id="modal1" class="modal">
   <div class="modal-content">
-    <ul class="collection">
-      <li class="collection-item avatar3">
-        <div class="section">
-          <div class="row">
-            <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle">
-            <h2 class="justify"><strong>Ignacio Cirac Sasturiain</strong></h2>
-            <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
-          </div>
-          <div class="row">
-            <p>
-              Rol
-            </p>
-            <hr>
-            <div style="text-align: left;">
-              <p>
-                Descripción
-              </p>
-              <p style="text-align: justify;">
-                Horario
-              </p>
-              <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-              </p>
-            </div>
-          </div>
-        </div>  
-      </li>  
-    </ul>
 
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row">
