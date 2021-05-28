@@ -60,7 +60,7 @@ permalink: /test2/
           </div>
         </div>
         <div class="col s12 m6 l8">
-          <div class="row" style="padding-left: 30px">
+          <div class="row" style="padding-left: 30px; top: 50%;">
             <h2 class="justify"><strong>Ignacio Cirac Sasturiain</strong></h2>
             <h3 class="justify"><strong>Conferencia Inaugural</strong></h3>
           </div>
