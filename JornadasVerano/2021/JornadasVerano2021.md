@@ -241,6 +241,7 @@ permalink: /JornadasVerano2021/
             <div class="row center">
               <h2>Paso 1:</h2>
               <a href="{{ site.url }}/inscripcion" target="_blank" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Inscripción Grupo Estudiantes RSEF</a>
+              <p>(Omítase si se es miembro del Grupo de Estudiantes)</p>
             </div>
           </div>
           <div class="col s12 m6 l6">
