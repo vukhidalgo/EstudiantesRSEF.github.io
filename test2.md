@@ -182,3 +182,7 @@ permalink: /test2/
 \\ collection-item WORKS 1/2
 \\ collection NO
 \\ collection-item avatar NO, almost but no
+
+<img class="materialboxed" width="80%" src="/img/eventos/2021-Jornadas/HorarioWebAmpliado.png">
+
+<img class="materialboxed" width="80%" src="/img/eventos/2021-Jornadas/HorarioWebAmpliadoPremio.png">
