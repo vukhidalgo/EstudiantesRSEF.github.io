@@ -216,3 +216,6 @@ permalink: /test2/
       </div>
     </div>
   </div>
+
+  {% endif %}
+  {% endfor %}
