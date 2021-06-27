@@ -190,41 +190,14 @@ permalink: /test2/
     <div class="row">
       <div class="col s12 m6 l6">
         <div class="row center">
-        <h2 style="text-align: center;">Academia</h2>
-        <ul class="collapsible">
-          <li>
-            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
-              <div class="collapsible-body">
-                <ul class="collection">
-                  {% for miembro in item.miembros %}
-                  {% if miembro.class contains "academia" %}
-                  <li class="collection-item avatar">
-                    <img src="{{ miembro.img }}" alt="" class="circle">
-                    <span class="title">{{ miembro.nombre }}</span>
-                    <p style="padding: 0px">
-                      {{ miembro.rol }}
-                    </p>
-                    <hr>
-                    <div style="text-align: left;">
-                    <p style="padding: 0px">
-                      {{ miembro.descr }}
-                    </p>
-                    <p style="text-align: justify; padding: 0px">
-                      {{ miembro.horario }}
-                    </p>
-                    </div>
-                  </li>
-                  {% endif %}
-                  {% endfor %}
-                </ul>
-              </div>
-            </li>
+          <h2 style="text-align: center;">Academia & Divulgación</h2>
+          <ul class="collapsible">
             <li>
-              <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
+              <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
                 <div class="collapsible-body">
                   <ul class="collection">
                     {% for miembro in item.miembros %}
-                    {% if miembro.class contains "divulgacion" %}
+                    {% if miembro.class contains "academia" %}
                     <li class="collection-item avatar">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
@@ -246,30 +219,24 @@ permalink: /test2/
                   </ul>
                 </div>
               </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col s12 m6 l6">
-          <div class="row center">
-            <ul class="collapsible">
               <li>
-                <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
+                <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       {% for miembro in item.miembros %}
-                      {% if miembro.class contains "empresa" %}
+                      {% if miembro.class contains "divulgacion" %}
                       <li class="collection-item avatar">
                         <img src="{{ miembro.img }}" alt="" class="circle">
                         <span class="title">{{ miembro.nombre }}</span>
-                        <p>
+                        <p style="padding: 0px">
                           {{ miembro.rol }}
                         </p>
                         <hr>
-                        <div style="text-align: justify;">
-                        <p>
+                        <div style="text-align: left;">
+                        <p style="padding: 0px">
                           {{ miembro.descr }}
                         </p>
-                        <p style="text-align: justify;">
+                        <p style="text-align: justify; padding: 0px">
                           {{ miembro.horario }}
                         </p>
                         </div>
@@ -279,12 +246,19 @@ permalink: /test2/
                     </ul>
                   </div>
                 </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <h2 style="text-align: center;">Empresa & Spin-offs</h2>
+              <ul class="collapsible">
                 <li>
-                  <div class="collapsible-header"><i class="material-icons">model_training</i>Mixtos Academia - Empresa</div>
+                  <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
                     <div class="collapsible-body">
                       <ul class="collection">
                         {% for miembro in item.miembros %}
-                        {% if miembro.class contains "mixto" %}
+                        {% if miembro.class contains "empresa" %}
                         <li class="collection-item avatar">
                           <img src="{{ miembro.img }}" alt="" class="circle">
                           <span class="title">{{ miembro.nombre }}</span>
@@ -306,11 +280,38 @@ permalink: /test2/
                       </ul>
                     </div>
                   </li>
-                </ul>
+                  <li>
+                    <div class="collapsible-header"><i class="material-icons">model_training</i>Mixtos Academia - Empresa</div>
+                      <div class="collapsible-body">
+                        <ul class="collection">
+                          {% for miembro in item.miembros %}
+                          {% if miembro.class contains "mixto" %}
+                          <li class="collection-item avatar">
+                            <img src="{{ miembro.img }}" alt="" class="circle">
+                            <span class="title">{{ miembro.nombre }}</span>
+                            <p>
+                              {{ miembro.rol }}
+                            </p>
+                            <hr>
+                            <div style="text-align: justify;">
+                            <p>
+                              {{ miembro.descr }}
+                            </p>
+                            <p style="text-align: justify;">
+                              {{ miembro.horario }}
+                            </p>
+                            </div>
+                          </li>
+                          {% endif %}
+                          {% endfor %}
+                        </ul>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>
-        </div>
 
   {% endif %}
   {% endfor %}
