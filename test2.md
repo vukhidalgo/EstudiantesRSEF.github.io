@@ -193,9 +193,9 @@ permalink: /test2/
     {% if miembro.destacado contains "YES" %}
       <ul class="collection waves-effect waves-light">
         <li class="collection-item avatar2">
-        <img src="{{ miembro.img }}" alt="" class="circle2">
+        <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
-        <p style="width: 50%">
+        <p style="width: 40%">
           {{ miembro.rol }}
         </p>
         </li>
