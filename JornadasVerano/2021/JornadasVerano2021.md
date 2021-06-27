@@ -217,7 +217,6 @@ permalink: /JornadasVerano2021/
            {% endfor %}
          </ul>
          </div>
-         </div>
          <div class="row center">
          <h2 style="text-align: center;">Divulgación</h2>
          <ul class="collection">
@@ -243,7 +242,7 @@ permalink: /JornadasVerano2021/
            {% endfor %}
          </ul>
          </div>
-         <div class="row center">
+        <!-- <div class="row center">
          <h2 style="text-align: center;">Estudiantes</h2>
          <ul class="collection">
            {% for miembro in item.miembros %}
@@ -267,7 +266,7 @@ permalink: /JornadasVerano2021/
            {% endif %}
            {% endfor %}
          </ul>
-         </div>
+         </div> -->
        </div>
      </div>
 
