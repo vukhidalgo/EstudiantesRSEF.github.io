@@ -224,5 +224,43 @@ permalink: /test2/
     </div>
   </div>
 
+  <div class="section">
+    <div class="row">
+      <div class="col s12 m6 l6">
+        <div class="row center">
+        <h2 style="text-align: center;">Academia</h2>
+        <ul class="collapsible">
+          <li>
+            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
+              <div class="collapsible-body" style="box-sizing: content-box">
+                <ul class="collection">
+                  {% for miembro in item.miembros %}
+                  {% if miembro.class contains "academia" %}
+                  <li class="collection-item avatar">
+                    <img src="{{ miembro.img }}" alt="" class="circle">
+                    <span class="title">{{ miembro.nombre }}</span>
+                    <p>
+                      {{ miembro.rol }}
+                    </p>
+                    <hr>
+                    <div style="text-align: left;">
+                    <p>
+                      {{ miembro.descr }}
+                    </p>
+                    <p style="text-align: justify;">
+                      {{ miembro.horario }}
+                    </p>
+                    </div>
+                  </li>
+                  {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
   {% endif %}
   {% endfor %}
