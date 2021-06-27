@@ -47,14 +47,14 @@
   }
 }
 
-.collapsible-body-nopadding {
+.collapsible-body2 {
   display: none;
   border-bottom: 1px solid $collapsible-border-color;
-  @include box-sizing(border-box);
+  @include box-sizing(content-box);
 
   p {
     margin: 0;
-    padding: 0;
+    padding: 2rem;
   }
 }
 
