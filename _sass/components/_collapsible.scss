@@ -47,6 +47,16 @@
   }
 }
 
+.collapsible-body-nobox {
+  display: none;
+  border-bottom: 1px solid $collapsible-border-color;
+
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
 // sideNav collapsible styling
 .side-nav {
 
