@@ -281,7 +281,7 @@ permalink: /test2/
                     </div>
                   </li>
                   <li>
-                    <div class="collapsible-header"><i class="material-icons">model_training</i>Mixtos Academia - Empresa</div>
+                    <div class="collapsible-header"><i class="material-icons">model_training</i>Spin-offs (Academia + Empresa)</div>
                       <div class="collapsible-body">
                         <ul class="collection">
                           {% for miembro in item.miembros %}
