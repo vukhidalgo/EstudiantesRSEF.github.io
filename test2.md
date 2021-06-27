@@ -227,7 +227,7 @@ permalink: /test2/
                   <ul class="collection">
                     {% for miembro in item.miembros %}
                     {% if miembro.class contains "academia" %}
-                    <li class="collection-item avatar">
+                    <li class="collection-item avatar" style="width: 30%">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
                       <p style="padding: 0px">
