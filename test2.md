@@ -186,6 +186,37 @@ permalink: /test2/
 {% for item in site.data.jornadas %}
 {% if item.anno contains "2021" %}
 
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="row center">
+      {% for miembro in item.miembros %}
+      {% if miembro.destacado contains "YES" %}
+        <ul class="collection waves-effect waves-light">
+          <li class="collection-item avatar2">
+          <img src="{{ miembro.img }}" alt="" class="circle">
+          <span class="title">{{ miembro.nombre }}</span>
+          <p style="padding: 0px">
+            {{ miembro.rol }}
+          </p>
+          </li>
+        </ul>
+      {% endif %}
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% endif %}
+{% endfor %}
+
+---
+
+{% for item in site.data.jornadas %}
+{% if item.anno contains "2021" %}
+
   <div class="section">
     <div class="row">
       <div class="col s12 m6 l6">
