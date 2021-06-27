@@ -51,11 +51,6 @@
   display: none;
   border-bottom: 1px solid $collapsible-border-color;
   @include box-sizing(border-box);
-
-  p {
-    margin: 0;
-    padding: 0;
-  }
 }
 
 // sideNav collapsible styling
