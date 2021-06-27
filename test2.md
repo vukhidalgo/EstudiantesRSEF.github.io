@@ -191,7 +191,7 @@ permalink: /test2/
     <div class="col s12 m6 l6">
       <div class="row center">
       <h2 style="text-align: center;">Academia</h2>
-      <ul class="collapsible">
+      <ul class="collapsible big">
         <li>
           <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
             <div class="collapsible-body">
