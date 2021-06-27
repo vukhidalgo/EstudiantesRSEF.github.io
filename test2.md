@@ -262,15 +262,15 @@ permalink: /test2/
                         <li class="collection-item avatar">
                           <img src="{{ miembro.img }}" alt="" class="circle">
                           <span class="title">{{ miembro.nombre }}</span>
-                          <p>
+                          <p style="padding: 0px">
                             {{ miembro.rol }}
                           </p>
                           <hr>
                           <div style="text-align: justify;">
-                          <p>
+                          <p style="padding: 0px">
                             {{ miembro.descr }}
                           </p>
-                          <p style="text-align: justify;">
+                          <p style="text-align: justify; padding: 0px">
                             {{ miembro.horario }}
                           </p>
                           </div>
@@ -289,15 +289,15 @@ permalink: /test2/
                           <li class="collection-item avatar">
                             <img src="{{ miembro.img }}" alt="" class="circle">
                             <span class="title">{{ miembro.nombre }}</span>
-                            <p>
+                            <p style="padding: 0px">
                               {{ miembro.rol }}
                             </p>
                             <hr>
                             <div style="text-align: justify;">
-                            <p>
+                            <p style="padding: 0px">
                               {{ miembro.descr }}
                             </p>
-                            <p style="text-align: justify;">
+                            <p style="text-align: justify; padding: 0px">
                               {{ miembro.horario }}
                             </p>
                             </div>
