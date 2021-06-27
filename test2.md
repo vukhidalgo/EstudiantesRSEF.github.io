@@ -249,43 +249,15 @@ permalink: /test2/
             </ul>
           </div>
         </div>
-      </div>
-      <div class="col s12 m6 l6">
-        <div class="row center">
-          <ul class="collapsible">
-            <li>
-              <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
-                <div class="collapsible-body">
-                  <ul class="collection">
-                    {% for miembro in item.miembros %}
-                    {% if miembro.class contains "empresa" %}
-                    <li class="collection-item avatar">
-                      <img src="{{ miembro.img }}" alt="" class="circle">
-                      <span class="title">{{ miembro.nombre }}</span>
-                      <p>
-                        {{ miembro.rol }}
-                      </p>
-                      <hr>
-                      <div style="text-align: justify;">
-                      <p>
-                        {{ miembro.descr }}
-                      </p>
-                      <p style="text-align: justify;">
-                        {{ miembro.horario }}
-                      </p>
-                      </div>
-                    </li>
-                    {% endif %}
-                    {% endfor %}
-                  </ul>
-                </div>
-              </li>
+        <div class="col s12 m6 l6">
+          <div class="row center">
+            <ul class="collapsible">
               <li>
-                <div class="collapsible-header"><i class="material-icons">work</i>Mixtos Academia - Empresa</div>
+                <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       {% for miembro in item.miembros %}
-                      {% if miembro.class contains "mixto" %}
+                      {% if miembro.class contains "empresa" %}
                       <li class="collection-item avatar">
                         <img src="{{ miembro.img }}" alt="" class="circle">
                         <span class="title">{{ miembro.nombre }}</span>
@@ -307,13 +279,38 @@ permalink: /test2/
                     </ul>
                   </div>
                 </li>
-              </ul>
+                <li>
+                  <div class="collapsible-header"><i class="material-icons">work</i>Mixtos Academia - Empresa</div>
+                    <div class="collapsible-body">
+                      <ul class="collection">
+                        {% for miembro in item.miembros %}
+                        {% if miembro.class contains "mixto" %}
+                        <li class="collection-item avatar">
+                          <img src="{{ miembro.img }}" alt="" class="circle">
+                          <span class="title">{{ miembro.nombre }}</span>
+                          <p>
+                            {{ miembro.rol }}
+                          </p>
+                          <hr>
+                          <div style="text-align: justify;">
+                          <p>
+                            {{ miembro.descr }}
+                          </p>
+                          <p style="text-align: justify;">
+                            {{ miembro.horario }}
+                          </p>
+                          </div>
+                        </li>
+                        {% endif %}
+                        {% endfor %}
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </div>
 
   {% endif %}
   {% endfor %}
