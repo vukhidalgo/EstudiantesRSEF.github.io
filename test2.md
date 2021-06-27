@@ -232,7 +232,7 @@ permalink: /test2/
         <ul class="collapsible">
           <li>
             <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
-              <div class="collapsible-body" style="box-sizing: content-box">
+              <div class="collapsible-body" style="padding: 0px">
                 <ul class="collection">
                   {% for miembro in item.miembros %}
                   {% if miembro.class contains "academia" %}
