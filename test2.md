@@ -219,6 +219,33 @@ permalink: /test2/
                 </ul>
               </div>
             </li>
+            <li>
+              <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
+                <div class="collapsible-body">
+                  <ul class="collection">
+                    {% for miembro in item.miembros %}
+                    {% if miembro.class contains "divulgacion" %}
+                    <li class="collection-item avatar">
+                      <img src="{{ miembro.img }}" alt="" class="circle">
+                      <span class="title">{{ miembro.nombre }}</span>
+                      <p style="padding: 0px">
+                        {{ miembro.rol }}
+                      </p>
+                      <hr>
+                      <div style="text-align: left;">
+                      <p style="padding: 0px">
+                        {{ miembro.descr }}
+                      </p>
+                      <p style="text-align: justify; padding: 0px">
+                        {{ miembro.horario }}
+                      </p>
+                      </div>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                  </ul>
+                </div>
+              </li>
           </ul>
         </div>
       </div>
