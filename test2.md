@@ -193,7 +193,7 @@ permalink: /test2/
       <h2 style="text-align: center;">Academia</h2>
       <ul class="collapsible">
         <li>
-          <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
+          <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
             <div class="collapsible-body-nopadding">
               <ul class="collection">
                 {% for miembro in item.miembros %}
