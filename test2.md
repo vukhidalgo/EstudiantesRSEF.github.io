@@ -194,7 +194,7 @@ permalink: /test2/
       <ul class="collection waves-effect waves-light" style="width: 33%">
         <li class="collection-item avatar2">
         <img src="{{ miembro.img }}" alt="" class="circle">
-        <span class="title" style="padding-left: 5px">{{ miembro.nombre }}</span>
+        <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
         <p style="padding-left: 10px">
           {{ miembro.rol }}
         </p>
