@@ -191,11 +191,11 @@ permalink: /test2/
     <div class="row center">
     {% for miembro in item.miembros %}
     {% if miembro.destacado contains "YES" %}
-      <ul class="collection waves-effect waves-light">
+      <ul class="collection waves-effect waves-light" style="width: 40%">
         <li class="collection-item avatar2">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title">{{ miembro.nombre }}</span>
-        <p style="width: 40%">
+        <p>
           {{ miembro.rol }}
         </p>
         </li>
