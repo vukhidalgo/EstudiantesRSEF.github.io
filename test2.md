@@ -195,7 +195,7 @@ permalink: /test2/
         <li class="collection-item avatar2">
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title" style="padding-left: 5px">{{ miembro.nombre }}</span>
-        <p>
+        <p style="padding-left: 10px">
           {{ miembro.rol }}
         </p>
         </li>
