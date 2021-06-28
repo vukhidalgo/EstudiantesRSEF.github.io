@@ -99,6 +99,7 @@
       destacado: "YES"
     #DIVULGACIÓN
     - nombre: "Adrián García ('El físico barbudo')"
+      nombredes: "Adrián García"
       class: "divulgacion"
       img: "/img/eventos/2021-Jornadas/ponentes/AdriánGarcía.jpg"
       rol: "Físico, Youtuber y TikToker, divulgador científico en TV, radio e Internet"
