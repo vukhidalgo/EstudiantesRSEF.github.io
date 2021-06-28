@@ -194,7 +194,11 @@ permalink: /test2/
       <ul class="collection waves-effect waves-light" style="width: 33%">
         <li class="collection-item avatar2">
         <img src="{{ miembro.img }}" alt="" class="circle">
-        <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
+        {% if miembro.nombredes contains "" %}
+        <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
+        {% else %}
+        <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
+        {% endif %}
         <p style="padding-top: 10px">
           {{ miembro.roldes }}
         </p>
