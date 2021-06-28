@@ -170,7 +170,7 @@ permalink: /JornadasVerano2021/
      {% endif %}
      {% endfor %}
 
-     <h2>¡Descúbrelos a tod@s!</h2>
+     <h2>¡Haz click en cada categoría y descúbrelos a tod@s!</h2>
 
      {% for item in site.data.jornadas %}
      {% if item.anno contains "2021" %}
