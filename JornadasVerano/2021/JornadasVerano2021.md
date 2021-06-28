@@ -150,9 +150,15 @@ permalink: /JornadasVerano2021/
              {% else %}
              <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
              {% endif %}
+             {% if miembro.roldes %}
              <p style="padding-top: 10px">
                {{ miembro.roldes }}
              </p>
+             {% else %}
+             <p style="padding-top: 10px">
+               {{ miembro.rol }}
+             </p>
+             {% endif %}
              </li>
            </ul>
          {% endif %}
@@ -295,7 +301,7 @@ permalink: /JornadasVerano2021/
                    </div>
                  </div>
                </div>
-     
+
      {% endif %}
      {% endfor %}
 
