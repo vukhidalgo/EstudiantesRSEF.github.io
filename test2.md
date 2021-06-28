@@ -210,7 +210,6 @@ permalink: /test2/
   </div>
 </div>
 
-
 {% endif %}
 {% endfor %}
 
@@ -346,5 +345,5 @@ permalink: /test2/
             </div>
           </div>
 
-  {% endif %}
-  {% endfor %}
+{% endif %}
+{% endfor %}

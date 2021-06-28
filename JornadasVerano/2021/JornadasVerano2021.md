@@ -130,9 +130,176 @@ permalink: /JornadasVerano2021/
       <h3 id="Ponentes">Ponentes</h3>
       <h2>Elegimos que nos enseñen los mejores</h2>
         <p style="text-align: justify;">
-          Ya nos han confirmado:
+          Algun@s ponentes que ya nos han confirmado:
         </p>
      </div>
+
+     {% for item in site.data.jornadas %}
+     {% if item.anno contains "2021" %}
+
+     <div class="section">
+       <div class="col s12 m6">
+         <div class="row center">
+         {% for miembro in item.miembros %}
+         {% if miembro.destacado contains "YES" %}
+           <ul class="collection waves-effect waves-light" style="width: 33%">
+             <li class="collection-item avatar2">
+             <img src="{{ miembro.img }}" alt="" class="circle">
+             {% if miembro.nombredes %}
+             <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
+             {% else %}
+             <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
+             {% endif %}
+             <p style="padding-top: 10px">
+               {{ miembro.roldes }}
+             </p>
+             </li>
+           </ul>
+         {% endif %}
+         {% endfor %}
+         </div>
+       </div>
+     </div>
+
+     {% endif %}
+     {% endfor %}
+
+     <h2>¡Descúbrelos a tod@s!</h2>
+
+     {% for item in site.data.jornadas %}
+     {% if item.anno contains "2021" %}
+
+       <div class="section">
+         <div class="row">
+           <div class="col s12 m6 l6">
+             <div class="row center">
+               <h2 style="text-align: center;">Academia & Divulgación</h2>
+               <ul class="collapsible">
+                 <li>
+                   <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
+                     <div class="collapsible-body">
+                       <ul class="collection">
+                         {% for miembro in item.miembros %}
+                         {% if miembro.class contains "academia" %}
+                         <li class="collection-item avatar">
+                           <img src="{{ miembro.img }}" alt="" class="circle">
+                           <span class="title">{{ miembro.nombre }}</span>
+                           <p style="padding: 0px">
+                             {{ miembro.rol }}
+                           </p>
+                           <hr>
+                           <div style="text-align: left;">
+                           <p style="padding: 0px">
+                             {{ miembro.descr }}
+                           </p>
+                           <p style="text-align: justify; padding: 0px">
+                             {{ miembro.horario }}
+                           </p>
+                           </div>
+                         </li>
+                         {% endif %}
+                         {% endfor %}
+                       </ul>
+                     </div>
+                   </li>
+                   <li>
+                     <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
+                       <div class="collapsible-body">
+                         <ul class="collection">
+                           {% for miembro in item.miembros %}
+                           {% if miembro.class contains "divulgacion" %}
+                           <li class="collection-item avatar">
+                             <img src="{{ miembro.img }}" alt="" class="circle">
+                             <span class="title">{{ miembro.nombre }}</span>
+                             <p style="padding: 0px">
+                               {{ miembro.rol }}
+                             </p>
+                             <hr>
+                             <div style="text-align: left;">
+                             <p style="padding: 0px">
+                               {{ miembro.descr }}
+                             </p>
+                             <p style="text-align: justify; padding: 0px">
+                               {{ miembro.horario }}
+                             </p>
+                             </div>
+                           </li>
+                           {% endif %}
+                           {% endfor %}
+                         </ul>
+                       </div>
+                     </li>
+                   </ul>
+                 </div>
+               </div>
+               <div class="col s12 m6 l6">
+                 <div class="row center">
+                   <h2 style="text-align: center;">Empresa & Spin-offs</h2>
+                   <ul class="collapsible">
+                     <li>
+                       <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
+                         <div class="collapsible-body">
+                           <ul class="collection">
+                             {% for miembro in item.miembros %}
+                             {% if miembro.class contains "empresa" %}
+                             <li class="collection-item avatar">
+                               <img src="{{ miembro.img }}" alt="" class="circle">
+                               <span class="title">{{ miembro.nombre }}</span>
+                               <p style="padding: 0px">
+                                 {{ miembro.rol }}
+                               </p>
+                               <hr>
+                               <div style="text-align: justify;">
+                               <p style="padding: 0px">
+                                 {{ miembro.descr }}
+                               </p>
+                               <p style="text-align: justify; padding: 0px">
+                                 {{ miembro.horario }}
+                               </p>
+                               </div>
+                             </li>
+                             {% endif %}
+                             {% endfor %}
+                           </ul>
+                         </div>
+                       </li>
+                       <li>
+                         <div class="collapsible-header"><i class="material-icons">model_training</i>Spin-offs (Academia + Empresa)</div>
+                           <div class="collapsible-body">
+                             <ul class="collection">
+                               {% for miembro in item.miembros %}
+                               {% if miembro.class contains "mixto" %}
+                               <li class="collection-item avatar">
+                                 <img src="{{ miembro.img }}" alt="" class="circle">
+                                 <span class="title">{{ miembro.nombre }}</span>
+                                 <p style="padding: 0px">
+                                   {{ miembro.rol }}
+                                 </p>
+                                 <hr>
+                                 <div style="text-align: justify;">
+                                 <p style="padding: 0px">
+                                   {{ miembro.descr }}
+                                 </p>
+                                 <p style="text-align: justify; padding: 0px">
+                                   {{ miembro.horario }}
+                                 </p>
+                                 </div>
+                               </li>
+                               {% endif %}
+                               {% endfor %}
+                             </ul>
+                           </div>
+                         </li>
+                       </ul>
+                     </div>
+                   </div>
+                 </div>
+               </div>
+     
+     {% endif %}
+     {% endfor %}
+
+     <!-- PONENTES OLD
 
      {% for item in site.data.jornadas %}
      {% if item.anno contains "2021" %}
@@ -242,7 +409,7 @@ permalink: /JornadasVerano2021/
            {% endfor %}
          </ul>
          </div>
-        <!-- <div class="row center">
+         <div class="row center">
          <h2 style="text-align: center;">Estudiantes</h2>
          <ul class="collection">
            {% for miembro in item.miembros %}
@@ -266,12 +433,12 @@ permalink: /JornadasVerano2021/
            {% endif %}
            {% endfor %}
          </ul>
-         </div> -->
+         </div>
        </div>
      </div>
 
      {% endif %}
-     {% endfor %}
+     {% endfor %} -->
 
     <!-- INSCRÍBETE -->
 
