@@ -197,7 +197,7 @@ permalink: /test2/
         {% if miembro.nombredes contains "" %}
         <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
         {% else %}
-        <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
+        <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
         {% endif %}
         <p style="padding-top: 10px">
           {{ miembro.roldes }}
