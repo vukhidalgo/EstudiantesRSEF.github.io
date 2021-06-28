@@ -196,7 +196,7 @@ permalink: /test2/
         <img src="{{ miembro.img }}" alt="" class="circle">
         <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
         <p style="padding-top: 10px">
-          {{ miembro.rol }}
+          {{ miembro.roldes }}
         </p>
         </li>
       </ul>
