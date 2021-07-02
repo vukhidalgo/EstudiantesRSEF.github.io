@@ -348,13 +348,9 @@ permalink: /test2/
           </div>
         </div>
 
-{% endif %}
-{% endfor %}
 
 <!-- Modal PONENTES -->
 
-{% for item in site.data.jornadas %}
-{% if item.anno contains "2021" %}
 {% for miembro in item.miembros %}
 
 <div id="modalPonentes" class="modal">
@@ -394,5 +390,6 @@ permalink: /test2/
 </div>
 
 {% endfor %}
+
 {% endif %}
 {% endfor %}
