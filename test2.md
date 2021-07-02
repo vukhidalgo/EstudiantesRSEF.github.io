@@ -347,7 +347,14 @@ permalink: /test2/
           </div>
         </div>
 
+{% endif %}
+{% endfor %}
+
 <!-- Modal PONENTES -->
+
+{% for item in site.data.jornadas %}
+{% if item.anno contains "2021" %}
+
 <div id="modalPonentes" class="modal">
   <div class="modal-content">
 
