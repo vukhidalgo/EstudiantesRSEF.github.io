@@ -230,7 +230,7 @@ permalink: /test2/
                 <ul class="collection">
                   {% for miembro in item.miembros %}
                   {% if miembro.class contains "academia" %}
-                	<a href="#modalPonentes" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
+                	<a href="#modalPonentes" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 0px" target="_blank">
                     <li class="collection-item avatar">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
