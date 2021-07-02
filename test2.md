@@ -218,18 +218,47 @@ permalink: /test2/
 {% for item in site.data.jornadas %}
 {% if item.anno contains "2021" %}
 
-  <div class="section">
-    <div class="row">
-      <div class="col s12 m6 l6">
-        <div class="row center">
-          <h2 style="text-align: center;">Academia & Divulgación</h2>
-          <ul class="collapsible">
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6 l6">
+      <div class="row center">
+        <h2 style="text-align: center;">Academia & Divulgación</h2>
+        <ul class="collapsible">
+          <li>
+            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
+              <div class="collapsible-body">
+                <ul class="collection">
+                  {% for miembro in item.miembros %}
+                  {% if miembro.class contains "academia" %}
+                	<a href="#modalPonentes" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
+                    <li class="collection-item avatar">
+                      <img src="{{ miembro.img }}" alt="" class="circle">
+                      <span class="title">{{ miembro.nombre }}</span>
+                      <p style="padding: 0px">
+                        {{ miembro.rol }}
+                      </p>
+                      <hr>
+                      <div style="text-align: left;">
+                      <p style="padding: 0px">
+                        {{ miembro.descr }}
+                      </p>
+                      <p style="text-align: justify; padding: 0px">
+                        {{ miembro.horario }}
+                      </p>
+                      </div>
+                    </li>
+                  </a>
+                  {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
             <li>
-              <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
+              <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
                 <div class="collapsible-body">
                   <ul class="collection">
                     {% for miembro in item.miembros %}
-                    {% if miembro.class contains "academia" %}
+                    {% if miembro.class contains "divulgacion" %}
                     <li class="collection-item avatar">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
@@ -251,12 +280,19 @@ permalink: /test2/
                   </ul>
                 </div>
               </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col s12 m6 l6">
+          <div class="row center">
+            <h2 style="text-align: center;">Empresa & Spin-offs</h2>
+            <ul class="collapsible">
               <li>
-                <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
+                <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       {% for miembro in item.miembros %}
-                      {% if miembro.class contains "divulgacion" %}
+                      {% if miembro.class contains "empresa" %}
                       <li class="collection-item avatar">
                         <img src="{{ miembro.img }}" alt="" class="circle">
                         <span class="title">{{ miembro.nombre }}</span>
@@ -264,7 +300,7 @@ permalink: /test2/
                           {{ miembro.rol }}
                         </p>
                         <hr>
-                        <div style="text-align: left;">
+                        <div style="text-align: justify;">
                         <p style="padding: 0px">
                           {{ miembro.descr }}
                         </p>
@@ -278,19 +314,12 @@ permalink: /test2/
                     </ul>
                   </div>
                 </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col s12 m6 l6">
-            <div class="row center">
-              <h2 style="text-align: center;">Empresa & Spin-offs</h2>
-              <ul class="collapsible">
                 <li>
-                  <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
+                  <div class="collapsible-header"><i class="material-icons">model_training</i>Spin-offs (Academia + Empresa)</div>
                     <div class="collapsible-body">
                       <ul class="collection">
                         {% for miembro in item.miembros %}
-                        {% if miembro.class contains "empresa" %}
+                        {% if miembro.class contains "mixto" %}
                         <li class="collection-item avatar">
                           <img src="{{ miembro.img }}" alt="" class="circle">
                           <span class="title">{{ miembro.nombre }}</span>
@@ -312,38 +341,48 @@ permalink: /test2/
                       </ul>
                     </div>
                   </li>
-                  <li>
-                    <div class="collapsible-header"><i class="material-icons">model_training</i>Spin-offs (Academia + Empresa)</div>
-                      <div class="collapsible-body">
-                        <ul class="collection">
-                          {% for miembro in item.miembros %}
-                          {% if miembro.class contains "mixto" %}
-                          <li class="collection-item avatar">
-                            <img src="{{ miembro.img }}" alt="" class="circle">
-                            <span class="title">{{ miembro.nombre }}</span>
-                            <p style="padding: 0px">
-                              {{ miembro.rol }}
-                            </p>
-                            <hr>
-                            <div style="text-align: justify;">
-                            <p style="padding: 0px">
-                              {{ miembro.descr }}
-                            </p>
-                            <p style="text-align: justify; padding: 0px">
-                              {{ miembro.horario }}
-                            </p>
-                            </div>
-                          </li>
-                          {% endif %}
-                          {% endfor %}
-                        </ul>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
+                </ul>
               </div>
             </div>
           </div>
+        </div>
+
+<!-- Modal PONENTES -->
+<div id="modalPonentes" class="modal">
+  <div class="modal-content">
+
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+
+      <div class="row">
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
+        <div class="col s12 m6 l4">
+          <div class="row center">
+          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
+          </div>
+        </div>
+        <div class="col s12 m6 l6">
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+            <h2 class="justify"><strong>{{ miembro.nombre }}</strong></h2>
+            <h3 class="justify"><strong>{{ miembro.shortdescr }}</strong></h3>
+            <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
+          </div>
+        </div>
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
+      </div>
+      <div class="row">
+        <h4 class="justify"><strong>Biografía</strong></h4>
+        <p style="text-align: justify;">
+        {{ miembro.bio }}
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
 
 {% endif %}
 {% endfor %}
