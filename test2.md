@@ -230,7 +230,7 @@ permalink: /test2/
                 <ul class="collection">
                   {% for miembro in item.miembros %}
                   {% if miembro.class contains "academia" %}
-                	<a href="#{{ miembro.nombre | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                	<a href="#{{ miembro.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                     <li class="collection-item avatar">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
@@ -350,9 +350,7 @@ permalink: /test2/
 
 <!-- Modal PONENTES -->
 
-{% for miembro in item.miembros %}
-
-<div id="{{ miembro.nombre | remove: "/" }}-modal" class="modal">
+<div id="{{ miembro.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
 
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
@@ -387,8 +385,6 @@ permalink: /test2/
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
 </div>
-
-{% endfor %}
 
 {% endif %}
 {% endfor %}
