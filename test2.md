@@ -247,7 +247,7 @@ permalink: /test2/
                         {{ miembro.horario }}
                       </p>
                       </div>
-                      {% assign neventi = neventi | plus: 1 %}
+                      {% assign nmodal = nmodal | plus: 1 %}
                     </li>
                   </a>
                   {% endif %}
