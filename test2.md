@@ -227,11 +227,10 @@ permalink: /test2/
           <li>
             <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
               <div class="collapsible-body">
-                {% assign nmodal = 0 %}
                 <ul class="collection">
                   {% for miembro in item.miembros %}
                   {% if miembro.class contains "academia" %}
-                	<a href="#{% nmodal = 0 %}" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                	<a href="#{{ miembro.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                     <li class="collection-item avatar">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
@@ -247,7 +246,6 @@ permalink: /test2/
                         {{ miembro.horario }}
                       </p>
                       </div>
-                      {% assign nmodal = nmodal | plus: 1 %}
                     </li>
                   </a>
                   {% endif %}
@@ -358,7 +356,7 @@ permalink: /test2/
 {% if item.anno contains "2021" %}
 {% for miembro in item.miembros %}
 
-<div id="{% nmodal %}" class="modal">
+<div id="{{ miembro.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
 
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
