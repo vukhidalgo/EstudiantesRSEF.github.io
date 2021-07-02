@@ -354,6 +354,7 @@ permalink: /test2/
 
 {% for item in site.data.jornadas %}
 {% if item.anno contains "2021" %}
+{% for miembro in item.miembros %}
 
 <div id="modalPonentes" class="modal">
   <div class="modal-content">
@@ -391,5 +392,6 @@ permalink: /test2/
   </div>
 </div>
 
+{% endfor %}
 {% endif %}
 {% endfor %}
