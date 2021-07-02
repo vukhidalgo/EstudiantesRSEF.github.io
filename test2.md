@@ -227,6 +227,7 @@ permalink: /test2/
           <li>
             <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
               <div class="collapsible-body">
+                {% assign neventi = 0 %}
                 <ul class="collection">
                   {% for miembro in item.miembros %}
                   {% if miembro.class contains "academia" %}
@@ -246,6 +247,7 @@ permalink: /test2/
                         {{ miembro.horario }}
                       </p>
                       </div>
+                      {% assign neventi = neventi | plus: 1 %}
                     </li>
                   </a>
                   {% endif %}
