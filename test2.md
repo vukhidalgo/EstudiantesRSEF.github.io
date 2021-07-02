@@ -247,6 +247,7 @@ permalink: /test2/
                       </p>
                       </div>
                     </li>
+                    <hr>
                   </a>
                   {% endif %}
                   {% endfor %}
