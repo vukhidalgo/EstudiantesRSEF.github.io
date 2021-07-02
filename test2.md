@@ -357,7 +357,7 @@ permalink: /test2/
         <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
         <div class="col s12 m6 l4">
           <div class="row center">
-          <img src="/img/junta/alejandro-fernandez.jpg" alt="" class="circle" width="80%">
+          <img src="{{ miembro.img }}" alt="" class="circle" width="80%">
           </div>
         </div>
         <div class="col s12 m6 l6">
