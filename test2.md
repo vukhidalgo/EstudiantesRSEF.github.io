@@ -248,38 +248,6 @@ permalink: /test2/
                       </div>
                     </li>
                   </a>
-                  <!-- Modal PONENTES -->
-                  <div id="{{ miembro.id | remove: "/" }}-modal" class="modal">
-                    <div class="modal-content">
-                      <div class="section" style="padding-left: 30px; padding-right: 30px;">
-                        <div class="row">
-                          <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
-                          <div class="col s12 m6 l4">
-                            <div class="row center">
-                            <img src="{{ miembro.img }}" alt="" class="circle" width="80%">
-                            </div>
-                          </div>
-                          <div class="col s12 m6 l6">
-                            <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-                              <h2 class="justify"><strong>{{ miembro.nombre }}</strong></h2>
-                              <h3 class="justify"><strong>{{ miembro.shortdescr }}</strong></h3>
-                              <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
-                            </div>
-                          </div>
-                          <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
-                        </div>
-                        <div class="row">
-                          <h4 class="justify"><strong>Biografía</strong></h4>
-                          <p style="text-align: justify;">
-                          {{ miembro.bio }}
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="modal-footer">
-                      <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
-                    </div>
-                  </div>
                   {% endif %}
                   {% endfor %}
                 </ul>
@@ -379,8 +347,14 @@ permalink: /test2/
           </div>
         </div>
 
+{% endif %}
+{% endfor %}
 
-<!-- Modal PONENTES
+<!-- Modal PONENTES -->
+
+{% for item in site.data.jornadas %}
+{% if item.anno contains "2021" %}
+{% for miembro in item.miembros %}
 
 <div id="{{ miembro.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
@@ -388,7 +362,7 @@ permalink: /test2/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
       <div class="row">
-        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
         <div class="col s12 m6 l4">
           <div class="row center">
           <img src="{{ miembro.img }}" alt="" class="circle" width="80%">
@@ -401,7 +375,7 @@ permalink: /test2/
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
         </div>
-        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working 
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
       </div>
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
@@ -416,7 +390,8 @@ permalink: /test2/
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
-</div> -->
+</div>
 
+{% endfor %}
 {% endif %}
 {% endfor %}
