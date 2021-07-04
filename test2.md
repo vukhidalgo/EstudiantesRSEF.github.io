@@ -401,8 +401,6 @@ permalink: /test2/
 
 ---
 
-{% for event in site.speakers %}
-{% if event.nombre contains "JornadasVerano2021" %}
 
 <div class="section">
   <div class="row">
@@ -446,9 +444,6 @@ permalink: /test2/
         </div>
       </div>
     </div>
-
-{% endif %}
-{% endfor %}
 
 <!-- Modal PONENTES -->
 
