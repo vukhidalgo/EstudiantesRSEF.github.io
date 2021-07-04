@@ -380,7 +380,7 @@ permalink: /test2/
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
         <p style="text-align: justify;">
-  
+
         </p>
       </div>
 
@@ -393,5 +393,103 @@ permalink: /test2/
 </div>
 
 {% endfor %}
+{% endif %}
+{% endfor %}
+
+
+\\ MISMO DISPLAY; DISTINTA CODIFICACIÓN INTERNA
+
+---
+
+{% for event in site.speakers %}
+{% if event.nombre contains "JornadasVerano2021" %}
+
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6 l6">
+      <div class="row center">
+        <h2 style="text-align: center;">Academia & Divulgación</h2>
+        <ul class="collapsible">
+          <li>
+            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
+              <div class="collapsible-body">
+                <ul class="collection">
+                  {% for event in site.speakers %}
+                  {% if event.nombre contains "JornadasVerano2021" %}
+                  {% if event.class contains "academia" %}
+                	<a href="#{{ event.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                    <li class="collection-item avatar">
+                      <img src="{{ event.img }}" alt="" class="circle">
+                      <span class="title">{{ event.ponente }}</span>
+                      <p style="padding: 0px">
+                        {{ event.rol }}
+                      </p>
+                      <hr>
+                      <div style="text-align: left;">
+                      <p style="padding: 0px">
+                        {{ event.descr }}
+                      </p>
+                      <p style="text-align: justify; padding: 0px">
+                        {{ event.horario }}
+                      </p>
+                      </div>
+                    </li>
+                  </a>
+                  {% endif %}
+                  {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+{% endif %}
+{% endfor %}
+
+<!-- Modal PONENTES -->
+
+{% for event in site.speakers %}
+{% if event.nombre contains "JornadasVerano2021" %}
+
+<div id="{{ event.id | remove: "/" }}-modal" class="modal">
+  <div class="modal-content">
+
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+
+      <div class="row">
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
+        <div class="col s12 m6 l4">
+          <div class="row center">
+          <img src="{{ event.img }}" alt="" class="circle" width="80%">
+          </div>
+        </div>
+        <div class="col s12 m6 l6">
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+            <h2 class="justify"><strong>{{ event.ponente }}</strong></h2>
+
+            <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
+          </div>
+        </div>
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
+      </div>
+      <div class="row">
+        <h4 class="justify"><strong>Biografía</strong></h4>
+        <p style="text-align: justify;">
+        fggdgdf
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
 {% endif %}
 {% endfor %}
