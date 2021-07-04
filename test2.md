@@ -230,7 +230,7 @@ permalink: /test2/
                 <ul class="collection">
                   {% for miembro in item.miembros %}
                   {% if miembro.class contains "academia" %}
-                	<a href="#{{ miembro }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                	<a href="#{{ miembro.nombre }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                     <li class="collection-item avatar">
                       <img src="{{ miembro.img }}" alt="" class="circle">
                       <span class="title">{{ miembro.nombre }}</span>
@@ -356,7 +356,7 @@ permalink: /test2/
 {% if item.anno contains "2021" %}
 {% for miembro in item.miembros %}
 
-<div id="{{ miembro }}-modal" class="modal">
+<div id="{{ miembro.nombre }}-modal" class="modal">
   <div class="modal-content">
 
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
