@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: person
 categories: ponentes
 event: "JornadasVerano2021"
 name: "Alicia Sintes"
