@@ -371,7 +371,7 @@ permalink: /test2/
         <div class="col s12 m6 l6">
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
             <h2 class="justify"><strong>{{ miembro.nombre }}</strong></h2>
-            <h3 class="justify"><strong>{{ miembro.shortdescr }}</strong></h3>
+
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
         </div>
@@ -380,7 +380,7 @@ permalink: /test2/
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
         <p style="text-align: justify;">
-        {{ miembro.bio }}
+  
         </p>
       </div>
 
