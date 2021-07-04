@@ -2,7 +2,6 @@
 layout: event
 categories: eventos-internacionales
 name: "Alicia Sintes"
-title: "Alicia Sintes"
 nombre: "JornadasVerano2021"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/IgnacioCirac.jpg"
