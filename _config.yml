@@ -20,9 +20,9 @@ collections:
   events:
     output: true
     permalink: /:categories/:year/:month/:day/:title/
-  people:
+  persons:
     output: true
-    permalink: /:categories/:name/
+    permalink: /:categories/:title/
 
 gems:
  - jekyll-redirect-from
