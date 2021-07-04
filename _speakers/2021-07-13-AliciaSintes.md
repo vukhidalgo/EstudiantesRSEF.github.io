@@ -3,7 +3,7 @@ layout: event
 categories: eventos-internacionales
 startingdate: 2021-07-13
 title: "Alicia Sintes"
-nombre: JornadasVerano2021
+nombre: "JornadasVerano2021"
 ponente: "Prof. Ignacio Cirac"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/IgnacioCirac.jpg"
