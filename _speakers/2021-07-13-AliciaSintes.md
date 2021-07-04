@@ -1,6 +1,7 @@
 ---
 layout: event
 categories: ponentes
+startingdate: 2021-07-13
 nombre: JornadasVerano2021
 ponente: "Prof. Ignacio Cirac"
 class: "academia"
