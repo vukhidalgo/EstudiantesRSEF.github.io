@@ -356,7 +356,7 @@ permalink: /test2/
 {% if item.anno contains "2021" %}
 {% for miembro in item.miembros %}
 
-<div id="{{ miembro.id | remove: "/" }}-modal" class="modal">
+<div id="{{ miembro }}-modal" class="modal">
   <div class="modal-content">
 
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
