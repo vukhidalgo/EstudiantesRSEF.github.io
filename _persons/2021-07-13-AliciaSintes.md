@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: ponentes
-evento: "JornadasVerano2021"
+event: "JornadasVerano2021"
 name: "Alicia Sintes"
 title: "paco"
 class: "academia"

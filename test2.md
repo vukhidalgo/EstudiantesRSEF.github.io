@@ -412,23 +412,23 @@ permalink: /test2/
             <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
               <div class="collapsible-body">
                 <ul class="collection">
-                  {% for event in site.speakers %}
-                  {% if event.nombre contains "JornadasVerano2021" %}
-                  {% if event.class contains "academia" %}
-                	<a href="#{{ event.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                  {% for person in site.persons %}
+                  {% if person.event contains "JornadasVerano2021" %}
+                  {% if person.class contains "academia" %}
+                	<a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                     <li class="collection-item avatar">
-                      <img src="{{ event.img }}" alt="" class="circle">
-                      <span class="title">{{ event.ponente }}</span>
+                      <img src="{{ person.img }}" alt="" class="circle">
+                      <span class="title">{{ person.name }}</span>
                       <p style="padding: 0px">
-                        {{ event.rol }}
+                        {{ person.rol }}
                       </p>
                       <hr>
                       <div style="text-align: left;">
                       <p style="padding: 0px">
-                        {{ event.descr }}
+                        {{ person.descr }}
                       </p>
                       <p style="text-align: justify; padding: 0px">
-                        {{ event.horario }}
+                        {{ person.horario }}
                       </p>
                       </div>
                     </li>
@@ -447,10 +447,10 @@ permalink: /test2/
 
 <!-- Modal PONENTES -->
 
-{% for event in site.speakers %}
-{% if event.nombre contains "JornadasVerano2021" %}
+{% for person in site.persons %}
+{% if person.event contains "JornadasVerano2021" %}
 
-<div id="{{ event.id | remove: "/" }}-modal" class="modal">
+<div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
 
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
@@ -459,12 +459,12 @@ permalink: /test2/
         <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
         <div class="col s12 m6 l4">
           <div class="row center">
-          <img src="{{ event.img }}" alt="" class="circle" width="80%">
+          <img src="{{ person.img }}" alt="" class="circle" width="80%">
           </div>
         </div>
         <div class="col s12 m6 l6">
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h2 class="justify"><strong>{{ event.ponente }}</strong></h2>
+            <h2 class="justify"><strong>{{ person.name }}</strong></h2>
 
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
