@@ -1,6 +1,6 @@
 ---
 layout: event
-categories: ponentes
+categories: eventos-internacionales
 startingdate: 2021-07-13
 title: "Alicia Sintes"
 nombre: JornadasVerano2021
