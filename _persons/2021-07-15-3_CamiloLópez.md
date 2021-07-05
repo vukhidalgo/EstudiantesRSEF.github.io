@@ -2,7 +2,7 @@
 layout: person
 categories: ponentes
 event: "JornadasVerano2021"
-name: "Camilo López"
+name: "Dr. Camilo López"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/CamiloLopez.jpg"
 rol: "Investigador de la interacción luz - materia & Premio GEFES 2020 a la Mejor Tesis Teórica"
