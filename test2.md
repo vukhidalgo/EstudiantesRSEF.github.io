@@ -419,7 +419,6 @@ permalink: /test2/
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
-
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
       <div class="row">
@@ -438,6 +437,9 @@ permalink: /test2/
         </div>
         <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
       </div>
+
+      <!-- Biografía -->
+
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
         {% if person.bio1 %}<p style="text-align: justify;">
@@ -454,13 +456,40 @@ permalink: /test2/
         </p>{% endif %}
       </div>
 
+      <!-- Recomendaciones -->
+
       <div class="row">
         <h4 class="justify"><strong>Recomendaciones</strong></h4>
-        {{ otherinfo1 }}
+          {% if person.book1title %}
+          <div class="row">
+            <div class="col s12 m6 l6">
+              <div class="row center">
+    		        <a href="{{ person.book1link }}" target="_blank"><img width="70%" src="{{ person.book1img }}"></a>
+                <p style="text-align: center;">
+                  {{ person.book1title }}
+                </p>
+              </div>
+            </div>
+            {% if person.book2title %}
+            <div class="col s12 m6 l6">
+              <div class="row center">
+                <a href="{{ person.book2link }}" target="_blank"><img width="70%" src="{{ person.book2img }}"></a>
+                <p style="text-align: center;">
+                  {{ person.book2title }}
+                </p>
+              </div>
+            </div>
+            {% endif %}
+          </div>
+          {% endif %}
+          {% if person.videotitle %}
+          <div class="row">
+            <center><iframe width="700" height="394" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+          </div>
+          {% endif %}
       </div>
 
     </div>
-
   </div>
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
