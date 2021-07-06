@@ -485,7 +485,7 @@ permalink: /test2/
       </div>
       {% if person.videotitle %}
       <div class="row">
-        <center><iframe width="700" height="394" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+        <center><iframe style="width: 100%; height: 50%;" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
       </div>
       {% endif %}
 
