@@ -464,7 +464,7 @@ permalink: /test2/
           <div class="row">
             <div class="col s12 m6 l6">
               <div class="row center">
-    		        <img style="width:40%;" src="{{ person.book1img }}">
+    		        <img class="responsive-img" style="width:50%" src="{{ person.book1img }}">
                 <p style="text-align: center;">
                   <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
                 </p>
@@ -472,8 +472,8 @@ permalink: /test2/
             </div>
             {% if person.book2title %}
             <div class="col s12 m6 l6">
-              <div class="row center" width="70%">
-                <a href="{{ person.book2link }}" target="_blank"><img width="40%" src="{{ person.book2img }}"></a>
+              <div class="row center">
+                <a href="{{ person.book2link }}" target="_blank"><img style="width:50%" src="{{ person.book2img }}"></a>
                 <p style="text-align: center;">
                   {{ person.book2title }}
                 </p>
