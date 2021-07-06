@@ -399,6 +399,96 @@ permalink: /test2/
 
 \\ MISMO DISPLAY; DISTINTA CODIFICACIÓN INTERNA
 
+---
+
+
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6 l6">
+      <div class="row center">
+        <h2 style="text-align: center;">Academia & Divulgación</h2>
+        <ul class="collapsible">
+          <li>
+            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
+              <div class="collapsible-body">
+                <ul class="collection">
+                  {% for person in site.persons %}
+                  {% if person.evento contains "JornadasVerano2021" %}
+                  {% if person.class contains "academia" %}
+                	<a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                    <li class="collection-item avatar">
+                      <img src="{{ person.img }}" alt="" class="circle">
+                      <span class="title">{{ person.nombre }}</span>
+                      <p style="padding: 0px">
+                        {{ person.rol }}
+                      </p>
+                      <hr>
+                      <div style="text-align: left;">
+                      <p style="padding: 0px">
+                        {{ person.descr }}
+                      </p>
+                      <p style="text-align: justify; padding: 0px">
+                        {{ person.horario }}
+                      </p>
+                      </div>
+                    </li>
+                  </a>
+                  {% endif %}
+                  {% endif %}
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!-- Modal PONENTES -->
+
+{% for person in site.persons %}
+{% if person.event contains "JornadasVerano2021" %}
+
+<div id="{{ person.id | remove: "/" }}-modal" class="modal">
+  <div class="modal-content">
+
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+
+      <div class="row">
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
+        <div class="col s12 m6 l4">
+          <div class="row center">
+          <img src="{{ person.img }}" alt="" class="circle" width="80%">
+          </div>
+        </div>
+        <div class="col s12 m6 l6">
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+            <h2 class="justify"><strong>{{ person.name }}</strong></h2>
+
+            <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
+          </div>
+        </div>
+        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
+      </div>
+      <div class="row">
+        <h4 class="justify"><strong>Biografía</strong></h4>
+        <p style="text-align: justify;">
+        fggdgdf
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
+{% endif %}
+{% endfor %}
+
 \\ PONENTES DEFINITIVO
 
 {% for person in site.persons %}
@@ -548,50 +638,6 @@ permalink: /test2/
         </ul>
       </div>
     </div>
-  </div>
-</div>
-
-{% endif %}
-{% endfor %}
-
-<!-- Modal PONENTES -->
-
-{% for person in site.persons %}
-{% if person.event contains "JornadasVerano2021" %}
-
-<div id="{{ person.id | remove: "/" }}-modal" class="modal">
-  <div class="modal-content">
-
-    <div class="section" style="padding-left: 30px; padding-right: 30px;">
-
-      <div class="row">
-        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
-        <div class="col s12 m6 l4">
-          <div class="row center">
-          <img src="{{ person.img }}" alt="" class="circle" width="80%">
-          </div>
-        </div>
-        <div class="col s12 m6 l6">
-          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h2 class="justify"><strong>{{ person.name }}</strong></h2>
-
-            <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
-          </div>
-        </div>
-        <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
-      </div>
-      <div class="row">
-        <h4 class="justify"><strong>Biografía</strong></h4>
-        <p style="text-align: justify;">
-        fggdgdf
-        </p>
-      </div>
-
-    </div>
-
-  </div>
-  <div class="modal-footer">
-    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
 </div>
 
