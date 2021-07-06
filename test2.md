@@ -464,7 +464,7 @@ permalink: /test2/
           <div class="row">
             <div class="col s12 m6 l6">
               <div class="row center">
-    		        <img width="40%" src="{{ person.book1img }}">
+    		        <img style="width:40%;" src="{{ person.book1img }}">
                 <p style="text-align: center;">
                   <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
                 </p>
