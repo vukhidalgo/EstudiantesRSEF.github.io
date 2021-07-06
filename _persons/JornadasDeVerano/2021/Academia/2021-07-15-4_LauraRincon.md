@@ -1,8 +1,8 @@
 ---
 layout: person
 categories: ponentes
-event: "JornadasVerano2021"
-name: "Dra. Laura Rincón"
+evento: "JornadasVerano2021"
+nombre: "Dra. Laura Rincón"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/LauraRincon.jpg"
 rol: "Experta en conductividad en materia condensada & Premio GEFES 2020 a la Mejor Tesis Experimental"

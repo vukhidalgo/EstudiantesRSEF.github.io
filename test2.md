@@ -413,12 +413,12 @@ permalink: /test2/
               <div class="collapsible-body">
                 <ul class="collection">
                   {% for person in site.persons %}
-                  {% if person.event contains "JornadasVerano2021" %}
+                  {% if person.evento contains "JornadasVerano2021" %}
                   {% if person.class contains "academia" %}
                 	<a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                     <li class="collection-item avatar">
                       <img src="{{ person.img }}" alt="" class="circle">
-                      <span class="title">{{ person.name }}</span>
+                      <span class="title">{{ person.nombre }}</span>
                       <p style="padding: 0px">
                         {{ person.rol }}
                       </p>

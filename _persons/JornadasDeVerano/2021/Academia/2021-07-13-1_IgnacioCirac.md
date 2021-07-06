@@ -1,8 +1,8 @@
 ---
 layout: person
 categories: ponentes
-event: "JornadasVerano2021"
-name: "Prof. Ignacio Cirac"
+evento: "JornadasVerano2021"
+nombre: "Prof. Ignacio Cirac"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/IgnacioCirac.jpg"
 rol: "Director de la División Teórica del Instituto Max-Planck de Óptica Cuántica, Premio Wolf y Medalla de Oro de la RSEF"
