@@ -460,34 +460,32 @@ permalink: /test2/
 
       <div class="row">
         <h4 class="justify"><strong>Recomendaciones</strong></h4>
-          {% if person.book1title %}
-          <div class="row">
-            <div class="col s12 m6 l6">
-              <div class="row center">
-    		        <a href="{{ person.book1link }}" target="_blank"><img width="40%" src="{{ person.book1img }}"></a>
-                <p style="text-align: center;">
-                  {{ person.book1title }}
-                </p>
-              </div>
-            </div>
-            {% if person.book2title %}
-            <div class="col s12 m6 l6">
-              <div class="row center" width="70%">
-                <a href="{{ person.book2link }}" target="_blank"><img width="40%" src="{{ person.book2img }}"></a>
-                <p style="text-align: center;">
-                  {{ person.book2title }}
-                </p>
-              </div>
-            </div>
-            {% endif %}
+        {% if person.book1title %}
+        <div class="col s12 m6 l6">
+          <div class="row center" style="width:50%">
+		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
+            <p style="text-align: center">
+              <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
+            </p>
           </div>
-          {% endif %}
-          {% if person.videotitle %}
-          <div class="row">
-            <center><iframe width="700" height="394" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+        </div>
+        {% endif %}
+        {% if person.book2title %}
+        <div class="col s12 m6 l6">
+          <div class="row center">
+            <a href="{{ person.book2link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book2img }}"></a>
+            <p style="text-align: center">
+              <a href="{{ person.book2link }}" target="_blank">{{ person.book2title }}</a>
+            </p>
           </div>
-          {% endif %}
+        </div>
+        {% endif %}
       </div>
+      {% if person.videotitle %}
+      <div class="row">
+        <center><iframe style="width: 100%; height: 50%;" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+      </div>
+      {% endif %}
 
     </div>
   </div>
