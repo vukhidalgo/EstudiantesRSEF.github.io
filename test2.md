@@ -456,7 +456,35 @@ permalink: /test2/
 
       <div class="row">
         <h4 class="justify"><strong>Recomendaciones</strong></h4>
-        {{ otherinfo1 }}
+          {% if book1title %}
+          <div class="row">
+            {% if book1title %}
+            <div class="col s12 m6 l6">
+              <div class="row center">
+    		        <img class="materialboxed" width="70%" src="{{ book1link }}">
+                <p style="text-align: center;">
+                  {{ book1title }}
+                </p>
+              </div>
+            </div>
+            {% endif %}
+            {% if book2title %}
+            <div class="col s12 m6 l6">
+              <div class="row center">
+                <img class="materialboxed" width="70%" src="{{ book2link }}">
+                <p style="text-align: center;">
+                  {{ book2title }}
+                </p>
+              </div>
+            </div>
+            {% endif %}
+          </div>
+          {% endif %}
+          {% if videotitle %}
+          <div class="row">
+            <center><iframe width="700" height="394" src="{{ video }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+          </div>
+          {% endif %}
       </div>
 
     </div>
