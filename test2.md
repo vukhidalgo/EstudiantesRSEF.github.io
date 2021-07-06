@@ -456,33 +456,31 @@ permalink: /test2/
 
       <div class="row">
         <h4 class="justify"><strong>Recomendaciones</strong></h4>
-          {% if book1title %}
+          {% if person.book1title %}
           <div class="row">
-            {% if book1title %}
             <div class="col s12 m6 l6">
               <div class="row center">
-    		        <img class="materialboxed" width="70%" src="{{ book1link }}">
+    		        <img class="materialboxed" width="70%" src="{{ person.book1link }}">
                 <p style="text-align: center;">
-                  {{ book1title }}
+                  {{ person.book1title }}
                 </p>
               </div>
             </div>
-            {% endif %}
-            {% if book2title %}
+            {% if person.book2title %}
             <div class="col s12 m6 l6">
               <div class="row center">
-                <img class="materialboxed" width="70%" src="{{ book2link }}">
+                <img class="materialboxed" width="70%" src="{{ person.book2link }}">
                 <p style="text-align: center;">
-                  {{ book2title }}
+                  {{ person.book2title }}
                 </p>
               </div>
             </div>
             {% endif %}
           </div>
           {% endif %}
-          {% if videotitle %}
+          {% if person.videotitle %}
           <div class="row">
-            <center><iframe width="700" height="394" src="{{ video }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+            <center><iframe width="700" height="394" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
           </div>
           {% endif %}
       </div>
