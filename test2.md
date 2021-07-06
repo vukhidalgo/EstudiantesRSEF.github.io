@@ -472,7 +472,7 @@ permalink: /test2/
             </div>
             {% if person.book2title %}
             <div class="col s12 m6 l6">
-              <div class="row center">
+              <div class="row center" width="70%">
                 <a href="{{ person.book2link }}" target="_blank"><img width="40%" src="{{ person.book2img }}"></a>
                 <p style="text-align: center;">
                   {{ person.book2title }}
