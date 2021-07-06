@@ -10,4 +10,5 @@ descr: "Youtube o papel: todos los ángulos de la divulgación"
 horario: "Martes 13 de 17.00h a 18.40h"
 linkedin: ""
 destacado: "YES"
+bio: ""
 ---
