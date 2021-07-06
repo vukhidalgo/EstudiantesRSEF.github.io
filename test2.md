@@ -440,9 +440,7 @@ permalink: /test2/
       </div>
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
-        <p style="text-align: justify;">
         {{ person.bio }}
-        </p>
       </div>
 
     </div>
