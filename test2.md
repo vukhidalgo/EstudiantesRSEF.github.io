@@ -419,7 +419,6 @@ permalink: /test2/
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
-
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
       <div class="row">
@@ -438,6 +437,9 @@ permalink: /test2/
         </div>
         <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
       </div>
+
+      <!-- Biografía -->
+
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
         {% if person.bio1 %}<p style="text-align: justify;">
@@ -453,6 +455,8 @@ permalink: /test2/
         {{ person.bio4 }}
         </p>{% endif %}
       </div>
+
+      <!-- Recomendaciones -->
 
       <div class="row">
         <h4 class="justify"><strong>Recomendaciones</strong></h4>
@@ -486,7 +490,6 @@ permalink: /test2/
       </div>
 
     </div>
-
   </div>
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
