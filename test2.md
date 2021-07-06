@@ -439,7 +439,6 @@ permalink: /test2/
                   {% endif %}
                   {% endfor %}
                 </ul>
-              </div>
             </div>
           </li>
           <li>
@@ -472,7 +471,6 @@ permalink: /test2/
                   {% endfor %}
                 </ul>
               </div>
-            </div>
           </li>
         </ul>
       </div>
@@ -510,7 +508,6 @@ permalink: /test2/
                   {% endif %}
                   {% endfor %}
                 </ul>
-              </div>
             </div>
           </li>
           <li>
@@ -542,7 +539,6 @@ permalink: /test2/
                   {% endif %}
                   {% endfor %}
                 </ul>
-              </div>
             </div>
           </li>
         </ul>
