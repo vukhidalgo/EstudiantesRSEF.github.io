@@ -469,6 +469,7 @@ permalink: /test2/
             </p>
           </div>
         </div>
+        {% endif %}
         {% if person.book2title %}
         <div class="col s12 m6 l6">
           <div class="row center">
