@@ -228,26 +228,28 @@ permalink: /test2/
             <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
               <div class="collapsible-body">
                 <ul class="collection">
-                  {% for miembro in item.miembros %}
-                  {% if miembro.class contains "academia" %}
-                	<a href="#{{ miembro.nombre }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                  {% for person in site.persons %}
+                  {% if person.evento contains "JornadasVerano2021" %}
+                  {% if person.class contains "academia" %}
+                  <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                     <li class="collection-item avatar">
-                      <img src="{{ miembro.img }}" alt="" class="circle">
-                      <span class="title">{{ miembro.nombre }}</span>
+                      <img src="{{ person.img }}" alt="" class="circle">
+                      <span class="title">{{ person.nombre }}</span>
                       <p style="padding: 0px">
-                        {{ miembro.rol }}
+                        {{ person.rol }}
                       </p>
                       <hr>
                       <div style="text-align: left;">
                       <p style="padding: 0px">
-                        {{ miembro.descr }}
+                        {{ person.descr }}
                       </p>
                       <p style="text-align: justify; padding: 0px">
-                        {{ miembro.horario }}
+                        {{ person.horario }}
                       </p>
                       </div>
                     </li>
                   </a>
+                  {% endif %}
                   {% endif %}
                   {% endfor %}
                 </ul>
@@ -257,24 +259,28 @@ permalink: /test2/
               <div class="collapsible-header"><i class="material-icons">cast_for_education</i>Divulgación</div>
                 <div class="collapsible-body">
                   <ul class="collection">
-                    {% for miembro in item.miembros %}
-                    {% if miembro.class contains "divulgacion" %}
-                    <li class="collection-item avatar">
-                      <img src="{{ miembro.img }}" alt="" class="circle">
-                      <span class="title">{{ miembro.nombre }}</span>
-                      <p style="padding: 0px">
-                        {{ miembro.rol }}
-                      </p>
-                      <hr>
-                      <div style="text-align: left;">
-                      <p style="padding: 0px">
-                        {{ miembro.descr }}
-                      </p>
-                      <p style="text-align: justify; padding: 0px">
-                        {{ miembro.horario }}
-                      </p>
-                      </div>
-                    </li>
+                    {% for person in site.persons %}
+                    {% if person.evento contains "JornadasVerano2021" %}
+                    {% if person.class contains "divulgacion" %}
+                    <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                      <li class="collection-item avatar">
+                        <img src="{{ person.img }}" alt="" class="circle">
+                        <span class="title">{{ person.nombre }}</span>
+                        <p style="padding: 0px">
+                          {{ person.rol }}
+                        </p>
+                        <hr>
+                        <div style="text-align: left;">
+                        <p style="padding: 0px">
+                          {{ person.descr }}
+                        </p>
+                        <p style="text-align: justify; padding: 0px">
+                          {{ person.horario }}
+                        </p>
+                        </div>
+                      </li>
+                    </a>
+                    {% endif %}
                     {% endif %}
                     {% endfor %}
                   </ul>
@@ -291,24 +297,28 @@ permalink: /test2/
                 <div class="collapsible-header"><i class="material-icons">work</i>Empresa</div>
                   <div class="collapsible-body">
                     <ul class="collection">
-                      {% for miembro in item.miembros %}
-                      {% if miembro.class contains "empresa" %}
-                      <li class="collection-item avatar">
-                        <img src="{{ miembro.img }}" alt="" class="circle">
-                        <span class="title">{{ miembro.nombre }}</span>
-                        <p style="padding: 0px">
-                          {{ miembro.rol }}
-                        </p>
-                        <hr>
-                        <div style="text-align: justify;">
-                        <p style="padding: 0px">
-                          {{ miembro.descr }}
-                        </p>
-                        <p style="text-align: justify; padding: 0px">
-                          {{ miembro.horario }}
-                        </p>
-                        </div>
-                      </li>
+                      {% for person in site.persons %}
+                      {% if person.evento contains "JornadasVerano2021" %}
+                      {% if person.class contains "empresa" %}
+                      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                        <li class="collection-item avatar">
+                          <img src="{{ person.img }}" alt="" class="circle">
+                          <span class="title">{{ person.nombre }}</span>
+                          <p style="padding: 0px">
+                            {{ person.rol }}
+                          </p>
+                          <hr>
+                          <div style="text-align: left;">
+                          <p style="padding: 0px">
+                            {{ person.descr }}
+                          </p>
+                          <p style="text-align: justify; padding: 0px">
+                            {{ person.horario }}
+                          </p>
+                          </div>
+                        </li>
+                      </a>
+                      {% endif %}
                       {% endif %}
                       {% endfor %}
                     </ul>
@@ -318,24 +328,28 @@ permalink: /test2/
                   <div class="collapsible-header"><i class="material-icons">model_training</i>Spin-offs (Academia + Empresa)</div>
                     <div class="collapsible-body">
                       <ul class="collection">
-                        {% for miembro in item.miembros %}
-                        {% if miembro.class contains "mixto" %}
-                        <li class="collection-item avatar">
-                          <img src="{{ miembro.img }}" alt="" class="circle">
-                          <span class="title">{{ miembro.nombre }}</span>
-                          <p style="padding: 0px">
-                            {{ miembro.rol }}
-                          </p>
-                          <hr>
-                          <div style="text-align: justify;">
-                          <p style="padding: 0px">
-                            {{ miembro.descr }}
-                          </p>
-                          <p style="text-align: justify; padding: 0px">
-                            {{ miembro.horario }}
-                          </p>
-                          </div>
-                        </li>
+                        {% for person in site.persons %}
+                        {% if person.evento contains "JornadasVerano2021" %}
+                        {% if person.class contains "mixto" %}
+                        <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                          <li class="collection-item avatar">
+                            <img src="{{ person.img }}" alt="" class="circle">
+                            <span class="title">{{ person.nombre }}</span>
+                            <p style="padding: 0px">
+                              {{ person.rol }}
+                            </p>
+                            <hr>
+                            <div style="text-align: left;">
+                            <p style="padding: 0px">
+                              {{ person.descr }}
+                            </p>
+                            <p style="text-align: justify; padding: 0px">
+                              {{ person.horario }}
+                            </p>
+                            </div>
+                          </li>
+                        </a>
+                        {% endif %}
                         {% endif %}
                         {% endfor %}
                       </ul>
@@ -417,7 +431,7 @@ permalink: /test2/
         </div>
         <div class="col s12 m6 l6">
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h2 class="justify"><strong>{{ person.name }}</strong></h2>
+            <h2 class="justify"><strong>{{ person.nombre }}</strong></h2>
 
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
@@ -426,9 +440,23 @@ permalink: /test2/
       </div>
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
-        <p style="text-align: justify;">
-        fggdgdf
-        </p>
+        {% if person.bio1 %}<p style="text-align: justify;">
+        {{ person.bio1 }}
+        </p>{% endif %}
+        {% if person.bio2 %}<p style="text-align: justify;">
+        {{ person.bio2 }}
+        </p>{% endif %}
+        {% if person.bio3 %}<p style="text-align: justify;">
+        {{ person.bio3 }}
+        </p>{% endif %}
+        {% if person.bio4 %}<p style="text-align: justify;">
+        {{ person.bio4 }}
+        </p>{% endif %}
+      </div>
+
+      <div class="row">
+        <h4 class="justify"><strong>Recomendaciones</strong></h4>
+        {{ otherinfo1 }}
       </div>
 
     </div>
