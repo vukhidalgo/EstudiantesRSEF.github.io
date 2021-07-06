@@ -26,5 +26,5 @@ book2title: "Creighton, Jolien D.E. / Anderson, Warren G. (2011), 'Gravitational
 book2img: "/img/eventos/2021-Jornadas/ponentes/recom/libro2Sintes.jpg"
 book2link: "https://www.wiley.com/en-us/Gravitational+Wave+Physics+and+Astronomy%3A+An+Introduction+to+Theory%2C+Experiment+and+Data+Analysis-p-9783527408863"
 videotitle: "La Resistencia - Entrevista a Alicia Sintes"
-videolink: "https://www.youtube.com/watch?v=z-9hQvVlSTw"
+videolink: "https://www.youtube.com/embed/z-9hQvVlSTw"
 ---
