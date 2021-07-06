@@ -440,7 +440,18 @@ permalink: /test2/
       </div>
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
-        {{ person.bio }}
+        {% if person.bio1 %}<p style="text-align: justify;">
+        {{ person.bio1 }}
+        </p>{% endif %}
+        {% if person.bio2 %}<p style="text-align: justify;">
+        {{ person.bio2 }}
+        </p>{% endif %}
+        {% if person.bio3 %}<p style="text-align: justify;">
+        {{ person.bio3 }}
+        </p>{% endif %}
+        {% if person.bio4 %}<p style="text-align: justify;">
+        {{ person.bio4 }}
+        </p>{% endif %}
       </div>
 
     </div>
