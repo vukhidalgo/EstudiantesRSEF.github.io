@@ -454,6 +454,11 @@ permalink: /test2/
         </p>{% endif %}
       </div>
 
+      <div class="row">
+        <h4 class="justify"><strong>Recomendaciones</strong></h4>
+        {{ otherinfo1 }}
+      </div>
+
     </div>
 
   </div>
