@@ -462,8 +462,8 @@ permalink: /test2/
         <h4 class="justify"><strong>Recomendaciones</strong></h4>
         {% if person.book1title %}
         <div class="col s12 m6 l6">
-          <div class="row center" style="width:50%">
-		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" src="{{ person.book1img }}"></a>
+          <div class="row center">
+		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
             <p style="text-align: center">
               <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
             </p>
