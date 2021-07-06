@@ -402,7 +402,7 @@ permalink: /test2/
 \\ PONENTES DEFINITIVO
 
 {% for person in site.persons %}
-{% if person.evento contains "JornadasVerano2021" %}
+{% if person.event contains "JornadasVerano2021" %}
 
 <div class="section">
   <div class="row">
