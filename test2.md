@@ -215,6 +215,36 @@ permalink: /test2/
 
 ---
 
+<div class="section">
+  <div class="col s12 m6">
+    <div class="row center">
+    {% for person in site.persons %}
+    {% if person.evento contains "JornadasVerano2021" %}
+    {% if person.destacado contains "YES" %}
+      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+        <ul class="collection">
+          <li class="collection-item avatar">
+            <img src="{{ person.img }}" alt="" class="circle">
+            {% if person.nombredes %}
+            <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
+            {% else %}
+            <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
+            {% endif %}
+            <p style="padding-top: 10px">
+              {{ person.roldes }}
+            </p>
+          </li>
+        </ul>
+      </a>
+    {% endif %}
+    {% endif %}
+    {% endfor %}    
+    </div>
+  </div>
+</div>
+
+---
+
 {% for item in site.data.jornadas %}
 {% if item.anno contains "2021" %}
 
@@ -429,7 +459,7 @@ permalink: /test2/
           </div>
         </div>
         <div class="col s12 m6 l6">
-          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+          <div class="row center" >
             <h2 class="justify"><strong>{{ person.nombre }}</strong></h2>
 
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
@@ -459,10 +489,10 @@ permalink: /test2/
       <!-- Recomendaciones -->
 
       <div class="row">
-        <h4 class="justify"><strong>Recomendaciones</strong></h4>
+        <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
         {% if person.book1title %}
         <div class="col s12 m6 l6">
-          <div class="row center" style="width:50%">
+          <div class="row center">
 		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
             <p style="text-align: center">
               <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
@@ -483,7 +513,7 @@ permalink: /test2/
       </div>
       {% if person.videotitle %}
       <div class="row">
-        <center><iframe style="width: 100%; height: 50%;" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+        <center><iframe width="642" height="361" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
       </div>
       {% endif %}
 
