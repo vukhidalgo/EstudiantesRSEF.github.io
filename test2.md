@@ -371,53 +371,6 @@ permalink: /test2/
 {% endfor %}
 
 
-\\ MISMO DISPLAY; DISTINTA CODIFICACIÓN INTERNA
-
----
-
-<div class="section">
-  <div class="row">
-    <div class="col s12 m6 l6">
-      <div class="row center">
-        <h2 style="text-align: center;">Academia & Divulgación</h2>
-        <ul class="collapsible">
-          <li>
-            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
-              <div class="collapsible-body">
-                <ul class="collection">
-                  {% for person in site.persons %}
-                  {% if person.evento contains "JornadasVerano2021" %}
-                  {% if person.class contains "academia" %}
-                	<a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-                    <li class="collection-item avatar">
-                      <img src="{{ person.img }}" alt="" class="circle">
-                      <span class="title">{{ person.nombre }}</span>
-                      <p style="padding: 0px">
-                        {{ person.rol }}
-                      </p>
-                      <hr>
-                      <div style="text-align: left;">
-                      <p style="padding: 0px">
-                        {{ person.descr }}
-                      </p>
-                      <p style="text-align: justify; padding: 0px">
-                        {{ person.horario }}
-                      </p>
-                      </div>
-                    </li>
-                  </a>
-                  {% endif %}
-                  {% endif %}
-                  {% endfor %}
-                </ul>
-              </div>
-            </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
 <!-- Modal PONENTES -->
 
 {% for person in site.persons %}
