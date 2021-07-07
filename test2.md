@@ -404,7 +404,6 @@ permalink: /test2/
         <p style="text-align: justify;">
         {{ person.bio1 }}
         </p>
-        </p>
         {% endif %}
         {% if person.bio2 %}<p style="text-align: justify;">
         {{ person.bio2 }}
