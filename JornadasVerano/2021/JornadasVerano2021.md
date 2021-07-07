@@ -330,7 +330,6 @@ permalink: /JornadasVerano2021/
          <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
            <div class="row">
-             <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
              <div class="col s12 m6 l6">
                <div class="row center">
                <img src="{{ person.img }}" alt="" class="circle" width="80%">
@@ -342,7 +341,6 @@ permalink: /JornadasVerano2021/
                  <h5 class="justify"><strong>Biografía y Libros Recomendados</strong></h5>
                </div>
              </div>
-             <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
            </div>
 
            <!-- Biografía -->
@@ -368,7 +366,7 @@ permalink: /JornadasVerano2021/
            <!-- Recomendaciones -->
 
              <div class="row">
-               <h2 class="justify" style="padding-bottom: 10px;">Recomendaciones</h2>
+               <h2 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h2>
                {%- if person.book1title -%}
                {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}
                  <div class="row center">
