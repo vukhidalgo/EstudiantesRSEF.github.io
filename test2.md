@@ -183,35 +183,33 @@ permalink: /test2/
 \\ collection NO
 \\ collection-item avatar NO, almost but no
 
-{% for item in site.data.jornadas %}
-{% if item.anno contains "2021" %}
-
 <div class="section">
   <div class="col s12 m6">
     <div class="row center">
-    {% for miembro in item.miembros %}
-    {% if miembro.destacado contains "YES" %}
-      <ul class="collection waves-effect waves-light" style="width: 33%">
-        <li class="collection-item avatar2">
-        <img src="{{ miembro.img }}" alt="" class="circle">
-        {% if miembro.nombredes %}
-        <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
-        {% else %}
-        <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
-        {% endif %}
-        <p style="padding-top: 10px">
-          {{ miembro.roldes }}
-        </p>
-        </li>
-      </ul>
+    {% for person in site.persons %}
+    {% if person.evento contains "JornadasVerano2021" %}
+    {% if person.destacado contains "YES" %}
+      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+        <ul class="collection">
+          <li class="collection-item avatar">
+            <img src="{{ person.img }}" alt="" class="circle">
+            {% if person.nombredes %}
+            <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
+            {% else %}
+            <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
+            {% endif %}
+            <p style="padding-top: 10px">
+              {{ person.roldes }}
+            </p>
+          </li>
+        </ul>
+      </a>
     {% endif %}
-    {% endfor %}
+    {% endif %}
+    {% endfor %}    
     </div>
   </div>
 </div>
-
-{% endif %}
-{% endfor %}
 
 ---
 
