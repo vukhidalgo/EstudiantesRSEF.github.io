@@ -221,17 +221,17 @@ permalink: /test2/
     {% for person in site.persons %}
     {% if person.evento contains "JornadasVerano2021" %}
     {% if person.destacado contains "YES" %}
-      <ul class="collection">
+      <ul class="collection waves-effect waves-light" style="width: 33%">
         <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-          <li class="collection-item avatar">
-            <img src="{{ person.img }}" alt="" class="circle">
-            {% if person.nombredes %}
-            <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
+          <li class="collection-item avatar2">
+            <img src="{{ miembro.img }}" alt="" class="circle">
+            {% if miembro.nombredes %}
+            <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
             {% else %}
-            <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
+            <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
             {% endif %}
             <p style="padding-top: 10px">
-              {{ person.roldes }}
+              {{ miembro.roldes }}
             </p>
           </li>
         </a>
