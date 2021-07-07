@@ -224,14 +224,14 @@ permalink: /test2/
       <ul class="collection waves-effect waves-light" style="width: 33%">
         <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar2">
-            <img src="{{ miembro.img }}" alt="" class="circle">
-            {% if miembro.nombredes %}
-            <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
+            <img src="{{ person.img }}" alt="" class="circle">
+            {% if person.nombredes %}
+            <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
             {% else %}
-            <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
+            <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
             {% endif %}
             <p style="padding-top: 10px">
-              {{ miembro.roldes }}
+              {{ person.roldes }}
             </p>
           </li>
         </a>
