@@ -200,9 +200,9 @@ permalink: /test2/
             {% else %}
             <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
             {% endif %}
-            {% if miembro.roldes %}
+            {% if person.roldes %}
             <p style="padding-top: 10px">
-              {{ miembro.roldes }}
+              {{ person.roldes }}
             </p>
             {% else %}
             <p style="padding-top: 10px">
