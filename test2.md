@@ -491,7 +491,7 @@ permalink: /test2/
       <div class="row">
         <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
         {% if person.book1title %}
-        <div class="col s12 m6 l6">
+        {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}
           <div class="row center">
 		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
             <p style="text-align: center">
