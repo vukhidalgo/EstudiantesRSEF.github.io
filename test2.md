@@ -429,7 +429,7 @@ permalink: /test2/
           </div>
         </div>
         <div class="col s12 m6 l6">
-          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+          <div class="row center" >
             <h2 class="justify"><strong>{{ person.nombre }}</strong></h2>
 
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
@@ -459,7 +459,7 @@ permalink: /test2/
       <!-- Recomendaciones -->
 
       <div class="row">
-        <h4 class="justify"><strong>Recomendaciones</strong></h4>
+        <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
         {% if person.book1title %}
         <div class="col s12 m6 l6">
           <div class="row center">
@@ -483,7 +483,7 @@ permalink: /test2/
       </div>
       {% if person.videotitle %}
       <div class="row">
-        <center><iframe style="width: 100%; height: 50%;" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+        <center><iframe width="642" height="361" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
       </div>
       {% endif %}
 
