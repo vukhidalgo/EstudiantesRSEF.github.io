@@ -338,7 +338,7 @@ permalink: /JornadasVerano2021/
              <div class="col s12 m6 l6">        
                <div class="row center" style="padding-left: 30px; padding-top: 70px;">
                  <h3 class="justify"><strong>{{ person.nombre }}</strong></h3>
-                 <h1 class="justify"><strong>Biografía y Libros Recomendados</strong></h1>
+                 <h5 class="justify"><strong>Biografía y Libros Recomendados</strong></h5>
                </div>
              </div>
            </div>
