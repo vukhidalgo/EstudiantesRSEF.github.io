@@ -407,13 +407,13 @@ permalink: /test2/
         {% endif %}
         {%- if person.bio2 -%}<p style="text-align: justify;">
         {{ person.bio2 }}
-        </p>{% endif %}
+        </p>{%- endif -%}
         {%- if person.bio3 -%}<p style="text-align: justify;">
         {{ person.bio3 }}
-        </p>{% endif %}
+        </p>{%- endif -%}
         {%- if person.bio4 -%}<p style="text-align: justify;">
         {{ person.bio4 }}
-        </p>{% endif %}
+        </p>{%- endif -%}
       </div>
 
       <!-- Recomendaciones -->
@@ -429,7 +429,7 @@ permalink: /test2/
               </p>
             </div>
           </div>
-          {% endif %}
+          {%- endif -%}
           {%- if person.book2title -%}
           <div class="col s12 m6 l6">
             <div class="row center">
@@ -439,14 +439,14 @@ permalink: /test2/
               </p>
             </div>
           </div>
-          {% endif %}
+          {%- endif -%}
         </div>
 
         {%- if person.videotitle -%}
         <div class="row">
           <center><iframe width="642" height="361" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
         </div>
-        {% endif %}
+        {%- endif -%}
 
     </div>
   </div>
