@@ -422,7 +422,7 @@ permalink: /test2/
 
       <!-- Recomendaciones -->
 
-      {% if person.recomm contains "YES" %}
+      {% if person.recom contains "YES" %}
 
         <div class="row">
           <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
