@@ -221,8 +221,8 @@ permalink: /test2/
     {% for person in site.persons %}
     {% if person.evento contains "JornadasVerano2021" %}
     {% if person.destacado contains "YES" %}
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-        <ul class="collection">
+      <ul class="collection">
+        <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar">
             <img src="{{ person.img }}" alt="" class="circle">
             {% if person.nombredes %}
@@ -234,8 +234,8 @@ permalink: /test2/
               {{ person.roldes }}
             </p>
           </li>
-        </ul>
-      </a>
+        </a>
+      </ul>
     {% endif %}
     {% endif %}
     {% endfor %}    
