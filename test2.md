@@ -458,10 +458,9 @@ permalink: /test2/
           <img src="{{ person.img }}" alt="" class="circle" width="80%">
           </div>
         </div>
-        <div class="col s12 m6 l6">
-          <div class="row center" >
+        <div class="col s12 m6 l6">        
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
             <h2 class="justify"><strong>{{ person.nombre }}</strong></h2>
-
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
         </div>
