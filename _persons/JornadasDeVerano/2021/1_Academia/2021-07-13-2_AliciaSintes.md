@@ -19,12 +19,16 @@ bio3: "Sintes forma parte del consejo de LIGO, del comité ejecutivo de GEO, del
 
 bio4: "Sintes fue nombrada Hija Predilecta de Sant Lluís en 2018 y ha recibido numerosos premios, incluido el Ramon Llull del Gobierno de las Islas Baleares, el Bartomeu Oliver de la Obra Cultural Balear, Sincronizados de la Agencia SINC y miembro de la Selección Española de Ciencia de QUO,  entre otros. Ha dirigido siete tesis doctorales y ha publicado más de 270 artículos científicos."
 
+recom: "YES"
+
 book1title: "Maggiore M. (2007), 'Gravitational Waves: Volume 1: Theory and Experiments.'. <em>Oxford University Press</em>, ISBN: 9780198570745"
 book1img: "/img/eventos/2021-Jornadas/ponentes/recom/libro1Sintes.jpg"
 book1link: "https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198570745.001.0001/acprof-9780198570745"
+
 book2title: "Creighton, Jolien D.E. / Anderson, Warren G. (2011), 'Gravitational-Wave Physics and Astronomy: An Introduction to Theory, Experiment and Data Analysis'. <em>Wiley-VCH</em>, ISBN: 9783527408863"
 book2img: "/img/eventos/2021-Jornadas/ponentes/recom/libro2Sintes.jpg"
 book2link: "https://www.wiley.com/en-us/Gravitational+Wave+Physics+and+Astronomy%3A+An+Introduction+to+Theory%2C+Experiment+and+Data+Analysis-p-9783527408863"
+
 videotitle: "La Resistencia - Entrevista a Alicia Sintes"
 videolink: "https://www.youtube.com/embed/z-9hQvVlSTw"
 ---

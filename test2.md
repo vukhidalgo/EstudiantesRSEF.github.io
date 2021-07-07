@@ -183,36 +183,6 @@ permalink: /test2/
 \\ collection NO
 \\ collection-item avatar NO, almost but no
 
-{% for item in site.data.jornadas %}
-{% if item.anno contains "2021" %}
-
-<div class="section">
-  <div class="col s12 m6">
-    <div class="row center">
-    {% for miembro in item.miembros %}
-    {% if miembro.destacado contains "YES" %}
-      <ul class="collection waves-effect waves-light" style="width: 33%">
-        <li class="collection-item avatar2">
-        <img src="{{ miembro.img }}" alt="" class="circle">
-        {% if miembro.nombredes %}
-        <span class="title" style="padding-left: 10px">{{ miembro.nombredes }}</span>
-        {% else %}
-        <span class="title" style="padding-left: 10px">{{ miembro.nombre }}</span>
-        {% endif %}
-        <p style="padding-top: 10px">
-          {{ miembro.roldes }}
-        </p>
-        </li>
-      </ul>
-    {% endif %}
-    {% endfor %}
-    </div>
-  </div>
-</div>
-
-{% endif %}
-{% endfor %}
-
 ---
 
 <div class="section">
@@ -221,21 +191,27 @@ permalink: /test2/
     {% for person in site.persons %}
     {% if person.evento contains "JornadasVerano2021" %}
     {% if person.destacado contains "YES" %}
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-        <ul class="collection">
-          <li class="collection-item avatar">
+      <ul class="collection waves-effect waves-light" style="width: 33%">
+        <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+          <li class="collection-item avatar2">
             <img src="{{ person.img }}" alt="" class="circle">
             {% if person.nombredes %}
             <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
             {% else %}
             <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
             {% endif %}
+            {% if person.roldes %}
             <p style="padding-top: 10px">
               {{ person.roldes }}
             </p>
+            {% else %}
+            <p style="padding-top: 10px">
+              {{ person.rol }}
+            </p>
+            {% endif %}
           </li>
-        </ul>
-      </a>
+        </a>
+      </ul>
     {% endif %}
     {% endif %}
     {% endfor %}    
@@ -395,53 +371,6 @@ permalink: /test2/
 {% endfor %}
 
 
-\\ MISMO DISPLAY; DISTINTA CODIFICACIÓN INTERNA
-
----
-
-<div class="section">
-  <div class="row">
-    <div class="col s12 m6 l6">
-      <div class="row center">
-        <h2 style="text-align: center;">Academia & Divulgación</h2>
-        <ul class="collapsible">
-          <li>
-            <div class="collapsible-header"><i class="material-icons">school</i>Academia</div>
-              <div class="collapsible-body">
-                <ul class="collection">
-                  {% for person in site.persons %}
-                  {% if person.evento contains "JornadasVerano2021" %}
-                  {% if person.class contains "academia" %}
-                	<a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-                    <li class="collection-item avatar">
-                      <img src="{{ person.img }}" alt="" class="circle">
-                      <span class="title">{{ person.nombre }}</span>
-                      <p style="padding: 0px">
-                        {{ person.rol }}
-                      </p>
-                      <hr>
-                      <div style="text-align: left;">
-                      <p style="padding: 0px">
-                        {{ person.descr }}
-                      </p>
-                      <p style="text-align: justify; padding: 0px">
-                        {{ person.horario }}
-                      </p>
-                      </div>
-                    </li>
-                  </a>
-                  {% endif %}
-                  {% endif %}
-                  {% endfor %}
-                </ul>
-              </div>
-            </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
 <!-- Modal PONENTES -->
 
 {% for person in site.persons %}
@@ -458,10 +387,9 @@ permalink: /test2/
           <img src="{{ person.img }}" alt="" class="circle" width="80%">
           </div>
         </div>
-        <div class="col s12 m6 l6">
-          <div class="row center" >
+        <div class="col s12 m6 l6">        
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
             <h2 class="justify"><strong>{{ person.nombre }}</strong></h2>
-
             <h4 class="justify"><strong>Biografía y Libros Recomendados</strong></h4>
           </div>
         </div>
@@ -472,49 +400,69 @@ permalink: /test2/
 
       <div class="row">
         <h4 class="justify"><strong>Biografía</strong></h4>
-        {% if person.bio1 %}<p style="text-align: justify;">
-        {{ person.bio1 }}
-        </p>{% endif %}
-        {% if person.bio2 %}<p style="text-align: justify;">
-        {{ person.bio2 }}
-        </p>{% endif %}
-        {% if person.bio3 %}<p style="text-align: justify;">
-        {{ person.bio3 }}
-        </p>{% endif %}
-        {% if person.bio4 %}<p style="text-align: justify;">
-        {{ person.bio4 }}
-        </p>{% endif %}
+        {% if person.bio1 %}
+          <p style="text-align: justify;">
+          {{ person.bio1 }}
+          </p>
+          {% if person.bio2 %}<p style="text-align: justify;">
+          {{ person.bio2 }}
+          </p>{% endif %}
+          {% if person.bio3 %}<p style="text-align: justify;">
+          {{ person.bio3 }}
+          </p>{% endif %}
+          {% if person.bio4 %}<p style="text-align: justify;">
+          {{ person.bio4 }}
+          </p>{% endif %}
+        {% else %}
+          <p style="text-align: justify;">
+          Por actualizar.
+          </p>
+        {% endif %}
       </div>
 
       <!-- Recomendaciones -->
 
-      <div class="row">
-        <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
-        {% if person.book1title %}
-        <div class="col s12 m6 l6">
-          <div class="row center">
-		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
-            <p style="text-align: center">
-              <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
-            </p>
+        <div class="row">
+          <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
+
+      {% if person.recom contains "YES" %}
+
+          {% if person.book1title %}
+          {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}
+            <div class="row center">
+  		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
+              <p style="text-align: center">
+                <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
+              </p>
+            </div>
           </div>
+          {% endif %}
+          {% if person.book2title %}
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <a href="{{ person.book2link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book2img }}"></a>
+              <p style="text-align: center">
+                <a href="{{ person.book2link }}" target="_blank">{{ person.book2title }}</a>
+              </p>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+
+        {% if person.videotitle %}
+        <div class="row">
+          <center><iframe width="642" height="361" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
         </div>
         {% endif %}
-        {% if person.book2title %}
-        <div class="col s12 m6 l6">
-          <div class="row center">
-            <a href="{{ person.book2link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book2img }}"></a>
-            <p style="text-align: center">
-              <a href="{{ person.book2link }}" target="_blank">{{ person.book2title }}</a>
-            </p>
-          </div>
+
+      {% else %}
+
+        <div class="row">
+          <p style="text-align: justify;">
+          Por actualizar / Sin recomendaciones.
+          </p>
         </div>
-        {% endif %}
-      </div>
-      {% if person.videotitle %}
-      <div class="row">
-        <center><iframe width="642" height="361" src="{{ person.videolink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-      </div>
+
       {% endif %}
 
     </div>
