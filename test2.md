@@ -206,7 +206,7 @@ permalink: /test2/
             </p>
             {% else %}
             <p style="padding-top: 10px">
-              {{ miembro.rol }}
+              {{ person.rol }}
             </p>
             {% endif %}
           </li>
