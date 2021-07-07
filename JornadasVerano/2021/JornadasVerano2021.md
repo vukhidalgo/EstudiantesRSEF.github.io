@@ -339,7 +339,7 @@ permalink: /JornadasVerano2021/
              <div class="col s12 m6 l6">        
                <div class="row center" style="padding-left: 30px; padding-top: 70px;">
                  <h3 class="justify"><strong>{{ person.nombre }}</strong></h3>
-                 <h2 class="justify"><strong>Biografía y Libros Recomendados</strong></h2>
+                 <h1 class="justify"><strong>Biografía y Libros Recomendados</strong></h1>
                </div>
              </div>
              <div class="col s12 m6 l1"><p></p></div> <!-- Just because offset is not working -->
