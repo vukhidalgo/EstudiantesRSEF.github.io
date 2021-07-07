@@ -422,10 +422,11 @@ permalink: /test2/
 
       <!-- Recomendaciones -->
 
-      {% if person.recom contains "YES" %}
-
         <div class="row">
           <h4 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h4>
+
+      {% if person.recom contains "YES" %}
+
           {% if person.book1title %}
           {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}
             <div class="row center">
@@ -456,9 +457,12 @@ permalink: /test2/
 
       {% else %}
 
-      <p style="text-align: justify;">
-      Por actualizar / Sin recomendaciones.
-      </p>
+        <div class="row">
+          <p style="text-align: justify;">
+          Por actualizar / Sin recomendaciones.
+          </p>
+        </div>
+
       {% endif %}
 
     </div>
