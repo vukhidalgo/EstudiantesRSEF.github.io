@@ -18,4 +18,17 @@ bio3: "Además de la óptica oftálmica y visual, Carlos también tiene una ampl
 
 bio4: "Ha sido vicepresidente del Comité de Ciencias de la Visión (2008-2012) de la Sociedad Española de Óptica (Sedoptica), vicedirector del Instituto de Óptica (2016-2019) y promotor / cofundador de cuatro empresas spin-off (Imatrics Image Technologies SLNE, Alfa Imaging SA, Plenoptika Inc, 2Eyes Vision SL). Fue investigador visitante en la University of Texas at Austin (2014-2018; con beca Fulbright). Fue ganador autonómico de la I Olimpiada Española de Física (1990), con Beca Universitaria (1990-1996) de la Real Sociedad Española de Física (RSEF), Premio Jóvenes Investigadores en Óptica (2003, Sociedad Española de Óptica y RSEF) y Mejor Patente del Año (dos veces, 2010 y 2017; Gobierno de Madrid, Fundación Madri+d), Mejor plan de negocio basado en Tesis Doctoral (Universidad de Valladolid, 2011) y Mejor Tesis en Imagen Óptica en España (años 2008 a 2010 Sociedad Española de Óptica). En 2019 fue galardonado con el Premio Física, Innovación y Tecnología 2019 (Premios de la Física de la RSEF-Fundación BBVA)."
 
+recom: "YES"
+
+book1title: "Bryson B. (2005), 'Una breve historia de casi todo'. <em>
+RBA LIBROS</em>, ISBN: 9788492966790"
+book1img: "/img/eventos/2021-Jornadas/ponentes/recom/Carloslibro1.jpg"
+book1link: "https://www.google.com/search?q=%E2%80%9CUna+breve+historia+de+casi+todo%22+de+Bill+Bryson&client=firefox-b-d&bih=615&biw=1366&hl=ca&sxsrf=ALeKk012taKRqTSDxTC_cp3zUieycEV4xA%3A1625773049973&ei=-VPnYJTqOuqtgweJ1Y34Bw&oq=%E2%80%9CUna+breve+historia+de+casi+todo%22+de+Bill+Bryson&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgUIABDLATIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeSgQIQRgAUN4RWOMqYMw1aABwAHgAgAGTGogBijySAQswLjIuNi0xLjktMpgBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwjUyoPJnNTxAhXq1uAKHYlqA38Q4dUDCA0&uact=5"
+book2title: ""
+book2img: ""
+book2link: ""
+videotitle: ""
+videolink: ""
+otherinfo1text: ""
+otherinfo1link: "https://www.optimoda.es/entrevista/carlos-dorronsoro-director-general-de-2eyes-vision/"
 ---
