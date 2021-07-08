@@ -16,7 +16,7 @@ bio2: "Tiene una amplia experiencia en el desarrollo y fabricación de microcirc
 
 recom: "YES"
 
-book1title: "Abraham Pais (1982), 'Subtle is the Lord: The Science and the Life of Albert Einstein'. <em>Oxford University Press</em>, ISBN: 9780192806727"
+book1title: "Pais A. (1982), 'Subtle is the Lord: The Science and the Life of Albert Einstein'. <em>Oxford University Press</em>, ISBN: 9780192806727"
 book1img: "/img/eventos/2021-Jornadas/ponentes/recom/Pepalibro1.jpg"
 book1link: "https://www.google.com/search?q=Subtle+is+the+Lord%3A+The+Science+and+the+Life+of+Albert+Einstein+Oxford+University+Press&client=firefox-b-d&bih=615&biw=1366&hl=ca&sxsrf=ALeKk01xLWSaQE6Lf5RWc8Z12UJw6U7nKw%3A1625671505009&ei=UMflYLWDPfeC9u8P14KIgAY&oq=Subtle+is+the+Lord%3A+The+Science+and+the+Life+of+Albert+Einstein+Oxford+University+Press&gs_lcp=Cgdnd3Mtd2l6EAwyBAgjECc6BwgjELACECdKBAhBGAFQi9sRWJegEmDVuxJoBXAAeACAAZgBiAGqB5IBAzEuN5gBAKABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwi1686kotHxAhV3gf0HHVcBAmAQ4dUDCA0"
 book2title: ""
