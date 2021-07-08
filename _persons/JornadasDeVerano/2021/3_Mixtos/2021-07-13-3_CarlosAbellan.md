@@ -17,7 +17,7 @@ book1title: "Prof. David Kaiser (2011), 'How the Hippies Saved Physics'. <em>W. 
 book1img: "/img/eventos/2021-Jornadas/ponentes/recom/libro1Abellan.jpg"
 book1link: "https://wwnorton.com/books/9780393342314"
 
-book2title: "Randy Kosimar (2001), 'The Monk and the Riddle: The Art of Creating a Life While Making a Life'. <em>Harvard Business School Press</em>, ISBN: 978-1578511402."
+book2title: "Randy Komisar (2001), 'The Monk and the Riddle: The Art of Creating a Life While Making a Life'. <em>Harvard Business School Press</em>, ISBN: 978-1578511402."
 book2img: "/img/eventos/2021-Jornadas/ponentes/recom/libro2Abellan.png"
 book2link: "https://store.hbr.org/product/the-monk-and-the-riddle-the-art-of-creating-a-life-while-making-a-living/6447"
 
