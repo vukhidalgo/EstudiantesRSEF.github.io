@@ -332,13 +332,13 @@ permalink: /JornadasVerano2021/
            <div class="row">
              <div class="col s12 m6 l6">
                <div class="row center">
-               <img src="{{ person.img }}" alt="" class="circle" width="80%">
+               <img src="{{ person.img }}" alt="" class="circle" width="70%">
                </div>
              </div>
              <div class="col s12 m6 l6">        
                <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-                 <h3 class="justify"><strong>{{ person.nombre }}</strong></h3>
-                 <h1 class="justify"><strong>Biografía y Libros Recomendados</strong></h1>
+                 <h3 class="justify">{{ person.nombre }}</h3>
+                 <h5 class="justify">Biografía y Contenido Recomendado</h5>
                </div>
              </div>
            </div>
@@ -346,7 +346,7 @@ permalink: /JornadasVerano2021/
            <!-- Biografía -->
 
            <div class="row">
-             <h2 class="justify"><strong>Biografía</strong></h2>
+             <h2 class="justify">Biografía</h2>
              {% if person.bio1 %}
              <p style="text-align: justify;">
              {{ person.bio1 }}
@@ -366,12 +366,12 @@ permalink: /JornadasVerano2021/
            <!-- Recomendaciones -->
 
              <div class="row">
-               <h2 class="justify" style="padding-bottom: 10px;"><strong>Recomendaciones</strong></h2>
+               <h2 class="justify" style="padding-bottom: 10px;">Recomendaciones</h2>
                {%- if person.book1title -%}
                {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}
                  <div class="row center">
        		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
-                   <p style="text-align: center">
+                   <p style="text-align: center; padding-right: 2px; padding-left: 2px;">
                      <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
                    </p>
                  </div>
@@ -381,7 +381,7 @@ permalink: /JornadasVerano2021/
                <div class="col s12 m6 l6">
                  <div class="row center">
                    <a href="{{ person.book2link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book2img }}"></a>
-                   <p style="text-align: center">
+                   <p style="text-align: center; padding-right: 2px; padding-left: 2px;">
                      <a href="{{ person.book2link }}" target="_blank">{{ person.book2title }}</a>
                    </p>
                  </div>
