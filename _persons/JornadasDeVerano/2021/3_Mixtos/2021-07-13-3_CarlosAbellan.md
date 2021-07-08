@@ -12,4 +12,12 @@ linkedin: ""
 destacado: "YES"
 
 bio1: "Carlos Abellán es co-fundador y CEO de Quside. Se doctoró en ICFO, tras un programa de investigación sobre tecnologías fotónicas cuánticas para comunicaciones y computación seguras. Es coinventor de más de 8 familias de patentes y coautor de varios artículos científicos. Abellán ha recibido múltiples premios, incluido el MIT Innovators Under 35 Europe (2018)."
+
+book1title: "Prof. David Kaiser (2011), 'How the Hippies Saved Physics'. <em>W. W. Norton & Company</em>, ISBN: 978-0393342314."
+book1img: "/img/eventos/2021-Jornadas/ponentes/recom/libro1Abellan.jpg"
+book1link: "https://wwnorton.com/books/9780393342314"
+
+book2title: ""
+book2img: ""
+book2link: ""
 ---
