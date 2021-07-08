@@ -20,4 +20,7 @@ book1link: "https://wwnorton.com/books/9780393342314"
 book2title: "Randy Kosimar (2001), 'The Monk and the Riddle: The Art of Creating a Life While Making a Life'. <em>Harvard Business School Press</em>, ISBN: 978-1578511402."
 book2img: "/img/eventos/2021-Jornadas/ponentes/recom/libro1Abellan.png"
 book2link: "https://store.hbr.org/product/the-monk-and-the-riddle-the-art-of-creating-a-life-while-making-a-living/6447"
+
+videotitle: "Quside: How can you be sure your data is secure?"
+videolink: "https://www.youtube.com/watch?v=16iIDT_47cI"
 ---
