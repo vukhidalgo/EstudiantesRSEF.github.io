@@ -22,5 +22,5 @@ book2img: "/img/eventos/2021-Jornadas/ponentes/recom/libro2Abellan.png"
 book2link: "https://store.hbr.org/product/the-monk-and-the-riddle-the-art-of-creating-a-life-while-making-a-living/6447"
 
 videotitle: "Quside: How can you be sure your data is secure?"
-videolink: "https://www.youtube.com/watch?v=16iIDT_47cI"
+videolink: "https://www.youtube.com/embed/16iIDT_47cI"
 ---
