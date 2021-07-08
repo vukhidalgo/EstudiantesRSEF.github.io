@@ -332,7 +332,7 @@ permalink: /JornadasVerano2021/
            <div class="row">
              <div class="col s12 m6 l6">
                <div class="row center">
-               <img src="{{ person.img }}" alt="" class="circle" width="50%">
+               <img src="{{ person.img }}" alt="" class="circle" width="70%">
                </div>
              </div>
              <div class="col s12 m6 l6">        
