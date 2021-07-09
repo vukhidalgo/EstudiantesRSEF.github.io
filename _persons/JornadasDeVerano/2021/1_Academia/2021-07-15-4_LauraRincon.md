@@ -12,7 +12,7 @@ linkedin: ""
 
 bio1: "Estudié el grado de Física en la Universidad Autónoma de Madrid, disfrutando en tercero de una beca Erasmus de un año en la Université Paul Sabatier de Toulouse (Francia), y en 2013 empecé el máster en “Física de la Materia Condensada y Nanotecnología” de la UAM."
 
-bio2: "Estudié el grado de Física en la Universidad Autónoma de Madrid, disfrutando en tercero de una beca Erasmus de un año en la Université Paul Sabatier de Toulouse (Francia), y en 2013 empecé el máster en “Física de la Materia Condensada y Nanotecnología” de la UAM."
+bio2: "Para la realización de los trabajos de fin de grado y de máster me uní al grupo del Prof. Nicolás Agraït, donde entré en contacto con el estudio experimental del transporte cuántico en sistemas nanométricos y donde continué para llevar a cabo mi doctorado en “Física de la Materia Condensada, Nanociencia y Biofísica” con una beca FPU del Ministerio de Educación, Cultura y Deporte, terminándolo en 2019. Durante el doctorado, tuve la oportunidad también de realizar una estancia de investigación de seis meses en el grupo del Prof. Pramod Reddy en Michigan (Estados Unidos)."
 
 bio3: "En lo referente a la investigación, mis intereses se centran en el estudio de sistemas nanométricos, como contactos atómicos, uniones moleculares y sistemas bidimensionales, y en la caracterización de sus propiedades de transporte eléctrico, termoeléctrico y térmico, principalmente mediante la utilización de microscopías de proximidad."
 
