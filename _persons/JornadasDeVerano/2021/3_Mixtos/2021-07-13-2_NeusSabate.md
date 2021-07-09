@@ -21,7 +21,7 @@ recom: "YES"
 
 book1title: "Clarke A.C. (1972), 'Cita con Rama'. <em>
 edhasa</em>, ISBN: 9788435021043."
-book1img: "/img/eventos/2021-Jornadas/ponentes/recom/Carloslibro1.jpg"
+book1img: "/img/eventos/2021-Jornadas/ponentes/recom/Neuslibro1.jpg"
 book1link: "https://www.edhasa.es/libros/843/cita-con-rama"
 book2title: ""
 book2img: ""

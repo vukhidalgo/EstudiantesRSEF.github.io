@@ -369,7 +369,7 @@ permalink: /JornadasVerano2021/
                <h2 class="justify" style="padding-bottom: 10px;">Contenido Recomendado</h2>
                {%- if person.book1title -%}
                {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}
-       		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book1img }}"></a>
+       		        <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%; align: center;" src="{{ person.book1img }}"></a>
                    <p style="text-align: center; padding-right: 2px; padding-left: 2px;">
                      <a href="{{ person.book1link }}" target="_blank">{{ person.book1title }}</a>
                    </p>
