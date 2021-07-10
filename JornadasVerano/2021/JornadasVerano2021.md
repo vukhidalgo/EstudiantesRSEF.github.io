@@ -395,6 +395,15 @@ permalink: /JornadasVerano2021/
              </div>
              {%- endif -%}
 
+             {%- if person.otherinfo1link -%}
+             <div class="row">
+                <a href="{{ person.otherinfo1link }}" target="_blank">{{ person.otherinfo1text }}</a>
+                {%- if person.otherinfo2link -%}<a href="{{ person.otherinfo2link }}" target="_blank">{{ person.otherinfo2text }}</a>{%- endif -%}
+                {%- if person.otherinfo3link -%}<a href="{{ person.otherinfo3link }}" target="_blank">{{ person.otherinfo3text }}</a>{%- endif -%}
+                {%- if person.otherinfo4link -%}<a href="{{ person.otherinfo4link }}" target="_blank">{{ person.otherinfo4text }}</a>{%- endif -%}
+             </div>
+             {%- endif -%}
+
          </div>
        </div>
        <div class="modal-footer">
