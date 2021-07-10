@@ -17,7 +17,7 @@ bio2: "Cuando estaba terminando mis estudios de grado empecé a pensar que me fa
 
 bio3: "Al principio la idea era dedicarme a escribir artículos para nuestro blog, pero poco a poco fui implicándome más y disfrutando de las actividades del Grupo. Actualmente formo parte del Comité de Relaciones Publicas, y me encargo de gestionar las redes sociales y ayudar en las campañas de organización de eventos como este. ¡Formar parte del GdeE es algo que recomiendo a todo el mundo!"
 
-bio4: "¿Por qué mi recomendación de lectura? Es un libro en el que se introduce la filosofía de la ciencia de manera muy digerible, sin lenguaje rimbombante. Se aclaran conceptos que en general usamos con vaguedad, respondiendo perguntas como qué es una ley científica, qué tipos de leyes científicas existen, y en el que se esclarece un poco qué es eso de "hacer ciencia". Invita a la reflexión en cada página."
+bio4: "¿Por qué mi recomiendo leer La ciencia. Su método y su filosofía', de Mario Bunge? Es un libro en el que se introduce la filosofía de la ciencia de manera muy digerible, sin lenguaje rimbombante. Se aclaran conceptos que en general usamos con vaguedad, respondiendo perguntas como qué es una ley científica, qué tipos de leyes científicas existen, y en el que se esclarece un poco qué es eso de 'hacer ciencia'. Invita a la reflexión en cada página."
 
 recom: "YES"
 
