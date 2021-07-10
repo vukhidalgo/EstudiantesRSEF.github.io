@@ -54,6 +54,8 @@ El Grupo de Estudiantes de la RSEF se organiza, a nivel de universidad y centro 
     + 34 91 394 43 50
     secret.y.admon@rsef.es
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.1078590675947!2d-3.727661185464087!3d40.45074966149526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422834e467381f%3A0x9da4036f8b5422a6!2sReal%20Sociedad%20Espa%C3%B1ola%20de%20F%C3%ADsica!5e0!3m2!1ses!2ses!4v1625919406632!5m2!1ses!2ses" width="700" height="394" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 ---
 
 <center><strong>El Grupo de Estudiantes de la RSEF no es la asociación sectorial de los estudiantes de física de España</strong></center>
