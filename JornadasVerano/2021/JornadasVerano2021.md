@@ -366,7 +366,7 @@ permalink: /JornadasVerano2021/
            <!-- Recomendaciones -->
 
              <div class="row">
-               <h2 class="justify" style="padding-bottom: 10px;">Contenido Recomendado</h2>
+               <h2 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h2>
                {%- if person.book1title -%}
                 {% if person.book2title %}<div class="col s12 m6 l6">{% endif %}     
                   <div class="row center">
