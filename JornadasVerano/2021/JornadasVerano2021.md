@@ -405,9 +405,7 @@ permalink: /JornadasVerano2021/
               {%- if person.otherinfo2link -%}
               <div class="col s12 m6 l6">
                 <div class="row center">
-                  <p style="text-align: justify;">
                     <a href="{{ person.otherinfo2link }}" target="_blank">{{ person.otherinfo2text }}</a>
-                  </p>
                 </div>
               </div>
               {%- endif -%}
@@ -424,9 +422,7 @@ permalink: /JornadasVerano2021/
               {%- if person.otherinfo4link -%}
               <div class="col s12 m6 l6">
                 <div class="row center">
-                  <p style="text-align: justify;">
                     <a href="{{ person.otherinfo4link }}" target="_blank">{{ person.otherinfo4text }}</a>
-                  </p>
                 </div>
               </div>
               {%- endif -%}
