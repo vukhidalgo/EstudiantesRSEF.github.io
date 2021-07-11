@@ -397,22 +397,35 @@ permalink: /JornadasVerano2021/
 
              {%- if person.otherinfo1link -%}
              <div class="row">
-                <a href="{{ person.otherinfo1link }}" target="_blank">{{ person.otherinfo1text }}</a>
-                {%- if person.otherinfo2link -%}
-                  <p style="text-align: justify;">
+               <div class="col s12 m6 l6">
+                 <div class="row center">
+                  <a href="{{ person.otherinfo1link }}" target="_blank">{{ person.otherinfo1text }}</a>
+                </div>
+              </div>
+              {%- if person.otherinfo2link -%}
+              <div class="col s12 m6 l6">
+                <div class="row center">
                     <a href="{{ person.otherinfo2link }}" target="_blank">{{ person.otherinfo2text }}</a>
-                  </p>
-                {%- endif -%}
-                {%- if person.otherinfo3link -%}
-                  <p style="text-align: justify;">
-                    <a href="{{ person.otherinfo3link }}" target="_blank">{{ person.otherinfo3text }}</a>
-                  </p>
-                {%- endif -%}
-                {%- if person.otherinfo4link -%}
-                  <p style="text-align: justify;">
+                </div>
+              </div>
+              {%- endif -%}
+             </div>
+            {%- endif -%}
+
+             {%- if person.otherinfo3link -%}
+             <div class="row">
+               <div class="col s12 m6 l6">
+                 <div class="row center">
+                  <a href="{{ person.otherinfo3link }}" target="_blank">{{ person.otherinfo3text }}</a>
+                </div>
+              </div>
+              {%- if person.otherinfo4link -%}
+              <div class="col s12 m6 l6">
+                <div class="row center">
                     <a href="{{ person.otherinfo4link }}" target="_blank">{{ person.otherinfo4text }}</a>
-                  </p>
-                {%- endif -%}
+                </div>
+              </div>
+              {%- endif -%}
              </div>
              {%- endif -%}
 
