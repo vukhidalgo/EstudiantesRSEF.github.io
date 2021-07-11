@@ -9,6 +9,7 @@ rol: "Experta en Física Aplicada y Electromagnetismo & Premio RSEF - Fund. BBVA
 descr: "Jurado de '¡Preséntame tu tesis!'"
 horario: "Miércoles 14 de 11.00h a 12.00h"
 linkedin: ""
+destacado: ""
 
 bio1: "Chantal Ferrer Roca es profesora titular y actualmente directora del Departamento de Física Aplicada y Electromagnetismo de la Universitat de València además de investigadora del grupo de semiconductores bajo altas presiones y temperaturas en el Instituto de Ciencia de Materiales de esta universidad."
 
@@ -20,7 +21,7 @@ bio3: "Es también iniciadora y responsable de la Colección de Demostraciones E
 
 recom: "YES"
 
-book1title: "Lucrecio, 'De rerum natura'. <em>Acantilado</em>, ISBN: 9788415689171"
+book1title: "Lucrecio (50 a.C.), 'De rerum natura'. <em>Acantilado</em>, ISBN: 9788415689171"
 book1img: "/img/eventos/2021-Jornadas/ponentes/recom/Chantallibro1.jpg"
 book1link: "https://www.acantilado.es/catalogo/de-rerum-natura-de-la-naturaleza/"
 
@@ -30,5 +31,4 @@ book2link: "https://www.google.com/search?q=La+estructura+de+las+revoluciones+ci
 
 videotitle: "Powers of Ten (1977)"
 videolink: "https://www.youtube.com/embed/0fKBhvDjuy0"
-
 ---
