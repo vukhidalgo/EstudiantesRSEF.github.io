@@ -9,7 +9,7 @@ rol: ""
 descr: "Mesa Redonda 'Físic@s por el mundo'"
 horario: "Miércoles 14 de 16.00h a 17.30h"
 linkedin: ""
-destacado: "YES"
+destacado: ""
 
 bio1: ""
 
