@@ -3,9 +3,9 @@ layout: person
 categories: ponentes
 evento: "JornadasVerano2021"
 nombre: "Helena Lecoq"
-class: "estudiantes"
+class: "mundo"
 img: "/img/eventos/2021-Jornadas/ponentes/HelenaLecoq.jpg"
-rol: ""
+rol: "Estudiante doctoral en KU Leuven (Bélgica)"
 descr: "Mesa Redonda 'Físic@s por el mundo'"
 horario: "Miércoles 14 de 16.00h a 17.30h"
 linkedin: ""

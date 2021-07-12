@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "JornadasVerano2021"
 nombre: "Pilita Sango"
-class: "estudiantes"
+class: ""
 img: ""
 rol: ""
 descr: "Mesa Redonda 'Físic@s por el mundo'"
