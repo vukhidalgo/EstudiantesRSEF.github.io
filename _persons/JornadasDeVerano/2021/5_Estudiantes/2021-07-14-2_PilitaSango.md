@@ -2,9 +2,9 @@
 layout: person
 categories: ponentes
 evento: "JornadasVerano2021"
-nombre: "Ana Barragán"
+nombre: "Pilita Sango"
 class: "estudiantes"
-img: "/img/eventos/2021-Jornadas/ponentes/AnaBarragan.jpg"
+img: ""
 rol: ""
 descr: "Mesa Redonda 'Físic@s por el mundo'"
 horario: "Miércoles 14 de 16.00h a 17.30h"

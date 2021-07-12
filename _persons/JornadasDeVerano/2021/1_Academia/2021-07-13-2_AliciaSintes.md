@@ -21,7 +21,7 @@ bio4: "Sintes fue nombrada Hija Predilecta de Sant Lluís en 2018 y ha recibido 
 
 recom: "YES"
 
-book1title: "Maggiore M. (2007), 'Gravitational Waves: Volume 1: Theory and Experiments.'. <em>Oxford University Press</em>, ISBN: 9780198570745"
+book1title: "Maggiore M. (2007), 'Gravitational Waves: Volume 1: Theory and Experiments'. <em>Oxford University Press</em>, ISBN: 9780198570745"
 book1img: "/img/eventos/2021-Jornadas/ponentes/recom/libro1Sintes.jpg"
 book1link: "https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198570745.001.0001/acprof-9780198570745"
 
