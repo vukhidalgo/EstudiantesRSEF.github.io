@@ -276,7 +276,6 @@ permalink: /JornadasVerano2021/
                      </div>
                    </li>
                  </ul>
-               </div>
              </div>
              <div class="col s12 m6 l6">
                <div class="row center">
