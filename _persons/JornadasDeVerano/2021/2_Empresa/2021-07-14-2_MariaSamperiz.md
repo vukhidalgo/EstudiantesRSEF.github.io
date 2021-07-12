@@ -22,10 +22,8 @@ recom: "YES"
 book1title: "Weatherall, J. O. (2013), 'Cuando los físicos asaltaron los mercados'. <em>Editorial Ariel</em>, ISBN: 9788434411937"
 book1img: "/img/eventos/2021-Jornadas/ponentes/recom/Marialibro1.jpg"
 book1link: "https://www.google.com/search?q=Factfulness+de+Hans+Rosling+DEUSTO&client=firefox-b-d&hl=ca&biw=1366&bih=615&sxsrf=ALeKk009AVReGC8o8x0QLarIkSrvFjZV5A%3A1625657566620&ei=3pDlYI2KJZeHjLsP6KG22As&oq=Factfulness+de+Hans+Rosling+DEUSTO&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6CggjEK4CELADECc6BggAEBYQHkoECEEYAVDK1gFYxtoBYJ_eAWgBcAB4AIABsQSIAaQRkgELMC4yLjEuMC4xLjKYAQCgAQGqAQdnd3Mtd2l6yAEBwAEB&sclient=gws-wiz&ved=0ahUKEwiN8aKu7tDxAhWXA2MBHeiQDbsQ4dUDCA0&uact=5"
-
 book2title: ""
 book2link: ""
-
 videotitle: "MARGIN CALL / ESPAÑOL"
 videolink: "https://www.youtube.com/embed/aGxyZsiB9Mg"
 ---
