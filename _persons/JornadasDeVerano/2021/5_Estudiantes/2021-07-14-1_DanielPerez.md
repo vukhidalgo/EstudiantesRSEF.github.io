@@ -2,7 +2,7 @@
 layout: person
 categories: ponentes
 evento: "JornadasVerano2021"
-nombre: "Daniel Pérez"
+nombre: "Dr. Daniel Pérez"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/Daniel.jpg"
 rol: "Doctor en superconductividad en Bélgica, con postdoctorados en Suecia y Bélgica."
