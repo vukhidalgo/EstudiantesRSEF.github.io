@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "JornadasVerano2021"
 nombre: "Pilita Sango"
-class: ""
+class: "mundo"
 img: "/img/eventos/2021-Jornadas/ponentes/PilarSango.jpg"
 rol: "Estudiante de doctorado en Lyon"
 descr: "Mesa Redonda 'Físic@s por el mundo'"
