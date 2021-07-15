@@ -10,7 +10,7 @@ descr: "Ponencia de clausura: 'Historia de la RSEF'"
 horario: "Jueves 15 de 12.20h a 12.50h"
 linkedin: ""
 
-bio1: "Es Licenciado en Ciencias Físicas por la U. Complutense (1963) y Doctor por la de Barcelona (1968). Ha realizado prolongadas estancias de investigación en el extranjero, especialmente en las universidades de Cambridge y Oxford, donde ha pasado media docena de años, y más breves en otros muchos centros de investigación europeos y norteamericanos. Desde 1978 es catedrático de Física Teórica de la Univ. de Valencia (actualmente emérito) y miembro del IFIC (CSIC‐UVEG) y del CPAN. Desde 1978 es catedrático de Física Teórica de la Univ. de Valencia (actualmente emérito) y miembro del IFIC (CSIC‐UVEG) y del CPAN."
+bio1: "Es Licenciado en Ciencias Físicas por la U. Complutense (1963) y Doctor por la de Barcelona (1968). Ha realizado prolongadas estancias de investigación en el extranjero, especialmente en las universidades de Cambridge y Oxford, donde ha pasado media docena de años, y más breves en otros muchos centros de investigación europeos y norteamericanos. Desde 1978 es catedrático de Física Teórica de la Univ. de Valencia (actualmente emérito) y miembro del IFIC (CSIC‐UVEG) y del CPAN."
 
 bio2: "Ha publicado unos 180 artículos científicos en revistas internacionales y dirigido una decena de tesis doctorales. Ha sido autor y editor de varios libros científicos y ha sido Investigador Principal de numerosos proyectos de investigación competitivos, ininterrumpidamente desde 1978 hasta diciembre de 2014, así como del nodo Valencia de colaboraciones internacionales y de algunos proyectos europeos (EU‐INTAS, Coop. Intern.)."
 
