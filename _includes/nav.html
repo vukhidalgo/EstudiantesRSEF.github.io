@@ -48,11 +48,11 @@
                     <div class="collapsible-body">
                       <ul>
                         <li><a href="{{ item.url }}">{{ item.text }}</a></li>
-                    {% if item.url != nil %}
                     {% for subitem in item.subitems %}
+                    {% if subitem.url != nil %}
                         <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
-                    {% endfor %}
                     {% endif %}
+                    {% endfor %}
                       </ul>
                     </div>
                   </li>
