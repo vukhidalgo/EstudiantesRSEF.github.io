@@ -47,9 +47,10 @@
                       <a class="collapsible-header">{{ item.text }}</a>
                     <div class="collapsible-body">
                       <ul>
+                    {% if item.url != nil %}
                         <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                    {% endif %}
                     {% for subitem in item.subitems %}
-                    {% if subitem.url != nil %}
                         <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
                     {% endif %}
                     {% endfor %}
