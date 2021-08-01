@@ -22,7 +22,7 @@
       height: 70px;
       position: absolute;
       left: 50%;
-      top: 50%;
+      top: 70%;
       border-radius: 50%;
       background: #333333;
       background-size: 100%;
@@ -47,7 +47,7 @@
       position: absolute;
       left: 50%;
       line-height: 5px;
-      top: 50%;
+      top: 70%;
       border-radius: 50%;
       background-color: #2EE0A0;
       transform: translate(0px, 0px);
@@ -70,22 +70,22 @@
   }
 
   #menu:target>.menu-item:nth-child(6) {
-      transform: translateY(160px);
+      transform: translateY(320px);
       transition-delay: 0.3s;
   }
 
   #menu:target>.menu-item:nth-child(5) {
-      transform: translateY(80px);
+      transform: translateY(240px);
       transition-delay: 0.2s;
   }
 
   #menu:target>.menu-item:nth-child(3) {
-      transform: translateY(-160px);
+      transform: translateY(160px);
       transition-delay: 0.1s;
   }
 
   #menu:target>.menu-item:nth-child(4) {
-      transform: translateY(-80px);
+      transform: translateY(80px);
       transition-delay: 0s;
   }
 
