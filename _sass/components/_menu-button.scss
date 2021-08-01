@@ -81,12 +81,12 @@
   }
 
   #menu:target>.menu-item:nth-child(3) {
-      transform: rotate(-20deg) translateY(-155px) rotate(20deg);
+      transform: translateY(-156px);
       transition-delay: 0.1s;
   }
 
   #menu:target>.menu-item:nth-child(4) {
-      transform: rotate(-60deg) translateY(-150px) rotate(60deg);
+      transform: translateY(-153px);
       transition-delay: 0s;
   }
 
