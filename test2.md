@@ -4,7 +4,7 @@ title: test2
 permalink: /test2/
 ---
 
-<a class="fixed-action-btn click-to-toggle"><i class="material-icons left">text</i>Text size</a>
+<a class="fixed-action-btn click-to-toggle"><i class="material-icons left">text_fields</i>Text size</a>
 
 <div class="row">
   <div class="col s12 m4">
