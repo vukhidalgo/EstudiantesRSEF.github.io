@@ -71,22 +71,22 @@
   }
 
   #menu:target>.menu-item:nth-child(6) {
-      transform: rotate(60deg) translateY(-150px) rotate(300deg);
+      transform: translateY(155px);
       transition-delay: 0.3s;
   }
 
   #menu:target>.menu-item:nth-child(5) {
-      transform: rotate(20deg) translateY(-155px) rotate(-20deg);
+      transform: translateY(125px);
       transition-delay: 0.2s;
   }
 
   #menu:target>.menu-item:nth-child(3) {
-      transform: translateY(-156px);
+      transform: translateY(-155px);
       transition-delay: 0.1s;
   }
 
   #menu:target>.menu-item:nth-child(4) {
-      transform: translateY(-153px);
+      transform: translateY(-125px);
       transition-delay: 0s;
   }
 
