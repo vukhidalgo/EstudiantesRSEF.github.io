@@ -1,6 +1,6 @@
 // Menu button CSS
 
-@media #{$medium-and-up} { // Only for big screen devices
+// @media #{$medium-and-up} { // Only for big screen devices
 
 #menu {
     width: 150px;
@@ -108,7 +108,7 @@
   position: relative;
   z-index: 998;
 
-  menu {
+  #menu {
     position: fixed;
   }
 }
