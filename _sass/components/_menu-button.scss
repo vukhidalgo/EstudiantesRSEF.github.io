@@ -65,8 +65,8 @@
   .menu-item a {
       color: #fff;
       position: relative;
+      left: 25%;
       top: 30%;
-      text-decoration: none;
   }
 
   #menu:target>.menu-item:nth-child(6) {
@@ -87,15 +87,6 @@
   #menu:target>.menu-item:nth-child(4) {
       transform: translateY(-80px);
       transition-delay: 0s;
-  }
-
-  .content{
-    position: absolute;
-    text-align: center;
-    margin: -10px 0 0 -30px;
-    top: 70%;
-    left: 50%;
-    font-size: 20px;
   }
 
 
