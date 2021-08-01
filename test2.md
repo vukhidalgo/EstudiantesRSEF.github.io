@@ -18,24 +18,24 @@ permalink: /test2/
 <div class="container">
      <ul id="menu">
             <a class="menu-button icon-plus" href="#menu" title="Show navigation"></a>
-            <a class="menu-button icon-minus" href="#0" title="Hide navigation"></a>
+            <a class="menu-button icon-minus" href="#!" title="Hide navigation"></a>
             <li class="menu-item">
-                <a href="#menu">
+                <a href="https://www.um.es/docencia/barzana/materializecss/badges.html">
                     <span class="fa fa-github"></span>
                 </a>
             </li>
             <li class="menu-item">
-                <a href="#menu">
+                <a href="https://www.um.es/docencia/barzana/materializecss/badges.html">
                     <span class="fa fa-linkedin"></span>
                 </a>
             </li>
             <li class="menu-item">
-                <a href="#menu">
+                <a href="https://www.um.es/docencia/barzana/materializecss/badges.html">
                     <span class="fa fa-instagram"></span>
                 </a>
             </li>
             <li class="menu-item">
-                <a href="#menu">
+                <a href="https://www.um.es/docencia/barzana/materializecss/badges.html">
                     <span class="fa fa-twitter"></span>
                 </a>
             </li>
