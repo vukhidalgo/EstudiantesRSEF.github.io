@@ -20,8 +20,8 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 <div class="container">
      <ul id="menu">
-            <a class="menu-button icon-plus" href="#menu" title="Show navigation"></a>
-            <a class="menu-button icon-minus" href="#!" title="Hide navigation"></a>
+            <a class="menu-button icon-plus" href="#menu" title="Show navigation"><i class="material-icons">share</i></a>
+            <a class="menu-button icon-minus" href="#!" title="Hide navigation"><i class="material-icons">share</i></a>
             <li class="menu-item">
                 <a href="#menu">
                     <span class="fa fa-github"></span>
