@@ -44,6 +44,8 @@ function copyElementText(id) {
 }
 </script>
 
-<p class="right-side-header" title="Copy Text" id="promo" onclick="copyElementText(this.id)">Promosión</p>
+<p class="right-side-header" title="Copy Text" id="promo" onclick="copyElementText(this.id)">
+Hola! Te gustaría saber qué oportunidades extracurriculares tienes estudiando física? 👩‍💼👨‍💼 Tienes ganas de conocer otrxs estudiantes de España y del mundo?  Eso y mucho más perseguimos en el Grupo de Estudiantes (GdeE) de la RSEF. Yo ya formo parte del GdeE, he participado en algunas actividades y es muy recomendable! E incluso podemos montar eventos muy interesantes en nuestra universidad! ¿Te animas a unirte? 🚀 <br>Échale un ojo a este VÍDEO: https://youtu.be/B327Xucbb30 <br>Y a nuestras redes:<br>Twitter https://twitter.com/estudiantesrsef <br>Instagram https://www.instagram.com/estudiantesrsef/ <br>Y web: https://estudiantes.rsef.es/
+</p>
 
 <button onclick="copyElementText('promo')" class="btn-large waves-effect waves-light">Copiar al portapapeles</button>
