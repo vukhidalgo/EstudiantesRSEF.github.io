@@ -44,6 +44,6 @@ function copyElementText(id) {
 }
 </script>
 
-<p class="right-side-header" title="Copy Text" id="text" onclick="copyElementText(this.id)">I am cool</p>
+<p class="right-side-header" title="Copy Text" id="promo" onclick="copyElementText(this.id)">Promosión</p>
 
-<button onclick="copyElementText(id)" class="btn-large waves-effect waves-light">Copiar al portapapeles</button>
+<button onclick="copyElementText('promo')" class="btn-large waves-effect waves-light">Copiar al portapapeles</button>
