@@ -7,8 +7,9 @@ gallery2: /img/NoMoreSpamGuideOutlook/
 redirect_from:
 ---
 <!-- The text field -->
-<input type="text" value="Hello World" id="myInput">
-Hola! Te gustaría saber qué oportunidades extracurriculares tienes estudiando física? 👩‍💼👨‍💼 Tienes ganas de conocer otrxs estudiantes de España y del mundo?  Eso y mucho más perseguimos en el Grupo de Estudiantes (GdeE) de la RSEF. Yo ya formo parte del GdeE, he participado en algunas actividades y es muy recomendable! E incluso podemos montar eventos muy interesantes en nuestra universidad! ¿Te animas a unirte? 🚀 Échale un ojo a: [https://youtu.be/B327Xucbb30](https://youtu.be/B327Xucbb30)
+<input type="text" id="myInput"
+
+value="Hola! Te gustaría saber qué oportunidades extracurriculares tienes estudiando física? 👩‍💼👨‍💼 Tienes ganas de conocer otrxs estudiantes de España y del mundo?  Eso y mucho más perseguimos en el Grupo de Estudiantes (GdeE) de la RSEF. Yo ya formo parte del GdeE, he participado en algunas actividades y es muy recomendable! E incluso podemos montar eventos muy interesantes en nuestra universidad! ¿Te animas a unirte? 🚀 Échale un ojo a: [https://youtu.be/B327Xucbb30](https://youtu.be/B327Xucbb30)
 
 Y a nuestras redes:
 
@@ -16,8 +17,7 @@ Twitter [https://twitter.com/estudiantesrsef?lang=ca](https://twitter.com/estudi
 
 Instagram [https://www.instagram.com/estudiantesrsef/](https://www.instagram.com/estudiantesrsef/)
 
-Y web: [https://estudiantes.rsef.es/](https://estudiantes.rsef.es/)
-</input>
+Y web: [https://estudiantes.rsef.es/](https://estudiantes.rsef.es/)">
 
 <!-- The button used to copy the text -->
 <button onclick="myFunction()">Copiar al portapapeles</button>
