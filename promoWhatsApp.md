@@ -24,3 +24,5 @@ Hola! Te gustaría saber qué oportunidades extracurriculares tienes estudiando 
 </p>
 
 <button onclick="copyElementText('promo')" class="btn-large waves-effect waves-light">Copiar al portapapeles</button>
+
+<p><strong>¡Muchas gracias por ayudar a difundir el Grupo de Estudiantes de la RSEF!</strong></p>
