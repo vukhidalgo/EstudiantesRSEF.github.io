@@ -26,3 +26,20 @@ Hola! Te gustaría saber qué oportunidades extracurriculares tienes estudiando 
 </p>
 ---
 <p><strong>¡Muchas gracias por ayudar a difundir el Grupo de Estudiantes de la RSEF!</strong></p>
+<script>
+
+function clickCounter() {
+  if (typeof(Storage) !== "undefined") {
+    if (localStorage.clickcount) {
+      localStorage.clickcount = Number(localStorage.clickcount)+1;
+    } else {
+      localStorage.clickcount = 1;
+    }
+    document.getElementById("result").innerHTML = "Veces copiado: " + localStorage.clickcount + " time(s).";
+  } else {
+    document.getElementById("result").innerHTML = "El navegador usado no soporta almacenamiento web";
+  }
+}
+</script>
+
+<div id="result"></div>
