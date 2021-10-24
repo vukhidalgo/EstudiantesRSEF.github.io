@@ -6,9 +6,6 @@ date:  2021-10-24 20:52
 author: Ainoa Benedicto Martínez
 redirect-from:
 ---
-
-# Jornadas de Verano 2021
-
 El pasado 13 de julio comenzaron las primeras Jornadas de Verano organizadas por el Grupo de Estudiantes de la Real Sociedad Española de Física y destinadas a estudiantes de física, desde primer curso de grado hasta doctorandos. Durante tres días, los asistentes tuvieron la oportunidad de disfrutar de diversas ponencias, participar en sesiones de networking con otros jóvenes físicos y explorar las posibles salidas laborales que encontrarán al finalizar sus estudios. 
 
 ## Primer día: Presentaciones y primeras grandes conferencias
@@ -29,7 +26,7 @@ Tras un pequeño descanso, la mañana continuó con la dinámica del día con un
 
 Tras un merecido descanso para recargar pilas, pudimos aprender de la experiencia de jóvenes físicos que han optado por dedicar su vida profesional a la investigación y que actualmente trabajan en diferentes puntos de Europa. Esta mesa redonda permitió a los estudiantes explorar el mundo de la investigación pero sobre todo, ¡fue una gran inspiración para la próxima generación de físic@s! La jornada concluyó con una nueva sesión de networking coorganizada con el *National Committee Germany* de IAPS (International Association of Physics Students), una nueva oportunidad para conocer a jóvenes físic@s de otro país.
 
-# Tercer día: El broche final a las Jornadas de Verano 2021
+## Tercer día: El broche final a las Jornadas de Verano 2021
 
 Las Jornadas de Verano 2021 finalizaron el viernes 15 de julio con un nuevo *streaming* matinal dedicado a la excelencia en el campo de la física. Los estudiantes congregados tuvimos el honor de disfrutar de una Mesa redonda con jóvenes premiados de la RSEF. 
 
