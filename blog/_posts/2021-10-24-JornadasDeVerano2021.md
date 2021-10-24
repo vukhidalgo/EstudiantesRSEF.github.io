@@ -2,7 +2,7 @@
 layout: post
 categories: blog 
 title:  "Jornadas de Verano 2021"
-date:  2021-10-24
+date:  2021-10-24 20:52
 author: Ainoa Benedicto Martínez
 redirect-from:
 ---
