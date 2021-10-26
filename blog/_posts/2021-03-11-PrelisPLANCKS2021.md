@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog 
+categories: blog Eventos
 title:  "Preliminares de PLANCKS 2021: un éxito absoluto"
 date:  2021-03-09 23:59
 author: Equipo del Grupo de Estudiantes de la RSEF
