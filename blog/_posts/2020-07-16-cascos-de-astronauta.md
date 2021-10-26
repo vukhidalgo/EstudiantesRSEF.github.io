@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog Divulgación
 title:  "¿Alguna vez te has preguntado por qué las viseras de los cascos de astronauta son doradas?"
 date:   2020-07-16 05:04
 author: Sergio Salvía Fernández
