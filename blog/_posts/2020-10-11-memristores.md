@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog Divulgación
 title:  "Memristores: ¿neuronas para tu ordenador?"
 date:  2020-10-11 23:59
 author: Sergio J Salvía Fernández
