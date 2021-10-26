@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog Entrevistas
 title:  "Entrevista a Laura Rodríguez Arriaga - Primera Parte"
 date:  2020-11-01 00:00
 author: Miriam Martínez Flórez, Alberto Flores Ruiz y Alejandro Fernández Muñoz
