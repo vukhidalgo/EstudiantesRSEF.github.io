@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog eventos
+categories: blog Eventos
 title:  "Jornadas de Verano 2021"
 date:  2021-10-24 20:52
 author: Ainoa Benedicto Martínez
