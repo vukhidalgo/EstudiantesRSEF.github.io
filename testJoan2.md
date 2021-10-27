@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Test Irene"
-permalink: /testIrene/
+title: "Test Joan 2"
+permalink: /testJoan2/
 redirect_from:
 ---
 
