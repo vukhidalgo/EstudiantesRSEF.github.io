@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog Entrevistas
 title:  "'How can physicists give advice to policy makers?' - Entrevista a Alejandro Fernández, Presidente del Grupo de Estudiantes de la RSEF"
 date:  2021-01-21 23:59
 author: Hannes Vogel, Alejandro Fernández Muñoz

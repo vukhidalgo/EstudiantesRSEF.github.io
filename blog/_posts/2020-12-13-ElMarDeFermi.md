@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog 
+categories: blog Divulgación
 title:  "El mar de Fermi: ¡lo que te han contado sobre metales y electrones es mentira!"
 date:  2020-12-12 23:59
 author: Sergio J Salvía Fernández

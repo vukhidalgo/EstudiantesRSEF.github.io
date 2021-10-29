@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog 
+categories: blog Entrevistas
 title:  "'El asociacionismo joven en Ciencia' - Entrevista a Alejandro Fernández, Presidente del Grupo de Estudiantes de la RSEF"
 date:  2021-03-09 23:59
 author: Samuel G. Huete, Alejandro Fernández Muñoz

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog Entrevistas
 title:  "Entrevista a Carlos Hernández García"
 date:  2020-11-29 00:00
 author: Alberto Flores Ruiz, Miriam Martínez Flórez y Alejandro Fernández Muñoz

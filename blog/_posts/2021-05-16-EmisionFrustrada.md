@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: blog Divulgación
 title:  "La historia de los fotones frustrados"
 date:  2021-05-16 00:01
 author: Sergio J Salvía Fernández
