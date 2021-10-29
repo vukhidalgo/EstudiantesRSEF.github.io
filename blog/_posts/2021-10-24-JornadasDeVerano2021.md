@@ -7,7 +7,7 @@ author: Ainoa Benedicto Martínez
 redirect-from:
 ---
 
-<article class="page sans">
+<article>
 
 El pasado 13 de julio comenzaron las primeras Jornadas de Verano organizadas por el Grupo de Estudiantes de la Real Sociedad Española de Física y destinadas a estudiantes de física, desde primer curso de grado hasta doctorandos. Durante tres días, los asistentes tuvieron la oportunidad de disfrutar de diversas ponencias, participar en sesiones de networking con otros jóvenes físicos y explorar las posibles salidas laborales que encontrarán al finalizar sus estudios.
 
