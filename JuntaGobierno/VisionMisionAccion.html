@@ -1,0 +1,614 @@
+---
+layout: page
+title: Visión, Misión y Líneas de Acción
+permalink: /VisionMisionAccion/
+redirect_from:
+---
+<html>
+<head>
+<style>
+
+/* webkit printing magic: print all background colors */
+
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(55, 53, 47, 1);
+}
+.highlight-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(145, 145, 142, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(187, 132, 108, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(215, 129, 58, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 148, 51, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(108, 155, 125, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(91, 151, 189, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(167, 130, 195, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(205, 116, 159, 1);
+}
+.highlight-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(225, 111, 100, 1);
+}
+.highlight-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.highlight-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(120, 119, 116, 1);
+	fill: rgba(145, 145, 142, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(187, 132, 108, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(215, 129, 58, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 148, 51, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(108, 155, 125, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(91, 151, 189, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(167, 130, 195, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(205, 116, 159, 1);
+}
+.block-color-red {
+	color: rgba(212, 76, 71, 1);
+	fill: rgba(225, 111, 100, 1);
+}
+.block-color-gray_background {
+	background: rgba(241, 241, 239, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(244, 240, 247, 0.8);
+}
+.block-color-pink_background {
+	background: rgba(249, 238, 243, 0.8);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-pink { background-color: rgba(245, 224, 233, 1); }
+.select-value-color-purple { background-color: rgba(232, 222, 238, 1); }
+.select-value-color-green { background-color: rgba(219, 237, 219, 1); }
+.select-value-color-gray { background-color: rgba(227, 226, 224, 1); }
+.select-value-color-orange { background-color: rgba(250, 222, 201, 1); }
+.select-value-color-brown { background-color: rgba(238, 224, 218, 1); }
+.select-value-color-red { background-color: rgba(255, 226, 221, 1); }
+.select-value-color-yellow { background-color: rgba(253, 236, 200, 1); }
+.select-value-color-blue { background-color: rgba(211, 229, 239, 1); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+</style></head><body><article id="b43ef63b-a330-4c06-96d7-db93788562ad" class="page sans"><header><img class="page-cover-image" src="https://images.unsplash.com/photo-1551124054-0324fbd83227?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb" style="object-position:center 70.66%"/><div class="page-header-icon page-header-icon-with-cover"><span class="icon">🧭</span></div><h1 class="page-title">Visión, Misión y Líneas de Acción</h1></header><div class="page-body"><nav id="96897836-d5dd-414c-93c5-e454bf02ebe9" class="block-color-gray table_of_contents"><div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#d550936b-ae55-47dd-a12f-2f76d23a173e">🔭 Visión</a></div><div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#3b0b2657-87f2-4375-8d48-750fb0664487">🧭 Misión</a></div><div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#fc6220f8-d458-4da4-80f8-67f0d3cd9650">⛷ Líneas de Acción</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#2d05b322-0577-4b3e-9f2d-0ed9b5fcfd85"><strong>Desarrollo Profesional</strong></a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#efcc5273-29d6-479c-9958-2e4ae9ed65e5"> <strong>Networking</strong></a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#bd17c74b-b19d-4832-b416-daa72e7ac4ed"><strong>Divulgación</strong></a></div><div class="table_of_contents-item table_of_contents-indent-0"><a class="table_of_contents-link" href="#cbca14d5-28cb-4220-898a-11f36a85d1c6">⚖️ Valores</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#a9731dc6-0470-44e8-b63b-0c762cfeed4a">Servicio público</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#a9a50888-3e86-412c-8cf4-a41bb8999508">Compromiso</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#2b95e305-033b-49eb-966d-b465fcdac0fa">Proactividad</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#0b144838-ea60-4e56-b54c-0e3645b8ea8b"><strong>Creatividad</strong></a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#73dc71ce-a99e-4c14-80e3-86116689cd50">Trabajo en Equipo</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#4bf29a57-3ed8-49a3-8628-df4f516094d7">Compañerismo</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#9e53da48-7299-4cb0-8978-436c78cd2fa6">Comunidad</a></div><div class="table_of_contents-item table_of_contents-indent-1"><a class="table_of_contents-link" href="#62f4b31a-430e-4db0-88ad-50589a11648a">Liderazgo</a></div></nav><h1 id="d550936b-ae55-47dd-a12f-2f76d23a173e" class="">🔭 Visión</h1><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="02d64dbc-baac-4be9-be85-8ac5a4fef3a7"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%"><strong>Aclaración: </strong>La visión expresa la aspiración a largo plazo de la organización. ¿Qué queremos conseguir cambiar en el mundo?</div></figure><figure class="block-color-teal_background callout" style="white-space:pre-wrap;display:flex" id="502008ad-e2d0-4fbb-9d7a-a0717eefa852"><div style="font-size:1.5em"><img class="icon" src="Visio%CC%81n,%20Misio%CC%81n%20y%20Li%CC%81neas%20de%20Accio%CC%81n%20502008ade2d04fbb9d7aa0717eefa852/Foto_perfil_RRSS_-_fondo_transparente.png"/></div><div style="width:100%"><strong>Visión GdeE:</strong> <em>Que los estudiantes de física de España salgan lo mejor preparados posible al mercado laboral, habiendo experimentado vivencias únicas y conocido personas extraordinarias en el camino.</em></div></figure><figure class="callout" style="white-space:pre-wrap;display:flex" id="396a7510-edbf-42ea-b559-7baf81cc6e76"><div style="font-size:1.5em"><span class="icon">❓</span></div><div style="width:100%"><strong>Otro</strong> <strong>Ejemplo de Visión: </strong><em>Our vision is to be Earth&#x27;s most customer-centric company; to build a place where people can come to find and discovery anything they want to buy online. </em>Amazon.</div></figure><h1 id="3b0b2657-87f2-4375-8d48-750fb0664487" class="">🧭 Misión</h1><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="f79a7698-0cab-4286-806b-6531f9b1bfd8"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%"><strong>Aclaración: </strong>Una buena misión es rápida, corta y se queda grabada en el cerebro de la gente. ¿Para qué trabajamos todos los días? </div></figure><figure class="block-color-teal_background callout" style="white-space:pre-wrap;display:flex" id="3efc49dc-9fcc-49ee-87ff-acf900d8acda"><div style="font-size:1.5em"><img class="icon" src="Visio%CC%81n,%20Misio%CC%81n%20y%20Li%CC%81neas%20de%20Accio%CC%81n%20502008ade2d04fbb9d7aa0717eefa852/Foto_perfil_RRSS_-_fondo_transparente%201.png"/></div><div style="width:100%"><strong>Misión GdeE:</strong> <em>Ofrecer las mejores oportunidades de desarrollo profesional, networking y divulgación a los estudiantes de física de España.</em></div></figure><figure class="block-color-red_background callout" style="white-space:pre-wrap;display:flex" id="a62088d5-4acb-4dfa-b405-0e162c583271"><div style="font-size:1.5em"><span class="icon">❗</span></div><div style="width:100%"><strong>IMPORTANTE:</strong> Cumplir esta misión es siempre prioritario. No debe subordinarse nunca a otras voluntades de cambio social que pudieran tener, de forma individual, los integrantes de la Junta de Gobierno. Sólo así entenderá nuestro usuario qué es lo que ofrecemos y sólo así evitaremos la politización del GdeE. </div></figure><figure class="callout" style="white-space:pre-wrap;display:flex" id="19e3070b-03e7-4258-8088-245d140c0ad7"><div style="font-size:1.5em"><span class="icon">❓</span></div><div style="width:100%"><strong>Otro</strong> <strong>Ejemplo de Misión: </strong><em>To make a contribution to the world by making tools for the mind that advance humankind. </em>Apple.</div></figure><h1 id="fc6220f8-d458-4da4-80f8-67f0d3cd9650" class="">⛷ Líneas de Acción</h1><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="66e945c7-db68-4e0b-885b-e4c8777c4917"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%"><strong>Aclaración: </strong>Las líneas de acción son las principales áreas de actividad de la organización.</div></figure><p id="ca344730-4912-4e09-bad8-9f81ed5747a6" class="">El Grupo de Estudiantes de la RSEF tiene tres líneas de acción: el desarrollo profesional, el networking y la divulgación. </p><div id="26efb22f-43dd-4c73-8663-84ee62a3e583" class="column-list"><div id="3ddaed3e-03d6-47ef-9a12-e6fd68f35a17" style="width:33.333333333333336%" class="column"><h3 id="2d05b322-0577-4b3e-9f2d-0ed9b5fcfd85" class=""><strong>Desarrollo Profesional</strong></h3></div><div id="9be4de7f-e8c5-409f-a641-445a5395f8b0" style="width:33.333333333333336%" class="column"><h3 id="efcc5273-29d6-479c-9958-2e4ae9ed65e5" class=""> <strong>Networking</strong></h3></div><div id="c8437904-9ee3-4c34-9613-5748d765525d" style="width:33.33333333333333%" class="column"><h3 id="bd17c74b-b19d-4832-b416-daa72e7ac4ed" class=""><strong>Divulgación</strong></h3></div></div><div id="162bfcaa-8fad-49d8-9373-1e30d65e9122" class="column-list"><div id="1e578ec9-1f26-487d-87d4-1a9d466ed0e9" style="width:33.333333333333336%" class="column"><p id="ddf8d777-000d-4250-bfe4-20a13a8b4725" class=""><strong>¿Por qué?</strong></p><p id="ca4e3130-1826-428c-922a-a56930cc91a6" class="">Consideramos necesario reforzar el currículo universitario a nivel de habilidades blandas (p.ej. comunicación, gestión del tiempo, del estrés, etc) y preparar así mejor al estudiante para su entrada en el mercado laboral.</p><p id="38118923-3629-46ba-9d8b-8bd6a8618ab8" class=""><strong>¿Cómo?</strong></p><p id="dd69556f-5541-48d3-a747-3aed963a86a5" class="">Proveemos oportunidades gracias a: </p><ul id="655503ad-c034-4a98-acdf-67970b6fb24e" class="bulleted-list"><li style="list-style-type:disc">Experiencia y conocimientos propios de la JdeG del GdeE (cuyos miembros buscan formarse constantemente)</li></ul><ul id="75214e4d-6626-4b4a-b74c-207efad48e47" class="bulleted-list"><li style="list-style-type:disc">Experiencia y conocimientos ajenos (de personas y organizaciones externas a las que se invita a colaborar)</li></ul><p id="f606ff83-716f-4d01-9b4b-60f276e893eb" class=""><strong>¿Qué ofrecemos?</strong></p><p id="31a4ab20-e58f-4c14-b0b3-6af25545b094" class="">Sesiones de formación monográficas online -y, hopefully soon, presenciales. También nuestra <a href="https://estudiantesrsef.vercel.app/">Internships Database</a>, para facilitar encontrar prácticas y estancias de investigación.</p><p id="396c5346-dbb7-4fa1-b495-65e2e3d16ee4" class="">
+</p></div><div id="669962c4-da2f-4f96-90fc-c80d9aec4981" style="width:33.33333333333333%" class="column"><p id="bdb8783d-8a32-4443-9fec-5a3cfeed4756" class=""><strong>¿Por qué?</strong> </p><p id="e12b3b6f-1a3f-4b7e-90a0-14fb8e2de4e0" class="">Una red de contactos potente facilitará el acceso del estudiante a prácticas, másteres, doctorados y al sector privado. Por eso es vital fomentar el networking entre nuestros miembros y conseguir que entiendan su importancia.</p><p id="d6311b5d-0e84-41fa-a616-fbcc92a5e549" class=""><strong>¿Cómo? </strong></p><p id="15f74dbc-9b1c-423e-b1b9-c7a062ef94a8" class="">Proveemos oportunidades recurriendo a contactos de: </p><ul id="eaf89881-ef53-4fba-82c7-177183cc7165" class="bulleted-list"><li style="list-style-type:disc">La RSEF, como gran plataforma que integra &gt; 3000 miembros y que premia a los más destacados (<a href="https://rsef.es/area-de-miembros/premios-de-la-rsef">premios RSEF - Fund. BBVA</a>)</li></ul><ul id="bdd59f9e-a98e-408a-abe2-4607f060e5be" class="bulleted-list"><li style="list-style-type:disc">El GdeE, la mayor red de estudiantes de física de España con &gt; 400 miembros</li></ul><ul id="3348ba89-b8bb-421e-b9be-0483aeed5dee" class="bulleted-list"><li style="list-style-type:disc">La propia red personal de la JdeG del GdeE</li></ul><p id="098bbb98-6f83-4a54-a789-5ec3e98c43a6" class=""><strong>¿Qué ofrecemos? </strong></p><p id="1691ddf1-c1de-43f2-a8fd-fc54246dee83" class="">Actividades periódicas online -y, hopefully soon, presenciales- entre nuestros miembros, con estudiantes de otros <a href="https://www.iaps.info/members/list-of-iaps-members/">Comités de IAPS</a>, y con figuras destacadas de la Academia y la empresa.</p></div><div id="797b21f3-9b9d-4ff3-bbd6-54b952f9958e" style="width:33.33333333333334%" class="column"><p id="1ec2ec98-9523-4fcd-be84-94740e2ae602" class=""><strong>¿Por qué?</strong></p><p id="f8487843-9f0e-4f7d-8bc6-4cb373915b3c" class="">Divulgar permite al estudiante escapar del formato informe y dar rienda suelta a su creatividad mientras comparte su pasión por la ciencia. El GdeE tenía que ofrecer un espacio para disfrutar de tal placer.</p><p id="51a51db6-a707-4d04-92bb-db1205084b84" class=""><strong>¿Cómo?</strong></p><p id="ee26d6ff-83e6-407d-9e66-f6a05ac6d6a8" class="">Creemos que el estudiante de grado, máster y doctorado puede producir divulgación de calidad y con rigor. Ello le exige formarse en los temas que quiera tratar, claro, y también en las técnicas para hacerlo. </p><p id="80b335cd-b341-45b8-bf60-6ff84a58cc71" class="">En el GdeE aprovechamos nuestra experiencia y la de profesionales externos (p. ej. El Físico Barbudo) para mejorar nuestras técnicas y divulgar mejor.</p><p id="e0cd7e98-a6a1-4a3e-97ef-f87c752944c9" class=""><strong>¿Qué ofrecemos?</strong></p><p id="41ba4e22-b4b0-45d2-bf9f-90863bd22a60" class="">Una plataforma donde publicar artículos de divulgación (<a href="https://estudiantes.rsef.es/blog/">El Blog del GdeE</a>), hilos divulgativos (<a href="https://twitter.com/EstudiantesRSEF">twitter GdeE</a>) y sesiones de formación puntuales profesionales externos y con nuestro equipo de RR.PP.</p></div></div><h1 id="cbca14d5-28cb-4220-898a-11f36a85d1c6" class="">⚖️ Valores</h1><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="6c41ae1e-4bac-468a-b09e-39dff00894a1"><div style="font-size:1.5em"><span class="icon">💡</span></div><div style="width:100%"><strong>Aclaración: </strong>Estos son los valores que definen por qué y cómo trabajamos en el Grupo de Estudiantes de la RSEF.</div></figure><h2 id="a9731dc6-0470-44e8-b63b-0c762cfeed4a" class="">Servicio público</h2><p id="cff26994-3909-4d88-a9b1-41204948547a" class="">Todos los responsables de la Real Sociedad Española de Física entienden que su esfuerzo para con la RSEF forma parte de su papel como ciudadan@s activos de la Sociedad española, y que sólo creciendo en número de miembros - y, en particular, de miembros activamente involucrados - seremos capaces de promocionar y defender el papel y la posición de la física en nuestro país (y eso incluye la calidad de sus resultados, planes de estudios, oportunidades de empleo, etc).</p><div id="441063bc-19b1-413b-8176-b3f8a202408a" class="column-list"><div id="c143f8ca-abbd-442a-b93c-6e2556cf6f19" style="width:33.333333333333336%" class="column"><h2 id="a9a50888-3e86-412c-8cf4-a41bb8999508" class="">Compromiso</h2></div><div id="b6284c29-70c9-4c29-b016-02a46d88b8f1" style="width:33.333333333333336%" class="column"><h2 id="2b95e305-033b-49eb-966d-b465fcdac0fa" class="">Proactividad</h2></div><div id="f485fed0-9285-4e2f-b6c8-9ff8a741c85c" style="width:33.33333333333333%" class="column"><h2 id="0b144838-ea60-4e56-b54c-0e3645b8ea8b" class=""><strong>Creatividad</strong></h2></div></div><div id="829d58d9-49d3-46c7-9962-7d97581b1468" class="column-list"><div id="ad0fcdc1-0cde-478b-950e-0573d2f6b9fc" style="width:33.33333333333333%" class="column"><p id="31f6ee4f-14c3-4c4e-9b61-d3974fcbf04e" class="">Our users entrust us with their money, their businesses, and their livelihoods. Millions of businesses around the world (individuals, startups, and large enterprises) are open for business only if we are. When we mess up, miss a deadline, or slow down, it matters. We take that responsibility seriously.</p></div><div id="031f3b48-2000-4426-9249-1d853992eba2" style="width:33.33333333333333%" class="column"><p id="e5ef9451-bcc9-44e4-a9f5-c6508a62a171" class="">El GdeE es Our users entrust us with their money, their businesses, and their livelihoods. Millions of businesses around the world (individuals, startups, and large enterprises) are open for business only if we are. When we mess up, miss a deadline, or slow down, it matters. We take that responsibility seriously.</p></div><div id="2ea693a8-6d59-4e6a-9e0e-2f2d684661ae" style="width:33.33333333333333%" class="column"><p id="331d121e-b4bc-4dbf-9ec6-254ec1718de8" class="">Our users entrust us with their money, their businesses, and their livelihoods. Millions of businesses around the world (individuals, startups, and large enterprises) are open for business only if we are. When we mess up, miss a deadline, or slow down, it matters. We take that responsibility seriously.</p></div></div><div id="9bfcab16-87c9-45e1-96d1-3fbef31a0462" class="column-list"><div id="e40b6125-9a95-4432-89bf-63fc470961c2" style="width:33.33333333333334%" class="column"><h2 id="73dc71ce-a99e-4c14-80e3-86116689cd50" class="">Trabajo en Equipo</h2></div><div id="2735c0d5-3c78-404d-b71b-1a59ebfd66d9" style="width:33.33333333333336%" class="column"><h2 id="4bf29a57-3ed8-49a3-8628-df4f516094d7" class="">Compañerismo</h2></div><div id="394f267b-fad1-459f-85c6-c537219d0ea9" style="width:33.33333333333333%" class="column"><h2 id="9e53da48-7299-4cb0-8978-436c78cd2fa6" class="">Comunidad</h2></div></div><div id="59e3ac19-d707-4c31-8261-3939c6954a71" class="column-list"><div id="48cf3063-51b0-41dd-8128-d66f43f62e01" style="width:33.333333333333336%" class="column"><p id="bd856061-2e0e-4920-9552-3e67366cc024" class="">Cada uno de los miembros de la Junta de Gobierno es único e irrepetible, lo que asegura que </p></div><div id="c839e406-25f2-4929-b436-4beb091c7557" style="width:33.333333333333336%" class="column"><p id="765b1282-a46d-4965-a593-c727e0264bbb" class="">By the standards of the rest of the world, we overtrust. We’re okay with that.</p></div><div id="20fbd616-eabd-44d7-a591-2b384673605f" style="width:33.33333333333333%" class="column"><p id="90bcfe00-3831-4a41-864b-1804449bcbfd" class="">By the standards of the rest of the world, we overtrust. We’re okay with that.</p></div></div><h2 id="62f4b31a-430e-4db0-88ad-50589a11648a" class="">Liderazgo</h2><p id="a51507f8-953a-469b-a76a-9bb5e4e986e3" class="">
+</p></div></article></body></html>
