@@ -5,6 +5,21 @@ permalink: /testJoan2/
 redirect_from:
 ---
 
+<button class="chip_button" id="All" onclick="filterUsingCategory('All')">
+  Todas las entradas
+</button>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  {% assign cat = category | first %}
+  {% if cat == 'blog' %}
+  {% elsif cat == 'sistemidiriferimento' %}
+  {% else %}
+  <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
+    {{ cat }}
+  </button>
+  {% endif %}
+{% endfor %}
+
 <ul class="post-list">
   {% for post in site.categories.blog %}
     {% if post.hidden != true %}
