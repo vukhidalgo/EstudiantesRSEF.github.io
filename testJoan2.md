@@ -20,8 +20,11 @@ redirect_from:
 {% endfor %}
 
 <ul class="post-list">
+  {% assign id = 0 %}
   {% for post in site.categories.blog %}
     {% if post.hidden != true %}
+      {% assign id = id | plus:1 %}
+      <div  id="{{id}}">
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -59,6 +62,7 @@ redirect_from:
         </div>
       </li>
       <div class="divider">
+      </div>
       </div>
     {% endif %}
   {% endfor %}
