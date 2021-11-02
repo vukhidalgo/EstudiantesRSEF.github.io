@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Test Joan 2 wo/ comments"
+title: "Test Joan 2 wo/ comment"
 permalink: /testJoan2/
 redirect_from:
 ---
