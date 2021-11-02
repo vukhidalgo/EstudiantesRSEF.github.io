@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Test Joan 2 wo/ comments"
+title: "Test Joan 2 wo/ comment"
 permalink: /testJoan2/
 redirect_from:
 ---
@@ -61,8 +61,7 @@ redirect_from:
           {{ post.excerpt | strip_html }}
         </div>
       </li>
-      <div class="divider">
-      </div>
+      <div class="divider"></div>
       </div>
     {% endif %}
   {% endfor %}
