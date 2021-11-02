@@ -60,8 +60,9 @@ redirect_from:
         <div class="entry-content">
           {{ post.excerpt | strip_html }}
         </div>
-      </li>
-      <div class="divider"></div>
+        </li>
+        <div class="divider">
+        </div>
       </div>
     {% endif %}
   {% endfor %}
