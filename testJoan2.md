@@ -12,7 +12,6 @@ redirect_from:
 {% for category in categories %}
   {% assign cat = category | first %}
   {% if cat == 'blog' %}
-  {% elsif cat == 'sistemidiriferimento' %}
   {% else %}
   <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
     {{ cat }}
