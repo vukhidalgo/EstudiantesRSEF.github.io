@@ -5,9 +5,7 @@ permalink: /test5/
 redirect_from:
 ---
 
-<button class="chip_button" id="All" onclick="filterUsingCategory('All')">
-  Tutti i Post
-</button>
+<div class="row center">
 {% assign categories = site.categories | sort %}
 {% for category in categories %}
   {% assign cat = category | first %}
@@ -19,7 +17,13 @@ redirect_from:
   </button>
   {% endif %}
 {% endfor %}
+</div> 
 
+<div class="row center">
+<button class="chip_button" id="All" onclick="filterUsingCategory('All')">
+  Quitar filtros
+</button>
+</div> 
 
 <ul class="post-list">
   {% assign id = 0 %}
