@@ -32,6 +32,7 @@ redirect_from:
     {% assign id = id | plus:1 %}
     <div  id="{{id}}">
       <li>
+        <div class="divider"></div>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
@@ -68,7 +69,6 @@ redirect_from:
         </div>
       </li>
       </div>
-      <div class="divider"></div>
     {% endif %}
   {% endfor %}
 </ul>
