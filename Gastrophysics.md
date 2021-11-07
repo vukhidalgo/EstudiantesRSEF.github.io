@@ -22,6 +22,7 @@ permalink: /Gastrophysics/
     </div>
       
     <!-- INDEX AS BUTTONS -->
+    <!-- Definir los colores de los botones según la paleta del banner -->
 
     <div class="section">
       <div class="row">
@@ -47,6 +48,37 @@ permalink: /Gastrophysics/
         </div>
       </div>
     </div>
+	  
+    <!-- BASES DEL CONCURSO -->
+	  
+    <div class="section">
+      <h3 id="Bases">Bases del concurso</h3>
+      <h2><span style="color:red">Subtítulo</span></h2>
+      <p style="text-align: justify;">
+        Aquí van las bases del concurso así majas en texto. <span style="color:red">O preferís colgarlas en un pdf descargable? En tal caso,
+      </p>
+	      
+      <div class="section">
+        <div class="row">
+		
+          <div class="col s12 m6">
+            <div class="row center">
+              Descarga las bases del concurso de recetas Gastrophysics pulsando el botón de la derecha.
+            </div>
+          </div>
+		
+          <div class="col s12 m6">
+            <div class="row center">
+              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Bases</a>
+            </div>
+          </div>
+		
+        </div>
+      </div>
+	    
+    </div>
+	  
+	  
       
       
     <div class="section">  
