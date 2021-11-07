@@ -9,7 +9,7 @@ permalink: /Gastrofisica/
     
 <!-- TITLE AND DESCRIPTION -->
     <div class="section">
-      <h3 class="center"><strong>CONCURSO GASTROFÍSICA <span style="color:red">(esto lo quitamos cuando esté el banner)</span> </strong></h3>
+      <h3 class="center"><strong>CONCURSO GASTROFÍSICA</strong></h3> <span style="color:red">(esto lo quitamos dependendiendo del banner)</span>
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
       <hr>
       <p>
