@@ -15,7 +15,7 @@ permalink: /Gastrofisica/
       <p>
         ¡Bienvenid@ a la página web oficial del Concurso Gastrofísica!
       <p style="text-align: justify;">
-        Descripción del Concurso Gastrofísica. Pincha <a class="text" href=#Conoce>aquí</a> si quieres conocernos más.
+        Descripción del Concurso Gastrofísica. Pincha <a class="text" href="#Conoce">aquí</a> si quieres conocernos más.
       </p>      
 <!-- INDEX AS BUTTONS -->
     <span style="color:red"> Definir los colores de los botones según la paleta de colores del banner </span>
