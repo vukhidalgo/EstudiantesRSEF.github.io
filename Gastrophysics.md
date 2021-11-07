@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Gastrophysics
-permalink: /Gastrophysics/
+title: Gastrofísica
+permalink: /Gastrofisica/
 ---
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
     
-    <!-- TITLE AND DESCRIPTION -->
-    
+<!-- TITLE AND DESCRIPTION -->
     <div class="section">
       <h3 class="center"><strong>CONCURSO GASTROFÍSICA <span style="color:red">(esto lo quitamos cuando esté el banner)</span> </strong></h3>
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
@@ -19,20 +18,20 @@ permalink: /Gastrophysics/
         Descripción del Concurso Gastrofísica. Pincha <a class="text" href=#Conoce>aquí</a> si quieres conocernos más.
       </p>      
 <!-- INDEX AS BUTTONS -->
-<span style="color:red"> Definir los colores de los botones según la paleta de colores del banner </span>
+    <span style="color:red"> Definir los colores de los botones según la paleta de colores del banner </span>
     <div class="section">
       <div class="row">
-        <div class="col s12 m6 l4">
+        <div class="col s12 m6 l6">
           <div class="row center">
 		  	<a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Descarga aquí las bases del concurso</a>
           </div>
         </div>
-        <div class="col s12 m6 l4">
+        <div class="col s12 m6 l3">
           <div class="row center">
 		        <a href="#Recetario" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Recetario</a>
           </div>
         </div>
-        <div class="col s12 m6 l4">
+        <div class="col s12 m6 l3">
           <div class="row center">
             <a href="#Participa" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Participa</a>
           </div>
@@ -62,11 +61,12 @@ permalink: /Gastrophysics/
     <div class="section">
       <h2 id="Participa">Participa</h2>
       <p style="text-align: justify;">
-        Así pues para participar en el concurso solo necesitas: <ul>
-	    <li> Un grupo de 3-4 amig@s.
-	    <li> Una cámara de vídeo.
-	    <li> ¡Ganas de pasar un rato haciendo física y chupándote los dedos!
-	    </ul>
+        Así pues para participar en el concurso solo necesitas:
+	<ul>
+	    <li>Un grupo de 3-4 amig@s.</li>
+	    <li>Una cámara de vídeo.</li>
+	    <li>¡Ganas de pasar un rato haciendo física y chupándote los dedos!</li>
+	</ul>
 	Cuando tengas tu vídeo preparado envíalo mediante <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">este formulario</a> antes del XX de diciembre.
 <!-- CONÓCENOS -->   
     <div class="section">
