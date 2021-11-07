@@ -75,7 +75,7 @@ permalink: /Gastrophysics/
     <div class="section">
       <h2 id="Recetario">Explora nuestro recetario</h2>
       <p style="text-align: justify;">
-        ¿Quieres conocer el recetario que hemos elaborado? ¡Descárgalo en este enlacey empieza a cocinar como un@ físic@!
+        ¿Quieres conocer el recetario que hemos elaborado? ¡Descárgalo en este enlace y empieza a cocinar como un@ físic@!
       <div class="section">
         <div class="row">
 		
