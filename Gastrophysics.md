@@ -15,7 +15,6 @@ permalink: /Gastrophysics/
       <hr>
       <p>
         ¡Bienvenid@ a la página web oficial de Gastrophysics! <span style="color:red">(vais a utilizar "Gastrophysics" como marca o "Concurso de recetas Gastrophysics"?)</span>
-      </p>
       <p style="text-align: justify;">
         Descripción de Gastrophysics en general y del concurso.
       </p>
