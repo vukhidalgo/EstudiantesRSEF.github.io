@@ -67,6 +67,7 @@ permalink: /Gastrofisica/
 	    <li>Una cámara de vídeo.</li>
 	    <li>¡Ganas de pasar un rato haciendo física y chupándote los dedos!</li>
 	</list>
+      <p style="text-align: justify;">
 	Cuando tengas tu vídeo preparado envíalo mediante <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">este formulario</a> antes del XX de diciembre.
 <!-- CONÓCENOS -->   
     <div class="section">
@@ -96,7 +97,7 @@ permalink: /Gastrofisica/
 	    
 	    
 	    
-    <!-- MÁS COSILLAS -->
+    <!-- MÁS COSILLAS 
       
     <div class="section">  
       <p>
@@ -197,3 +198,4 @@ permalink: /Gastrofisica/
       </div>
       {% endif %}
     </div>
+-->
