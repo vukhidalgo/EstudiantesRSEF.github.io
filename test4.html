@@ -36,7 +36,6 @@ redirect_from:
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}
           </a>
-        </h2>
           {% if post.date %}
             <div class="chip">
               <span class="post-meta">
@@ -63,6 +62,7 @@ redirect_from:
               {% endif %}
             {% endfor %}
           {% endif %}
+        </h2>
         <div class="entry-content">
           {{ post.excerpt | strip_html }}
         </div>
