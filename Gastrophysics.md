@@ -26,17 +26,17 @@ permalink: /Gastrophysics/
 
     <div class="section">
       <div class="row">
-        <div class="col s12 m6 l3">
+        <div class="col s12 m6 l4">
           <div class="row center">
-		        <a href="#Bases" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Bases</a>
+		        <a href="#Bases" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Bases del concurso</a>
           </div>
         </div>
-        <div class="col s12 m6 l3">
+        <div class="col s12 m6 l4">
           <div class="row center">
 		        <a href="#Recetario" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Recetario</a>
           </div>
         </div>
-        <div class="col s12 m6 l3">
+        <div class="col s12 m6 l4">
           <div class="row center">
             <a href="#Participa" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Participa</a>
           </div>
@@ -50,7 +50,7 @@ permalink: /Gastrophysics/
       <h2 id="Bases">Bases del concurso</h2>
       <p style="text-align: justify;">
         Aquí van las bases del concurso así majas en texto. <span style="color:red">O preferís colgarlas en un pdf descargable? En tal caso,
-      </p>
+	      </p>
       <div class="section">
         <div class="row">
 		
@@ -68,12 +68,12 @@ permalink: /Gastrophysics/
 		
         </div>
       </div>    
-    </div>
+	  </div>
 	  
     <!-- RECETARIO -->
 	  
     <div class="section">
-      <h2 id="Recetario">Bases del concurso</h2>
+      <h2 id="Recetario">Explora nuestro recetario</h2>
       <p style="text-align: justify;">
         ¿Quieres conocer el recetario que hemos elaborado? ¡Descárgalo en este enlacey empieza a cocinar como un@ físic@!
       <div class="section">
@@ -93,10 +93,17 @@ permalink: /Gastrophysics/
 		
         </div>
       </div>    
-    </div>
+	  </div>
 	  
+    <!-- PARTICIPA -->
 	  
-      
+    <div class="section">
+      <h2 id="Participa">Participa</h2>
+      <p style="text-align: justify;"
+        Participa en el concurso enviando tus vídeos a <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">estudiantes@rsef.es con el asunto "Gastrophysics"</a></li>. <span style="color:red"> Igual queréis que se os apunten a un formulario antes también, no?</span>
+	</div>
+     
+    <!-- PARTICIPA -->
       
     <div class="section">  
       <p>
