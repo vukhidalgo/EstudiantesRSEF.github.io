@@ -7,14 +7,14 @@ permalink: /Gastrophysics/
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
-      <h3 class="center"><strong>GASTROPHYSICS</strong></h3>
+      <h3 class="center"><strong>GASTROPHYSICS <span style="color:red">(esto lo quitamos cuando esté el banner)</span> </strong></h3>
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
       <hr>
       <p>
-        ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
+        ¡Bienvenid@ a la página web oficial de Gastrophysics! <span style="color:red">(vais a utilizar "Gastrophysics" como marca o "Concurso de recetas Gastrophysics" o algo?)</span>
       </p>
       <p style="text-align: justify;">
-        PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará organizada por la Universidad de Oporto. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+        Descripción maja de Gastrophysics en general y del concurso.
       </p>
       <p>
         <strong>En esta web encontrarás información sobre</strong>: 
