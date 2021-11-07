@@ -20,7 +20,7 @@ permalink: /Gastrophysics/
       </p>
       
     <!-- INDEX AS BUTTONS -->
-    <span style="color:red"> Definir los colores de los botones según la paleta del banner <\span>
+    <span style="color:red"> Definir los colores de los botones según la paleta del banner </span>
 
     <div class="section">
       <div class="row">
