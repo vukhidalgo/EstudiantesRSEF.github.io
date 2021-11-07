@@ -18,7 +18,6 @@ permalink: /Gastrophysics/
       <p style="text-align: justify;">
         Descripción de Gastrophysics en general y del concurso.
       </p>
-    </div>
       
     <!-- INDEX AS BUTTONS -->
     <!-- Definir los colores de los botones según la paleta del banner -->
