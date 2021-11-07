@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gastrofísica
+title: Concurso Gastrofísica
 permalink: /Gastrofisica/
 ---
 
@@ -90,13 +90,7 @@ permalink: /Gastrofisica/
         </div>
       </div>
     </div>
-	
-	    
-    <hr>
-	    
-	    
-	    
-	    
+	  
     <!-- MÁS COSILLAS 
       
     <div class="section">  
