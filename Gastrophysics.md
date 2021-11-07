@@ -49,7 +49,6 @@ permalink: /Gastrophysics/
       <h2 id="Bases">Bases del concurso</h2>
       <p style="text-align: justify;">
         Aquí van las bases del concurso así majas en texto. <span style="color:red">O preferís colgarlas en un pdf descargable? En tal caso,
-	      </p>
       <div class="section">
         <div class="row">
 		
@@ -67,7 +66,6 @@ permalink: /Gastrophysics/
 		
         </div>
       </div>    
-	  </div>
 	  
     <!-- RECETARIO -->
 	  
@@ -92,15 +90,13 @@ permalink: /Gastrophysics/
 		
         </div>
       </div>    
-	  </div>
 	  
     <!-- PARTICIPA -->
 	  
     <div class="section">
       <h2 id="Participa">Participa</h2>
       <p style="text-align: justify;"
-        Participa en el concurso enviando tus vídeos a <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">estudiantes@rsef.es con el asunto "Gastrophysics"</a></li>. <span style="color:red"> Igual queréis que se os apunten a un formulario antes también, no?</span>
-	</div>
+        Participa en el concurso enviando tus vídeos a <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">estudiantes@rsef.es</a></li> con el asunto "Gastrophysics". <span style="color:red"> Igual queréis que se os apunten a un formulario antes también, no?</span>
      
     <!-- PARTICIPA -->
       
