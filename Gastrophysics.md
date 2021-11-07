@@ -95,8 +95,8 @@ permalink: /Gastrophysics/
 	  
     <div class="section">
       <h2 id="Participa">Participa</h2>
-      <p style="text-align: justify;"
-        Participa en el concurso enviando tus vídeos a <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">estudiantes@rsef.es</a></li> con el asunto "Gastrophysics". <span style="color:red"> Igual queréis que se os apunten a un formulario antes también, no?</span>
+      <p style="text-align: justify;">
+        Participa en el concurso enviando tus vídeos a <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">estudiantes@rsef.es</a> con el asunto "Gastrophysics". <span style="color:red"> Igual queréis que se os apunten a un formulario antes también, no?</span>
      
     <!-- PARTICIPA -->
       
