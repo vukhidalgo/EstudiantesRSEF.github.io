@@ -6,16 +6,50 @@ permalink: /Gastrophysics/
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
+    
+    <!-- TITLE AND DESCRIPTION -->
+    
     <div class="section">
       <h3 class="center"><strong>GASTROPHYSICS <span style="color:red">(esto lo quitamos cuando esté el banner)</span> </strong></h3>
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
       <hr>
       <p>
-        ¡Bienvenid@ a la página web oficial de Gastrophysics! <span style="color:red">(vais a utilizar "Gastrophysics" como marca o "Concurso de recetas Gastrophysics" o algo?)</span>
+        ¡Bienvenid@ a la página web oficial de Gastrophysics! <span style="color:red">(vais a utilizar "Gastrophysics" como marca o "Concurso de recetas Gastrophysics"?)</span>
       </p>
       <p style="text-align: justify;">
-        Descripción maja de Gastrophysics en general y del concurso.
+        Descripción de Gastrophysics en general y del concurso.
       </p>
+    </div>
+      
+    <!-- INDEX AS BUTTONS -->
+
+    <div class="section">
+      <div class="row">
+        <div class="col s12 m6 l3">
+          <div class="row center">
+		        <a href="#PLANCKS&IAPS" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Objetivos</a>
+          </div>
+        </div>
+        <div class="col s12 m6 l3">
+          <div class="row center">
+		        <a href="#Equipos" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Horario</a>
+          </div>
+        </div>
+        <div class="col s12 m6 l3">
+          <div class="row center">
+            <a href="#Supervisores" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">Ponentes</a>
+          </div>
+        </div>
+        <div class="col s12 m6 l3">
+          <div class="row center">
+            <a href="#EdicionesAnteriores" class="btn-large waves-effect waves-light" style="color:#323333;background-color:#E0C58B">¡Inscríbete!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+      
+      
+    <div class="section">  
       <p>
         <strong>En esta web encontrarás información sobre</strong>: 
       </p>
