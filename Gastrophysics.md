@@ -62,11 +62,11 @@ permalink: /Gastrofisica/
       <h2 id="Participa">Participa</h2>
       <p style="text-align: justify;">
         Así pues para participar en el concurso solo necesitas:
-	<ul>
+	<list class="a">
 	    <li>Un grupo de 3-4 amig@s.</li>
 	    <li>Una cámara de vídeo.</li>
 	    <li>¡Ganas de pasar un rato haciendo física y chupándote los dedos!</li>
-	</ul>
+	</list>
 	Cuando tengas tu vídeo preparado envíalo mediante <a class="text" href="mailto:estudiantes@rsef.es?subject=[Gastrophysics]">este formulario</a> antes del XX de diciembre.
 <!-- CONÓCENOS -->   
     <div class="section">
