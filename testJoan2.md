@@ -8,7 +8,7 @@ redirect_from:
 <button class="chip_button" id="All" onclick="filterUsingCategory('All')">
   Todas las entradas
 </button>
-{% assign categories = site.categories | sort %}
+{% assign categories = site.categories.blog | sort %}
 {% for category in categories %}
   {% assign cat = category | first %}
   {% if cat == 'blog' %}
