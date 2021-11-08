@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Test Joan 2 nuevo"
+title: "Test Joan 2 ahora sí"
 permalink: /testJoan2/
 redirect_from:
 ---
