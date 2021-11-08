@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Test Joan 2 ahora sí"
+title: "Test Joan 2 el bueno"
 permalink: /testJoan2/
 redirect_from:
 ---
@@ -11,7 +11,8 @@ redirect_from:
 {% assign categories = site.categories | sort %}
 {% for category in categories %}
   {% assign cat = category | first %}
-  {% if cat == 'blog', cat == 'noticias' %}
+  {% if cat == 'blog' %}
+  {% elsif cat == 'noticias' %}
   {% else %}
   <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
     {{ cat }}
