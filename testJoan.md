@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Test Joan"
+title: "Test Joan 123"
 permalink: /testJoan/
 redirect_from:
 ---
@@ -62,6 +62,7 @@ redirect_from:
         <div class="entry-content">
           {{ post.excerpt | strip_html }}
         </div>
+        <br>
       </li>
       <div class="divider">
       </div>
