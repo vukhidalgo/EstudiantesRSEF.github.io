@@ -11,7 +11,7 @@ redirect_from:
 {% assign categories = site.categories | sort %}
 {% for category in categories %}
   {% assign cat = category | first %}
-  {% if cat == 'blog','noticias' %}
+  {% if cat == 'blog', cat == 'noticias' %}
   {% else %}
   <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
     {{ cat }}
