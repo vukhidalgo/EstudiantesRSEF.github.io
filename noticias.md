@@ -5,7 +5,7 @@ redirect_from:
   - /noticias.html
 ---
 
-<ul class="post-list">
+<!-- <ul class="post-list">
   {% for post in site.categories.noticias %}
   {% if post.hidden != true %}
   <li>
@@ -47,4 +47,4 @@ redirect_from:
   <div class="divider"></div>
   {% endif %}
   {% endfor %}
-  </ul>
+  </ul> -->
