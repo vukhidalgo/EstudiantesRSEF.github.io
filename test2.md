@@ -158,7 +158,7 @@ permalink: /test2/
   <div class="row center">
   {% for miembro in item.miembros %}
     <ul class="collection waves-effect waves-light">
-<a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87);" target="_blank">
+<a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
 <li class="collection-item avatar2">
     <img src="{{ miembro.img }}" alt="imagen" class="circle">
     <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
