@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="post">
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.name }}</h1>
+    </header>
+
+    <article class="post-content">
+      {{ content }}
+    </article>
+
+    {% if page.gallery != nil %}
+    <h4>Fotos del evento</h4>
+
+    <div class="carousel">
+      {% for image in site.static_files %}{% if image.path contains page.gallery %}
+      <a class="carousel-item" href="#{{ site.baseurl }}{{ image.path }}!"><img src="{{ site.baseurl }}{{ image.path }}"></a>
+      {% endif %}{% endfor %}
+    </div>
+    {% endif %}
+
+  </div>
+</div>
