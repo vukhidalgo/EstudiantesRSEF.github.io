@@ -13,6 +13,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
     <div class="row center">
       {% for offer in site.offers %}
         {% if offer.active contains "YES" %}
+	    offer.nombre
 	  <ul class="collection waves-effect waves-light" style="width: 33%">
             <a href="#{{ offer.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
               <li class="collection-item avatar2">
