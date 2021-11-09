@@ -6,6 +6,30 @@ permalink: /colabora/
 
 Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa más en estudiantes@rsef.es). ¡Te esperamos!
 
+<div class="section">
+  <div class="col s12 m6">
+    <div class="row center">
+      {% for offer in site.offers %}
+        {% if offer.active contains "YES" %}
+	  <ul class="collection waves-effect waves-light" style="width: 33%">
+            <a href="#{{ offer.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+              <li class="collection-item avatar2">
+                <img src="{{ offer.img }}" alt="" class="circle">
+                <span class="title" style="padding-left: 10px">{{ offer.nombre }}</span>
+                {% if person.roldes %}
+                <p style="padding-top: 10px">
+                  {{ person.roldes }}
+                </p>
+              </li>
+            </a>
+          </ul>
+        {% endif %}
+      {% endfor %}    
+    </div>
+  </div>
+</div>
+
+
 <div class="no-pad-top" id="index-page">
   <div class="container">
     
