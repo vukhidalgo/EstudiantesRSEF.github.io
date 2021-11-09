@@ -70,3 +70,18 @@ redirect_from:
     {% endif %}
   {% endfor %}
 </ul>
+
+<script type="text/javascript">
+  function filterUsingCategory(selectedCategory) {
+    var id = 0;
+    {% for post in site.categories.blog %}
+      var cats = {{ post.categories | jsonify }}
+
+      var postDiv = document.getElementById(++id);
+      postDiv.style.display =
+        (selectedCategory == 'All' || cats.includes(selectedCategory)) 
+          ? 'unset' 
+          : 'none';
+    {% endfor %}
+  }
+</script>
