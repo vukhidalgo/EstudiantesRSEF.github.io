@@ -27,7 +27,7 @@ Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estu
  <div class="row">
    <div class="col l4 offset-l4 s8 offset-s2">
 	    <h1>
-	       <img id="index-top-logo" src="/img/dulogos/YMlogo.jpg" alt="Logo EPS YM">
+	       <img id="index-top-logo" src="/img/EPS YM logo.jpg" alt="Logo EPS YM">
 	    </h1>
    </div>
  </div>
