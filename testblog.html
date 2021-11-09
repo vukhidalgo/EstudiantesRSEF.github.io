@@ -5,6 +5,7 @@ permalink: /testblog/
 redirect_from:
 ---
 
+  <p>Opción filtros 1</p>
 <button class="chip_button" id="All" onclick="filterUsingCategory('All')">
   Todas las entradas
 </button>
@@ -21,6 +22,7 @@ redirect_from:
 {% endfor %}
 
 <div class="row center" style="padding-top: 10px">
+  <p>Opción filtros 2</p>
 <button class="chip_button" id="All" onclick="filterUsingCategory('All')">
   Todas las entradas
 </button>
@@ -35,6 +37,25 @@ redirect_from:
   </button>
   {% endif %}
 {% endfor %}
+</div>
+
+
+<div class="row center" style="padding-top: 10px">
+  <p>Opción filtros 3</p>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  {% assign cat = category | first %}
+  {% if cat == 'blog' %}
+  {% elsif cat == 'noticias' %}
+  {% else %}
+  <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
+    {{ cat }}
+  </button>
+  {% endif %}
+{% endfor %}
+<button class="chip_button" id="All" onclick="filterUsingCategory('All')">
+ Quitar filtros
+</button>
 </div>
 
 <ul class="post-list">
