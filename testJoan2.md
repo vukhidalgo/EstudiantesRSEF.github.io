@@ -61,6 +61,7 @@ redirect_from:
         <div class="entry-content">
           {{ post.excerpt | strip_html }}
         </div>
+        <br>
         </li>
         <div class="divider">
         </div>
