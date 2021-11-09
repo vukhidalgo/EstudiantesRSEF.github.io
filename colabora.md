@@ -16,12 +16,15 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	  <ul class="collection waves-effect waves-light" style="width: 33%">
             <a href="#{{ offer.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
               <li class="collection-item avatar2">
+<!--
                 <img src="{{ offer.img }}" alt="" class="circle">
+-->
                 <span class="title" style="padding-left: 10px">{{ offer.nombre }}</span>
                 {% if offer.roldes %}
                 <p style="padding-top: 10px">
                   {{ offer.roldes }}
                 </p>
+		{% endif %}
               </li>
             </a>
           </ul>
