@@ -23,7 +23,6 @@ Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estu
 
 ## Acuerdo con Young Minds
 
-
  <div class="row">
    <div class="col l4 offset-l4 s8 offset-s2">
 	    <h1>
@@ -31,7 +30,6 @@ Una vez enviada la petición firmada a <a href="mailto:estudiantes@rsef.es">estu
 	    </h1>
    </div>
  </div>
-
 
 En mayo de 2020, el GdeE firmó un acuerdo con el proyecto <a href="https://www.epsyoungminds.org/">Young Minds</a> de la European Physical Society, por el que toda Delegación del Grupo puede registrarse también como una de sus Local Sections (cuyos estatutos podéis encontrar en <a href="http://www.epsyoungminds.org/wp-content/uploads/2014/04/Sample-Bylaw-for-EPS-Young-Minds-Local-Sections.pdf">este enlace</a>).
 
