@@ -18,9 +18,9 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
               <li class="collection-item avatar2">
                 <img src="{{ offer.img }}" alt="" class="circle">
                 <span class="title" style="padding-left: 10px">{{ offer.nombre }}</span>
-                {% if person.roldes %}
+                {% if offer.roldes %}
                 <p style="padding-top: 10px">
-                  {{ person.roldes }}
+                  {{ offer.roldes }}
                 </p>
               </li>
             </a>
@@ -36,7 +36,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 {% for offer in site.offers %}
 {% if offer.active contains "YES" %}
 
-<div id="{{ person.id | remove: "/" }}-modal" class="modal">
+<div id="{{ offer.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
@@ -84,6 +84,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
   
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+	  
   </div>
 </div>
 
