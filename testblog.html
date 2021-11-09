@@ -20,6 +20,23 @@ redirect_from:
   {% endif %}
 {% endfor %}
 
+<div class="row center">
+<button class="chip_button" id="All" onclick="filterUsingCategory('All')">
+  Todas las entradas
+</button>
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  {% assign cat = category | first %}
+  {% if cat == 'blog' %}
+  {% elsif cat == 'noticias' %}
+  {% else %}
+  <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
+    {{ cat }}
+  </button>
+  {% endif %}
+{% endfor %}
+</div>
+
 <ul class="post-list">
   {% assign id = 0 %}
   {% for post in site.categories.blog %}
