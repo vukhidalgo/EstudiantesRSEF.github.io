@@ -5,7 +5,7 @@ title: "Networking: ¡conoce otr@s miembros del Grupo de Estudiantes!"
 shorttitle: "Networking: ¡conoce otr@s miembros del GdeE!"
 startingdate: 2021-11-28
 endingdate:
-place: Discord (online)
+place: Online
 locandina:
 cover: /img/eventos/2021-Networking/Networking20211128_portada2.png
 gallery:
