@@ -17,7 +17,7 @@ comm:
 
 <div class="section">
   <div class="row">
-    <div class="col s12 m6 l8">
+    <div class="col s12 m6 l7">
       <div class="row center">
         <p style="text-align: justify;">
 	  El próximo domingo 28 a las 12h tendrá lugar la primera sesión de networking exclusiva para miembros del Grupo de Estudiantes de la RSEF. Para poder participar sólo tienes que contestar el formulario que has recibido en el mail y unirte a nuestro servidor de Discord (si aún no estás). ¡Anímate a conocer otros estudiantes de grado, máster y doctorado en física de toda España!
@@ -28,7 +28,7 @@ comm:
         <a href="https://estudiantes.rsef.es/inscripcion/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">¡Inscríbete!</a>
       </div>
     </div>
-    <div class="col s12 m6 l4" style="padding: 40px">
+    <div class="col s12 m6 l5" style="padding: 20px">
       <img class="materialboxed" width="90%" src="/img/eventos/2021-Networking/Networking2021128.png">
     </div>
   </div>
