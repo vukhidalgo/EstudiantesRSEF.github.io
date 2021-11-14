@@ -2,7 +2,7 @@
 layout: event
 categories: eventos-internacionales
 title: "Networking: ¡conoce otr@s miembros del Grupo de Estudiantes!"
-shorttitle: "Networking: ¡conoce otr@s miembros del GdE!"
+shorttitle: "Networking: ¡conoce otr@s miembros del GdeE!"
 startingdate: 2021-11-28
 endingdate:
 place: Discord (online)
@@ -23,9 +23,8 @@ comm:
 	  El próximo domingo 28 a las 12h tendrá lugar la primera sesión de networking exclusiva para miembros del Grupo de Estudiantes de la RSEF. Para poder participar sólo tienes que contestar el formulario que has recibido en el mail y unirte a nuestro servidor de Discord (si aún no estás). ¡Anímate a conocer otros estudiantes de grado, máster y doctorado en física de toda España!
         </p>
 	<p style="text-align: justify;">
-	  Y si aún no eres miembro del Grupo de Estudiantes, ¡no puedes perderte este evento y los demás que ya preparamos para este curso! Clica en el botón de abajo para unirte al Grupo de Estudiantes
+	  Y si aún no eres miembro del Grupo de Estudiantes, ¡no puedes perderte este evento y los demás que ya preparamos para este curso! Clica en el botón de abajo para unirte al Grupo de Estudiantes.
 	</p>
-	      Y si aún no eres miembro del grupo, https://estudiantes.rsef.es/inscripcion/
       </div>
       <div class="row center">
         <a href="https://estudiantes.rsef.es/inscripcion/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">¡Inscríbete!</a>
@@ -36,7 +35,9 @@ comm:
 	<img class="materialboxed" width="80%" src="/img/eventos/2021-Networking/Networking2021128.png">
       </div>
     </div>
-
+  </div>
+</div>
+	
 <!---
 <p style="text-align: justify;">
   <a href='https://www.freepik.es/vectores/fondo'>Imagen de fondo obtenida de Freepik</a>
