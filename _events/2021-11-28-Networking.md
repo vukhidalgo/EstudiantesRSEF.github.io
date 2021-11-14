@@ -1,4 +1,4 @@
---
+---
 layout: event
 categories: eventos-internacionales
 title: "Networking con Discord"
@@ -22,4 +22,6 @@ comm:
   Si eres una persona inquieta, con ganas de conocer gente, te esperamos!
 </p>
     
-<a href='https://www.freepik.es/vectores/fondo'>Vector de Fondo creado por freepik - www.freepik.es</a>
+<p style="text-align: justify;">
+  <a href='https://www.freepik.es/vectores/fondo'>Vector de Fondo creado por freepik - www.freepik.es</a>
+</p>
