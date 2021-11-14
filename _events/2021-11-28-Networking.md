@@ -25,8 +25,6 @@ comm:
 	<p style="text-align: justify;">
 	  Y si aún no eres miembro del Grupo de Estudiantes, ¡no puedes perderte este evento y los demás que ya preparamos para este curso! Clica en el botón de abajo para unirte al Grupo de Estudiantes.
 	</p>
-      </div>
-      <div class="row center">
         <a href="https://estudiantes.rsef.es/inscripcion/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">¡Inscríbete!</a>
       </div>
     </div>
