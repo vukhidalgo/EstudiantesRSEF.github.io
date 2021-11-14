@@ -6,9 +6,9 @@ startingdate: 2021-11-28
 endingdate:
 place: Discord (online)
 locandina:
-cover: /img/eventos/networking.png
+cover: /img/eventos/networking.jpg
 gallery:
-site: /Networking/
+site:
 ranking: 
 exam:
 comm:
@@ -23,5 +23,5 @@ comm:
 </p>
     
 <p style="text-align: justify;">
-  <a href='https://www.freepik.es/vectores/fondo'>Vector de Fondo creado por freepik - www.freepik.es</a>
+  <a href='https://www.freepik.es/vectores/fondo'>Imagen de fondo obtenida de Freepik</a>
 </p>
