@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-internacionales
-title: "Networking con Discord"
+title: "Networking: ¡conoce otr@s miembros del Grupo de Estudiantes!"
 startingdate: 2021-11-28
 endingdate:
 place: Discord (online)
