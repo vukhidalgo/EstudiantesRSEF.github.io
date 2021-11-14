@@ -7,7 +7,7 @@ startingdate: 2021-11-28
 endingdate:
 place: Discord (online)
 locandina:
-cover: /img/eventos/2021-Networking/Networking20211128_portada.png
+cover: /img/eventos/2021-Networking/Networking20211128_portada2.png
 gallery:
 site: /eventos-internacionales/2021/11/28/Networking
 ranking: 
@@ -25,7 +25,7 @@ comm:
 	<p style="text-align: justify;">
 	  Y si aún no eres miembro del Grupo de Estudiantes, ¡no puedes perderte este evento y los demás que ya preparamos para este curso! Clica en el botón de abajo para unirte al Grupo de Estudiantes.
 	</p>
-        <a href="https://estudiantes.rsef.es/inscripcion/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">¡Inscríbete!</a>
+        <a href="https://estudiantes.rsef.es/inscripcion/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">¡Inscríbete al Grupo de Estudiantes!</a>
       </div>
     </div>
     <div class="col s12 m6 l5" style="padding: 20px">
