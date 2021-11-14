@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-internacionales
-title: "Networking: ¡conoce otr@s miembros del GdE!"
+title: "Networking: ¡conoce otr@s miembros del Grupo de Estudiantes!"
 shorttitle: "Networking: ¡conoce otr@s miembros del GdE!"
 startingdate: 2021-11-28
 endingdate:
