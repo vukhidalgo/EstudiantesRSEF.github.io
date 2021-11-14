@@ -29,9 +29,7 @@ comm:
       </div>
     </div>
     <div class="col s12 m6 l4" style="padding: 40px">
-      <div class="row center">
-	<img class="materialboxed" width="80%" src="/img/eventos/2021-Networking/Networking2021128.png">
-      </div>
+      <img class="materialboxed" width="90%" src="/img/eventos/2021-Networking/Networking2021128.png">
     </div>
   </div>
 </div>
