@@ -8,7 +8,7 @@ place: Discord (online)
 locandina:
 cover: /img/eventos/networking.jpg
 gallery:
-site:
+site: /eventos-internacionales/2021/11/28/Networking
 ranking: 
 exam:
 comm:
