@@ -3,15 +3,15 @@ layout: event
 categories: eventos-internacionales
 title: "Networking con Discord"
 startingdate: 2021-11-28
-endingdate: 2021-11-28
+endingdate:
 place: Discord (online)
 locandina:
 cover: /img/eventos/networking.png
 gallery:
-site: /JornadasVerano2021/
+site: /Networking/
 ranking: 
 exam:
-comm: /JornadasVerano2021/ComiteOrganizador/
+comm:
 ---
 
 <p style="text-align: justify;">
