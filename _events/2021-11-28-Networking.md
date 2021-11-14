@@ -22,7 +22,7 @@ comm:
 	  El próximo domingo 28 a las 12h tendrá lugar la primera sesión de networking exclusiva para miembros del Grupo de Estudiantes de la RSEF. Únete a nuestro Discord (enlace en la newsletter). ¡Ven a conocer otros estudiantes de grado, máster y doctorado en física de toda España!
         </p>
         <p style="text-align: justify;">   
-          Si eres una persona inquieta, con ganas de conocer gente, te esperamos!
+          Si eres una persona inquieta, con ganas de conocer gente, ¡te esperamos!
         </p>
       </div>
     </div>
