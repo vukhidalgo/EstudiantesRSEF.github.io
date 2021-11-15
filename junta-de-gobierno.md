@@ -22,6 +22,28 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
+{% for item in site.data.EC3 %}
+
+<div class="col s12 m6">
+  <div class="row center">
+  {% for miembro in item.miembros %}
+    <ul class="collection waves-effect waves-light">
+      <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
+        <li class="collection-item avatar2">
+          <img src="{{ miembro.img }}" alt="imagen" class="circle">
+          <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
+          <p>{{ miembro.rol }}</p>
+        </li>
+      </a>
+    </ul>
+  {% endfor %}
+  </div>
+</div>
+
+{% endfor %}
+
+<!--
+
 <ul class="collection">
   {% for miembro in item.miembros %}
       <li class="collection-item avatar">
@@ -80,10 +102,13 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 </ul>
 {% endif %}
 
-{% if item.colaboradores-pasados != nil %}
-## Miembros de la Junta de Gobierno y Colaboradores pasados
+{% if item.colaboradores-pasados != nil %} -->
 
-<ul class="collection">
+## Juntas de Gobierno Anteriores
+
+Sección en remodelación.
+
+<!-- <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
@@ -107,4 +132,4 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 </ul>
 {% endif %}
 
-{% endfor %}
+{% endfor %} -->
