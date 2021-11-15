@@ -1,13 +1,34 @@
 ---
 layout: page
-title: "Test Joan 2 wo/ comments"
-permalink: /testJoan2/
+title: "Test 4"
+permalink: /test5/
 redirect_from:
 ---
 
+<div class="row center">
+{% assign categories = site.categories | sort %}
+{% for category in categories %}
+  {% assign cat = category | first %}
+  {% if cat == 'blog' %}
+  {% elsif cat == 'noticias' %}
+  {% else %}
+  <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
+    {{ cat }}
+  </button>
+  {% endif %}
+{% endfor %}
+<br><br>
+<button class="chip_button" id="All" onclick="filterUsingCategory('All')">
+  Quitar filtros
+</button>
+</div> 
+
 <ul class="post-list">
+  {% assign id = 0 %}
   {% for post in site.categories.blog %}
     {% if post.hidden != true %}
+    {% assign id = id | plus:1 %}
+    <div  id="{{id}}">
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -40,12 +61,27 @@ redirect_from:
             {% endfor %}
           {% endif %}
         </h2>
-        <div class="entry-content">
+        <div class="entry-content" style="padding-bottom: 5px">
           {{ post.excerpt | strip_html }}
         </div>
+        <div class="divider"></div>
       </li>
-      <div class="divider">
       </div>
     {% endif %}
   {% endfor %}
 </ul>
+
+<script type="text/javascript">
+  function filterUsingCategory(selectedCategory) {
+    var id = 0;
+    {% for post in site.categories.blog %}
+      var cats = {{ post.categories | jsonify }}
+
+      var postDiv = document.getElementById(++id);
+      postDiv.style.display =
+        (selectedCategory == 'All' || cats.includes(selectedCategory)) 
+          ? 'unset' 
+          : 'none';
+    {% endfor %}
+  }
+</script>

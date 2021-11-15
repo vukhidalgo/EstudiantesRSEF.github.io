@@ -90,9 +90,15 @@ layout: default
                       <img src="{{ event.cover }}" alt="{{ event.title }}">
                     </a>
                     <div class="caption left-align">
+		      {% if event.shorttitle %}
+                    	<h4>
+                        {{ event.shorttitle }}
+                      </h4>
+		      {% else %}
                     	<h4>
                         {{ event.title }}
                       </h4>
+		      {% endif %}
                     	<p class="white-text">
                         {{ event.place }},
                         <br>
