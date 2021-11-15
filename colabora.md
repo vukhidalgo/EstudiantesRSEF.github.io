@@ -12,6 +12,24 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
   <div class="col s12 m6">
     <div class="row center">
       {% for offer in site.offers %}
+        <!-- {% if offer.active contains "YES" %} -->
+	    offer.nombre
+        <!-- {% endif %} -->
+      {% endfor %}    
+    </div>
+  </div>
+</div>
+
+
+<!-- OFERTAS -->
+
+
+
+
+<div class="section">
+  <div class="col s12 m6">
+    <div class="row center">
+      {% for offer in site.offers %}
         {% if offer.active contains "YES" %}
 	    offer.nombre
 	  <ul class="collection waves-effect waves-light" style="width: 33%">
