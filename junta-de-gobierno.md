@@ -14,15 +14,13 @@ permalink: /junta-de-gobierno/
 </div>
 
 
-{% for item in site.data.EC %}
+{% for item in site.data.EC3 %}
 
 ## Junta de Gobierno ({{item.anno}})
 
 Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
-
-{% for item in site.data.EC3 %}
 
 <div class="col s12 m6">
   <div class="row center">
