@@ -13,7 +13,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
     <div class="section">
       <div class="col s12 m6">
         <div class="row center">
-	  offer.nombre
+	  {{ offer.nombre }}
         </div>
       </div>
     </div>
