@@ -23,11 +23,8 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 {% endfor %}   
 
 
-<!-- OFERTAS -->
 
-
-
-
+<!--
 <div class="section">
   <div class="col s12 m6">
     <div class="row center">
@@ -114,4 +111,4 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 
 {% endif %}
 {% endfor %}
-
+-->
