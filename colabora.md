@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Colabora con la Junta de Gobierno del Grupo de Estudiantes de la RSEF!
+title: ¡Colaborx con la Junta de Gobierno del Grupo de Estudiantes de la RSEF!
 permalink: /colabora/
 ---
 
@@ -9,7 +9,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 <!-- OFERTAS -->
 
 {% for offer in site.offers %}
-  <!-- {% if offer.active contains "YES" %} -->
+  {% if offer.active contains "YES" %}
     <div class="section">
       <div class="col s12 m6">
         <div class="row center">
@@ -19,7 +19,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
         </div>
       </div>
     </div>
-  <!-- {% endif %} -->
+  {% endif %}
 {% endfor %}   
 
 
