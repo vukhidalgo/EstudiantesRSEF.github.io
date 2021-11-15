@@ -90,9 +90,8 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	  <ul class="collection waves-effect waves-light" style="width: 33%">
             <a href="#{{ offer.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
               <li class="collection-item avatar2">
-<!--
                 <img src="{{ offer.img }}" alt="" class="circle">
--->
+
                 <span class="title" style="padding-left: 10px">{{ offer.nombre }}</span>
                 {% if offer.roldes %}
                 <p style="padding-top: 10px">
@@ -106,11 +105,11 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
       {% endfor %}    
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Modal OFERTAS -->
 
-{% for offer in site.offers %}
+<!-- {% for offer in site.offers %}
 {% if offer.active contains "YES" %}
 
 <div id="{{ offer.id | remove: "/" }}-modal" class="modal">
@@ -118,24 +117,24 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
       <div class="row">
-<!--
+
 	<div class="col s12 m6 l6">
           <div class="row center">
             <img src="{{ offer.img }}" alt="" class="circle" width="70%">
           </div>
         </div>
--->
+
         <div class="col s12 m6 l6">        
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
             <h3 class="justify">{{ offer.nombre }}</h3>
             <h5 class="justify">Detalles</h5>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Detalles -->
 
-      <div class="row">
+      <!-- <div class="row">
         <h2 class="justify">Detalles</h2>
         {% if offer.respde %}
           <p style="text-align: justify;">
@@ -158,10 +157,10 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 
     </div>
   </div>
-  
+
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
-	  
+
   </div>
 </div>
 
