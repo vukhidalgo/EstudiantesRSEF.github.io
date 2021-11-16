@@ -85,8 +85,24 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 </div>
 
 
+<h2>¡Haz click en cada oferta y descubre las condiciones!</h2>
 
-
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6">
+      <div class="row center">
+	<ul class="collapsible">
+	  <li>
+	    <div class="collapsible-header"><i class="material-icons">event_available</i>Organizador/a de eventos en tu universidad</div>
+	    <div class="collapsible-body">
+	      <p>Oferta</p>    
+	    </div>
+	  </li>
+	</ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 <!-- OFERTAS
