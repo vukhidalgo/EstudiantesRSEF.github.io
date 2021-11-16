@@ -16,8 +16,8 @@
        url: /eventos/
      - text: Delegaciones
        url: /delegaciones/
-     - text: Junta de Gobierno
-       url: /participa-nacional/
+     - text: ¡Colabora!
+       url: /colabora/
      - text: Internships DataBase
        url: https://estudiantesrsef.vercel.app/ 
        blank: YES
