@@ -47,7 +47,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
     <p>Duración de la colaboración: Un semestre académico (hasta el 1 de febrero de 2022).</p>
 
-    <p> _Este cargo colaborará estrechamente con la Community Manager del Grupo._ </p>
+    <p> <i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i> </p>
 
     <div class="row">
       <div style="text-align:right;">
@@ -105,9 +105,10 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
   {% endif %}
 {% endfor %}   
 
+-->
 
 <!-- MANUAL OFERTAS IN COLLAPSIBLE -->
-
+<!--
 <h2>¡Haz click en cada categoría y descúbrelos a tod@s!</h2>
 
 {% for item in site.data.jornadas %}
@@ -156,10 +157,10 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
       </div>
     </div>
 
-<!-- {% endif %} -->
-<!-- {% endfor %} -->
+{% endif %}
+{% endfor %}
 
- -->
+-->
 
 <!-- COSAS QUE AÚN NO FUNCIONAN -->
 
