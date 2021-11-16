@@ -119,7 +119,6 @@ body {
 
 
 <div class="row center" style="padding-top: 10px">
-  <p>Opción filtros 2</p>
 <button class="chip_button" id="All" onclick="filterUsingCategory('All')">
   Todas las entradas
 </button>
