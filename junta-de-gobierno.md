@@ -22,7 +22,6 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
-{% endfor %}
 
 {% for item in site.data.EC3 %}
 
@@ -109,6 +108,8 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 ## Juntas de Gobierno Anteriores
 
 Sección en remodelación.
+
+{% endfor %}
 
 <!-- <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
