@@ -89,13 +89,22 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
 <div class="section">
   <div class="row">
-    <div class="col s12 m6">
+    <div class="col s12 m6 l12">
       <div class="row center">
 	<ul class="collapsible">
 	  <li>
 	    <div class="collapsible-header"><i class="material-icons">event_available</i>Organizador/a de eventos en tu universidad</div>
 	    <div class="collapsible-body">
-	      <p>Oferta</p>    
+	      <p><b>Responsabilidad de:</b> Comité de Miembros y Delegaciones.</p>
+	      <p><b>Tareas que llevar a cabo:</b> Idear y realizar, con el apoyo del Comité, charlas, visitas u otras actividades en la facultad de Física de tu universidad. Publicitar y dar difusión a los eventos del Grupo de Estudiantes entre las distintas clases de tu facultad.</p>
+	      <p><b>Habilidades / Conocimientos necesarios:</b> No se requiere ninguna habilidad en particular, pero se valorará la originalidad, saber diseñar carteles/folletos y tener buenas aptitudes sociales y comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones). El objetivo de esta colaboración es aprender, así que lo más importante es tener motivación y proactividad.</p>
+	      <p><b>Horas de trabajo / semana (estimación):</b> 2 - 4 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del semestre y parones garantizados en todos los períodos de examen (parciales y finales).</p>
+	      <p><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</p>
+              <div class="row">
+                <div style="text-align:right;">
+                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Organizador/a de eventos]">¡Estoy interesad@!</a>
+                </div>
+              </div>  
 	    </div>
 	  </li>
 	</ul>
