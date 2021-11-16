@@ -11,7 +11,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 
 <div class="section">
   <div class="row">
-    <div class="col s12 m6 l12">
+    <div class="col s12 m6">
       <div class="row center">
 	<ul class="collapsible">
 	  <li>
