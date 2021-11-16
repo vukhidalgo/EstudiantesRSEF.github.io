@@ -36,6 +36,6 @@ comm:
 	
 <!---
 <p style="text-align: justify;">
-  <a href='https://www.freepik.es/vectores/fondo'>Imagen de fondo obtenida de Freepik</a>
+  <a target="_blank" href='https://www.freepik.es/vectores/fondo'>Imagen de fondo obtenida de Freepik</a>
 </p>
 -->
