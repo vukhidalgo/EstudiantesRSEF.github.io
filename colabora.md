@@ -10,27 +10,21 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 
 <ul class="collection">
   <li class="collection-item">
-    <strong>Community Manager RRSS</strong>
+    <strong>Organizador/a de eventos en tu universidad</strong>
 
-    <p>Responsabilidad de: Comité de Relaciones Públicas.</p>
+    <p>Responsabilidad de: Comité de Miembros y Delegaciones.</p>
 
-    <p>Tareas que llevar a cabo: Redacción de posts para las redes sociales del Grupo y respuesta a comentarios o preguntas 
-sobre dichas publicaciones. Propuesta de iniciativas para aumentar el número de seguidores de las cuentas del Grupo
-en RRSS.</p>
+    <p>Tareas que llevar a cabo: Idear y realizar, con el apoyo del Comité, charlas, visitas u otras actividades en la facultad de Física de tu universidad. Publicitar y dar difusión a los eventos del Grupo de Estudiantes entre las distintas clases de tu facultad.</p>
 
-    <p>Habilidades / Conocimientos necesarios: Manejo fluido de Twitter, Instagram y Facebook (o al menos de las dos primeras);
-buenas dotes comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones) y de expresión
-escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en 
-equipo y proactividad. Capacidad de autocrítica constructiva.</p>
+    <p>Habilidades / Conocimientos necesarios: No se requiere ninguna habilidad en particular, pero se valorará la originalidad, saber diseñar carteles/folletos y tener buenas aptitudes sociales y comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones). El objetivo de esta colaboración es aprender, así que lo más importante es tener motivación y proactividad.</p>
 
-    <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
-largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
+    <p>Horas de trabajo / semana (estimación): 2 - 4 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del semestre y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-    <p>Duración de la colaboración: hasta el 1 de Octubre de 2021.</p>
+    <p>Duración de la colaboración: Un semestre académico (hasta el 1 de febrero de 2022).</p>
 
     <div class="row">
       <div style="text-align:right;">
-        <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Community Manager RRSS]">¡Estoy interesad@!</a>
+        <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Organizador/a de eventos]">¡Estoy interesad@!</a>
       </div>
     </div>
    
@@ -51,9 +45,9 @@ proactividad. Capacidad de autocrítica constructiva.</p>
     <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
 largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-    <p>Duración de la colaboración: hasta el 1 de Octubre de 2021.</p>
+    <p>Duración de la colaboración: Un semestre académico (hasta el 1 de febrero de 2022).</p>
 
-    <p>** Este cargo colaborará estrechamente con el Community Manager del Grupo.</p>
+    <p>** Este cargo colaborará estrechamente con la Community Manager del Grupo.</p>
 
     <div class="row">
       <div style="text-align:right;">
@@ -64,34 +58,32 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
   </li>
   
   <li class="collection-item">
-    <strong>Programador/a Web</strong>
+    <strong>Diseñador/a Gráfico/a</strong>
 
-    <p>Responsabilidad de: Comité de Administración Web y Herramientas Digitales.</p>
+    <p>Responsabilidad de: Transversal (C. Relaciones Públicas y C. Miembros y Delegaciones).</p>
 
-    <p>Tareas que llevar a cabo: mantenimiento, actualización y propuesta de mejora del código y contenido de la web del Grupo.</p>
+    <p>Tareas que llevar a cabo: Diseñar carteles, folletos u otro material gráfico para la promoción del Grupo de Estudiantes en redes sociales, la página web y a través del correo. Colaborar en la elaboración de la Newsletter mensual. Aportar nuevas ideas para mejorar la imagen del GdeE.</p>
 
-    <p>Habilidades / Conocimientos necesarios: HTML5 y CSS. (Puedes hacerte una idea del nivel de simplicidad de nuestro código
-web <a href="https://github.com/EstudiantesRSEF/EstudiantesRSEF.github.io">visitando nuestro repositorio)</a>.</p>
+    <p>Habilidades / Conocimientos necesarios: Buenas dotes artísticas, originalidad y creatividad; capacidad de expresar de forma visual los objetivos que tiene el evento/actividad en cuestión. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</p>
 
     <p>Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.</p>
 
     <p>*** Se proporcionará formación en todos los lenguajes mencionados. Este es un puesto para formarse y aprender jugando
 con el código.</p>
 
-    <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo 
-largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
+    <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
-    <p>Duración de la colaboración: hasta el 1 de Octubre de 2021.</p>
+    <p>Duración de la colaboración: Un curso académico (hasta el 1 de julio de 2022).</p>
 
     <div class="row">
       <div style="text-align:right;">
-	<a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Programador/a Web]">¡Soy casi hacker!</a>
+	<a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Diseñador/a]">¡Tengo estilo!</a>
       </div>
     </div>
   </li>
 </ul>
 
-¿Tienes ganas de colaborar con nosotros pero no has encontrado una oportunidad que encaje contigo? ¡Entonces genial! Eso significa que puedes ayudar a crecer al Grupo en otros ámbitos que tal vez no nos hemos planteado. ¿Qué te parece si nos envías un correo a estudiantes@rsef.es y lo hablamos? ;)
+¿Tienes ganas de colaborar con nosotros pero no has encontrado una oportunidad que encaje contigo? ¡Entonces genial! Eso significa que puedes ayudar a crecer al Grupo en otros ámbitos que tal vez no nos hemos planteado. ¿Qué te parece si nos envías un correo a <a href="mailto:estudiantes@rsef.es">estudiantes@rsef.es</a> y lo hablamos? ;)
 
 <div class="row center">
   <a href="{{ site.url }}/participa/" id="iaps-button" class="btn-large waves-effect waves-light">Volver a PARTICIPA</a>
