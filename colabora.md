@@ -6,7 +6,74 @@ permalink: /colabora/
 
 Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configurado el ordenador para que el botón de cada oportunidad abra tu email, contáctanos comentándonos cuál te interesa más en estudiantes@rsef.es). ¡Te esperamos!
 
-## Oportunidades
+
+<h2>¡Haz click en cada oferta y descúbrelas!</h2>
+
+<div class="section">
+  <div class="row">
+    <div class="col s12 m6 l12">
+      <div class="row center">
+	<ul class="collapsible">
+	  <li>
+	    <div class="collapsible-header"><i class="material-icons">event_available</i>Organizador/a de eventos en tu universidad</div>
+	    <div class="collapsible-body" style="text-align: left">
+	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
+		<li><b>Responsabilidad de:</b> Comité de Miembros y Delegaciones.</li>
+	        <li><b>Tareas que llevar a cabo:</b> Idear y realizar, con el apoyo del Comité, charlas, visitas u otras actividades en la facultad de Física de tu universidad. Publicitar y dar difusión a los eventos del Grupo de Estudiantes entre las distintas clases de tu facultad.</li>
+	        <li><b>Habilidades / Conocimientos necesarios:</b> No se requiere ninguna habilidad en particular, pero se valorará la originalidad, saber diseñar carteles/folletos y tener buenas aptitudes sociales y comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones). El objetivo de esta colaboración es aprender, así que lo más importante es tener motivación y proactividad.</li>
+	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 4 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del semestre y parones garantizados en todos los períodos de examen (parciales y finales).</li>
+	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
+	      </ul>
+              <div class="row">
+                <div style="text-align:right; padding-right: 30px">
+                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Organizador/a de eventos]">¡Estoy interesad@!</a>
+                </div>
+              </div>  
+	    </div>
+	  </li>
+	  <li>
+	    <div class="collapsible-header"><i class="material-icons">edit</i>Redactor/a de contenido web y de RRSS</div>
+	    <div class="collapsible-body" style="text-align: left">
+	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
+		<li><b>Responsabilidad de:</b> Comité de Relaciones Públicas.</li>
+	        <li><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</li>
+	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li>
+	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li>
+	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
+		<li><i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i></li>
+	      </ul>
+              <div class="row">
+                <div style="text-align:right; padding-right: 30px">
+                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Quiero participar!</a>
+                </div>
+              </div>  
+	    </div>
+	  </li>
+	  <li>
+	    <div class="collapsible-header"><i class="material-icons">palette</i>Diseñador/a Gráfico/a</div>
+	    <div class="collapsible-body" style="text-align: left">
+	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
+		<li><b>Responsabilidad de:</b> Transversal (C. Relaciones Públicas y C. Miembros y Delegaciones).</li>
+	        <li><b>Tareas que llevar a cabo:</b> Diseñar carteles, folletos u otro material gráfico para la promoción del Grupo de Estudiantes en redes sociales, la página web y a través del correo. Colaborar en la elaboración de la Newsletter mensual. Aportar nuevas ideas para mejorar la imagen del GdeE.</li>
+	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes artísticas, originalidad y creatividad; capacidad de expresar de forma visual los objetivos que tiene el evento/actividad en cuestión. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li>
+	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li>
+	        <li><b>Duración de la colaboración:</b> Un curso académico (hasta el 1 de julio de 2022).</li>
+	      </ul>
+              <div class="row">
+                <div style="text-align:right; padding-right: 30px">
+                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Diseñador/a Gráfico/a]">¡Tengo estilo!</a>
+                </div>
+              </div>  
+	    </div>
+	  </li>
+	</ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+## Oportunidades (opción 2)
 
 <ul class="collection">
   <li class="collection-item">
@@ -84,71 +151,6 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
   <a href="{{ site.url }}/participa/" id="iaps-button" class="btn-large waves-effect waves-light">Volver a PARTICIPA</a>
 </div>
 
-
-<h2>¡Haz click en cada oferta y descubre las condiciones!</h2>
-
-<div class="section">
-  <div class="row">
-    <div class="col s12 m6 l12">
-      <div class="row center">
-	<ul class="collapsible">
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">event_available</i>Organizador/a de eventos en tu universidad</div>
-	    <div class="collapsible-body" style="text-align: left">
-	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
-		<li><b>Responsabilidad de:</b> Comité de Miembros y Delegaciones.</li>
-	        <li><b>Tareas que llevar a cabo:</b> Idear y realizar, con el apoyo del Comité, charlas, visitas u otras actividades en la facultad de Física de tu universidad. Publicitar y dar difusión a los eventos del Grupo de Estudiantes entre las distintas clases de tu facultad.</li>
-	        <li><b>Habilidades / Conocimientos necesarios:</b> No se requiere ninguna habilidad en particular, pero se valorará la originalidad, saber diseñar carteles/folletos y tener buenas aptitudes sociales y comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones). El objetivo de esta colaboración es aprender, así que lo más importante es tener motivación y proactividad.</li>
-	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 4 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del semestre y parones garantizados en todos los períodos de examen (parciales y finales).</li>
-	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
-	      </ul>
-              <div class="row">
-                <div style="text-align:right; padding-right: 30px">
-                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Organizador/a de eventos]">¡Estoy interesad@!</a>
-                </div>
-              </div>  
-	    </div>
-	  </li>
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">edit</i>Redactor/a de contenido web y de RRSS</div>
-	    <div class="collapsible-body" style="text-align: left">
-	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
-		<li><b>Responsabilidad de:</b> Comité de Relaciones Públicas.</li>
-	        <li><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</li>
-	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li>
-	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li>
-	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
-		<li><i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i></li>
-	      </ul>
-              <div class="row">
-                <div style="text-align:right; padding-right: 30px">
-                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Quiero participar!</a>
-                </div>
-              </div>  
-	    </div>
-	  </li>
-	  <li>
-	    <div class="collapsible-header"><i class="material-icons">palette</i>Diseñador/a Gráfico/a</div>
-	    <div class="collapsible-body" style="text-align: left">
-	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
-		<li><b>Responsabilidad de:</b> Transversal (C. Relaciones Públicas y C. Miembros y Delegaciones).</li>
-	        <li><b>Tareas que llevar a cabo:</b> Diseñar carteles, folletos u otro material gráfico para la promoción del Grupo de Estudiantes en redes sociales, la página web y a través del correo. Colaborar en la elaboración de la Newsletter mensual. Aportar nuevas ideas para mejorar la imagen del GdeE.</li>
-	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes artísticas, originalidad y creatividad; capacidad de expresar de forma visual los objetivos que tiene el evento/actividad en cuestión. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li>
-	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li>
-	        <li><b>Duración de la colaboración:</b> Un curso académico (hasta el 1 de julio de 2022).</li>
-	      </ul>
-              <div class="row">
-                <div style="text-align:right; padding-right: 30px">
-                  <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Diseñador/a Gráfico/a]">¡Tengo estilo!</a>
-                </div>
-              </div>  
-	    </div>
-	  </li>
-	</ul>
-      </div>
-    </div>
-  </div>
-</div>
 
 
 <!-- OFERTAS
