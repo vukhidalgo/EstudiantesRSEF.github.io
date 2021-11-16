@@ -33,14 +33,14 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	  <li>
 	    <div class="collapsible-header"><i class="material-icons">edit</i>Redactor/a de contenido web y de RRSS</div>
 	    <div class="collapsible-body" style="text-align: left">
-	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
-		<li><b>Responsabilidad de:</b> Comité de Relaciones Públicas.</li>
-	        <li><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</li>
-	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li>
-	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li>
-	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
-		<li><i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i></li>
-	      </ul>
+	      <div style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
+		<p><b>Responsabilidad de:</b> Comité de Relaciones Públicas.</p>
+	        <p><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</p>
+	        <p><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</p>
+	        <p><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
+	        <p><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</p>
+		<p><i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i></p>
+	      </div>
               <div class="row">
                 <div style="text-align:right; padding-right: 30px">
                   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Quiero participar!</a>
