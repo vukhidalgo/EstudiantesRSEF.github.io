@@ -47,7 +47,7 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
 
     <p>Duración de la colaboración: Un semestre académico (hasta el 1 de febrero de 2022).</p>
 
-    <p>** Este cargo colaborará estrechamente con la Community Manager del Grupo.</p>
+    <p> *Este cargo colaborará estrechamente con la Community Manager del Grupo.* </p>
 
     <div class="row">
       <div style="text-align:right;">
@@ -65,11 +65,6 @@ largo del curso y parones garantizados en todos los períodos de examen (parcial
     <p>Tareas que llevar a cabo: Diseñar carteles, folletos u otro material gráfico para la promoción del Grupo de Estudiantes en redes sociales, la página web y a través del correo. Colaborar en la elaboración de la Newsletter mensual. Aportar nuevas ideas para mejorar la imagen del GdeE.</p>
 
     <p>Habilidades / Conocimientos necesarios: Buenas dotes artísticas, originalidad y creatividad; capacidad de expresar de forma visual los objetivos que tiene el evento/actividad en cuestión. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</p>
-
-    <p>Habilidades / Conocimientos complementarios: JavaScript y Markdown. Github.</p>
-
-    <p>*** Se proporcionará formación en todos los lenguajes mencionados. Este es un puesto para formarse y aprender jugando
-con el código.</p>
 
     <p>Horas de trabajo / semana (estimación): 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</p>
 
