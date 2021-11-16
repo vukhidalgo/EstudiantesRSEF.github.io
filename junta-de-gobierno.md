@@ -43,6 +43,10 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 {% endfor %}
 
+## Juntas de Gobierno Anteriores
+
+Sección en remodelación.
+
 <!--
 
 <ul class="collection">
@@ -103,15 +107,11 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 </ul>
 {% endif %}
 
-{% if item.colaboradores-pasados != nil %} -->
+{% if item.colaboradores-pasados != nil %}
 
 ## Juntas de Gobierno Anteriores
 
-Sección en remodelación.
-
-{% endfor %}
-
-<!-- <ul class="collection">
+ <ul class="collection">
   {% for miembro in item.colaboradores-pasados %}
       <li class="collection-item avatar">
         <img src="{{ miembro.img }}" alt="" class="circle">
