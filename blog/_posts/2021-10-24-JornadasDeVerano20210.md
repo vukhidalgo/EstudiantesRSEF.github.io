@@ -7,8 +7,9 @@ author: Alejandro Fernández Muñoz
 redirect-from:
 ---
 
-<h2><center>Carta de Dimisión</center></h2>
-<h3><center>Del Presidente del Grupo de Estudiantes de la RSEF</center></h3>
+<h2><center><em>Carta de Dimisión</em></center></h2>
+<h3><center><em>Del Presidente del Grupo de Estudiantes de la RSEF</em></center></h3>
+
 
 Estimado/a miembro del Grupo de Estudiantes de la RSEF,
 
