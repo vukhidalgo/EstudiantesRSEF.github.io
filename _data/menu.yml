@@ -18,8 +18,8 @@
        url: /delegaciones/
      - text: ¡Colabora!
        url: /colabora/
-     - text: Internships DataBase
-       url: /InternshipsDatabase/ 
+     - text: Internships Database
+       url: /InternshipsDB/
        blank: YES
 # - text: ICPS'20
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
