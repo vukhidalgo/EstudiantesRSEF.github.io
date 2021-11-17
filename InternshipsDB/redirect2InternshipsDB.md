@@ -11,10 +11,13 @@ permalink: /InternshipsDB/
 </head>
 </html>
 
-<h3>Redirigiendo a la Internships Database del Grupo de Estudiantes de la RSEF</h3>
-
-<div class="progress">
-    <div class="indeterminate"></div>
+<div class="container">
+  <div class="section">
+  <h2>Redirigiendo a la Internships Database del Grupo de Estudiantes de la RSEF</h2>
+    <div class="progress">
+      <div class="indeterminate"></div>
+    </div>
+  </div>
 </div>
 
 <!-- This code redirects from the file permalink to the site indicated in the <meta> container -->
