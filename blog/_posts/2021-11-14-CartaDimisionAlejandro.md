@@ -24,7 +24,7 @@ redirect-from:
 <p>
 <list class="a">
 <li style="text-align: justify;">Incremento de los miembros estudiantes de la RSEF hasta los 449 (+54% desde octubre de 2018, cuando se creó el Grupo de Estudiantes).</li><br>
-<li style="text-align: justify;">Construcción desde cero de un equipo (JdeG + Colaboradores) que ha llegado a integrar a 12 personas de todas partes de España.</li>
+<li style="text-align: justify;">Construcción desde cero de un equipo (JdeG + Colaboradores) que ha llegado a integrar 12 personas de todas partes de España.</li>
 </list>
 </p>
 </div>
