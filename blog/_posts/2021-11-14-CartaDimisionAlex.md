@@ -15,17 +15,17 @@ redirect-from:
 
 <p>Con esta carta te comunico mi decisión de dimitir como Presidente del Grupo de Estudiantes de la RSEF y, <em>ex officio</em>, de la Presidencia del Comité Nacional Español en IAPS, la International Association of Physics Students. Después de tres años de intenso trabajo en la RSEF, pronto me incorporaré al mercado laboral y, sabiendo que mi Junta de Gobierno (JdeG) actual está más que preparada para darme el relevo, creo que es el mejor momento para tomar esta decisión.</p>
 
-<h4>Logros del GdeE en sus primeros tres años</h4>
+<h5>Logros del GdeE en sus primeros tres años</h5>
 
 <p>Aunque los logros conseguidos por el GdeE en estos tres años han sido publicitados en la web del Grupo, expuestos en Juntas de Gobierno de la RSEF y recogidos en las actas del GdeE, incluyo a continuación un pequeño resumen, sin perjuicio de una memoria más extensa sobre estos tres años que elaboraré en las próximas semanas.</p>
 
-<strong>En conjunto</strong>
+<h4><strong>En conjunto</strong></h4>
 
 <p>Incremento de los miembros estudiantes de la RSEF hasta los 449 (+54% desde octubre de 2018, cuando se creó el Grupo de Estudiantes).</p>
 
 <p>Construcción desde cero de un equipo (JdeG + Colaboradores) que ha llegado a integrar a 12 personas de todas partes de España.</p>
 
-<h5>A nivel nacional</h5>
+<h4>A nivel nacional</h4>
 
 <p>Organización de las Preliminares de PLANCKS ’18, ’19, ’20, ’21 (fase española de la competición de física teórica de IAPS). En la edición 2021 (online) batimos nuestros récords y también los de IAPS: 180 estudiantes, 51 supervisores, 13 universidades.</p>
 
@@ -54,14 +54,14 @@ redirect-from:
 <p>He formado parte de la Comisión de Membresía de la RSEF desde octubre de 2018, razón por la que el GdeE creó sus vídeos promocionales.</p>
 
 
-###Continuidad del GdeE
+<h5>Continuidad del GdeE</h5>
 
 <p>A mi dimisión la acompañan la del Vicepresidente del Grupo, Jorge Morón, y la de la Secretaria-Tesorera, Inmaculada Pérez, con el fin de facilitar al máximo la renovación de la JdeG del Grupo.</p>
 
 <p>Por otro lado, es responsabilidad de todo líder garantizar que el proyecto emprendido continúa con éxito tras su marcha. Por eso los miembros de la Junta de Gobierno actual presentarán una candidatura conjunta que condensa toda la experiencia y el conocimiento ganados por el Grupo de Estudiantes. Todos ellos han demostrado con creces su compromiso y motivación para con el Grupo. Por eso sé que, si confías en ellos como hago yo, llevarán al GdeE a metas mayores de las ya alcanzadas, y con ello al conjunto de la RSEF y del estudiantazgo de física de España.</p>
 
 
-###Agradecimientos
+<h5>Agradecimientos</h5>
 
 <p>A lo largo de estos años al frente del Grupo he tenido la inmensa suerte de conocer a personas extraordinarias. No puedo nombrarlas a todas, pero entre las que cuento con cariño están el Prof. Adolfo de Azcárraga, ahora ex-Presidente de la RSEF y a quién considero un mentor vital, y mi Junta de Gobierno y colaboradores. Con ellos he aprendido a ser un mejor líder y compañero de equipo, y también a ser mejor amigo y mejor persona. Gracias por la enorme motivación, esfuerzo y creatividad que hemos dedicado al Grupo. Por todo lo aprendido y por los momentos compartidos, estos tres años han sido, sin duda, una experiencia vital única e irrepetible.</p>
 
