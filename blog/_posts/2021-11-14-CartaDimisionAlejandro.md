@@ -46,7 +46,7 @@ redirect-from:
 <p>
 <list class="a">
 <li style="text-align: justify;">El GdeE es National Committee Spain en la International Association of Physics Students (IAPS), lo que se ha traducido en acceso para nuestros miembros a más de 13 eventos internacionales (p.ej. iaps2CERN, International Conference of Physics Students).</li><br>
-<li style="text-align: justify;">Negociación de un Memorandum of Understanding con el proyecto Young Minds de la European Physical Society (EPS) para desarrollar conjuntamente nuestras Delegaciones y sus Secciones Locales (en la práctica, la misma figura). Para nuestras Delegaciones, este acuerdo supone un extra de financiación y la oportunidad de participar en diversos eventos internacionales exclusivos de YoungMinds.</li>
+<li style="text-align: justify;">Negociación de un Memorandum of Understanding con el proyecto YoungMinds de la European Physical Society (EPS) para desarrollar conjuntamente nuestras Delegaciones y sus Secciones Locales (en la práctica, la misma figura). Para nuestras Delegaciones, este acuerdo supone un extra de financiación y la oportunidad de participar en diversos eventos internacionales exclusivos de YoungMinds.</li>
 </list>
 </p>
 </div>
