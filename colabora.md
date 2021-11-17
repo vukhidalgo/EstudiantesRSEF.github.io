@@ -35,7 +35,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	    <div class="collapsible-body" style="text-align: left">
 	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
                 <li><b>Responsabilidad de:</b> Comité de Relaciones Públicas.</li><br>
-	        <li><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para la web y las redes sociales del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</li><br>
+	        <li><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para el Blog del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</li><br>
 	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li><br>
 	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li><br>
 	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li><br>
