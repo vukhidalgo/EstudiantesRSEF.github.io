@@ -73,7 +73,7 @@ redirect-from:
 
 <h4><strong>Continuidad del GdeE</strong></h4>
 
-<p style="text-align: justify;">A mi dimisión la acompañan la del Vicepresidente del Grupo, Jorge Morón, y la de la Secretaria-Tesorera, Inmaculada Pérez, con el fin de facilitar al máximo la renovación de la JdeG del Grupo.</p>
+<p style="text-align: justify;">A mi dimisión le acompañan la del Vicepresidente del Grupo, Jorge Morón, y la de la Secretaria-Tesorera, Inmaculada Pérez, con el fin de facilitar al máximo la renovación de la JdeG del Grupo.</p>
 
 <p style="text-align: justify;">Por otro lado, es responsabilidad de todo líder garantizar que el proyecto emprendido continúa con éxito tras su marcha. Por eso los miembros de la Junta de Gobierno actual presentarán una candidatura conjunta que condensa toda la experiencia y el conocimiento ganados por el Grupo de Estudiantes. Todos ellos han demostrado con creces su compromiso y motivación para con el Grupo. Por eso sé que, si confías en ellos como hago yo, llevarán al GdeE a metas mayores de las ya alcanzadas, y con ello al conjunto de la RSEF y del estudiantazgo de física de España.</p>
 
