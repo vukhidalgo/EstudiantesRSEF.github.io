@@ -13,7 +13,7 @@ permalink: /InternshipsDB/
 
 <div class="container">
   <div class="section">
-  <h4>Redirigiendo a la Internships Database del Grupo de Estudiantes de la RSEF</h4>
+  <h4><center>Redirigiendo a la Internships Database del Grupo de Estudiantes de la RSEF</center></h4>
     <div class="progress">
       <div class="indeterminate"></div>
     </div>
