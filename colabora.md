@@ -31,7 +31,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	    </div>
 	  </li>
 	  <li>
-	    <div class="collapsible-header"><i class="material-icons">edit</i>Redactor/a de contenido web y de RRSS</div>
+	    <div class="collapsible-header"><i class="material-icons">edit</i>Redactor/a del Blog del GdeE</div>
 	    <div class="collapsible-body" style="text-align: left">
 	      <ul style="padding-left: 15px; padding-top: 10px; padding-right: 15px">
                 <li><b>Responsabilidad de:</b> Comité de Relaciones Públicas.</li><br>
