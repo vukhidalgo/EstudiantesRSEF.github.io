@@ -13,9 +13,9 @@ redirect-from:
 
 <p style="padding-top: 10px">Estimado/a miembro del Grupo de Estudiantes de la RSEF,</p>
 
-<p>Con esta carta te comunico mi decisión de dimitir como Presidente del Grupo de Estudiantes de la RSEF y, ex officio, de la Presidencia del Comité Nacional Español en IAPS, la International Association of Physics Students. Después de tres años de intenso trabajo en la RSEF, pronto me incorporaré al mercado laboral y, sabiendo que mi Junta de Gobierno (JdeG) actual está más que preparada para darme el relevo, creo que es el mejor momento para tomar esta decisión.</p>
+<p>Con esta carta te comunico mi decisión de dimitir como Presidente del Grupo de Estudiantes de la RSEF y, <em>ex officio</em>, de la Presidencia del Comité Nacional Español en IAPS, la International Association of Physics Students. Después de tres años de intenso trabajo en la RSEF, pronto me incorporaré al mercado laboral y, sabiendo que mi Junta de Gobierno (JdeG) actual está más que preparada para darme el relevo, creo que es el mejor momento para tomar esta decisión.</p>
 
-##Logros del GdeE en sus primeros tres años
+<h4>Logros del GdeE en sus primeros tres años</h4>
 
 <p>Aunque los logros conseguidos por el GdeE en estos tres años han sido publicitados en la web del Grupo, expuestos en Juntas de Gobierno de la RSEF y recogidos en las actas del GdeE, incluyo a continuación un pequeño resumen, sin perjuicio de una memoria más extensa sobre estos tres años que elaboraré en las próximas semanas.</p>
 
@@ -25,7 +25,7 @@ redirect-from:
 
 <p>Construcción desde cero de un equipo (JdeG + Colaboradores) que ha llegado a integrar a 12 personas de todas partes de España.</p>
 
-<strong>A nivel nacional</strong>
+<h5>A nivel nacional</h5>
 
 <p>Organización de las Preliminares de PLANCKS ’18, ’19, ’20, ’21 (fase española de la competición de física teórica de IAPS). En la edición 2021 (online) batimos nuestros récords y también los de IAPS: 180 estudiantes, 51 supervisores, 13 universidades.</p>
 
