@@ -6,7 +6,7 @@ date:  2021-11-14 22:00
 author: Alejandro Fernández Muñoz
 redirect-from:
 ---
-<p style="text-align: justify;">El pasado jueves 21 de octubre dimitió de su cargo Alejandro Fernández, Fundador y primer Presidente del Grupo de Estudiantes de la RSEF, para dar paso a una nueva generación de responsables del Grupo. Compartimos su Carta de Dimisión a modo de breve memoria de todos los logros conseguidos durante su Presidencia. ¡Gracias por todo, Alex!</p>
+<p style="text-align: justify;">El pasado jueves 21 de octubre dimitió de su cargo Alejandro Fernández, Fundador y primer Presidente del Grupo de Estudiantes de la RSEF, para así dar paso a una nueva generación de responsables del Grupo. Compartimos su Carta de Dimisión a modo de breve memoria de todos los logros conseguidos durante su Presidencia. ¡Gracias por todo, Alex!</p>
 
 <h2><center><em>Carta de Dimisión</em></center></h2>
 <h3><center><em>Del Presidente del Grupo de Estudiantes de la RSEF</em></center></h3>
@@ -35,7 +35,7 @@ redirect-from:
 <list class="a">
 <li style="text-align: justify;">Organización de las Preliminares de PLANCKS ’18, ’19, ’20, ’21 (fase española de la competición de física teórica de IAPS). En la edición 2021 (online) batimos nuestros récords y también los de IAPS: 180 estudiantes, 51 supervisores, 13 universidades.</li><br>
 <li style="text-align: justify;">Organización de las Jornadas de Verano 2021: tres días de física, empresa, desarrollo profesional y networking, con figuras tan destacadas como Ignacio Cirac, Alicia Sintes o Juan Pedro Moreno (ex-CEO Accenture) y varios premiados RSEF – Fund. BBVA.</li><br>
-<li style="text-align: justify;">Desarrollo de una Internships Database (web app), de acceso libre, para que los estudiantes encuentren en un único portal las mejores ofertas de estancias de investigación y prácticas de empresa.</li><br>
+<li style="text-align: justify;">Desarrollo de una Internships Database (<a href="https://estudiantes.rsef.es/internships/" target="_blank">web app</a>), de acceso libre, para que los estudiantes encuentren en un único portal las mejores ofertas de estancias de investigación y prácticas de empresa.</li><br>
 <li style="text-align: justify;">Presencia continua en redes sociales, con publicaciones de contenido divulgativo altamente compartidas (<a href="https://twitter.com/EstudiantesRSEF/status/1287403369456435200" target="_blank">ejemplo 1</a>, <a href="https://twitter.com/EstudiantesRSEF/status/1263007411700367360" target="_blank">ejemplo 2</a>, <a href="https://estudiantes.rsef.es/blog/" target="_blank">El Blog del GdeE</a>).</li>
 </list>
 </p>
