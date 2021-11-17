@@ -29,7 +29,7 @@ redirect-from:
 
 <h4>A nivel nacional</h4>
 <p>
-<list class="a">
+<list class="a" style="padding-left: 20px;">
 <li style="text-align: justify;">Organización de las Preliminares de PLANCKS ’18, ’19, ’20, ’21 (fase española de la competición de física teórica de IAPS). En la edición 2021 (online) batimos nuestros récords y también los de IAPS: 180 estudiantes, 51 supervisores, 13 universidades.</li>
 <li style="text-align: justify;">Organización de las Jornadas de Verano 2021: tres días de física, empresa, desarrollo profesional y networking, con figuras tan destacadas como Ignacio Cirac, Alicia Sintes o Juan Pedro Moreno (ex-CEO Accenture) y varios premiados RSEF – Fund. BBVA.</li><br>
 <li style="text-align: justify;">Desarrollo de una Internships Database (web app), de acceso libre, para que los estudiantes encuentren en un único portal las mejores ofertas de estancias de investigación y prácticas de empresa.</li><br>
