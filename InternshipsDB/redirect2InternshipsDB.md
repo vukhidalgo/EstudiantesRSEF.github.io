@@ -7,9 +7,15 @@ permalink: /InternshipsDatabase/
 <head>
     <title>HTML Redirect</title>
     <meta http-equiv="refresh"
-        content="1; url = https://estudiantesrsef.vercel.app/" />
+        content="3; url = https://estudiantesrsef.vercel.app/" />
 </head>
 </html>
+
+<h3>Redirigiendo a la Internships Database del Grupo de Estudiantes de la RSEF</h3>
+
+<div class="progress">
+    <div class="indeterminate"></div>
+</div>
 
 <!-- This code redirects from the file permalink to the site indicated in the <meta> container -->
 
