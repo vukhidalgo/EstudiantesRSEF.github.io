@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Internships Database
-permalink: /InternshipsDB/
+permalink: /internships/
 ---
 <html>
 <head>

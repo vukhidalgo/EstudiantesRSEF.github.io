@@ -15,7 +15,7 @@
      - text: ¡Colabora!
        url: /colabora/
      - text: Internships Database
-       url: /InternshipsDB/
+       url: /internships/
        blank: YES
  - text: <strong>El Blog</strong>
    url: /blog/
