@@ -20,15 +20,17 @@ redirect-from:
 <p style="text-align: justify;">Aunque los logros conseguidos por el GdeE en estos tres años han sido publicitados en la web del Grupo, expuestos en Juntas de Gobierno de la RSEF y recogidos en las actas del GdeE, incluyo a continuación un pequeño resumen, sin perjuicio de una memoria más extensa sobre estos tres años que elaboraré en las próximas semanas.</p>
 
 <h4>En conjunto</h4>
+<div style="padding-left: 30px;">
 <p>
 <list class="a">
 <li style="text-align: justify;">Incremento de los miembros estudiantes de la RSEF hasta los 449 (+54% desde octubre de 2018, cuando se creó el Grupo de Estudiantes).</li><br>
 <li style="text-align: justify;">Construcción desde cero de un equipo (JdeG + Colaboradores) que ha llegado a integrar a 12 personas de todas partes de España.</li>
 </list>
 </p>
+</div>
 
 <h4>A nivel nacional</h4>
-<div style="padding-left: 20px;">
+<div style="padding-left: 30px;">
 <p>
 <list class="a">
 <li style="text-align: justify;">Organización de las Preliminares de PLANCKS ’18, ’19, ’20, ’21 (fase española de la competición de física teórica de IAPS). En la edición 2021 (online) batimos nuestros récords y también los de IAPS: 180 estudiantes, 51 supervisores, 13 universidades.</li><br>
@@ -40,21 +42,26 @@ redirect-from:
 </div>
 
 <h4>A nivel internacional</h4>
+<div style="padding-left: 30px;">
 <p>
 <list class="a">
 <li style="text-align: justify;">El GdeE es National Committee Spain en la International Association of Physics Students (IAPS), lo que se ha traducido en acceso para nuestros miembros a más de 13 eventos internacionales (p.ej. iaps2CERN, International Conference of Physics Students).</li><br>
 <li style="text-align: justify;">Negociación de un Memorandum of Understanding con el proyecto Young Minds de la European Physical Society (EPS) para desarrollar conjuntamente nuestras Delegaciones y sus Secciones Locales (en la práctica, la misma figura). Para nuestras Delegaciones, este acuerdo supone un extra de financiación y la oportunidad de participar en diversos eventos internacionales exclusivos de YoungMinds.</li>
 </list>
 </p>
+</div>
 
 <h4>A nivel local</h4>
+<div style="padding-left: 30px;">
 <p>
 <list class="a">
 <li style="text-align: justify;">Creación de las Delegaciones del GdeE para promocionar nuestra oferta y presencia en universidades y centros de investigación. Actualmente contamos con 2 Delegaciones, en la Complutense de Madrid y en Santiago de Compostela. Delegaciones reforzadas con el MoU GdeE-RSEF - YoungMinds-EPS.</li>
 </list>
 </p>
+</div>
 
 <h4>Personalmente</h4>
+<div style="padding-left: 30px;">
 <p>
 <list class="a">
 <li style="text-align: justify;">He representado a España como National Delegate en las International Conference of Physics Students ’17 (Turín, Italia), ’18 (Helsinki, Finlandia) y ’19 (Colonia, Alemania). También en el IAPS Annual General Meeting (AGM) '20. Fui Chair del IAPS AGM '21.</li><br>
@@ -62,6 +69,7 @@ redirect-from:
 <li style="text-align: justify;">He formado parte de la Comisión de Membresía de la RSEF desde octubre de 2018, razón por la que el GdeE creó sus vídeos promocionales.</li>
 </list>
 </p>
+</div>
 
 <h4><strong>Continuidad del GdeE</strong></h4>
 
