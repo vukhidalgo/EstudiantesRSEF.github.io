@@ -6,7 +6,7 @@ date:  2021-11-14 22:00
 author: Alejandro Fernández Muñoz
 redirect-from:
 ---
-<p style="text-align: justify;">El pasado jueves 21 de octubre dimitió de su cargo Alejandro Fernández, Fundador y primer Presidente del Grupo de Estudiantes de la RSEF, para así dar paso a una nueva generación de responsables del Grupo. Ahora que ya tenemos nueva <a href="{{ site.url }}/junta-de-gobierno/" target="_blank">Junta de Gobierno</a>, compartimos su Carta de Dimisión a modo de breve memoria de todos los logros conseguidos durante su Presidencia. ¡Gracias por todo, Alex!</p>
+<p style="text-align: justify;">El pasado jueves 21 de octubre dimitió de su cargo Alejandro Fernández, Fundador y primer Presidente del Grupo de Estudiantes de la RSEF, para así dar paso a una nueva generación de responsables del Grupo. Ahora que ya tenemos nueva <a href="/junta-de-gobierno/" target="_blank">Junta de Gobierno</a>, compartimos su Carta de Dimisión a modo de breve memoria de todos los logros conseguidos durante su Presidencia. ¡Gracias por todo, Alex!</p>
 
 <h2><center><em>Carta de Dimisión</em></center></h2>
 <h3><center><em>Del Presidente del Grupo de Estudiantes de la RSEF</em></center></h3>
