@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog Eventos
+categories: blog
 title:  "Carta de Dimisión - Presidente GdeE-RSEF"
 date:  2021-11-14 22:00
 author: Alejandro Fernández Muñoz
