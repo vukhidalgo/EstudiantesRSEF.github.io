@@ -23,7 +23,7 @@ redirect-from:
 <div style="padding-left: 30px;">
 <p>
 <list class="a">
-<li style="text-align: justify;">Incremento de los miembros estudiantes de la RSEF hasta los 449 (+54% desde octubre de 2018, cuando se creó el Grupo de Estudiantes).</li><br>
+<li style="text-align: justify;">Incremento de los miembros estudiantes de la RSEF hasta los 449 (+54% desde octubre de 2018, cuando se creó el Grupo de Estudiantes). Actualmente, el GdeEstudiantes es el primer Grupo Especializado de la RSEF en número de miembros, sólo superado por la tres Divisiones.</li><br>
 <li style="text-align: justify;">Construcción desde cero de un equipo (JdeG + Colaboradores) que ha llegado a integrar 12 personas de todas partes de España.</li>
 </list>
 </p>
