@@ -24,7 +24,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
 	      </ul>
               <div class="row">
-                <div style="text-align:right; padding-right: 30px">
+                <div style="text-align:right; padding-right: 30px; padding-top: 5px">
                   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Organizador/a de eventos]">¡Estoy interesad@!</a>
                 </div>
               </div>  
@@ -42,7 +42,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	        <li><i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i></li>
 	      </ul>
               <div class="row">
-                <div style="text-align:right; padding-right: 30px">
+                <div style="text-align:right; padding-right: 30px; padding-top: 5px">
                   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Redactor/a de contenido web y de RRSS]">¡Quiero participar!</a>
                 </div>
               </div>  
@@ -59,7 +59,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	        <li><b>Duración de la colaboración:</b> Un curso académico (hasta el 1 de julio de 2022).</li>
 	      </ul>
               <div class="row">
-                <div style="text-align:right; padding-right: 30px">
+                <div style="text-align:right; padding-right: 30px; padding-top: 5px">
                   <a class="waves-effect waves-light btn-large" href="mailto:estudiantes@rsef.es?subject=[Diseñador/a Gráfico/a]">¡Tengo estilo!</a>
                 </div>
               </div>  
