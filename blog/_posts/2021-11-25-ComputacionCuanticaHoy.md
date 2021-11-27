@@ -13,7 +13,11 @@ La Computación Cuántica promete resolver algunos de los problemas más relevan
 
 Las piezas o componentes que forman un ordenador cuántico son muy diferentes de las que se utilizan en los ordenadores actuales, los clásicos. Esto se debe a la naturaleza tan diferente de la unidad fundamental de información de cada uno de ellos: el qubit (*quantum bit*) y el bit, respectivamente. Un bit (clásico) puede tomar dos valores: 0 o 1. Podemos entender esto como apagar o encender un interruptor (de hecho los símbolos que aparecen en los botones de las regletas se deben a esto), pero prefiero asociarlo a una flecha que apunta hacia arriba o hacia abajo. Pues bien, en el caso del qubit... ¡esta flecha puede apuntar en cualquier dirección del espacio! Esto cambia totalmente la forma de razonar a la hora de diseñar algoritmos, y es consecuencia de la naturaleza cuántica del qubit. 
 
-<img class="materialboxed" id='Fig1' width="50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/1.png">
+<div class="section">
+  <div class="row center">
+    <img class="materialboxed" id='Fig1' width="50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/1.png">
+  </div>
+</div>
 <a id="Fig1">**Figura 1**</a>: La esfera de Bloch es donde se representan los posibles estados |ψ⟩ en los que puede estar un qubit, definidos por los ángulos θ y φ.
 <br/>
 
