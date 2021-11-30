@@ -19,14 +19,14 @@ redirect-from:
 
 <p style="text-align: justify;">Mientras que un bit puede construirse con un condensador de escala nanométrica que se carga o descarga según queramos codificar un 1 o un 0, un qubit debe construirse con un dispositivo que sea inherentemente cuántico. Esto hace que un bit esté mucho más fortalecido que un qubit, en el sentido de que **es más difícil que en un proceso de computación clásica un bit tome un valor erróneo a que un qubit se encuentre en un estado que no le correspondía**. Una forma fácil de entender esto es pensar que para cargar un condensador se necesita un número grande de electrones, por lo que el bit *no se entera* si un electrón se escapa. En cambio, el caso del qubit es más similar a tener un único electrón confinado (de hecho, esta es una forma de crear qubits), por lo que aquí la diferencia es fundamental, y la base del qubit en sí mismo. Hoy en día se están investigando varias posibilidades para fabricar qubits. Destacan especialmente los qubits de circuitos superconductores, que son los más ampliamente usados en los computadores cuánticos actuales<sup><a href="#foot1">1</a></sup>.</p>
 
-<div style="width: 70%;">
-  <center>
+<center>
+  <div style="width: 70%;">
     <img id='Fig2' src="/img/blog/2021-11-25-ComputacionCuanticaHoy/7qubit_chip2.png">
     <p style="text-align: justify;">
       <a id="Fig2"><strong>Figura 2</strong></a>: Procesador cuántico de siete qubits superconductores construido por IBM para simular una molécula de BeH<sub>2</sub> <a href="#Ref1">[1]</a>.
     </p>
-  </center>
-</div>
+  </div>
+</center>
 
 <p style="text-align: justify;">Sea cual sea el diseño para nuestros qubits, los desafíos que se tratan de superar van asociados a ser capaces de evitar que éstos cambien su estado sin que se lo pidamos, intentando aumentar lo que llamamos su tiempo de coherencia. Este tiempo de coherencia se define como el tiempo que tarda la interacción entre el qubit y el entorno en cambiar el estado del qubit sin que se lo pidamos, motivo por el que los ordenadores cuánticos se mantienen a temperaturas muy bajas, unos pocos centikelvin (-273 grados centígrados aproximadamente), ya que a temperaturas muy bajas los átomos que puedan estar al rededor del qubit empezarán a moverse cada vez más lento, haciendo la interacción más débil.</p>
 
