@@ -11,7 +11,7 @@ Descubre en este vídeo todo lo que el Grupo de Estudiantes de la RSEF puede ofr
 
 <center>
   <video class="responsive-video" controls>
-  <iframe width="700" height="394" src="https://www.youtube.com/embed/B327Xucbb30?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <source src="https://www.youtube.com/embed/B327Xucbb30?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </video>
 </center>
 
