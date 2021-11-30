@@ -13,14 +13,16 @@ La Computación Cuántica promete resolver algunos de los problemas más relevan
 
 Las piezas o componentes que forman un ordenador cuántico son muy diferentes de las que se utilizan en los ordenadores actuales, los clásicos. Esto se debe a la naturaleza tan diferente de la unidad fundamental de información de cada uno de ellos: el qubit (*quantum bit*) y el bit, respectivamente. Un bit (clásico) puede tomar dos valores: 0 o 1. Podemos entender esto como apagar o encender un interruptor (de hecho los símbolos que aparecen en los botones de las regletas se deben a esto), pero prefiero asociarlo a una flecha que apunta hacia arriba o hacia abajo. Pues bien, en el caso del qubit... ¡esta flecha puede apuntar en cualquier dirección del espacio! Esto cambia totalmente la forma de razonar a la hora de diseñar algoritmos, y es consecuencia de la naturaleza cuántica del qubit. 
 
-<img class="materialboxed" id='Fig1' style="width: 50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/1.png">
+<center><img class="materialboxed" id='Fig1' style="width: 50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/1.png"></center>
 <a id="Fig1">**Figura 1**</a>: La esfera de Bloch es donde se representan los posibles estados |ψ⟩ en los que puede estar un qubit, definidos por los ángulos θ y φ.
 <br/>
 
 Mientras que un bit puede construirse con un condensador de escala nanométrica que se carga o descarga según queramos codificar un 1 o un 0, un qubit debe construirse con un dispositivo que sea inherentemente cuántico. Esto hace que un bit esté mucho más fortalecido que un qubit, en el sentido de que **es más difícil que en un proceso de computación clásica un bit tome un valor erróneo a que un qubit se encuentre en un estado que no le correspondía**. Una forma fácil de entender esto es pensar que para cargar un condensador se necesita un número grande de electrones, por lo que el bit *no se entera* si un electrón se escapa. En cambio, el caso del qubit es más similar a tener un único electrón confinado (de hecho, esta es una forma de crear qubits), por lo que aquí la diferencia es fundamental, y la base del qubit en sí mismo. Hoy en día se están investigando varias posibilidades para fabricar qubits. Destacan especialmente los qubits de circuitos superconductores, que son los más ampliamente usados en los computadores cuánticos actuales<sup name="f1">[1](#foot1)</sup>. 
 
-<img id='Fig2' style="width: 50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/7qubit_chip2.png">
-<a id="Fig2">**Figura 2**</a>: Procesador cuántico de siete qubits superconductores construido por IBM para simular una molécula de BeH<sub>2</sub> <a href="#Ref1">[1]</a>.
+<div class="row center" style="width: 50%">
+  <img id='Fig2' src="/img/blog/2021-11-25-ComputacionCuanticaHoy/7qubit_chip2.png">
+  <a id="Fig2">**Figura 2**</a>: Procesador cuántico de siete qubits superconductores construido por IBM para simular una molécula de BeH<sub>2</sub> <a href="#Ref1">[1]</a>.
+</div>
 <br/>
 
 Sea cual sea el diseño para nuestros qubits, los desafíos que se tratan de superar van asociados a ser capaces de evitar que éstos cambien su estado sin que se lo pidamos, intentando aumentar lo que llamamos su tiempo de coherencia. Este tiempo de coherencia se define como el tiempo que tarda la interacción entre el qubit y el entorno en cambiar el estado del qubit sin que se lo pidamos, motivo por el que los ordenadores cuánticos se mantienen a temperaturas muy bajas, unos pocos centikelvin (-273 grados centígrados aproximadamente), ya que a temperaturas muy bajas los átomos que puedan estar al rededor del qubit empezarán a moverse cada vez más lento, haciendo la interacción más débil.
