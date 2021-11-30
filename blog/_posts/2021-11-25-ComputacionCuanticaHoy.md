@@ -27,7 +27,6 @@ redirect-from:
     </p>
   </center>
 </div>
-<br/>
 
 <p style="text-align: justify;">Sea cual sea el diseño para nuestros qubits, los desafíos que se tratan de superar van asociados a ser capaces de evitar que éstos cambien su estado sin que se lo pidamos, intentando aumentar lo que llamamos su tiempo de coherencia. Este tiempo de coherencia se define como el tiempo que tarda la interacción entre el qubit y el entorno en cambiar el estado del qubit sin que se lo pidamos, motivo por el que los ordenadores cuánticos se mantienen a temperaturas muy bajas, unos pocos centikelvin (-273 grados centígrados aproximadamente), ya que a temperaturas muy bajas los átomos que puedan estar al rededor del qubit empezarán a moverse cada vez más lento, haciendo la interacción más débil.</p>
 
