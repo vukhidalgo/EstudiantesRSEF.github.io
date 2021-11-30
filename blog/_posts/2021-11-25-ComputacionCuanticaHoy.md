@@ -15,7 +15,7 @@ Las piezas o componentes que forman un ordenador cuántico son muy diferentes de
 
 <div class="section">
   <div class="row center">
-    <img class="materialboxed" id='Fig1' width="50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/1.png">
+    <img class="materialboxed" id='Fig1' style="width: 50%" src="/img/blog/2021-11-25-ComputacionCuanticaHoy/1.png">
   </div>
 </div>
 <a id="Fig1">**Figura 1**</a>: La esfera de Bloch es donde se representan los posibles estados |ψ⟩ en los que puede estar un qubit, definidos por los ángulos θ y φ.
