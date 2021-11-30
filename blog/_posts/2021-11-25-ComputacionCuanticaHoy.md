@@ -19,9 +19,11 @@ Las piezas o componentes que forman un ordenador cuántico son muy diferentes de
 
 Mientras que un bit puede construirse con un condensador de escala nanométrica que se carga o descarga según queramos codificar un 1 o un 0, un qubit debe construirse con un dispositivo que sea inherentemente cuántico. Esto hace que un bit esté mucho más fortalecido que un qubit, en el sentido de que **es más difícil que en un proceso de computación clásica un bit tome un valor erróneo a que un qubit se encuentre en un estado que no le correspondía**. Una forma fácil de entender esto es pensar que para cargar un condensador se necesita un número grande de electrones, por lo que el bit *no se entera* si un electrón se escapa. En cambio, el caso del qubit es más similar a tener un único electrón confinado (de hecho, esta es una forma de crear qubits), por lo que aquí la diferencia es fundamental, y la base del qubit en sí mismo. Hoy en día se están investigando varias posibilidades para fabricar qubits. Destacan especialmente los qubits de circuitos superconductores, que son los más ampliamente usados en los computadores cuánticos actuales<sup name="f1">[1](#foot1)</sup>. 
 
-<div class="row center" style="width: 50%">
+<div style="width: 70%">
   <img id='Fig2' src="/img/blog/2021-11-25-ComputacionCuanticaHoy/7qubit_chip2.png">
-  <a id="Fig2">**Figura 2**</a>: Procesador cuántico de siete qubits superconductores construido por IBM para simular una molécula de BeH<sub>2</sub> <a href="#Ref1">[1]</a>.
+  <p style="text-align: justify;">
+    <a id="Fig2">**Figura 2**</a>: Procesador cuántico de siete qubits superconductores construido por IBM para simular una molécula de BeH<sub>2</sub> <a href="#Ref1">[1]</a>.
+  </p>
 </div>
 <br/>
 
