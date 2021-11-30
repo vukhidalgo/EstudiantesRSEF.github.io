@@ -61,11 +61,11 @@ redirect-from:
 <p style="text-align: justify;">Aunque los ordenadores cuánticos que revolucionarán el mundo tal y como lo conocemos aún estén lejos, el desarrollo de algoritmos cuánticos ha ayudado a mejorar nuestra comprensión de estos problemas combinatorios de gran escala. Solo por eso, podemos decir que la computación cuántica ya está transformando nuestro mundo. Por otro lado, no se debe perder de vista que la importancia de los NISQs no se debe solo a las aplicaciones que puedan tener en el presente y el futuro cercano. Estos también son una herramienta para la exploración y la investigación del funcionamiento de la computación cuántica desde el nivel más fundamental. Aún hay cosas que se nos escapan y efectos que no comprendemos del todo. Tener hardware cuántico en el que ir probando algoritmos e indagar en qué formas se pueden controlar más eficientemente los qubits, aparte de representar un gran logro, nos permite acercarnos cada vez más a los ordenadores cuánticos de gran escala, así como seguir mejorando los propios NISQs para aprovechar cuanto antes las posibilidades que ofrecen.</p>
 
 ---
-<a name="foot1">1</a>: Concretamente, el transmón es el qubit superconductor más extendido, dejamos esta referencia si quieres entender cómo funciona: https://arxiv.org/abs/cond-mat/0703002.
+<p name="foot1" style="text-align: justify;">1: Concretamente, el transmón es el qubit superconductor más extendido, dejamos esta referencia si quieres entender cómo funciona: <a href="https://arxiv.org/abs/cond-mat/0703002">https://arxiv.org/abs/cond-mat/0703002</a>.</p>
 
-<a name="foot2">2</a>: Recientemente, IBM ha puesto en funcionamiento el procesador cuántico Eagle con 127 qubits, el máximo hasta la fecha y primero en superar los 100 qubits. Pretenden alcanzar los 400 qubits en 2022 y los 1000 en 2023.
+<p name="foot2" style="text-align: justify;">2: Recientemente, IBM ha puesto en funcionamiento el procesador cuántico Eagle con 127 qubits, el máximo hasta la fecha y primero en superar los 100 qubits. Pretenden alcanzar los 400 qubits en 2022 y los 1000 en 2023.</p>
 
-<a name="foot3">3</a>: OTI Lumionics, CogniFrame o Solid State AI, por dar nombres: https://dx.doi.org/10.1140/epjqt/s40507-021-00091-1.
+<p name="foot3" style="text-align: justify;">3: OTI Lumionics, CogniFrame o Solid State AI, por dar nombres: <a href="https://dx.doi.org/10.1140/epjqt/s40507-021-00091-1">https://dx.doi.org/10.1140/epjqt/s40507-021-00091-1</a>.</p>
 
 ### Referencias
 <a name="Ref1">[1]</a>: IBM Blog [https://www.ibm.com/blogs/research/2017/09/quantum-molecule/]<br/>
