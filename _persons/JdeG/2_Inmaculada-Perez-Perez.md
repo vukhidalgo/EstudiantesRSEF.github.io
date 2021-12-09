@@ -11,7 +11,7 @@ part1: "Secretaria-Tesorera del GdeE (03/2020 - 11/2021)"
 link1: 
 part2: "Responsable(?) del Comité de Relaciones Internacionales, relaciones con IAPS (03/2020(?) - 11/2021(?))"
 link2:
-part3: "Presidenta del Comité Organizador de las Prelliminares de PLANCKS 2021 (03/2021)
+part3: "Presidenta del Comité Organizador de las Prelliminares de PLANCKS 2021 (03/2021)"
 link3: "https://estudiantes.rsef.es/PreliminaresPLANCKS/"
 part4:
 link4:
