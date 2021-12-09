@@ -37,6 +37,6 @@ lkar9:
 arti10:
 lkar10:
 
-linkedin: "https://www.linkedin.com/in/cristina-balsells-llort/"
+linkedin: "https://www.linkedin.com/in/inmperper/"
 ---
 
