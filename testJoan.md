@@ -118,6 +118,46 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         </list>
       </div>
       
+      <!-- Artículos -->
+      
+      {% if person.arti1 %}
+        <div class="row">
+          <h5 class="justify">Artículos del blog</h5>
+          <list class="a">
+            {% if person.arti1 %}
+              <li><a href="{{ person.lkar1 }}" target="_blank">{{ person.arti1 }}</a></li>
+            {% endif %}
+            {% if person.arti2 %}
+              <li><a href="{{ person.lkar2 }}" target="_blank">{{ person.arti2 }}</a></li>
+            {% endif %}
+            {% if person.arti3 %}
+              <li><a href="{{ person.lkar3 }}" target="_blank">{{ person.arti3 }}</a></li>
+            {% endif %}
+            {% if person.arti4 %}
+              <li><a href="{{ person.lkar4 }}" target="_blank">{{ person.arti4 }}</a></li>
+            {% endif %}
+            {% if person.arti5 %}
+              <li><a href="{{ person.lkar5 }}" target="_blank">{{ person.arti5 }}</a></li>
+            {% endif %}
+            {% if person.arti6 %}
+              <li><a href="{{ person.lkar6 }}" target="_blank">{{ person.arti6 }}</a></li>
+            {% endif %}
+            {% if person.arti7 %}
+              <li><a href="{{ person.lkar7 }}" target="_blank">{{ person.arti7 }}</a></li>
+            {% endif %}
+            {% if person.arti8 %}
+              <li><a href="{{ person.lkar8 }}" target="_blank">{{ person.arti8 }}</a></li>
+            {% endif %}
+            {% if person.arti9 %}
+              <li><a href="{{ person.lkar9 }}" target="_blank">{{ person.arti9 }}</a></li>
+            {% endif %}
+            {% if person.arti10 %}
+              <li><a href="{{ person.lkar10 }}" target="_blank">{{ person.arti10 }}</a></li>
+            {% endif %}
+          </list>
+        </div>
+      {% endif %}
+      
        <!-- Recomendaciones -->
 
          <div class="row">
