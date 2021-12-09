@@ -9,7 +9,7 @@ descr: "Graduada en Física y Química por la UAB y actual estudiante de máster
 part1: "Vocal en Organización y Dinamización de Eventos (03/2020 - 11/2021)"
 link1: 
 part2: "Presidenta de las Jornadas de Verano 2021 (07/2021)"
-link2: 
+link2: "https://estudiantes.rsef.es/JornadasVerano2021/"
 part3:
 link3:
 part4:
