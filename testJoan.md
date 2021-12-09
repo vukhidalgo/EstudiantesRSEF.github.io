@@ -8,19 +8,6 @@ redirect_from:
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
-      <img class="materialboxed" width="100%" src="/img/eventos/2021-Jornadas/HeaderJornadas21cLogo.jpg">
-      <p>
-        ¡Bienvenid@ a la página web oficial de las Jornadas de Verano del Grupo de Estudiantes de la RSEF!
-      </p>
-      <p style="text-align: justify;">
-        Las Jornadas de Verano son el evento de desarrollo profesional y personal del Grupo de Estudiantes de la RSEF. Diseñado por y para estudiantes de grado, máster y doctorado en física de toda España, tendrá lugar del 13 al 15 de julio en formato on-line, y tratará temáticas muy diversas: física experimental y teórica, divulgación, empresa... ¡Y no faltarán oportunidades para que los participantes se conozcan entre sí!
-      </p>
-      <p style="text-align: justify;">
-	Si eres una persona inquieta, con ganas de aprender y seguir creciendo, no lo dudes: apúntate a las Jornadas y ayúdanos a seguir construyendo una comunidad de físic@s unida y conectada. Para participar, simplemente debes ser miembro del Grupo de Estudiantes de la RSEF ¿Que aún no lo eres? <a href="{{ site.url }}/inscripcion" target="_blank">Estás a cinco minutos de conseguirlo.</a> Síguenos en redes y anímate: ¡las incripciones ya están abiertas! <!-- ¡Síguenos en redes y estate atent@ porque pronto abriremos inscripciones! -->
-      </p>
-      <p style="text-align: right;">
-        <strong>Fdo.: el <a class="modal-trigger" href="#ModalComOrgJor21">Comité Organizador de las Jornadas de Verano 2021</a>.</strong>
-      </p>
 
       <!-- MODAL COMITÉ ORGANIZADOR -->
 
