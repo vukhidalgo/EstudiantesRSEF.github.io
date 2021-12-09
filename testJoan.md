@@ -15,23 +15,21 @@ redirect_from:
 </div>
 
 
-<div class="section">
+{% for item in site.data.EC3 %}
+
+## Junta de Gobierno ({{item.anno}})
+
+Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
+{% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
+{% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
 <!-- PONENTES -->
-
-<div class="section">
-  <h3 id="Ponentes">Ponentes</h3>
-  <h2>Elegimos que nos enseñen los mejores</h2>
-    <p style="text-align: justify;">
-      Algun@s ponentes que ya nos han confirmado:
-    </p>
- </div>
 
  <div class="section">
    <div class="col s12 m6">
      <div class="row center">
      {% for person in site.persons %}
-     {% if person.evento contains "JornadasVerano2021" %}
+     {% if person.evento contains "EC3" %}
      {% if person.destacado contains "YES" %}
        <ul class="collection waves-effect waves-light" style="width: 33%">
          <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
