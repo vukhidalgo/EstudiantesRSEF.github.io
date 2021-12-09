@@ -36,20 +36,10 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
          <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
            <li class="collection-item avatar2">
              <img src="{{ person.img }}" alt="" class="circle">
-             {% if person.nombredes %}
-             <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
-             {% else %}
              <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
-             {% endif %}
-             {% if person.roldes %}
-             <p style="padding-top: 10px">
-               {{ person.roldes }}
-             </p>
-             {% else %}
-             <p style="padding-top: 10px">
+             <p style="padding-top: 0px">
                {{ person.rol }}
              </p>
-             {% endif %}
            </li>
          </a>
        </ul>
