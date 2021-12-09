@@ -37,7 +37,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
            <li class="collection-item avatar2">
              <img src="{{ person.img }}" alt="" class="circle">
              <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
-             <p style="padding-top: 0px">
+             <p style="padding-top: 10px">
                {{ person.rol }}
              </p>
            </li>
@@ -52,7 +52,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
  <!-- Modal PONENTES -->
 
  {% for person in site.persons %}
- {% if person.evento contains "JornadasVerano2021" %}
+ {% if person.evento contains "EC3" %}
 
  <div id="{{ person.id | remove: "/" }}-modal" class="modal">
    <div class="modal-content">
