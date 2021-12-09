@@ -88,13 +88,32 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <h5 class="justify">¿Qué ha hecho en el GdeE?</h5>
         <list class="a">
           {% if person.part1 %}
+            {% if person.link1 %}
+              <li><a href="{{ person.link1 }}" target="_blank">{{ person.part1 }}</a></li>
+            {% else %}
             <li>{{ person.part1 }}</li>
+            {% endif %}
           {% endif %}
-          {% if person.link1 %}
-            <li><a href="{{ person.link1 }}" target="_blank">{{ person.part1 }}</a></li>
-          {%- endif -%}
           {% if person.part2 %}
+            {% if person.link2 %}
+              <li><a href="{{ person.link2 }}" target="_blank">{{ person.part2 }}</a></li>
+            {% else %}
             <li>{{ person.part2 }}</li>
+            {% endif %}
+          {% endif %}
+          {% if person.part3 %}
+            {% if person.link3 %}
+              <li><a href="{{ person.link3 }}" target="_blank">{{ person.part3 }}</a></li>
+            {% else %}
+            <li>{{ person.part3 }}</li>
+            {% endif %}
+          {% endif %}
+          {% if person.part4 %}
+            {% if person.link4 %}
+              <li><a href="{{ person.link4 }}" target="_blank">{{ person.part4 }}</a></li>
+            {% else %}
+            <li>{{ person.part4 }}</li>
+            {% endif %}
           {% endif %}
         </list>
       </div>
