@@ -5,6 +5,18 @@ permalink: /testJoan/
 redirect_from:
 ---
 
+<h1 class="post-title">Junta de Gobierno</h1>
+
+<div class="row">
+  <div class="col s12 m4">
+    <img data-caption="Logo de Estudiantes RSEF." width="100%" src="{{ site.url }}/img/logos/gdee-rsef.png">
+  </div>
+  <div class="col s12 m4 offset-m1">
+    <p>La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes de la RSEF, y está actualmente compuesta por 11 miembros.</p>
+  </div>
+</div>
+
+
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
