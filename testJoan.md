@@ -36,8 +36,8 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar">
             <img src="{{ person.img }}" alt="" class="circle">
-            <span class="title" style="padding-left: 10px, padding-top: 10px">{{ person.nombre }}            </span>
-            <p style="padding-top: 10px">
+            <span class="title" style="padding-left: 10px, padding-top: 10px">{{ person.nombre }}</span>
+            <p style="padding-top: 10px, padding-bottom: 10px">
               {{ person.rol }}
             </p>
           </li>
