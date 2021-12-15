@@ -713,16 +713,16 @@ td, th{
     }
 	  
     // Avatar Collection
-    &.avatar4 {
+    &.avatar2 {
       height: auto;
-      padding-left: 140px;
+      padding-left: 10px;
       padding-top: 20px;
       padding-bottom: 20px;
       padding-right: 10px;
       position: relative;
 
       .circle {
-       position: absolute;
+       position: float;
        width: 100px;
        height: 100px;
        overflow: hidden;
@@ -731,8 +731,18 @@ td, th{
 	     bottom:15px;
        display: inline-block;
        vertical-align: middle;
-       padding-top: 20px;
-       padding-bottom: 20px;
+      }
+
+      .circle2 {
+       position: absolute;
+       width: 100px;
+       height: 100px;
+       overflow: hidden;
+       top: 15px;
+             left: 15px;
+       bottom:15px;
+       display: inline-block;
+       vertical-align: middle;
       }
 
      @if $small-and-up{
