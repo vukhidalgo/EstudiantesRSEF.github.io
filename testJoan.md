@@ -26,7 +26,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% endfor %}
 
 <!-- JUNTA -->
-
+<!--
 <div class="section">
   <div class="col s12 m6">
     <div class="row center">
@@ -48,7 +48,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
     </div>
   </div>
 </div>
-
+-->
 <!-- JUNTA -->
 
 <div class="section">
@@ -74,7 +74,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 </div>
 
 <!-- JUNTA -->
-
+<!--
 <div class="section">
   <div class="col s12 m6">
     <div class="row center">
@@ -96,7 +96,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
     </div>
   </div>
 </div>
-
+-->
 <!-- JUNTA -->
 
 <div class="section">
