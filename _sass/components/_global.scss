@@ -717,7 +717,7 @@ td, th{
       height: auto;
       padding-left: 140px;
       padding-top: 20px;
-      padding-bottom: 50px;
+      padding-bottom: 20px;
       padding-right: 10px;
       position: relative;
 
@@ -731,6 +731,8 @@ td, th{
 	     bottom:15px;
        display: inline-block;
        vertical-align: middle;
+       padding-top: 50px;
+       padding-bottom: 50px;
       }
 
      @if $small-and-up{
