@@ -25,27 +25,27 @@ permalink: /testPrelis/
       
       <div class="section">
         <div class="row center">
-          <a href="#equipos-modal" class="collection-item modal-trigger btn-large waves-effect waves-light">Info general</a>
+          <a href="#info-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Información general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Equipos</a>
+              <a href="#equipos-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Supervisores</a>
+              <a href="#supervisores-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Supervisoras/es</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Conoce Plancks</a>
+              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Conoce Plancks</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light">Inscríbete</a>
+              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 1)">Inscríbete</a>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@ permalink: /testPrelis/
 <!-- COMITÉS -->
       
       <p style="text-align: justify;">
-        Además, puedes <a href="/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2021.
+        Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2021.
       </p>
     </div>    
 
@@ -125,9 +125,57 @@ permalink: /testPrelis/
       </div>
     </div>
 
+<!-- Modal INFO -->
+
+<div id="info-modal" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+        <h3 class="justify">Información para los equipos</h3>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div> 
+
 <!-- Modal EQUIPOS -->
 
 <div id="equipos-modal" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+        <h3 class="justify">Información para los equipos</h3>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div> 
+
+<!-- Modal SUPERVISORES -->
+
+<div id="supervisores-modal" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+        <h3 class="justify">Información para los equipos</h3>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div> 
+
+<!-- Modal COMITES -->
+
+<div id="comites-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 70px;">
