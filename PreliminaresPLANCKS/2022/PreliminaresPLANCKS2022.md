@@ -30,22 +30,22 @@ permalink: /testPrelis/
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#equipos-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Equipos</a>
+              <a href="#equipos-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#supervisores-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Supervisoras/es</a>
+              <a href="#supervisores-modal" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Supervisoras/es</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 0.7)">Conoce Plancks</a>
+              <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Conoce Plancks</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="color: rgba(255, 99, 71, 1)">Inscríbete</a>
+              <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 1)">Inscríbete</a>
             </div>
           </div>
         </div>
@@ -68,7 +68,7 @@ permalink: /testPrelis/
       </div>
       {% assign loopindex = 0 %}
       {% for event in site.events reversed %}
-      {% if event.title contains "Preliminares de PLANCKS"%}
+      {% if event.title contains "Preliminares"%}
       {% assign rowfinder = loopindex | modulo:2 %}
       {% if rowfinder == 0 %} 
       <div class="row"> 
@@ -131,7 +131,7 @@ permalink: /testPrelis/
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-        <h3 class="justify">Información para los equipos</h3>
+        <h3 class="justify">Información general</h3>
       </div>
     </div>
   </div>
@@ -163,9 +163,42 @@ permalink: /testPrelis/
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-        <h3 class="justify">Información para los equipos</h3>
+        <h3 class="justify">Información para las/los supervisoras/es</h3>
       </div>
     </div>
+  </div>
+  
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div> 
+
+<!-- Modal CONOCER -->
+
+<div id="conocer-modal" class="modal">
+  <div class="modal-content">
+    
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+        <h3 class="justify">Conoce Plancks </h3>
+      </div>
+    </div>
+    
+    <div class="section>
+      <div class="row center">
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://2021.plancks.org/" target="_blank" id="plancks-button" class="btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Conoce Plancks</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 1)">Conoce IAPS</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    
   </div>
   
   <div class="modal-footer">
@@ -179,7 +212,7 @@ permalink: /testPrelis/
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-        <h3 class="justify">Información para los equipos</h3>
+        <h3 class="justify">Los comités organizador y aadémico</h3>
       </div>
     </div>
   </div>
