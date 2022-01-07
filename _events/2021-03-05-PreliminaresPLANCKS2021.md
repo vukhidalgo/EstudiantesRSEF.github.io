@@ -11,7 +11,7 @@ gallery:
 site: /PreliminaresPLANCKS/
 ranking: https://drive.google.com/file/d/1-hFjQaRjs81qBqsG_jK2fk3KedyOjXDi/view?usp=sharing
 exam: https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing
-comm: /ComPreliminaresPLANCKS21/
+comm: https://estudiantes.rsef.es/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/
 ---
 
 <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header Equipos - Prelis PLANCKS 21.png">
