@@ -9,11 +9,9 @@ permalink: /testPrelis/
     <div class="section">
       
 <!-- HEADER -->
-      
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
 
 <!-- INTRODUCCIÓN -->
-      
       <p>
         ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
       </p>
@@ -22,7 +20,6 @@ permalink: /testPrelis/
       </p>
       
 <!-- BOTONES -->
-      
       <div class="section">
         <div class="row center">
           <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Información general</a>
@@ -52,14 +49,12 @@ permalink: /testPrelis/
       </div>
      
 <!-- COMITÉS -->
-      
       <p style="text-align: justify;">
-        Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2021.
+        Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.
       </p>
     </div>    
 
 <!-- EDICIONES ANTERIORES -->
-    
       <div class="section">
       <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
         <p style="text-align: justify;">
@@ -159,7 +154,7 @@ permalink: /testPrelis/
         <h3 class="justify">Conoce Plancks </h3>
       </div>
     </div>
-    <div class="section>
+    <div class="section">
       <div class="row center">
         <div class="col s12 m6">
           <div class="row center">
