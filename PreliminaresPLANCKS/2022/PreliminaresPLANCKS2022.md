@@ -25,7 +25,7 @@ permalink: /testPrelis/
       
       <div class="section">
         <div class="row center">
-          <a href="#equipos-modal" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Información general</a>
+          <a href="#equipos-modal" class="collection-item modal-trigger btn-large waves-effect waves-light">Info general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
