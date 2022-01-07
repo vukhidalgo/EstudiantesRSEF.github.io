@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: eventos-internacionales
-title:  "PLANCKS 2021 - Preliminares"
+title:  "Preliminares de PLANCKS 2021"
 startingdate: 2021-03-05
 endingdate:
 place: Toda España
@@ -9,8 +9,8 @@ locandina: /img/eventos/2021-PLANCKS/WebPostCover_PrelisPLANCKS2021_transparent.
 cover: /img/eventos/2021-PLANCKS/WebPostCover_PrelisPLANCKS2021_transparent.png
 gallery:
 site: /PreliminaresPLANCKS/
-ranking: 
-exam: 
+ranking: https://drive.google.com/file/d/1-hFjQaRjs81qBqsG_jK2fk3KedyOjXDi/view?usp=sharing
+exam: https://drive.google.com/drive/folders/1uc3UpKyiviZQYhe0gQJF6GaupTU8bNK1?usp=sharing
 comm: /ComPreliminaresPLANCKS21/
 ---
 
