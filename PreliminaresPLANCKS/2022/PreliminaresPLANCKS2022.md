@@ -154,13 +154,11 @@ permalink: /testPrelis/
 
 <div id="conocer-modal" class="modal">
   <div class="modal-content">
-    
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 70px;">
         <h3 class="justify">Conoce Plancks </h3>
       </div>
     </div>
-    
     <div class="section>
       <div class="row center">
         <div class="col s12 m6">
@@ -170,14 +168,12 @@ permalink: /testPrelis/
         </div>
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 1)">Conoce IAPS</a>
+            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Conoce IAPS</a>
           </div>
         </div>
       </div>
     </div>
-    
   </div>
-  
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
