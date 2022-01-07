@@ -25,7 +25,7 @@ permalink: /testPrelis/
       
       <div class="section">
         <div class="row center">
-          <a href="https://2021.plancks.org/" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Información general</a>
+          <a href="#equipos-modal" target="_blank" id="about-button" class="btn-large waves-effect waves-light">Información general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
@@ -124,6 +124,23 @@ permalink: /testPrelis/
         </div>
       </div>
     </div>
+
+<!-- Modal EQUIPOS -->
+
+<div id="equipos-modal" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+        <h3 class="justify">Información para los equipos</h3>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div> 
+
 
 <!-- Modal JUNTA -->
 
