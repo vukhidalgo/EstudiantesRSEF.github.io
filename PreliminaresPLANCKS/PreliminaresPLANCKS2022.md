@@ -101,7 +101,7 @@ permalink: /testPrelis/
 <!-- Modal INFO -->
 
 <div id="info-modal" class="modal">
-  <div class="modal-content">
+  <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información general</h3>
@@ -134,7 +134,7 @@ permalink: /testPrelis/
 <!-- Modal EQUIPOS -->
 
 <div id="equipos-modal" class="modal">
-  <div class="modal-content">
+  <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para los equipos</h3>
@@ -163,7 +163,7 @@ permalink: /testPrelis/
 <!-- Modal SUPERVISORES -->
 
 <div id="supervisores-modal" class="modal">
-  <div class="modal-content">
+  <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para las/los supervisoras/es</h3>
@@ -215,7 +215,7 @@ permalink: /testPrelis/
 <!-- Modal CONOCER -->
 
 <div id="conocer-modal" class="modal">
-  <div class="modal-content">
+  <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Conoce Plancks </h3>
@@ -247,7 +247,7 @@ permalink: /testPrelis/
 <!-- Modal COMITES -->
 
 <div id="comites-modal" class="modal">
-  <div class="modal-content">
+  <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Los Comités Organizador y Académico</h3>
