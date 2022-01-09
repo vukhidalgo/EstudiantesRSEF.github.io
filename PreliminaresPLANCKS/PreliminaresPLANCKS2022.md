@@ -102,7 +102,7 @@ permalink: /testPrelis/
 <div id="info-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información general</h3>
         
         <p style="text-align: justify;">
@@ -135,7 +135,7 @@ permalink: /testPrelis/
 <div id="equipos-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para los equipos</h3>
         
         <p style="text-align: justify;">
@@ -164,7 +164,7 @@ permalink: /testPrelis/
 <div id="supervisores-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para las/los supervisoras/es</h3>
         
         <p style="text-align: justify;">
@@ -216,7 +216,7 @@ permalink: /testPrelis/
 <div id="conocer-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Conoce Plancks </h3>
       </div>
     </div>
@@ -245,7 +245,7 @@ permalink: /testPrelis/
 <div id="comites-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Los Comités Organizador y Académico</h3>
         
         <div class="row">
