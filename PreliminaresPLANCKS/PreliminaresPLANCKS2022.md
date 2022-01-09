@@ -218,6 +218,9 @@ permalink: /testPrelis/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Conoce Plancks </h3>
+        <p style="text-align: justify;">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie vitae leo ut ultricies. Nam in pulvinar arcu, ac aliquet eros. Quisque nec neque hendrerit, sagittis odio ac, finibus sem.
+        </p>        
       </div>
     </div>
     <div class="section">
