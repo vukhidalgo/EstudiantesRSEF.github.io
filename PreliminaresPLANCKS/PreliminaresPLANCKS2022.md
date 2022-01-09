@@ -180,8 +180,8 @@ permalink: /testPrelis/
         </p>
 
         <list class="a">
-          <li>Ser investigador pre- o post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2022 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2022.</li>
-          <li>Comprometerse a tener disponibilidad en el rango horario 15:45h - 19:20h el viernes 4 de marzo de 2022, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
+          <li style="text-align: justify;">Ser investigador pre- o post-doctoral / ser docente de educación secundaria o universitario (en activo o jubilado) / ser finalista de una edición anterior de las Preliminares de PLANCKS y no estar en disposición de competir en la edición 2022 / ser miembro del Comité Organizador de las Preliminares de PLANCKS 2022.</li>
+          <li style="text-align: justify;">Comprometerse a tener disponibilidad en el rango horario 15:45h - 19:20h el viernes 4 de marzo de 2022, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
         </list>
 
         <p style="text-align: justify;">
