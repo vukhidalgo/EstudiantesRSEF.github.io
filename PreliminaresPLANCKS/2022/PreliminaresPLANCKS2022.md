@@ -7,7 +7,7 @@ permalink: /PreliminaresPLANCKS2022/
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
-    <img class="materialboxed" width="50%" src="/img/eventos/2022-PLANCKS/LogoPrelis22clogo.png">
+    <center><img width="50%" src="/img/eventos/2022-PLANCKS/LogoPrelis22_logo_sfondo.png"></center>
     <p>
       ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
     </p>
