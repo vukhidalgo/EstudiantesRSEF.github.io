@@ -14,7 +14,7 @@ permalink: /PreliminaresPLANCKS2022/
     <p style="text-align: justify;">
       PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba tendrá lugar del 5 al 8 de mayo y estará organizada por la Universidad LMU de Munich. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
     </p>
-    <h2>Preliminares de PLANCKS 2022</h2>
+    <h3>Preliminares de PLANCKS 2022</h3>
     <p style="text-align: justify;">
       Toda la información que necesitas para competir en las Preliminares de PLANCKS 2022  (formato, fechas, formulario de inscripción) estará disponible en...
     </p>
