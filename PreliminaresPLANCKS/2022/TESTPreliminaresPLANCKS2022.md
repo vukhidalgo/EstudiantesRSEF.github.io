@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Preliminares PLANCKS
+title: TEST Preliminares PLANCKS 2022
 permalink: /testPrelis/
 ---
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
-      
+
 <!-- HEADER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2021-PLANCKS/Header - Prelis PLANCKS 21.png">
 
@@ -19,7 +19,7 @@ permalink: /testPrelis/
         PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba tendrá lugar del 5 al 8 de mayo y estará organizada por la Universidad LMU de Munich. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
         <p style="color: red">Poner texto más rollo presentación.</p>
       </p>
-      
+
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
@@ -48,7 +48,7 @@ permalink: /testPrelis/
           </div>
         </div>
       </div>
-     
+
 <!-- COMITÉS -->
       <p style="text-align: justify;">
         Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.
@@ -66,8 +66,8 @@ permalink: /testPrelis/
       {% for event in site.events reversed %}
       {% if event.title contains "Preliminares de PLANCKS"%}
       {% assign rowfinder = loopindex | modulo:2 %}
-      {% if rowfinder == 0 %} 
-      <div class="row"> 
+      {% if rowfinder == 0 %}
+      <div class="row">
       {% endif %}
         <div class="col s12 m6">
           <div class="card horizontal">
@@ -86,13 +86,13 @@ permalink: /testPrelis/
           	</div>
           </div>
         </div>
-      {% if rowfinder == 1 %} 
+      {% if rowfinder == 1 %}
       </div>
       {% endif %}
       {% assign loopindex = loopindex | plus: 1 %}
       {% endif %}
       {% endfor %}
-      {% if loopindex == 1 %} 
+      {% if loopindex == 1 %}
       </div>
       {% endif %}
     </div>
@@ -105,7 +105,7 @@ permalink: /testPrelis/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información general</h3>
-        
+
         <p style="text-align: justify;">
           El próximo <strong>viernes 4 de marzo</strong> se celebrarán en España las <strong>Preliminares de PLANCKS 2022</strong>.
         </p>
@@ -121,15 +121,15 @@ permalink: /testPrelis/
         <p style="text-align: justify;">
           <strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar el viernes 4 de marzo por la tarde.
         </p>
-  
+
       </div>
     </div>
   </div>
-  
+
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
-</div> 
+</div>
 
 <!-- Modal EQUIPOS -->
 
@@ -138,11 +138,11 @@ permalink: /testPrelis/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para los equipos</h3>
-        
+
         <p style="text-align: justify;">
           Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este</a> enlace.
         </p>
-          
+
         <p style="text-align: justify;">
           <strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar el viernes 4 de marzo por la tarde.
         </p>
@@ -150,15 +150,15 @@ permalink: /testPrelis/
         <p style="text-align: justify;">
           <strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.
         </p>
-        
+
       </div>
     </div>
   </div>
-  
+
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
-</div> 
+</div>
 
 <!-- Modal SUPERVISORES -->
 
@@ -167,15 +167,15 @@ permalink: /testPrelis/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para las/los supervisoras/es</h3>
-        
+
         <p style="text-align: justify;">
           ¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible Supervisor/a de examen en las Preliminares de PLANCKS 2022. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.
         </p>
-        
+
         <p style="text-align: justify;">
           Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este</a> enlace.
         </p>
-        
+
         <p style="text-align: justify;">
           <strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:
         </p>
@@ -202,15 +202,15 @@ permalink: /testPrelis/
         <p style="text-align: justify;">
           <strong>¿Cómo puedo supervisar un examen en las Preliminares 2022?</strong> Es muy sencillo: sólo tienes que rellenar el siguiente formulario. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.
         </p>
-        
+
       </div>
     </div>
   </div>
-  
+
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
-</div> 
+</div>
 
 <!-- Modal CONOCER -->
 
@@ -242,7 +242,7 @@ permalink: /testPrelis/
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
-</div> 
+</div>
 
 <!-- Modal COMITES -->
 
@@ -251,7 +251,7 @@ permalink: /testPrelis/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Los Comités Organizador y Académico</h3>
-        
+
         <div class="row">
           <div class="col s12 m6">
             <div class="icon-block">
@@ -271,12 +271,12 @@ permalink: /testPrelis/
             </div>
           </div>
         </div>
-        
+
       </div>
     </div>
   </div>
-  
+
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
-</div> 
+</div>
