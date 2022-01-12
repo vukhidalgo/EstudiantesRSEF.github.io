@@ -17,7 +17,7 @@ permalink: /PreliminaresPLANCKS2022/
       Toda la información que necesitas para competir en las Preliminares de PLANCKS 2022  (formato, fechas, formulario de inscripción) estará disponible en...
     </p>
     <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
-    <h2>Mientras, ¿por qué no empiezas a entrenar?</h2>
+    <h2>Mientras, ¿por qué no empiezas a entrenar? &#8595</h2>
     </div>
 
     <div class="section">
