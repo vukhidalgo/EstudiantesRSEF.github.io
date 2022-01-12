@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Preliminares PLANCKS
-permalink: /PreliminaresPLANCKS/
+title: Preliminares PLANCKS 2021
+permalink: /PreliminaresPLANCKS2021/
 ---
 
 <div class="no-pad-top" id="index-page">
@@ -46,7 +46,7 @@ permalink: /PreliminaresPLANCKS/
         PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba será online, tendrá lugar del 6 al 9 de mayo y estará organizada por la Universidad de Oporto. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
       </p>
       <p>
-        <strong>En esta web encontrarás información sobre</strong>: 
+        <strong>En esta web encontrarás información sobre</strong>:
       </p>
       <list class="a">
         <li><a href="#PLANCKS&IAPS">Sitios Web oficiales</a> - PLANCKS 2021 y IAPS.</li>
@@ -113,8 +113,8 @@ permalink: /PreliminaresPLANCKS/
       {% for event in site.events reversed %}
       {% if event.title contains "Preliminares de PLANCKS"%}
       {% assign rowfinder = loopindex | modulo:2 %}
-      {% if rowfinder == 0 %} 
-      <div class="row"> 
+      {% if rowfinder == 0 %}
+      <div class="row">
       {% endif %}
         <div class="col s12 m6">
           <div class="card horizontal">
@@ -133,13 +133,13 @@ permalink: /PreliminaresPLANCKS/
           	</div>
           </div>
         </div>
-      {% if rowfinder == 1 %} 
+      {% if rowfinder == 1 %}
       </div>
       {% endif %}
       {% assign loopindex = loopindex | plus: 1 %}
       {% endif %}
       {% endfor %}
-      {% if loopindex == 1 %} 
+      {% if loopindex == 1 %}
       </div>
       {% endif %}
     </div>
