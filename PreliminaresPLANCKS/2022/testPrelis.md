@@ -16,18 +16,19 @@ permalink: /testPrelis/
         ¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!
       </p>
       <p style="text-align: justify;">
-        PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba tendrá lugar del 5 al 8 de mayo y estará organizada por la Universidad LMU de Munich. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional. <a style="color: red">Poner texto más rollo presentación/motivación.</a>
+        PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Este año, la prueba tendrá lugar del 5 al 8 de mayo y estará organizada por la Universidad LMU de Munich. Además, la competición se enmarcará en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. ¿Y cómo puede un equipo conseguir clasificarse para esta competición? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+        <p style="color: red">Poner texto más rollo presentación.</p>
       </p>
 
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(237, 25, 36, 0.7)">Info general</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Info general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(237, 25, 36, 0.7)">Equipos</a>
+              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
@@ -110,11 +111,15 @@ permalink: /testPrelis/
         </p>
 
         <p style="text-align: justify;">
-          <strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. Conoce más sobre Plancks e IAPS <a href="#conocer-modal" class="modal-trigger">aquí</a>.
+          <strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. Más información <a href="#conocer-modal" class="modal-trigger">aquí</a>.
         </p>
 
         <p style="text-align: justify;">
           Este año, la prueba tendrá lugar del 5 al 8 de mayo en la Universidad LMU de Munich. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
+        </p>
+
+        <p style="text-align: justify;">
+          <strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar el viernes 4 de marzo por la tarde.
         </p>
 
       </div>
@@ -189,6 +194,10 @@ permalink: /testPrelis/
           <li style="text-align: justify;">Dos.</li>
           <li style="text-align: justify;">Y tres.</li>
         </list>
+
+        <p style="text-align: justify;">
+          <strong>Importante:</strong> cuando un supervisor/a haya sido reclutado por uno de los equipos participantes, dicho supervisor/a vigilará un equipo distinto al responsable de su alistamiento.
+        </p>
 
         <p style="text-align: justify;">
           <strong>¿Cómo puedo supervisar un examen en las Preliminares 2022?</strong> Es muy sencillo: sólo tienes que rellenar el siguiente formulario. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.
