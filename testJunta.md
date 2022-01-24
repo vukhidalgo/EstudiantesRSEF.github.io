@@ -45,24 +45,25 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 <!-- {% for item in site.data.EC3 %} -->
 
-<div class="col s12 m6">
-  <div class="row center">
-    {% for person in site.persons %}
-    {% if person.evento contains "EC3" %}
-    <ul class="collection waves-effect waves-light" style="width: 33%">
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
-        <li class="collection-item avatar2">
-          <img src="{{ person.img }}" alt="imagen" class="circle">
-          <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
-          <p>{{ person.rol }}</p>
-        </li>
-      </a>
-    </ul>
-    {% endfor %}
-    {% endif %}
+<div class="section">
+  <div class="col s12 m6">
+    <div class="row center">
+      {% for person in site.persons %}
+      {% if person.evento contains "EC3" %}
+      <ul class="collection waves-effect waves-light" style="width: 33%">
+        <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
+          <li class="collection-item avatar2">
+            <img src="{{ person.img }}" alt="imagen" class="circle">
+            <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
+            <p>{{ person.rol }}</p>
+          </li>
+        </a>
+      </ul>
+      {% endfor %}
+      {% endif %}
+    </div>
   </div>
 </div>
-
 
 <!-- {% endfor %} -->
 
