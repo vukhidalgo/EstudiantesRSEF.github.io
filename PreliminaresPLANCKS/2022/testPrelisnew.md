@@ -33,7 +33,7 @@ permalink: /Prelis/
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#info-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Conoce Plancks</a>
+              <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Conoce Plancks</a>
             </div>
           </div>
           <div class="col s12 m3">
@@ -81,7 +81,7 @@ permalink: /Prelis/
         <h3 class="justify">Información para los equipos</h3>
         <p style="text-align: justify;">Lee la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2022 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
-        <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional.</p>
+        <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
       </div>
     </div>
   </div>
@@ -91,7 +91,6 @@ permalink: /Prelis/
 </div>
 
 <!-- SUPERVISORES MODAL -->
-
 <div id="supervisores-modal" class="modal">
   <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
@@ -101,17 +100,48 @@ permalink: /Prelis/
         <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:</p>
         <list class="a">
-          <li style="text-align: justify;">Ser investigador pre- o post-doctoral / ser docente de educación universitario (en activo o jubilado).</li>
-          <li style="text-align: justify;">Comprometerse a tener disponibilidad en el rango horario 15:30h - 19:30h el viernes 4 de marzo de 2022, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
+          <li>Ser investigador pre- o post-doctoral o ser docente universitario (en activo o jubilado).</li>
+          <li>Comprometerse a tener disponibilidad en el rango horario 15:30h - 19:30h el viernes 4 de marzo de 2022, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cuáles son las responsabilidades del cargo de Supervisor/a?</strong> Son las siguientes:</p>
         <list class="a">
-          <li style="text-align: justify;">Imprimir las hojas de la prueba y custodiarlas hasta la realización del examen.</li>
-          <li style="text-align: justify;">Comprobar la identificación de los participantes a la prueba.</li>
-          <li style="text-align: justify;">Supervisar el desarrollo de la prueba durante su realización y velar por el cumplimiento de las normas establecidas.</li>
-          <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al comité organizador.</li>
+          <li>Imprimir las hojas de la prueba y custodiarlas hasta la realización del examen.</li>
+          <li>Comprobar la identificación de los participantes a la prueba.</li>
+          <li>Supervisar el desarrollo de la prueba durante su realización y velar por el cumplimiento de las normas establecidas.</li>
+          <li>Recoger las hojas de la prueba y escanearlas para enviarlas al comité organizador.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2022?</strong> Es muy sencillo: sólo tienes que rellenar <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
+<!-- CONOCER MODAL -->
+<div id="conocer-modal" class="modal">
+  <div class="modal-content-tight">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
+        <h3 class="justify">Conoce Plancks </h3>
+        <p style="text-align: justify;">
+          Este año PLANCKS será organizado por la Sociedad Alemana de Física y ya hay 28 países de 4 continentes que han confirmado que organizarán sus preliminares. Si quieres conocer más sobre PLANCKS y IAPS, la asociación internacional de estudiantes de física que nos reúne, clica en los enlaces siguientes.
+        </p>
+      </div>
+    </div>
+    <div class="section">
+      <div class="row center">
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akjdpg/events/wettbewerbe/plancks" target="_blank" id="plancks-button" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Conoce Plancks</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Conoce IAPS</a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
