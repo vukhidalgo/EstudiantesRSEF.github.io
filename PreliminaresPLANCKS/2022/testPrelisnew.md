@@ -49,46 +49,45 @@ permalink: /Prelis/
     </div>
       
 <!-- EDICIONES ANTERIORES -->
-      <div class="section" id="ediciones-anteriores">
-        <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
-        <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
-      </div>
-      
-      {% assign loopindex = 0 %}
-      {% for event in site.events reversed %}
-      {% if event.title contains "Preliminares de PLANCKS"%}
-      {% assign rowfinder = loopindex | modulo:2 %}
-      {% if rowfinder == 0 %}
-      <div class="row">
-      {% endif %}
-        <div class="col s12 m6">
-          <div class="card horizontal">
-            <div class="card-image">
-      	      <img style="height: 230px; object-fit: cover;" src="{{ event.cover }}">
-            </div>
-            <div class="card-content">
-          	  <span class="card-title grey-text text-darken-4">{{ event.title }}</span>
-          	  <p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} {% if event.endingdate != nil %} - {{ event.endingdate | date: '%d %b %Y' }}                    {% endif %} </small></p>
-            </div>
-          	<div class="card-action">
-          	  <a href="{{ event.ranking }}" target="_blank">Clasificación</a>
-              <a href="{{ event.exam }}" target="_blank">Soluciones</a>
-          	  <a href="{{ event.url }}">Post web</a>
-              <a href="{{ event.comm }}">Comités Organizador y Académico</a>
-          	</div>
-          </div>
-        </div>
-      {% if rowfinder == 1 %}
-      </div>
-      {% endif %}
-      {% assign loopindex = loopindex | plus: 1 %}
-      {% endif %}
-      {% endfor %}
-      {% if loopindex == 1 %}
-      </div>
-      {% endif %}
-      
+    <div class="section" id="ediciones-anteriores">
+      <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
+      <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
     </div>
+      
+    {% assign loopindex = 0 %}
+    {% for event in site.events reversed %}
+    {% if event.title contains "Preliminares de PLANCKS"%}
+    {% assign rowfinder = loopindex | modulo:2 %}
+    {% if rowfinder == 0 %}
+      <div class="row">
+    {% endif %}
+      <div class="col s12 m6">
+        <div class="card horizontal">
+          <div class="card-image">
+    	      <img style="height: 230px; object-fit: cover;" src="{{ event.cover }}">
+          </div>
+          <div class="card-content">
+        	  <span class="card-title grey-text text-darken-4">{{ event.title }}</span>
+        	  <p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} {% if event.endingdate != nil %} - {{ event.endingdate | date: '%d %b %Y' }}                    {% endif %} </small></p>
+          </div>
+        	<div class="card-action">
+        	  <a href="{{ event.ranking }}" target="_blank">Clasificación</a>
+            <a href="{{ event.exam }}" target="_blank">Soluciones</a>
+        	  <a href="{{ event.url }}">Post web</a>
+            <a href="{{ event.comm }}">Comités Organizador y Académico</a>
+        	</div>
+        </div>
+      </div>
+    {% if rowfinder == 1 %}
+      </div>
+    {% endif %}
+    {% assign loopindex = loopindex | plus: 1 %}
+    {% endif %}
+    {% endfor %}
+    {% if loopindex == 1 %}
+      </div>
+    {% endif %}
+      
   </div>
 </div>
 
@@ -117,7 +116,7 @@ permalink: /Prelis/
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Información para los equipos</h3>
         <p style="text-align: justify;">Lee la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
-        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2022 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close waves-effect waves-green btn-flat" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
+        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2022 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close waves-effect waves-green" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
         <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
       </div>
     </div>
