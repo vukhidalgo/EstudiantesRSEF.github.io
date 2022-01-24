@@ -111,15 +111,11 @@ permalink: /testPrelis/
         </p>
 
         <p style="text-align: justify;">
-          <strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. Más información <a href="#conocer-modal" class="modal-trigger">aquí</a>.
+          <strong>¿Qué es y cómo participo en PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. Conoce más sobre Plancks e IAPS <a href="#conocer-modal" class="modal-trigger">aquí</a>.
         </p>
 
         <p style="text-align: justify;">
           Este año, la prueba tendrá lugar del 5 al 8 de mayo en la Universidad LMU de Munich. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.
-        </p>
-
-        <p style="text-align: justify;">
-          <strong>¿Cómo y cuando tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2021 consistirán en un conjunto de 4 problemas, y tendrán lugar el viernes 4 de marzo por la tarde.
         </p>
 
       </div>
@@ -194,10 +190,6 @@ permalink: /testPrelis/
           <li style="text-align: justify;">Dos.</li>
           <li style="text-align: justify;">Y tres.</li>
         </list>
-
-        <p style="text-align: justify;">
-          <strong>Importante:</strong> cuando un supervisor/a haya sido reclutado por uno de los equipos participantes, dicho supervisor/a vigilará un equipo distinto al responsable de su alistamiento.
-        </p>
 
         <p style="text-align: justify;">
           <strong>¿Cómo puedo supervisar un examen en las Preliminares 2022?</strong> Es muy sencillo: sólo tienes que rellenar el siguiente formulario. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.
