@@ -50,14 +50,47 @@ permalink: /Prelis/
       
 <!-- EDICIONES ANTERIORES -->
       <div class="section" id="ediciones-anteriores">
-        <p>¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!</p>
+        <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
+        <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
       </div>
+      
+      {% assign loopindex = 0 %}
+      {% for event in site.events reversed %}
+      {% if event.title contains "Preliminares de PLANCKS"%}
+      {% assign rowfinder = loopindex | modulo:2 %}
+      {% if rowfinder == 0 %}
+      <div class="row">
+      {% endif %}
+        <div class="col s12 m6">
+          <div class="card horizontal">
+            <div class="card-image">
+      	      <img style="height: 230px; object-fit: cover;" src="{{ event.cover }}">
+            </div>
+            <div class="card-content">
+          	  <span class="card-title grey-text text-darken-4">{{ event.title }}</span>
+          	  <p><small><b>{{ event.place }}</b> {{ event.startingdate | date: '%d %b %Y' }} {% if event.endingdate != nil %} - {{ event.endingdate | date: '%d %b %Y' }}                    {% endif %} </small></p>
+            </div>
+          	<div class="card-action">
+          	  <a href="{{ event.ranking }}" target="_blank">Clasificación</a>
+              <a href="{{ event.exam }}" target="_blank">Soluciones</a>
+          	  <a href="{{ event.url }}">Post web</a>
+              <a href="{{ event.comm }}">Comités Organizador y Académico</a>
+          	</div>
+          </div>
+        </div>
+      {% if rowfinder == 1 %}
+      </div>
+      {% endif %}
+      {% assign loopindex = loopindex | plus: 1 %}
+      {% endif %}
+      {% endfor %}
+      {% if loopindex == 1 %}
+      </div>
+      {% endif %}
       
     </div>
   </div>
 </div>
-
-
 
 
 <!-- INFO MODAL -->
@@ -163,7 +196,7 @@ permalink: /Prelis/
         <div class="row">
           <div class="col s12 m6">
             <div class="icon-block">
-              <h2 class="center">Comité Organizador</h2>
+              <h5 class="center">Comité Organizador</h5>
               <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
               <p align="center">Cristina Balsells Llort - Vicepresidenta</p>
               <p align="center"></p>
@@ -171,7 +204,7 @@ permalink: /Prelis/
           </div>
           <div class="col s12 m6">
             <div class="icon-block">
-              <h2 class="center">Comité Académico</h2>
+              <h5 class="center">Comité Académico</h5>
               <p align="center">No podemos desvelar la composición del comité académico hasta después de la realización de la prueba. ;)</p>
               <p align="center"></p>
               <p align="center"></p>
