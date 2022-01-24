@@ -11,6 +11,10 @@ permalink: /Prelis/
 <!-- HEADER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2022-PLANCKS/Header22.png">
 
+<!-- INTRODUCCIÓN -->
+      <p>¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!</p>
+      <p style="text-align: justify; color: red">Texto de introducción/motivación de Cris.</p>
+
     </div>
   </div>
 </div>
