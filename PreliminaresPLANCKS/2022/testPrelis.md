@@ -23,12 +23,12 @@ permalink: /testPrelis/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Info general</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(237, 25, 36, 0.7)">Info general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(255, 99, 71, 0.7)">Equipos</a>
+              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgba(237, 25, 36, 0.7)">Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
