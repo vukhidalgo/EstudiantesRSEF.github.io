@@ -43,12 +43,12 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 {% endfor %}
 
-{% for person in site.persons %}
-{% if person.evento contains "EC3" %}
 <!-- {% for item in site.data.EC3 %} -->
 
 <div class="col s12 m6">
   <div class="row center">
+    {% for person in site.persons %}
+    {% if person.evento contains "EC3" %}
     <ul class="collection waves-effect waves-light">
       <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
         <li class="collection-item avatar2">
@@ -58,11 +58,12 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
         </li>
       </a>
     </ul>
+    {% endfor %}
+    {% endif %}
   </div>
 </div>
 
-{% endfor %}
-{% endif %}
+
 <!-- {% endfor %} -->
 
 
