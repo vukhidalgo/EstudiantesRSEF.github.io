@@ -39,7 +39,7 @@ permalink: /mapaPrelis/
 
               // A couple of places
               var centerPen = {lat: 40.416775, lng: -3.703790};
-              var centerPos = {lat: 37.26638,  lng: -6.94004};
+              var centerPos = {lat: 36.7875,   lng: -7.0135};
               // Facultades de https://www.cofis.es/elfisico/facultades.html
               var UA = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
               var UAB = {lat: 41.501105, lng: 2.109064}; // Facultat de Ciències (Bellaterra)
@@ -65,7 +65,7 @@ permalink: /mapaPrelis/
               var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
-              var cameraPosition = { zoom: 5, center: centerPos };
+              var cameraPosition = { zoom: 5.5, center: centerPos };
               var map = new google.maps.Map(targetElem, cameraPosition);
 
               // We have already displayed the map, let's add markers
