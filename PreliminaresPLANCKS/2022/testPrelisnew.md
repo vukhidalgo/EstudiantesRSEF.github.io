@@ -22,12 +22,12 @@ permalink: /Prelis/
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons">groups</i>\00a0\00a0Equipos</a>
+              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 2px;">groups</i>Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons">remove_red_eye</i>   Supervisoras/es</a>
+              <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 2px;">remove_red_eye</i>   Supervisoras/es</a>
             </div>
           </div>
           <div class="col s12 m3">
