@@ -20,7 +20,7 @@ permalink: /PreliminaresPLANCKS2022/
           <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
         </div>
         <div class="row center">
-          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipas</a>
+          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>
           <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
           <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
           <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
@@ -105,7 +105,11 @@ permalink: /PreliminaresPLANCKS2022/
         <p style="text-align: justify;">Lee la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2022 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
         <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
-        <p style="text-align: justify;">Puedes leer las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
+      </div>
+    </div>
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183;">
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">error_outline</i>Lee las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
       </div>
     </div>
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
@@ -142,8 +146,12 @@ permalink: /PreliminaresPLANCKS2022/
           <li style="text-align: justify;">Supervisar el desarrollo de la prueba durante su realización y velar por el cumplimiento de las normas establecidas.</li>
           <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al Comité Organizador.</li>
         </list>
-        <p style="text-align: justify;">Puedes leer las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2022?</strong> Es muy sencillo: sólo tienes que rellenar <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
+      </div>
+    </div>
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183;">
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i>Lee las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
       </div>
     </div>
   </div>
