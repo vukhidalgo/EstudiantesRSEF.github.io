@@ -152,7 +152,7 @@ permalink: /Prelis/
           <li style="text-align: justify;">Imprimir las hojas de la prueba y custodiarlas hasta la realización del examen.</li>
           <li style="text-align: justify;">Comprobar la identificación de los participantes a la prueba.</li>
           <li style="text-align: justify;">Supervisar el desarrollo de la prueba durante su realización y velar por el cumplimiento de las normas establecidas.</li>
-          <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al comité organizador.</li>
+          <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al Comité Organizador.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2022?</strong> Es muy sencillo: sólo tienes que rellenar <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
       </div>
