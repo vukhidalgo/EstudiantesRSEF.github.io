@@ -108,8 +108,8 @@ permalink: /PreliminaresPLANCKS2022/
       </div>
     </div>
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183;">
-        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">error_outline</i>Lee las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183; display: inline-flex; align-items: center;">
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i>Lee las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
       </div>
     </div>
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
@@ -150,7 +150,7 @@ permalink: /PreliminaresPLANCKS2022/
       </div>
     </div>
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183;">
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183; display: inline-flex; align-items: center;">
         <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i>Lee las reglas de la competición en <a href="shorturl.at/tHZ06" id="reglas-button" target="_blank">este enlace</a>.</p>
       </div>
     </div>
