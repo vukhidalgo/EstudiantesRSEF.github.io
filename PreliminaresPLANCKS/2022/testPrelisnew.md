@@ -17,7 +17,7 @@ permalink: /Prelis/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Información general</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">info</i>Información general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
