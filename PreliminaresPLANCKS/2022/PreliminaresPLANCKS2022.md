@@ -100,7 +100,7 @@ permalink: /PreliminaresPLANCKS2022/
 <div id="equipos-modal" class="modal">
   <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
+      <div class="row center" style="padding-left: 15px; padding-top: 10px;">
         <h3 class="justify">Información para los equipos</h3>
         <p style="text-align: justify;">Lee la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2022 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
@@ -109,7 +109,7 @@ permalink: /PreliminaresPLANCKS2022/
       </div>
     </div>
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="section" style="padding-left: 10px; padding-right: 10px; border: 2px solid #293183;">
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183;">
         <strong>Términos y Condiciones de IAPS</strong> | Todos los participantes:
         <p style="text-align: justify;">- Declaran conocer que PLANCKS está regulado por el Artículo 12 de las <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m" target="_blank">IAPS Regulations</a>.</p>
         <p style="text-align: justify;">- Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO" target="_blank">Reglas Generales de Plancks</a>, además del <a href="https://drive.google.com/file/d/1alG7j3AqSKoiXHKLHBo5Eb3-olbKrEoO/view?usp=sharing" target="_blank">IAPS Code of Conduct</a>.</p>
