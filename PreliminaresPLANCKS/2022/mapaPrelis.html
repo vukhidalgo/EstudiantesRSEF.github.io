@@ -26,17 +26,12 @@ permalink: /mapaPrelis/
         
         <body>
           <h4>El mapa de las Preliminares PLANCKS 2022</h4>
-          <p>
-            See <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">marker example</a> (there you'll see how to get the API KEY)
-            and <a href="https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete">autocomplete example</a>.
-          </p>
-          <p>
-            I also recommend to read about <a href="https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple">info windows</a>
-            and <a href="https://developers.google.com/maps/documentation/javascript/examples/icon-simple">simple icons</a> (not used in this example).
-          </p>
-          <div>
-            <input type="text" id="searchTextField">
-          </div>
+<!--
+          <p>See <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">marker example</a> (there you'll see how to get the API KEY)
+          and <a href="https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete">autocomplete example</a>.</p>
+          <p>I also recommend to read about <a href="https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple">info windows</a>
+          and <a href="https://developers.google.com/maps/documentation/javascript/examples/icon-simple">simple icons</a> (not used in this example).</p>
+-->
           <div id="map"></div>
           
           <script>
@@ -70,7 +65,7 @@ permalink: /mapaPrelis/
               var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
-              var cameraPosition = { zoom: 6, center: centerPos };
+              var cameraPosition = { zoom: 5, center: centerPos };
               var map = new google.maps.Map(targetElem, cameraPosition);
 
               // We have already displayed the map, let's add markers
@@ -98,31 +93,6 @@ permalink: /mapaPrelis/
               var marker20 = new google.maps.Marker({ map: map, position: UV });              
               var marker21 = new google.maps.Marker({ map: map, position: UVA });
               var marker22 = new google.maps.Marker({ map: map, position: UNIZAR });
-              
-              // Now let's setup the autocomplete input, with which we can add more markers
-
-              <!--
-              // Autocomplete input
-              var input = document.getElementById('searchTextField');
-              var autocomplete = new google.maps.places.Autocomplete(input);
-              autocomplete.bindTo('bounds', map);
-
-              // Listen to autocomplete input
-              autocomplete.addListener('place_changed', function() {
-
-                var place = autocomplete.getPlace();
-                if (!place.geometry) {
-                  // User entered the name of a place that was not suggested and
-                  // pressed the Enter key, or the Place Details request failed.
-                  window.alert("No details available for input: '" + place.name + "'. Select one of the results.");
-                  return;
-                }
-
-                // Add marker in map
-                var marker = new google.maps.Marker({ map: map, position: place.geometry.location });
-              });
-              -->
-              
             }
           </script>
 
@@ -135,29 +105,4 @@ permalink: /mapaPrelis/
        </html>
 
   </div>
-</div>   
-    
-    <!--
-    
-    <h3>My First Google Map</h3>
-    <div id="googleMap" style="width:70%;height:600px;"></div>
-
-<script>
-function myMap() {
-var mapProp= {
-  center:new google.maps.LatLng(40.416775,-3.703790),
-  zoom:6,
-};
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-}
-  
-var marker1 = new google.maps.Marker({position: myCenter});
-marker1.setMap(map);
-
-var marker2 = new google.maps.Marker({position: google.maps.LatLng(41.390205,2.154000)});
-marker2.setMap(map);
-
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU&callback=myMap"></script>
--->
+</div>
