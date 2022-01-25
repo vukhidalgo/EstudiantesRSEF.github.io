@@ -230,7 +230,7 @@ permalink: /Prelis/
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Los Comités Organizador y Académico</h3>
         <div class="row">
-          <div class="col s12 m6">
+          <div class="col s12 m6 l7">
             <div class="icon-block">
               <h5 class="center">Comité Organizador</h5>
               <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
@@ -245,7 +245,7 @@ permalink: /Prelis/
               <p align="center">Pedro Villalba González - Logística</p>
             </div>
           </div>
-          <div class="col s12 m6">
+          <div class="col s12 m6 l5">
             <div class="icon-block">
               <h5 class="center">Comité Académico</h5>
               <p align="center">No podemos desvelar su composición hasta después de la realización de la prueba. ;)</p>
