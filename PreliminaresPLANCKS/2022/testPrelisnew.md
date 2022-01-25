@@ -12,8 +12,7 @@ permalink: /Prelis/
       <img class="materialboxed" width="100%" src="/img/eventos/2022-PLANCKS/Versión definitiva.png">
 
 <!-- INTRODUCCIÓN -->
-      <p>¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!</p>
-      <p style="text-align: justify; color: red">Texto de introducción/motivación de Cris.</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? Vueven en su  quinta edición las Preliminares de PLANCKS y esta vez... ¡en formato presencial! Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
 <!-- BOTONES -->
       <div class="section">
