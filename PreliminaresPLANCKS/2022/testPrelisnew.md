@@ -66,7 +66,7 @@ permalink: /Prelis/
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); border: 2px solid #B4B7D4;">Inscríbete</a>
+              <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); border: 2px solid #B4B7D4;">Inscríbete</a>
             </div>
           </div>
         </div>
@@ -201,7 +201,7 @@ permalink: /Prelis/
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
         <h3 class="justify">Conoce Plancks </h3>
         <p style="text-align: justify;">
-          Este año PLANCKS será organizado por la Sociedad Alemana de Física y ya hay 28 países de 4 continentes que han confirmado que organizarán sus preliminares. Si quieres conocer más sobre PLANCKS y IAPS, la asociación internacional de estudiantes de física que nos reúne, clica en los enlaces siguientes.
+          Este año PLANCKS será organizado por la Sociedad Alemana de Física y ya hay 28 países de 4 continentes que han confirmado que organizarán sus preliminares. Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
         </p>
       </div>
     </div>
