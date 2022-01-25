@@ -9,7 +9,7 @@ permalink: /Prelis/
     <div class="section">
 
 <!-- HEADER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2022-PLANCKS/Header22.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2022-PLANCKS/Versión definitiva.png">
 
 <!-- INTRODUCCIÓN -->
       <p>¡Bienvenid@ a la página web oficial de las Preliminares de PLANCKS!</p>
