@@ -20,22 +20,23 @@ permalink: /PreliminaresPLANCKS2022/
           <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
         </div>
         <div class="row center">
-          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>
-          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
-          <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
-          <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
+          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px; padding-bottom: 5px;">groups</i>Equipos</a>
+          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px; padding-bottom: 5px;">remove_red_eye</i>Supervisoras/es</a>
+          <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px; padding-bottom: 5px;">explore</i>Conoce Plancks</a>
+          <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px; padding-bottom: 5px;">create</i>Inscríbete</a>
         </div>
       </div> 
 
-<!-- COUNTDOWN -->
-    <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se abrirán en...</p>
-    <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
-    <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
-      
 <!-- COMITÉS -->
       <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
-    </div>
+    
       
+<!-- COUNTDOWN -->
+      <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se abrirán en...</p>
+      <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
+      <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
+    </div>
+    
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
       <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
