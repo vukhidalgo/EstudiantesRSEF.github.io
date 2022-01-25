@@ -113,7 +113,7 @@ permalink: /PreliminaresPLANCKS2022/
       <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #293183;">
         <strong>Términos y Condiciones de IAPS</strong> | Todos los participantes:
         <p style="text-align: justify;">- Declaran conocer que PLANCKS está regulado por el Artículo 12 de las <a href="https://drive.google.com/open?id=1kkJ4YaXtghuGasOxzGdi8yqALL00DI6m" target="_blank">IAPS Regulations</a>.</p>
-        <p style="text-align: justify;">- Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO" target="_blank">Reglas Generales de Plancks</a>, además del <a href="https://drive.google.com/file/d/1alG7j3AqSKoiXHKLHBo5Eb3-olbKrEoO/view?usp=sharing" target="_blank">IAPS Code of Conduct</a>.</p>
+        <p style="text-align: justify;">- Y se comprometen a cumplir las <a href="https://drive.google.com/open?id=1oTMqzvJEgceuSg4bSMcCfeRRnNv_hSEO" target="_blank">Reglas Generales de PLANCKS</a>, además del <a href="https://drive.google.com/file/d/1alG7j3AqSKoiXHKLHBo5Eb3-olbKrEoO/view?usp=sharing" target="_blank">IAPS Code of Conduct</a>.</p>
         <p style="text-align: justify;">Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en este convocatoria de PLANCKS de intermediario económico en modo alguno.</p>
       </div>
     </div>
@@ -127,7 +127,7 @@ permalink: /PreliminaresPLANCKS2022/
 <div id="supervisores-modal" class="modal">
   <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
+      <div class="row center">
         <h3 class="justify">Información para supervisoras/es</h3>
         <p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible Supervisor/a de examen en las Preliminares de PLANCKS 2022. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
         <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
@@ -157,7 +157,7 @@ permalink: /PreliminaresPLANCKS2022/
 <div id="conocer-modal" class="modal">
   <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
+      <div class="row center">
         <h3 class="justify">Conoce Plancks </h3>
         <p style="text-align: justify;">
           Este año PLANCKS será organizado por la Sociedad Alemana de Física y ya hay 28 países de 4 continentes que han confirmado que organizarán sus preliminares. Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
