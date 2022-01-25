@@ -206,13 +206,20 @@ permalink: /Prelis/
               <h5 class="center">Comité Organizador</h5>
               <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
               <p align="center">Cristina Balsells Llort - Vicepresidenta</p>
-              <p align="center"></p>
+              <p align="center">Pablo Blanco Mas - Secretaría e inscripciones</p>
+              <p align="center">Sergio Salvía Fernández - Responsable de Relaciones Públicas</p>
+              <p align="center">Odette Alonso-Sañudo Álvarez - Relaciones Públicas</p>
+              <p align="center">Alejandro Fernández Muñoz - Responsable Web y IT</p>
+              <p align="center">Joan Llobera Querol - Web y IT</p>
+              <p align="center">Imanol Corredoira Fernández - Logística</p>
+              <p align="center">Irene Carrión López - Logística</p>
+              <p align="center">Pedro Villalba González - Logística</p>
             </div>
           </div>
           <div class="col s12 m6">
             <div class="icon-block">
               <h5 class="center">Comité Académico</h5>
-              <p align="center">No podemos desvelar la composición del comité académico hasta después de la realización de la prueba. ;)</p>
+              <p align="center">No podemos desvelar su composición hasta después de la realización de la prueba. ;)</p>
               <p align="center"></p>
               <p align="center"></p>
               <p align="center"></p>
