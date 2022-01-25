@@ -18,6 +18,13 @@ var mapProp= {
 };
 var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
+  
+var marker1 = new google.maps.Marker({position: myCenter});
+marker1.setMap(map);
+
+var marker2 = new google.maps.Marker({position: google.maps.LatLng(41.390205,2.154000)});
+marker2.setMap(map);
+
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU&callback=myMap"></script>
