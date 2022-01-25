@@ -7,7 +7,7 @@ permalink: /PreliminaresPLANCKS/
 <head>
     <title>HTML Redirect</title>
     <meta http-equiv="refresh"
-        content="1; url = https://estudiantes.rsef.es/PreliminaresPLANCKS2021/" />
+        content="1; url = https://estudiantes.rsef.es/PreliminaresPLANCKS2022/" />
 </head>
 </html>
 
