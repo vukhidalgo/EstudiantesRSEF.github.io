@@ -22,7 +22,7 @@ permalink: /Prelis/
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); line-height: 51px"><i class="material-icons" style="line-height: 56px">groups</i> Equipos</p></a>
+              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); line-height: 40px"><i class="material-icons" style="line-height: 56px">groups</i> Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
