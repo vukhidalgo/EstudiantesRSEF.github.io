@@ -7,6 +7,95 @@ permalink: /mapaPrelis/
 <div class="container">
   <div class="section">
 
+    
+    <!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       #map {
+        height: 400px;
+        width: 100%;
+       }
+
+       #searchTextField {
+         width: 300px;
+         font-size: 20px;
+         margin-bottom: 20px;
+       }
+    </style>
+  </head>
+  <body>
+    
+    <h2>My Google Maps Demo</h2>
+
+    <p>
+      See <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">marker example</a> (there you'll see how to get the API KEY)
+      and <a href="https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete">autocomplete example</a>.
+    </p>
+    <p>
+      I also recommend to read about <a href="https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple">info windows</a>
+      and <a href="https://developers.google.com/maps/documentation/javascript/examples/icon-simple">simple icons</a> (not used in this example).
+    </p>
+    
+    <div>
+      <input type="text" id="searchTextField">
+    </div>
+    
+    <div id="map"></div>
+    
+    <script>
+      function initMap() {
+
+        // A couple of places
+        var brunchPos = {lat: 41.3882793, lng: 2.1615454};
+        var faboritPos = {lat: 41.3915233, lng: 2.1650537};
+
+        // Create map, draw it in the targetElem and sets the cameraPosition
+        var targetElem = document.getElementById('map');
+        var cameraPosition = { zoom: 13, center: faboritPos };
+        var map = new google.maps.Map(targetElem, cameraPosition);
+
+        // We have already displayed the map, let's add markers
+
+        // Create markers in the map
+        var marker1 = new google.maps.Marker({ map: map, position: faboritPos });
+        var marker2 = new google.maps.Marker({ map: map, position: brunchPos });
+
+        // Now let's setup the autocomplete input, with which we can add more markers
+
+        // Autocomplete input
+        var input = document.getElementById('searchTextField');
+        var autocomplete = new google.maps.places.Autocomplete(input);
+        autocomplete.bindTo('bounds', map);
+
+        // Listen to autocomplete input
+        autocomplete.addListener('place_changed', function() {
+
+          var place = autocomplete.getPlace();
+          if (!place.geometry) {
+            // User entered the name of a place that was not suggested and
+            // pressed the Enter key, or the Place Details request failed.
+            window.alert("No details available for input: '" + place.name + "'. Select one of the results.");
+            return;
+          }
+
+          // Add marker in map
+          var marker = new google.maps.Marker({ map: map, position: place.geometry.location });
+        });
+
+      }
+    </script>
+
+    <!-- Loads maps library (with places library) and then calls initMap() -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initMap&key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU">
+    </script>
+
+  </body>
+</html>
+    
+    <!--
+    
     <h3>My First Google Map</h3>
     <div id="googleMap" style="width:70%;height:600px;"></div>
 
@@ -28,3 +117,4 @@ marker2.setMap(map);
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU&callback=myMap"></script>
+-->
