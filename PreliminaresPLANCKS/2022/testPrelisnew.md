@@ -17,16 +17,18 @@ permalink: /Prelis/
 <!-- BOTONES -->
       <div class="section">
         <div class="row">
-          <div class="col s12 m3 l6">
+          <div class="col s12 m3 l2"></div>
+          <div class="col s12 m3 l4">
             <div class="row center">
               <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>   Información general</a>
             </div>
           </div>
-          <div class="col s12 m3 l6">
+          <div class="col s12 m3 l4">
             <div class="row center">
               <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">create</i>   Inscríbete</a>
             </div>
           </div>
+          <div class="col s12 m3 l2"></div>
         </div>
         <div class="row">
           <div class="col s12 m3 l4">
@@ -36,7 +38,7 @@ permalink: /Prelis/
           </div>
           <div class="col s12 m3 l4">
             <div class="row center">
-              <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>   Supervisoras/es</a>
+              <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>   Supervisoras/os</a>
             </div>
           </div>
           <div class="col s12 m3 l4">
