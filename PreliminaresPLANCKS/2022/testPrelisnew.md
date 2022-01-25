@@ -17,27 +17,27 @@ permalink: /Prelis/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">info</i>Información general</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">info</i> Información general</a>
         </div>
         <div class="row">
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">groups</i>Equipos</a>
+              <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">groups</i> Equipos</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">remove_red_eye</i>Supervisoras/es</a>
+              <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">remove_red_eye</i> Supervisoras/es</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Conoce Plancks</a>
+              <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)"><i class="material-icons">description</i> Conoce Plancks</a>
             </div>
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); border: 5px solid #B4B7D4;"><i class="material-icons">create</i>Inscríbete</a>
+              <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); border: 5px solid #B4B7D4;"><i class="material-icons">create</i> Inscríbete</a>
             </div>
           </div>
         </div>
