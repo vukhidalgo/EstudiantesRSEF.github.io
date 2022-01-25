@@ -43,10 +43,31 @@ permalink: /mapaPrelis/
             function initMap() {
 
               // A couple of places
-              var centerPos = {lat: 40.416775, lng: -3.703790};
-              var UB = {lat: 41.384376, lng: 2.117189};
-              var UAB = {lat: 41.501105, lng: 2.109064};
-
+              var centerPen = {lat: 40.416775, lng: -3.703790};
+              var centerPos = {lat: 37.26638,  lng: -6.94004};
+              // Facultades de https://www.cofis.es/elfisico/facultades.html
+              var UA = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
+              var UAB = {lat: 41.501105, lng: 2.109064}; // Facultat de Ciències (Bellaterra)
+              var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias
+              var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física
+              var UNICAN = {lat: 43.471183, lng: -3.801105}; // Facultad de Ciencias (Santander)
+              var UCM = {lat: 40.450872, lng: -3.726084}; // Facultad de Ciencias Físicas
+              var UCO = {lat: 37.914788, lng: -4.716931}; // Facultad de Ciencias
+              var UEM = {lat: 40.373069, lng: -3.919072}; // Universidad Europea de Madrid (Villaviciosa de Odón)
+              var UEV = {lat: 39.475430, lng: -0.365282}; // Universidad Europea de Valencia
+              var UNEX = {lat: 38.884575, lng: -7.009206}; // Facultad de Ciencias (Badajoz)
+              var UGR = {lat: 37.179751, lng: -3.609293}; // Facultad de Ciencias
+              var UIB = {lat: 39.636006, lng: 2.647993}; // Edifici Mateu Orfila i Rotger
+              var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)
+              var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química
+              var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
+              var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)
+              var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
+              var USC = {lat: 42.875917, lng: -8.560536}; // Facultade de Física
+              var US =  {lat: 37.359384, lng: -5.986452}; // Facultad de Física
+              var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)
+              var UVA = {lat: 41.663388, lng: -4.705462}; // Facultad de Ciencias
+              var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
               var cameraPosition = { zoom: 6, center: centerPos };
@@ -55,11 +76,32 @@ permalink: /mapaPrelis/
               // We have already displayed the map, let's add markers
 
               // Create markers in the map
-              var marker1 = new google.maps.Marker({ map: map, position: UB });
+              var marker1 = new google.maps.Marker({ map: map, position: UA });
               var marker2 = new google.maps.Marker({ map: map, position: UAB });
-
+              var marker3 = new google.maps.Marker({ map: map, position: UAM });
+              var marker4 = new google.maps.Marker({ map: map, position: UB });
+              var marker5 = new google.maps.Marker({ map: map, position: UNICAN });
+              var marker6 = new google.maps.Marker({ map: map, position: UCM });
+              var marker7 = new google.maps.Marker({ map: map, position: UCO });
+              var marker8 = new google.maps.Marker({ map: map, position: UEM });
+              var marker9 = new google.maps.Marker({ map: map, position: UEV });
+              var marker10 = new google.maps.Marker({ map: map, position: UNEX });
+              var marker11 = new google.maps.Marker({ map: map, position: UGR });
+              var marker12 = new google.maps.Marker({ map: map, position: UIB });
+              var marker13 = new google.maps.Marker({ map: map, position: ULL });
+              var marker14 = new google.maps.Marker({ map: map, position: UM });
+              var marker15 = new google.maps.Marker({ map: map, position: UNIOVI });
+              var marker16 = new google.maps.Marker({ map: map, position: EHU });
+              var marker17 = new google.maps.Marker({ map: map, position: USAL });
+              var marker18 = new google.maps.Marker({ map: map, position: USC });
+              var marker19 = new google.maps.Marker({ map: map, position: US });
+              var marker20 = new google.maps.Marker({ map: map, position: UV });              
+              var marker21 = new google.maps.Marker({ map: map, position: UVA });
+              var marker22 = new google.maps.Marker({ map: map, position: UNIZAR });
+              
               // Now let's setup the autocomplete input, with which we can add more markers
 
+              <!--
               // Autocomplete input
               var input = document.getElementById('searchTextField');
               var autocomplete = new google.maps.places.Autocomplete(input);
@@ -79,7 +121,8 @@ permalink: /mapaPrelis/
                 // Add marker in map
                 var marker = new google.maps.Marker({ map: map, position: place.geometry.location });
               });
-
+              -->
+              
             }
           </script>
 
