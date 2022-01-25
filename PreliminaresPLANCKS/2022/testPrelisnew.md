@@ -38,7 +38,7 @@ permalink: /Prelis/
           </div>
           <div class="col s12 m3">
             <div class="row center">
-              <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132)">Inscríbete</a>
+              <a href="https://www.iaps.info/" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); border: 2px solid #B4B7D4;">Inscríbete</a>
             </div>
           </div>
         </div>
