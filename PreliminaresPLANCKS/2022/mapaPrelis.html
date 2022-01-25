@@ -9,90 +9,87 @@ permalink: /mapaPrelis/
 
     
     <!DOCTYPE html>
-<html>
-  <head>
-    <style>
-       #map {
-        height: 400px;
-        width: 100%;
-       }
+      <html>
+        <head>
+          <style>
+            #map {
+              height: 600px;
+              width: 70%;
+            }
+            #searchTextField {
+              width: 300px;
+              font-size: 16px;
+              margin-bottom: 20px;
+            }
+          </style>
+        </head>
+        
+        <body>
+          <h4>El mapa de las Preliminares PLANCKS 2022</h4>
+          <p>
+            See <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">marker example</a> (there you'll see how to get the API KEY)
+            and <a href="https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete">autocomplete example</a>.
+          </p>
+          <p>
+            I also recommend to read about <a href="https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple">info windows</a>
+            and <a href="https://developers.google.com/maps/documentation/javascript/examples/icon-simple">simple icons</a> (not used in this example).
+          </p>
+          <div>
+            <input type="text" id="searchTextField">
+          </div>
+          <div id="map"></div>
+          
+          <script>
+            function initMap() {
 
-       #searchTextField {
-         width: 300px;
-         font-size: 20px;
-         margin-bottom: 20px;
-       }
-    </style>
-  </head>
-  <body>
-    
-    <h2>My Google Maps Demo</h2>
+              // A couple of places
+              var centerPos = {lat: 40.416775, lng: -3.703790};
+              var UB = {lat: 41.384376, lng: 2.117189};
+              var UAB = {lat: 41.501105, lng: 2.109064};
 
-    <p>
-      See <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">marker example</a> (there you'll see how to get the API KEY)
-      and <a href="https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete">autocomplete example</a>.
-    </p>
-    <p>
-      I also recommend to read about <a href="https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple">info windows</a>
-      and <a href="https://developers.google.com/maps/documentation/javascript/examples/icon-simple">simple icons</a> (not used in this example).
-    </p>
-    
-    <div>
-      <input type="text" id="searchTextField">
-    </div>
-    
-    <div id="map"></div>
-    
-    <script>
-      function initMap() {
+              // Create map, draw it in the targetElem and sets the cameraPosition
+              var targetElem = document.getElementById('map');
+              var cameraPosition = { zoom: 6, center: centerPos };
+              var map = new google.maps.Map(targetElem, cameraPosition);
 
-        // A couple of places
-        var brunchPos = {lat: 41.3882793, lng: 2.1615454};
-        var faboritPos = {lat: 41.3915233, lng: 2.1650537};
+              // We have already displayed the map, let's add markers
 
-        // Create map, draw it in the targetElem and sets the cameraPosition
-        var targetElem = document.getElementById('map');
-        var cameraPosition = { zoom: 13, center: faboritPos };
-        var map = new google.maps.Map(targetElem, cameraPosition);
+              // Create markers in the map
+              var marker1 = new google.maps.Marker({ map: map, position: UB });
+              var marker2 = new google.maps.Marker({ map: map, position: UAB });
 
-        // We have already displayed the map, let's add markers
+              // Now let's setup the autocomplete input, with which we can add more markers
 
-        // Create markers in the map
-        var marker1 = new google.maps.Marker({ map: map, position: faboritPos });
-        var marker2 = new google.maps.Marker({ map: map, position: brunchPos });
+              // Autocomplete input
+              var input = document.getElementById('searchTextField');
+              var autocomplete = new google.maps.places.Autocomplete(input);
+              autocomplete.bindTo('bounds', map);
 
-        // Now let's setup the autocomplete input, with which we can add more markers
+              // Listen to autocomplete input
+              autocomplete.addListener('place_changed', function() {
 
-        // Autocomplete input
-        var input = document.getElementById('searchTextField');
-        var autocomplete = new google.maps.places.Autocomplete(input);
-        autocomplete.bindTo('bounds', map);
+                var place = autocomplete.getPlace();
+                if (!place.geometry) {
+                  // User entered the name of a place that was not suggested and
+                  // pressed the Enter key, or the Place Details request failed.
+                  window.alert("No details available for input: '" + place.name + "'. Select one of the results.");
+                  return;
+                }
 
-        // Listen to autocomplete input
-        autocomplete.addListener('place_changed', function() {
+                // Add marker in map
+                var marker = new google.maps.Marker({ map: map, position: place.geometry.location });
+              });
 
-          var place = autocomplete.getPlace();
-          if (!place.geometry) {
-            // User entered the name of a place that was not suggested and
-            // pressed the Enter key, or the Place Details request failed.
-            window.alert("No details available for input: '" + place.name + "'. Select one of the results.");
-            return;
-          }
+            }
+          </script>
 
-          // Add marker in map
-          var marker = new google.maps.Marker({ map: map, position: place.geometry.location });
-        });
+          <!-- Loads maps library (with places library) and then calls initMap() -->
+          <script async defer
+            src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initMap&key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU">
+          </script>
 
-      }
-    </script>
-
-    <!-- Loads maps library (with places library) and then calls initMap() -->
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initMap&key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU">
-    </script>
-
-  </body>
-</html>
+        </body>
+       </html>
     
     <!--
     
