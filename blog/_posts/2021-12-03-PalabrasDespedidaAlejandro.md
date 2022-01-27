@@ -21,4 +21,4 @@ redirect-from:
 <p style="text-align: justify;">Os deseo a todos lo mejor,<br>
 Alejandro Fernández.</p>
 
-<p name="foot1" style="text-align: justify;">Un breve resumen de los logros conseguidos en estos tres primeros años del Grupo de Estudiantes <a href="https://estudiantes.rsef.es/blog/2021/11/14/CartaDimisionAlejandro/" target="_blank">puede consultarse aquí</a>.</p>
+<p name="foot1" style="text-align: justify;"><sup>1 </sup>Un breve resumen de los logros conseguidos en estos tres primeros años del Grupo de Estudiantes <a href="https://estudiantes.rsef.es/blog/2021/11/14/CartaDimisionAlejandro/" target="_blank">puede consultarse aquí</a>.</p>
