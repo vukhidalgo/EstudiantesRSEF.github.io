@@ -7,7 +7,7 @@ author: Alejandro Fernández Muñoz
 redirect-from:
 ---
 
-<p style="text-align: justify;">La Computación Cuántica promete resolver algunos de los problemas más relevantes de nuestra era, así como hacer nuestras comunicaciones mucho más seguras. Todavía estamos alejados de este punto, ya que los ordenadores cuánticos actuales no están suficientemente desarrollados, pero entonces, ¿cómo está afectando la computación cuántica a nuestra tecnología?  Veamos cómo funcionan los ordenadores cuánticos y qué nos pueden ofrecer a corto plazo.</p>
+<p style="text-align: justify;">Estas fueron las palabras de despedida que nuestro ya Expresidente, Alejandro Fernández, dirigió a todos los miembros de la RSEF en la pasada Junta General Ordinaria de la Sociedad, celebrada el 6 de diciembre de 2021.</p>
 
 <p style="padding-top: 10px">Estimados miembros de la RSEF,</p>
 
