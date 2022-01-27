@@ -9,6 +9,8 @@ redirect-from:
 
 <p style="text-align: justify;">Estas fueron las palabras de despedida que nuestro ya Expresidente, Alejandro Fernández, dirigió a todos los miembros de la RSEF en la pasada Junta General Ordinaria de la Sociedad, celebrada el 6 de diciembre de 2021.</p>
 
+---
+
 <p style="padding-top: 10px">Estimados miembros de la RSEF,</p>
 
 <p style="text-align: justify;">Tras fundar el Grupo de Estudiantes y después de tres años de intenso trabajo*, mi etapa de estudiante ha llegado a su fin. Y lo cierto es que no podía haberlo hecho en mejor momento, con el equipo directivo del Grupo a pleno rendimiento y perfectamente capacitado para darme el relevo, como así ha sucedido. Sé que recibís a Cristina Balsells, mi sucesora, con la misma acogida y apoyo que he sentido yo en este tiempo. Os aseguro que es una persona capaz, llena de ideas y motivación, y que tiene la experiencia necesaria para llevarlas a término con éxito.</p>
