@@ -7,7 +7,7 @@ author: Alejandro Fernández Muñoz
 redirect-from:
 ---
 
-<p style="text-align: justify;">Incluimos en este post las palabras de despedida que nuestro ya Expresidente, Alejandro Fernández, dirigió a todos los miembros de la RSEF en la pasada Junta General Ordinaria de la Sociedad, celebrada el 6 de diciembre de 2021.</p>
+<p style="text-align: justify;">Incluimos en este post las palabras de despedida que nuestro ya Expresidente, Alejandro Fernández, dirigió a todos los miembros de la RSEF en la pasada Junta General Ordinaria de la Sociedad, celebrada el 3 de diciembre de 2021.</p>
 
 ---
 
