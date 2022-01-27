@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title:  "Palabras de Despedida - Presidente GdeE-RSEF"
+title:  "Palabras de Despedida - Expresidente GdeE-RSEF"
 date:  2021-12-06 19:00
 author: Alejandro Fernández Muñoz
 redirect-from:
