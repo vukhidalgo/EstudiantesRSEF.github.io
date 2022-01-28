@@ -6,7 +6,7 @@ startingdate: 2022-03-04
 endingdate:
 place: Toda España
 locandina: /img/eventos/2022-PLANCKS/LogoPrelis22LogoGdeEv3NoFondopng.png
-cover: /img/eventos/2022-PLANCKS/LogoPrelis22LogoGdeEv3NoFondopng.png
+cover: /img/eventos/2022-PLANCKS/LogoPrelis22v3_40003000.png
 gallery:
 site: /PreliminaresPLANCKS2022/
 ranking:
