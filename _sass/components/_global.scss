@@ -713,11 +713,11 @@ td, th{
     }
 	  
     &.avatar4 {
-        height:130px; padding-left:10px; padding-top:20px; padding-bottom:20px; padding-right:10px; position:relative;
+        height:auto; padding-left:10px; padding-top:20px; padding-bottom:20px; padding-right:10px; position:relative;
 
       .circle {
          position:float; float:left; width:100px; height:100px; overflow:hidden;
-         top:15px; left:15px; bottom:15px; display:inline-block; vertical-align:middle;
+         top:15px; left:15px; bottom:15px; display:block; vertical-align:middle;
       }
       .circle2 {
          position:absolute; width:100px; height:100px; overflow:hidden;
