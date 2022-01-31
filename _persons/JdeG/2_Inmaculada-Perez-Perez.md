@@ -5,7 +5,7 @@ evento: "EC3"
 nombre: "Inmaculada Pérez Pérez"
 img: "/img/junta/inmaculada-perez.jpg"
 rol: "Vicepresidenta"
-descr: "(Actualizar!) Estudiante de Física en Sevilla, actualmente de intercambio en la Universidad de Münster, lugar donde está escribiendo su Trabajo de Fin de Grado sobre Óptica No-lineal. De pequeña decía que quería estudiar las estrellas, pero al final se quedó con la luz. Eso sí, por las noches le sigue gustando mirar al cielo."
+descr: "Estudiante de Máster en Fotónica en la Friedrich-Schiller-Universität Jena, Alemania, donde se especializa en óptica cuántica. De pequeña decía que quería estudiar las estrellas, pero al final se quedó con la luz. Eso sí, por las noches le sigue gustando mirar al cielo."
 
 part1: "Secretaria-Tesorera del GdeE (03/2020 - 11/2021)"
 link1: 
