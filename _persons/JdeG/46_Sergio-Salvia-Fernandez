@@ -3,25 +3,25 @@ layout: person
 categories: junta
 evento: "EC3"
 nombre: "Sergio Salvia Fernández"
-img: "/img/junta/cristina-balsells.jpg"
+img: "/img/junta/sergio-salvia.jpg"
 rol: "Vocal"
-descr: "Graduada en Física y Química por la UAB y actual estudiante de máster en Gestión Sostenible e Innovadora de Recursos Naturales por las universidades de Gante (Bélgica), Uppsala (Suecia) y Freiberg (Alemania). Siempre dispuesta a crear espacios dinámicos y abiertos para la gente joven, donde aprender los unos de los otros y construir un futuro propio. Apasionada de la música en directo y de una buena tabla de quesos."
+descr: "Malagueño graduado en Física por la Universidad de Granada, actualmente estudiante del Máster en Física en la Universidad de Ámsterdam, donde se especializa en microscopía de campo cercano. Interesado en la Física de la Materia Condensada y la Nanofotónica, le gustan las artes marciales y leer sobre Filosofía e Historia de la ciencia, aunque reconoce que lo que más disfruta es de unas cervezas al sol con sus amigos (si es cerca del mar, mejor). Amante de la comunicación y la divulgación científica, le encantaría contribuir a una ciencia en contacto estrecho con la sociedad."
 
-part1: "Vocal en Organización y Dinamización de Eventos (03/2020 - 11/2021)"
+part1: "Colaborador como redactor de contenido Web y Community Manager principal (05/2020-11/2021)"
 link1: 
-part2: "Presidenta de las Jornadas de Verano 2021 (07/2021)"
-link2: "https://estudiantes.rsef.es/JornadasVerano2021/"
-part3:
+part2: "Responsable del Comité de Relaciones Públicas (09/2021-)"
+link2:
+part3: "Vocal de la Junta de Gobierno (11/2021-)"
 link3:
-part4:
+part4: "Coresponsable del Proyecto Gastrophysics (04/2021-11/2021)"
 link4:
 
-arti1:
-lkar1: 
-arti2:
-lkar2:
-arti3:
-lkar3:
+arti1: "Autor del artículo de divulgación 'La historia de los fotones frustrados', premio Ramón Corbalán de Divulgación y Enseñanza, organizado por las divisiones de Óptica Cuántica y No Lineal de la Sociedad Española de Óptica y de la RSEF"
+lkar1: "https://estudiantes.rsef.es/blog/2021/05/16/EmisionFrustrada/"
+arti2: "Autor del artículo de divulgación 'El mar de Fermi: ¡lo que te han contado sobre metales y electrones es mentira!'"
+lkar2: "https://estudiantes.rsef.es/blog/2020/12/12/ElMarDeFermi/"
+arti3: "Autor del artículo de divulgación 'Memristores: ¿neuronas para tu ordenador?'"
+lkar3: "https://estudiantes.rsef.es/blog/2020/10/11/memristores/"
 arti4:
 lkar4:
 arti5:
@@ -37,5 +37,5 @@ lkar9:
 arti10:
 lkar10:
 
-linkedin: "https://www.linkedin.com/in/cristina-balsells-llort/"
+linkedin: "https://www.linkedin.com/in/sergio-salvia-fernandez/"
 ---
