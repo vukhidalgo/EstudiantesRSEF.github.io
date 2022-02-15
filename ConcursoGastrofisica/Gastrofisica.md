@@ -12,9 +12,9 @@ permalink: /Gastrofisica/
       <img class="materialboxed" width="100%" src="/img/eventos/2022-Gastrofisica/banner-gastrofisica.png">
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Estáis preparad@s? ¡Luces, cámara, acción! 
-        Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos mostrando un experimento sobre Gastrofísica.
-        Haz click en los botones para saber por donde empezar. No te lo pierdas porque habrá un premio esperando al mejor equipo de cada categoría. Así que ánimos y... ¡a hacer física!</p>
+      <p style="text-align: justify;">¿Estáis preparad@s? ¡Luces, cámara, acción!</p>
+        <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos mostrando un experimento sobre Gastrofísica.</p>
+        <p style="text-align: justify;">Haz click en los botones para saber por donde empezar. No te lo pierdas porque habrá un premio esperando al mejor equipo de cada categoría. Así que ánimos y... ¡a hacer física!</p>
 
 <!-- BOTONES -->
       <div class="section">
