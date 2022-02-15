@@ -19,10 +19,10 @@ permalink: /Gastrofisica/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#funcionamiento-modal" id="funcionamiento-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">info</i>Funcionamiento</a>
-          <a href="Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">description</i>Bases del concurso</a>
-          <a href="https://drive.google.com/file/d/1dOGXenCCLz0By_YbhD81YV_QA_5KjPcU/view?usp=sharing" id="recetario-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">dining</i>Recetario</a>
-          <a href="https://forms.gle/XvWBYKWqoU2ja5uq6" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
+          <a href="#funcionamiento-modal" id="funcionamiento-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">info</i>Funcionamiento</a>
+          <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">description</i>Bases del concurso</a>
+          <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">dining</i>Recetario</a>
+          <a href="https://forms.gle/XvWBYKWqoU2ja5uq6" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">create</i>Inscríbete</a>
         </div>
       </div> 
 
@@ -53,7 +53,7 @@ permalink: /Gastrofisica/
         <p style="text-align: justify;"><strong>Paso 3.</strong> ¡A grabar! Reuníos un día y grabad un vídeo de 3 minutos del experimento y su explicación con vuestras propias palabras. No olvidéis que debe ser en formato horizontal.</p>
         <p style="text-align: justify;"><strong>Paso 4.</strong> Id al formulario de inscripción y rellenadlo con vuestros datos y los documentos que os pedimos.</p>
         <p style="text-align: justify;"><strong>Paso 5.</strong> ¡A esperar! El Comité Organizador está revisando todos los vídeos y a finales de mayo anunciaremos los equipos premiados.</p>
-        <p style="text-align: justify;"><strong>Paso extra para la categoría A.</strong> el padre/madre/tutor/a legal de cada participante debe rellenar <a href="Concurso Divulgación Gastrofísica - Autorización parental.pdf" id="inscripcion-supervisores-button" target="_blank">esta autorización parental</a> para que podáis participar. Y no olvideis subirlo en el formulario también.</p>
+        <p style="text-align: justify;"><strong>Paso extra para la categoría A.</strong> el padre/madre/tutor/a legal de cada participante debe rellenar <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Autorización parental.pdf" id="inscripcion-supervisores-button" target="_blank">esta autorización parental</a> para que podáis participar. Y no olvideis subirlo en el formulario también.</p>
       </div>
     </div>
   </div>
