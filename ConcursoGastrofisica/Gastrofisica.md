@@ -13,8 +13,7 @@ permalink: /Gastrofisica/
 
 <!-- INTRODUCCIÓN -->
       <p style="text-align: justify;">¿Estáis preparad@s? ¡Luces, cámara, acción! </p>
-      <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos realizando un experimento sobre Gastrofísica, es decir, sobre la física que hay en la cocina.</p>
-      <p style="text-align: justify;">Hay categoría no universitaria (A) y universitaria (B), cada una con un premio esperando al mejor equipo. Bienvenid@s y... ¡a hacer física!</p>
+      <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos realizando un experimento sobre Gastrofísica, es decir, sobre la física que hay en la cocina. Hay categoría no universitaria (A) y universitaria (B), cada una con un premio esperando al mejor equipo. Bienvenid@s y... ¡a hacer física!</p>
 
 <!-- BOTONES -->
       <div class="section">
