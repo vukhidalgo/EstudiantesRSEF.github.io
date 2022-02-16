@@ -19,8 +19,8 @@ permalink: /Gastrofisica/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#funcionamiento-modal" id="funcionamiento-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">info</i>Funcionamiento</a>
-          <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">description</i>Bases del concurso</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">info</i>Información</a>
+          <a href="#funcionamiento-modal" id="funcionamiento-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">checklist</i>Pasos a seguir</a>
           <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">dining</i>Recetario</a>
           <a href="https://forms.gle/XvWBYKWqoU2ja5uq6" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">create</i>Inscríbete</a>
         </div>
@@ -41,6 +41,22 @@ permalink: /Gastrofisica/
 </div>
 
 
+<!-- INFO MODAL -->
+<div id="info-modal" class="modal">
+  <div class="modal-content-tight">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center">
+        <h3 class="justify">Información básica</h3>
+        <p style="text-align: justify;">Hola hola</p>
+        <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">description</i>Consulta aquí las bases completas del concurso</a>
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+  
 <!-- FUNCIONAMIENTO MODAL -->
 <div id="funcionamiento-modal" class="modal">
   <div class="modal-content-tight">
