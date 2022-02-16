@@ -12,9 +12,9 @@ permalink: /Gastrofisica/
       <img class="materialboxed" width="100%" src="/img/eventos/2022-Gastrofisica/banner-gastrofisica.png">
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Estáis preparad@s? ¡Luces, cámara, acción!</p>
-        <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos mostrando un experimento sobre Gastrofísica.</p>
-        <p style="text-align: justify;">Haz click en los botones para saber por donde empezar. No te lo pierdas porque habrá un premio esperando al mejor equipo de cada categoría. Así que ánimos y... ¡a hacer física!</p>
+      <p style="text-align: justify;">¿Estáis preparad@s? ¡Luces, cámara, acción! </p>
+      <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos realizando un experimento sobre Gastrofísica, es decir, sobre la física que hay en la cocina.</p>
+      <p style="text-align: justify;">Hay categoría no universitaria (A) y universitaria (B), cada una con un premio esperando al mejor equipo. Bienvenid@s y... ¡a hacer física!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -65,7 +65,7 @@ permalink: /Gastrofisica/
         <h3 class="justify">Funcionamiento del concurso</h3>
         <p style="text-align: justify;"><strong>¿Qué tenemos que hacer?</strong></p>
         <p style="text-align: justify;"><strong>Paso 1.</strong> Reunid a un equipo de 2 a 5 participantes con los que tengáis ganas de pasar un rato divertido haciendo física.</p>
-        <p style="text-align: justify;"><strong>Paso 2.</strong> Escoged una receta. Os recomendamos que le echeis un vistazo a nuestra propuesta: el RECETARIO contiene 11 experimentos de Gastrofísica, cada uno con sus ingredientes, instrucciones y explicación física. Podéis escoger uno de ellos o ser aún más originales y presentarnos otro experimento. Eso si, debe estar relacionado con la Gastrofísica. Podéis consultar más info sobre la temática en las bases del concurso.</p>
+        <p style="text-align: justify;"><strong>Paso 2.</strong> Escoged una receta. Os recomendamos que le echeis un vistazo a nuestra propuesta: el RECETARIO contiene 11 experimentos de Gastrofísica, cada uno con sus ingredientes, instrucciones y explicación física. Podéis escoger uno de ellos o ser aún más originales y presentarnos otro experimento. Eso sí, debe estar relacionado con la Gastrofísica. Podéis consultar más info sobre la temática en las bases del concurso.</p>
         <p style="text-align: justify;"><strong>Paso 3.</strong> ¡A grabar! Reuníos un día y grabad un vídeo de 3 minutos del experimento y su explicación con vuestras propias palabras. No olvidéis que debe ser en formato horizontal.</p>
         <p style="text-align: justify;"><strong>Paso 4.</strong> Id al formulario de inscripción y rellenadlo con vuestros datos y los documentos que os pedimos.</p>
         <p style="text-align: justify;"><strong>Paso 5.</strong> ¡A esperar! El Comité Organizador está revisando todos los vídeos y a finales de mayo anunciaremos los equipos premiados.</p>
