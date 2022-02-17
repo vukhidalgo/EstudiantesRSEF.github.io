@@ -13,7 +13,7 @@ permalink: /Gastrofisica/
 
 <!-- INTRODUCCIÓN -->
       <p style="text-align: justify;">¿Estáis preparad@s? ¡Luces, cámara, acción! </p>
-      <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos realizando un experimento sobre Gastrofísica, es decir, sobre la física que hay en la cocina. Hay categoría no universitaria (A) y universitaria (B), cada una con un premio esperando al mejor equipo. Bienvenid@s y... ¡a hacer física!</p>
+      <p style="text-align: justify;">Queremos ver vuestras dotes divulgativas, artísticas y científicas. El Concurso de Divulgación Gastrofísica consiste en grabar un vídeo de 3 minutos realizando y explicando un experimento sobre Gastrofísica, es decir, sobre la física que hay en la cocina. Hay categoría no universitaria (A) y universitaria (B), cada una con un premio esperando al mejor equipo. Bienvenid@s y... ¡a hacer física!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -52,13 +52,13 @@ permalink: /Gastrofisica/
           <li style="text-align: justify;">Temática <strong>Gastrofísica</strong>: experimentos relacionados con la cocina, alimentos, electrodomésticos, etc. explicando un principio físico presente. Consulta el <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank">Recetario</a> que hemos preparado o inventa tu propio experimento.</li>
           <li style="text-align: justify;">Equipos de 2 a 5 participantes.</li>
           <li style="text-align: justify;"><strong>Categorías:</strong>
-            <list class="a">
+            <list>
               <li style="text-align: justify;">A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos.</li>
               <li style="text-align: justify;">B: Estudiantes universitarios de Grado.</li>
             </list>
           </li>
           <li style="text-align: justify;"><strong>Premios:</strong>
-            <list class="a">
+            <list>
               <li style="text-align: justify;">A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata).</li>
               <li style="text-align: justify;">B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</li>
             </list>
@@ -68,7 +68,6 @@ permalink: /Gastrofisica/
         </list>
 
         <h2 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h2>
-        <h1 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h1>
 
         <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">description</i>Consulta aquí las bases completas del concurso</a>
       </div>
