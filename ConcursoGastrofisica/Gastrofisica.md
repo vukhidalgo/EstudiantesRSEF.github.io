@@ -46,26 +46,29 @@ permalink: /Gastrofisica/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
         <h3 class="justify">Información básica</h3>
-        <p style="text-align: justify;"><strong>¿En qué consiste el Concurso Divulgación Gastrofísica?</strong></p>
+        <p style="text-align: justify;">Para participar en el Concurso Divulgación Gastrofísica tenéis que tener en cuenta las siguientes condiciones:</p>
         <list class="a">
-          <li style="text-align: justify;">Vídeo en castellano, <strong>en horizontal</strong> y de máximo tres minutos.</li>
-          <li style="text-align: justify;">Temática Gastrofísica: experimentos relacionados con la cocina, alimentos, electrodomésticos, etc. explicando un principio físico presente. Consulta el <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank">Recetario</a> que hemos preparado o inventa tu propio experimento.</li>
+          <li style="text-align: justify;">Vídeo en castellano, <strong>en horizontal</strong> y de máximo <strong>3 minutos</strong>.</li>
+          <li style="text-align: justify;">Temática <strong>Gastrofísica</strong>: experimentos relacionados con la cocina, alimentos, electrodomésticos, etc. explicando un principio físico presente. Consulta el <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank">Recetario</a> que hemos preparado o inventa tu propio experimento.</li>
           <li style="text-align: justify;">Equipos de 2 a 5 participantes.</li>
-          <li style="text-align: justify;"><strong>Categorías:</strong></li>
-          <list class="a">
-            <li style="text-align: justify;">A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos.</li>
-            <li style="text-align: justify;">B: Estudiantes universitarios de Grado.</li>
-          </list>
-          <li style="text-align: justify;"><strong>Premios:</strong></li>
-          <list class="a">
-            <li style="text-align: justify;">A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata).</li>
-            <li style="text-align: justify;">B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</li>
-          </list>
+          <li style="text-align: justify;"><strong>Categorías:</strong>
+            <list class="a">
+              <li style="text-align: justify;">A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos.</li>
+              <li style="text-align: justify;">B: Estudiantes universitarios de Grado.</li>
+            </list>
+          </li>
+          <li style="text-align: justify;"><strong>Premios:</strong>
+            <list class="a">
+              <li style="text-align: justify;">A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata).</li>
+              <li style="text-align: justify;">B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</li>
+            </list>
+          </li>
           <li style="text-align: justify;">Se valorará la calidad del vídeo, de la explicación divulgativa y la originalidad.</li>
           <li style="text-align: justify;">Para cualquier duda: escríbenos a <a href="mailto:estudiantes@rsef.es?subject=[Concurso Divulgación Gastrofísica]" target="_blank">estudiantes@rsef.es</a> o a través de nuestras redes.</li>
         </list>
 
-        <h4 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h4>
+        <h2 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h2>
+        <h1 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h1>
 
         <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">description</i>Consulta aquí las bases completas del concurso</a>
       </div>
