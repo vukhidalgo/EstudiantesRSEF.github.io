@@ -52,16 +52,12 @@ permalink: /Gastrofisica/
           <li style="text-align: justify;">Temática <strong>Gastrofísica</strong>: experimentos relacionados con la cocina, alimentos, electrodomésticos, etc. explicando un principio físico presente. Consulta el <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank">Recetario</a> que hemos preparado o inventa tu propio experimento.</li>
           <li style="text-align: justify;">Equipos de 2 a 5 participantes.</li>
           <li style="text-align: justify;"><strong>Categorías:</strong>
-            <list>
-              <li style="text-align: justify;">A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos.</li>
-              <li style="text-align: justify;">B: Estudiantes universitarios de Grado.</li>
-            </list>
+            <p style="text-align: justify;">        A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos.</p>
+            <p style="text-align: justify;">      B: Estudiantes universitarios de Grado.</p>
           </li>
           <li style="text-align: justify;"><strong>Premios:</strong>
-            <list>
-              <li style="text-align: justify;">A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata).</li>
-              <li style="text-align: justify;">B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</li>
-            </list>
+            <p style="text-align: justify;">  A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata).</p>
+            <p style="text-align: justify;">B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</p>
           </li>
           <li style="text-align: justify;">Se valorará la calidad del vídeo, de la explicación divulgativa y la originalidad.</li>
           <li style="text-align: justify;">Para cualquier duda: escríbenos a <a href="mailto:estudiantes@rsef.es?subject=[Concurso Divulgación Gastrofísica]" target="_blank">estudiantes@rsef.es</a> o a través de nuestras redes.</li>
