@@ -34,7 +34,7 @@ permalink: /mapaPrelis/
 -->
           <div id="map"></div>
           
-          <script>
+          <script>            
             function initMap() {
 
               // A couple of places
@@ -46,7 +46,7 @@ permalink: /mapaPrelis/
               var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias
               var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física
               var UNICAN = {lat: 43.471183, lng: -3.801105}; // Facultad de Ciencias (Santander)
-              var UCM = {lat: 40.450872, lng: -3.726084}; // Facultad de Ciencias Físicas
+              var UCM = {lat: 40.450831, lng: -3.726087}; // Facultad de Ciencias Físicas
               var UCO = {lat: 37.914788, lng: -4.716931}; // Facultad de Ciencias
               var UEM = {lat: 40.373069, lng: -3.919072}; // Universidad Europea de Madrid (Villaviciosa de Odón)
               var UEV = {lat: 39.475430, lng: -0.365282}; // Universidad Europea de Valencia
@@ -100,6 +100,30 @@ permalink: /mapaPrelis/
               var marker23 = new google.maps.Marker({ map: map, position: URJC, title: "Universidad Rey Juan Carlos" });
               var marker24 = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III" });
               var marker25 = new google.maps.Marker({ map: map, position: UPC, title: "Universitat Politècnica de Catalunya" });
+              
+              const UCMcontent =
+                '<div id="content">' +
+                '<div id="siteNotice">' +
+                "</div>" +
+                '<h1 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h1>' +
+                '<div id="bodyContent">' +
+                "<p><b>Facultad de Ciencias Físicas.</b></p>" +
+                "<p>Aula 4A.</p>" +
+                "</div>" +
+                "</div>";
+
+              const UCMwindow = new google.maps.InfoWindow({
+                content: UCMcontent,
+              });
+
+              marker6.addListener("click", () => {
+                UCMwindow.open({
+                  anchor: marker6,
+                  map,
+                  shouldFocus: false,
+                });
+              });
+              
             }
           </script>
 
