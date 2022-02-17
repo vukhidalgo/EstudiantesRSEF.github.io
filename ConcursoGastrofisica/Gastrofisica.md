@@ -51,6 +51,9 @@ permalink: /Gastrofisica/
           <li style="text-align: justify;">Vídeo en castellano, <strong>en horizontal</strong> y de máximo <strong>3 minutos</strong>.</li>
           <li style="text-align: justify;">Temática <strong>Gastrofísica</strong>: experimentos relacionados con la cocina, alimentos, electrodomésticos, etc. explicando un principio físico presente. Consulta el <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Recetario.pdf" id="recetario-button" target="_blank">Recetario</a> que hemos preparado o inventa tu propio experimento.</li>
           <li style="text-align: justify;">Equipos de 2 a 5 participantes.</li>
+          <li style="text-align: justify;"><strong>Categorías:</strong> A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos. B: Estudiantes universitarios de Grado.</li>
+          <li style="text-align: justify;"><strong>Premios:</strong> A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata). B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</li>
+<!--
           <li style="text-align: justify;"><strong>Categorías:</strong>
             <p style="text-align: justify;">        A: Estudiantes de niveles educativos no universitarios como secundaria, bachillerato o ciclos formativos.</p>
             <p style="text-align: justify;">      B: Estudiantes universitarios de Grado.</p>
@@ -59,21 +62,10 @@ permalink: /Gastrofisica/
             <p style="text-align: justify;">  A: Libro “Disfruta del Universo: no tienes otra opción” (Editorial Catarata).</p>
             <p style="text-align: justify;">B: 100 euros y un libro de la colección “Física y Ciencia para todos” de la RSEF.</p>
           </li>
+-->
           <li style="text-align: justify;">Se valorará la calidad del vídeo, de la explicación divulgativa y la originalidad.</li>
           <li style="text-align: justify;">Para cualquier duda: escríbenos a <a href="mailto:estudiantes@rsef.es?subject=[Concurso Divulgación Gastrofísica]" target="_blank">estudiantes@rsef.es</a> o a través de nuestras redes.</li>
         </list>
-        
-        <ul>
-          <li>Remove the skin from the garlic, and chop coarsely.</li>
-          <li>Remove all the seeds and stalk from the pepper, and chop coarsely.</li>
-          <li>Add all the ingredients into a food processor.</li>
-          <li>Process all the ingredients into a paste.
-            <ul>
-              <li>If you want a coarse "chunky" hummus, process it for a short time.</li>
-              <li>If you want a smooth hummus, process it for a longer time.</li>
-            </ul>
-          </li>
-        </ul>
 
         <h2 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h2>
 
