@@ -62,6 +62,18 @@ permalink: /Gastrofisica/
           <li style="text-align: justify;">Se valorará la calidad del vídeo, de la explicación divulgativa y la originalidad.</li>
           <li style="text-align: justify;">Para cualquier duda: escríbenos a <a href="mailto:estudiantes@rsef.es?subject=[Concurso Divulgación Gastrofísica]" target="_blank">estudiantes@rsef.es</a> o a través de nuestras redes.</li>
         </list>
+        
+        <ul>
+          <li>Remove the skin from the garlic, and chop coarsely.</li>
+          <li>Remove all the seeds and stalk from the pepper, and chop coarsely.</li>
+          <li>Add all the ingredients into a food processor.</li>
+          <li>Process all the ingredients into a paste.
+            <ul>
+              <li>If you want a coarse "chunky" hummus, process it for a short time.</li>
+              <li>If you want a smooth hummus, process it for a longer time.</li>
+            </ul>
+          </li>
+        </ul>
 
         <h2 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h2>
 
