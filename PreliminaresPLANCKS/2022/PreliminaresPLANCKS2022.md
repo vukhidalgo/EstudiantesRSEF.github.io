@@ -33,7 +33,7 @@ permalink: /PreliminaresPLANCKS2022/
     
       
 <!-- COUNTDOWN -->
-      <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se abrirán en...</p>
+      <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
       <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
       <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
     </div>
@@ -257,7 +257,7 @@ permalink: /PreliminaresPLANCKS2022/
 <!-- TIMER SCRIPT -->
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Feb 1, 2022 00:00:01").getTime();
+  var countDownDate = new Date("Feb 26, 2022 23:59:59").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
@@ -281,7 +281,7 @@ permalink: /PreliminaresPLANCKS2022/
     // If the count down is over, write some text
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("countdown").innerHTML = "INSCRIPCIONES ABIERTAS";
+      document.getElementById("countdown").innerHTML = "INSCRIPCIONES CERRADAS";
     }
   }, 1000);
 </script>
