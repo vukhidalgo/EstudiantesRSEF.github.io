@@ -49,7 +49,7 @@ permalink: /Prelisconmapa/
         </div>
 
         <div class="col s12 m6">
-          <div class="row center">
+          <div class="row center" style="padding-left: 100px">
             <html>
               <head>
                 <style>
