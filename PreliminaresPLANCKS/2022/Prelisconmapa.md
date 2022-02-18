@@ -35,7 +35,7 @@ permalink: /Prelisconmapa/
 <!-- COUNTDOWN -->
     <div class="section">
       <div class="row center">
-        <div class="col s12 m6 l5">
+        <div class="col s12 m6">
           <div class="row center">
             <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
             <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
@@ -43,9 +43,8 @@ permalink: /Prelisconmapa/
           </div>
         </div>
 <!-- MAP -->
-        <div class="col s12 m6 l7">
+        <div class="col s12 m6">
           <div class="row center">
-            <!DOCTYPE html>
             <html>
               <head>
                 <style>
@@ -114,7 +113,7 @@ permalink: /Prelisconmapa/
                       '<div id="content">' +
                       '<div id="siteNotice">' +
                       "</div>" +
-                      '<h4 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h4>' +
+                      '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
                       '<div id="bodyContent">' +
                       "<p><b>Facultad de Ciencias Físicas.</b></p>" +
                       "<p>Aula 4A.</p>" +
