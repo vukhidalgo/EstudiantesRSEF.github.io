@@ -26,23 +26,28 @@ permalink: /Prelisconmapa/
         <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
         <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
         <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
-
-<!-- COMITÉS -->
-        <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
       </div>
     </div>    
       
-<!-- COUNTDOWN -->
+
     <div class="section">
       <div class="row center">
         <div class="col s12 m6">
           <div class="row center">
+<!-- COMITÉS -->
+            <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
+          </div>
+          <div class="row center">  
+<!-- COUNTDOWN -->
             <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
-            <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
-            <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
+            <h5 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h5>
+          </div>
+<!-- MAP -->
+          <div class="row center">   
+            <p style="text-align: justify;">En el mapa de la derecha puedes consultar todas las sedes de las Preliminares de este año. Si aún no tienes sede cerca de tu universidad, ¡inscríbete!</p>
           </div>
         </div>
-<!-- MAP -->
+
         <div class="col s12 m6">
           <div class="row center">
             <html>
@@ -148,6 +153,7 @@ permalink: /Prelisconmapa/
     
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
+      <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
       <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
       <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
     </div>
