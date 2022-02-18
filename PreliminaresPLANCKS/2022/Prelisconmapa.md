@@ -35,7 +35,7 @@ permalink: /Prelisconmapa/
 <!-- COUNTDOWN -->
     <div class="section">
       <div class="row center">
-        <div class="col s12 m6">
+        <div class="col s12 m6 l5">
           <div class="row center">
             <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
             <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
@@ -43,7 +43,7 @@ permalink: /Prelisconmapa/
           </div>
         </div>
 <!-- MAP -->
-        <div class="col s12 m6">
+        <div class="col s12 m6 l7">
           <div class="row center">
             <!DOCTYPE html>
             <html>
@@ -51,18 +51,13 @@ permalink: /Prelisconmapa/
                 <style>
                   #map {
                     height: 300px;
-                    width: 50%;
-                  }
-                  #searchTextField {
-                    width: 300px;
-                    font-size: 16px;
-                    margin-bottom: 20px;
+                    width: 70%;
                   }
                 </style>
               </head>
 
               <body>
-                <h4>El mapa de las Preliminares PLANCKS 2022</h4>
+                <h5>El mapa de las Preliminares PLANCKS 2022</h5>
                 <div id="map"></div>
                 <script>            
                   function initMap() {
