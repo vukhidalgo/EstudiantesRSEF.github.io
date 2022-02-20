@@ -8,16 +8,16 @@ permalink: /ArtREF36-1/
   <div class="container">
     <div class="section">
       <div class="row center">
-        <a href="https://estudiantes.rsef.es/internships/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Internships Database</a>
+        <a href="https://estudiantes.rsef.es/internships/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;">Internships Database</a>
       </div>
       <div class="row center">
-        <a href="https://estudiantes.rsef.es/colabora/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Colabora con el GdeE</a>
+        <a href="https://estudiantes.rsef.es/colabora/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;">Colabora con el Grupo</a>
       </div>
       <div class="row center">
-        <a href="https://estudiantes.rsef.es/blog/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>El Blog del GdeE</a>
+        <a href="https://estudiantes.rsef.es/blog/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;">El Blog del Grupo</a>
       </div>
       <div class="row center">
-        <a href="https://rsef-geoconl.icfo.eu/index.php/premios-ramon-corbalan/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Premio Divulgación Sergio Salvía</a>
+        <a href="https://rsef-geoconl.icfo.eu/index.php/premios-ramon-corbalan/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;">Premio Divulgación S. Salvía</a>
       </div>
     </div>
   </div>
