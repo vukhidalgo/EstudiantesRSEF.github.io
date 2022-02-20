@@ -8,8 +8,11 @@ permalink: /ArtREF36-1/
 incluidos en el artículo "Los tres primeros años del Grupo de Estudiantes", publicado en la Revista Española de Física (número
 de enero-marzo 2022). El permalink de este archivo se ha convertido en un código QR incluido al final del artículo, por lo que ni archivo ni permalink deben ser modificados. -->
 
+
+
 <div class="no-pad-top" id="index-page">
   <div class="container">
+  <h2>Links "Los tres primeros años del Grupo de Estudiantes"</h2>
     <div class="section">
       <div class="row center">
         <a href="https://estudiantes.rsef.es/internships/" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="display: inline-flex; align-items: center;">Internships Database</a>
