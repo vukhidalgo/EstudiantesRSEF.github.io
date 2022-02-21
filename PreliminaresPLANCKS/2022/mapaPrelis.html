@@ -49,7 +49,7 @@ permalink: /mapaPrelis/
               var UGR = {lat: 37.179751, lng: -3.609293}; // Facultad de Ciencias
               var UIB = {lat: 39.636006, lng: 2.647993}; // Edifici Mateu Orfila i Rotger
               var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)
-              var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química
+              var UM  = {lat: 38.016793, lng: -1.170553}; // Facultad de Economía y Empresa
               var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
               var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)
               var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
@@ -72,23 +72,76 @@ permalink: /mapaPrelis/
 
               // Create markers in the map
               var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
-              
               const UCMcontent =
-                '<div id="content">' +
-                '<div id="siteNotice"></div>' +
+                '<div id="content"><div id="siteNotice"></div>' +
                 '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
-                '<div id="bodyContent">' +
-                "<p><b>Facultad de Ciencias Físicas.</b></p><p>Aula 4A.</p>" +
-                "</div>" +
-                "</div>";
-
-              const UCMwindow = new google.maps.InfoWindow({
-                content: UCMcontent,
-              });
-
-              markerUCM.addListener("click", () => {
-                UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, });
-              });
+                '<div id="bodyContent"><p><b>Facultad de Ciencias Físicas.</b></p><p>Aula 4A.</p>' +
+                "</div></div>";
+              const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
+              markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
+              
+              var markerUS = new google.maps.Marker({ map: map, position: US, title: "Universidad de Sevilla" });
+              const UScontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Sevilla</h5>' +
+                '<div id="bodyContent"><p><b>Aula por determinar.</b></p><p></p>' +
+                "</div></div>";
+              const USwindow = new google.maps.InfoWindow({ content: UScontent, });
+              markerUS.addListener("click", () => { USwindow.open({ anchor: markerUS, map, shouldFocus: false, }); });
+              
+              var markerUAB = new google.maps.Marker({ map: map, position: UAB, title: "Universitat Autònoma de Barcelona" });
+              const UABcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universitat Autònoma de Barcelona</h5>' +
+                '<div id="bodyContent"><p><b>Facultat de Ciències.</b></p><p>Aula C3/032.</p>' +
+                "</div></div>";
+              const UABwindow = new google.maps.InfoWindow({ content: UABcontent, });
+              markerUAB.addListener("click", () => { UABwindow.open({ anchor: markerUAB, map, shouldFocus: false, }); });
+              
+              var markerUM = new google.maps.Marker({ map: map, position: UM, title: "Universidad de Murcia" });
+              const UMcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Murcia</h5>' +
+                '<div id="bodyContent"><p><b>Facultad de Economía y Empresa.</b></p><p>B1.0.095. Aula F0/20.</p>' +
+                "</div></div>";
+              const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
+              markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); });
+              
+              var markerUVA = new google.maps.Marker({ map: map, position: UVA, title: "Universidad de Valladolid" });
+              const UVAcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Valladolid</h5>' +
+                '<div id="bodyContent"><p><b>Aulario M. Delibes.</b></p><p>Aula 108.</p>' +
+                "</div></div>";
+              const UVAwindow = new google.maps.InfoWindow({ content: UVAcontent, });
+              markerUVA.addListener("click", () => { UVAwindow.open({ anchor: markerUVA, map, shouldFocus: false, }); });
+              
+              var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
+              const UC3Mcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad Carlos III de Madrid</h5>' +
+                '<div id="bodyContent"><p><b></b></p><p>Aula 1.2.G04.</p>' +
+                "</div></div>";
+              const UC3Mwindow = new google.maps.InfoWindow({ content: UC3Mcontent, });
+              markerUC3M.addListener("click", () => { UC3Mwindow.open({ anchor: markerUC3M, map, shouldFocus: false, }); });
+              
+              var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
+              const USALcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Salamanca</h5>' +
+                '<div id="bodyContent"><p><b>Aula por determinar.</b></p><p></p>' +
+                "</div></div>";
+              const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
+              markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });
+              
+              var markerUAM = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
+              const UAMcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad Autónoma de Madrid</h5>' +
+                '<div id="bodyContent"><p><b>Aula por determinar.</b></p><p></p>' +
+                "</div></div>";
+              const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
+              markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });
               
             }
           </script>
