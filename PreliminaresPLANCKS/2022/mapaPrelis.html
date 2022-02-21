@@ -13,7 +13,7 @@ permalink: /mapaPrelis/
         <head>
           <style>
             #map {
-              height: 800px;
+              height: 600px;
               width: 100%;
             }
           </style>
@@ -61,6 +61,7 @@ permalink: /mapaPrelis/
               var URJC = {lat: 40.335479, lng: -3.877537}; // Campus de Móstoles
               var UC3M = {lat: 40.332473, lng: -3.765400}; // Campus de Leganés
               var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal
+              
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
               // var cameraPosition = { zoom: 5.25, center: centerPos };
@@ -70,40 +71,14 @@ permalink: /mapaPrelis/
               // We have already displayed the map, let's add markers
 
               // Create markers in the map
-              //var marker1 = new google.maps.Marker({ map: map, position: UA });
-              var marker2 = new google.maps.Marker({ map: map, position: UAB, title: "Universitat Autònoma de Barcelona" });
-              var marker3 = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
-              //var marker4 = new google.maps.Marker({ map: map, position: UB });
-              //var marker5 = new google.maps.Marker({ map: map, position: UNICAN });
-              var marker6 = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
-              //var marker7 = new google.maps.Marker({ map: map, position: UCO });
-              //var marker8 = new google.maps.Marker({ map: map, position: UEM });
-              //var marker9 = new google.maps.Marker({ map: map, position: UEV });
-              //var marker10 = new google.maps.Marker({ map: map, position: UNEX });
-              //var marker11 = new google.maps.Marker({ map: map, position: UGR });
-              //var marker12 = new google.maps.Marker({ map: map, position: UIB });
-              //var marker13 = new google.maps.Marker({ map: map, position: ULL });
-              //var marker14 = new google.maps.Marker({ map: map, position: UM });
-              //var marker15 = new google.maps.Marker({ map: map, position: UNIOVI });
-              //var marker16 = new google.maps.Marker({ map: map, position: EHU});
-              var marker17 = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
-              //var marker18 = new google.maps.Marker({ map: map, position: USC });
-              var marker19 = new google.maps.Marker({ map: map, position: US, title: "Universidad de Sevilla" });
-              var marker20 = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });              
-              var marker21 = new google.maps.Marker({ map: map, position: UVA, title: "Universidad de Valladolid" });
-              //var marker22 = new google.maps.Marker({ map: map, position: UNIZAR });
-              var marker23 = new google.maps.Marker({ map: map, position: URJC, title: "Universidad Rey Juan Carlos" });
-              var marker24 = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III" });
-              var marker25 = new google.maps.Marker({ map: map, position: UPC, title: "Universitat Politècnica de Catalunya" });
+              var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
               
               const UCMcontent =
                 '<div id="content">' +
-                '<div id="siteNotice">' +
-                "</div>" +
-                '<h4 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h4>' +
+                '<div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
                 '<div id="bodyContent">' +
-                "<p><b>Facultad de Ciencias Físicas.</b></p>" +
-                "<p>Aula 4A.</p>" +
+                "<p><b>Facultad de Ciencias Físicas.</b></p><p>Aula 4A.</p>" +
                 "</div>" +
                 "</div>";
 
@@ -111,12 +86,8 @@ permalink: /mapaPrelis/
                 content: UCMcontent,
               });
 
-              marker6.addListener("click", () => {
-                UCMwindow.open({
-                  anchor: marker6,
-                  map,
-                  shouldFocus: false,
-                });
+              markerUCM.addListener("click", () => {
+                UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, });
               });
               
             }
