@@ -36,8 +36,14 @@ permalink: /PreliminaresPLANCKS2022/
       <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
       <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
       <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
-    </div>
+
     
+<!-- MAPA -->
+      <div class="row center">
+        <a href="https://estudiantes.rsef.es/mapaPrelis/" id="mapa-button" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">location_on</i>Consulta aquí el mapa con todas las sedes de las Preliminares PLANCKS 2022</a>
+      </div>    
+    </div>
+      
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
       <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
