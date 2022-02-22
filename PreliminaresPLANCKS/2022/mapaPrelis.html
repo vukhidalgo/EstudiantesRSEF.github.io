@@ -21,9 +21,9 @@ permalink: /mapaPrelis/
         <body>
           <h4>El mapa de las Preliminares PLANCKS 2022</h4>
           
-          <p>Consulta la localización de las sedes para las Preliminares PLANCKS 2022. Si aún no lo has hecho,
+          <p>Aquí tienes todas las universidades que son sedes confirmadas de las Preliminares PLANCKS 2022. Si aún no lo has hecho,
             <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank">¡inscríbete aquí!</a>
-            Recuerda que contactaremos contigo por mail para asignar tu sede.</p>
+            Recuerda que si ya te has inscrito contactaremos contigo por mail para asignar tu sede.</p>
           
 <!--
           <p>See <a href="https://developers.google.com/maps/documentation/javascript/adding-a-google-map">marker example</a> (there you'll see how to get the API KEY)
@@ -146,6 +146,33 @@ permalink: /mapaPrelis/
                 "</div></div>";
               const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
               markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });
+              
+              var markerUNIZAR = new google.maps.Marker({ map: map, position: UNIZAR, title: "Universidad de Zaragoza" });
+              const UNIZARcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Zaragoza</h5>' +
+                '<div id="bodyContent"><p><b>Aula por determinar.</b></p><p></p>' +
+                "</div></div>";
+              const UNIZARwindow = new google.maps.InfoWindow({ content: UNIZARcontent, });
+              markerUNIZAR.addListener("click", () => { UNIZARwindow.open({ anchor: markerUNIZAR, map, shouldFocus: false, }); });
+              
+              var markerUNIOVI = new google.maps.Marker({ map: map, position: UNIOVI, title: "Universidad de Oviedo" });
+              const UNIOVIcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Oviedo</h5>' +
+                '<div id="bodyContent"><p><b>Aula por determinar.</b></p><p></p>' +
+                "</div></div>";
+              const UNIOVIwindow = new google.maps.InfoWindow({ content: UNIOVIcontent, });
+              markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); }); 
+              
+              var markerEHU = new google.maps.Marker({ map: map, position: EHU, title: "Euskal Herriko Unibertsitatea" });
+              const EHUcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Euskal Herriko Unibertsitatea</h5>' +
+                '<div id="bodyContent"><p><b>Aula por determinar.</b></p><p></p>' +
+                "</div></div>";
+              const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
+              markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); }); 
               
             }
           </script>
