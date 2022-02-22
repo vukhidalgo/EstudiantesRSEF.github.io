@@ -38,7 +38,7 @@ permalink: /PreliminaresPLANCKS2022/
     
 <!-- MAPA -->
       <div class="row center">
-        <a href="https://estudiantes.rsef.es/mapaPrelis/" id="mapa-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">location_on</i>Consulta aquí el mapa con todas las sedes de las Preliminares PLANCKS 2022</a>
+        <!-- <a href="https://estudiantes.rsef.es/mapaPrelis/" id="mapa-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">location_on</i>Consulta aquí el mapa con todas las sedes de las Preliminares PLANCKS 2022</a> -->
         <a href="#mapa-modal" id="mapamodal-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">location_on</i>Consulta aquí el mapa con todas las sedes de las Preliminares PLANCKS 2022</a>
       </div>
       <h5>Mientras, ¿por qué no empiezas a entrenar? <a href="#ediciones-anteriores">⬇️</a></h5>
@@ -265,7 +265,7 @@ permalink: /PreliminaresPLANCKS2022/
   <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
-        <!DOCTYPE html>
+        <h3 class="justify">El mapa de las Preliminares PLANCKS 2022</h3>
         <html>
           <head>
             <style>
@@ -274,7 +274,6 @@ permalink: /PreliminaresPLANCKS2022/
           </head>
 
           <body>
-            <h4>El mapa de las Preliminares PLANCKS 2022</h4>
             <p>Aquí tienes todas las universidades que son sedes confirmadas de las Preliminares PLANCKS 2022. Si aún no lo has hecho,
               <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank">¡inscríbete aquí!</a>
               Recuerda que si ya te has inscrito contactaremos contigo por mail para asignar tu sede.</p>
