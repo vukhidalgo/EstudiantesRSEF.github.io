@@ -402,42 +402,40 @@ permalink: /Prelisconmapa/
 {% if person.evento contains "Prelis2022" %}
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
- <div class="modal-content">
-   <div class="section" style="padding-left: 30px; padding-right: 30px;">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
-     <div class="row">
-       <div class="col s12 m6 l6">
-         <div class="row center">
-         <img src="{{ person.img }}" alt="" class="circle" width="70%">
-         </div>
-       </div>
-       <div class="col s12 m6 l6">        
-         <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-           <h3 class="justify">{{ person.nombre }}</h3>
-         </div>
-       </div>
-     </div>
+      <div class="row">
+        <div class="col s12 m6 l6">
+          <div class="row center">
+            <img src="{{ person.img }}" alt="" class="circle" width="70%">
+          </div>
+        </div>
+        <div class="col s12 m6 l6">        
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+            <h3 class="justify">{{ person.nombre }}</h3>
+          </div>
+        </div>
+      </div>
 
-     <div class="row">
-       <h2 class="justify">Biografía</h2>
-       {% if person.bio1 %}
-       <p style="text-align: justify;">
-       {{ person.bio1 }}
-       </p>
-       {% endif %}
-       {%- if person.bio2 -%}<p style="text-align: justify;">
-       {{ person.bio2 }}
-       </p>{%- endif -%}
-       {%- if person.bio3 -%}<p style="text-align: justify;">
-       {{ person.bio3 }}
-       </p>{%- endif -%}
-     </div>
+      <div class="row">
+        <h2 class="justify">Biografía</h2>
+        {% if person.bio1 %}
+          <p style="text-align: justify;">{{ person.bio1 }}</p>
+        {% endif %}
+        {% if person.bio2 %}
+          <p style="text-align: justify;">{{ person.bio2 }}</p>
+        {% endif %}
+        {% if person.bio3 %}
+          <p style="text-align: justify;">{{ person.bio3 }}</p>
+        {% endif %}
+      </div>
 
-   </div>
- </div>
- <div class="modal-footer">
-   <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
- </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
 </div>
 
 {% endif %}
