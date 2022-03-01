@@ -73,6 +73,7 @@ permalink: /PreliminaresPLANCKS2022/
                 var UIB = {lat: 39.636006, lng: 2.647993}; // Edifici Mateu Orfila i Rotger
                 var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)
                 var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química
+                var UNED  = {lat: 38.016856, lng: -1.170757}; // Facultad de Economía y Empresa
                 var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
                 var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)
                 var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
@@ -137,14 +138,14 @@ permalink: /PreliminaresPLANCKS2022/
                 const UABwindow = new google.maps.InfoWindow({ content: UABcontent, });
                 markerUAB.addListener("click", () => { UABwindow.open({ anchor: markerUAB, map, shouldFocus: false, }); });
 
-                var markerUNED = new google.maps.Marker({ map: map, position: UM, title: "Universidad Nacional de Educación a Distancia" });
-                const UMcontent =
+                var markerUNED = new google.maps.Marker({ map: map, position: UNED, title: "Universidad Nacional de Educación a Distancia" });
+                const UNEDcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad de Murcia</h5>' +
                   '<div id="bodyContent"><p><b>Facultad de Economía y Empresa.</b></p><p>B1.0.095. Aula F0/20.</p>' +
                   "</div></div>";
-                const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
-                markerUNED.addListener("click", () => { UMwindow.open({ anchor: markerUNED, map, shouldFocus: false, }); });
+                const UNEDwindow = new google.maps.InfoWindow({ content: UNEDcontent, });
+                markerUNED.addListener("click", () => { UNEDwindow.open({ anchor: markerUNED, map, shouldFocus: false, }); });
 
                 var markerUVA = new google.maps.Marker({ map: map, position: UVA, title: "Universidad de Valladolid" });
                 const UVAcontent =
