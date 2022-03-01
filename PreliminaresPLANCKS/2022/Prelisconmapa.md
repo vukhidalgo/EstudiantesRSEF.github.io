@@ -162,13 +162,9 @@ permalink: /Prelisconmapa/
                  <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
                  {% endif %}
                  {% if person.roldes %}
-                 <p style="padding-top: 10px">
-                   {{ person.roldes }}
-                 </p>
+                 <p style="padding-top: 10px">{{ person.roldes }}</p>
                  {% else %}
-                 <p style="padding-top: 10px">
-                   {{ person.rol }}
-                 </p>
+                 <p style="padding-top: 10px">{{ person.rol }}</p>
                  {% endif %}
                </li>
              </a>
@@ -421,13 +417,13 @@ permalink: /Prelisconmapa/
       <div class="row">
         <h2 class="justify">Biografía</h2>
         {% if person.bio1 %}
-          <p style="text-align: justify;">{{ person.bio1 }}</p>
+        <p style="text-align: justify;">{{ person.bio1 }}</p>
         {% endif %}
         {% if person.bio2 %}
-          <p style="text-align: justify;">{{ person.bio2 }}</p>
+        <p style="text-align: justify;">{{ person.bio2 }}</p>
         {% endif %}
         {% if person.bio3 %}
-          <p style="text-align: justify;">{{ person.bio3 }}</p>
+        <p style="text-align: justify;">{{ person.bio3 }}</p>
         {% endif %}
       </div>
 
