@@ -5,7 +5,7 @@ evento: "Prelis2022"
 nombre: "Prof. Ignacio Cirac"
 img: "/img/eventos/2021-Jornadas/ponentes/IgnacioCirac.jpg"
 rol: "Presidente del Comité Académico de las Preliminares PLANCKS 2022"
-roldes: "^residente del Comité Académico" <!-- Reducido -->
+roldes: "Presidente del Comité Académico" <!-- Reducido -->
 linkedin: ""
 
 bio1: "Juan Ignacio Cirac es actualmente Director de la División de Teoría, Instituto Max Planck de Óptica Cuántica, Garching, Alemania."
