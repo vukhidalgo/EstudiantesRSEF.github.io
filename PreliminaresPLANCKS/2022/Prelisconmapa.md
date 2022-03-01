@@ -141,12 +141,12 @@ permalink: /Prelisconmapa/
       </div>
     </div>
     
-<!-- PONENTES -->
+<!-- AUTORES -->
 
     <div class="section">
-      <h3 id="Autores">Conoce a los autores de los problemas de este año</h3>
+      <h3 id="Autores">¡Conoce a los autores de los problemas!</h3>
         <p style="text-align: justify;">
-          Estos son:
+          Los miembros del Comité Académico de las Preliminares PLANCKS 2022 son:
         </p>
        <div class="col s12 m6">
          <div class="row center">
@@ -396,7 +396,7 @@ permalink: /Prelisconmapa/
   </div>
 </div>
 
-<!-- Modal PONENTES -->
+<!-- AUTORES MODAL -->
 
 {% for person in site.persons %}
 {% if person.evento contains "Prelis2022" %}
@@ -414,7 +414,6 @@ permalink: /Prelisconmapa/
        <div class="col s12 m6 l6">        
          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
            <h3 class="justify">{{ person.nombre }}</h3>
-           <h5 class="justify">Biografía y Contenido Recomendado</h5>
          </div>
        </div>
      </div>
