@@ -1,7 +1,7 @@
 ---
 layout: person
 categories: ponentes
-evento: "JornadasVerano2021"
+evento: "Prelis2022"
 nombre: "Prof. Ignacio Cirac"
 class: "academia"
 img: "/img/eventos/2021-Jornadas/ponentes/IgnacioCirac.jpg"
