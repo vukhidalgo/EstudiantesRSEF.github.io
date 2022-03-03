@@ -97,7 +97,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UCMcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultad de Ciencias Físicas.</strong> Aula 4A.</p>' +
+                  '<div id="bodyContent"><p><b>Facultad de Ciencias Físicas.</b> Aula 4A.</p>' +
                   "</div></div>";
                 const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
                 markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
@@ -106,7 +106,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UVcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universitat de València</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultat de Física.</strong> Aula 4103, Bloque D.</p>' +
+                  '<div id="bodyContent"><p><b>Facultat de Física.</b> Aula 4103, Bloque D.</p>' +
                   "</div></div>";
                 const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
                 markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });
@@ -115,7 +115,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const URJCcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad Rey Juan Carlos</h5>' +
-                  '<div id="bodyContent"><p><strong>Departamental II.</strong> Aula 028.</p>' +
+                  '<div id="bodyContent"><p><b>Departamental II.</b> Aula 028.</p>' +
                   "</div></div>";
                 const URJCwindow = new google.maps.InfoWindow({ content: URJCcontent, });
                 markerURJC.addListener("click", () => { URJCwindow.open({ anchor: markerURJC, map, shouldFocus: false, }); });
@@ -124,7 +124,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UScontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad de Sevilla</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultad de Física.</strong> Aula Magna.</p>' +
+                  '<div id="bodyContent"><p><b>Facultad de Física.</b> Aula Magna.</p>' +
                   "</div></div>";
                 const USwindow = new google.maps.InfoWindow({ content: UScontent, });
                 markerUS.addListener("click", () => { USwindow.open({ anchor: markerUS, map, shouldFocus: false, }); });
@@ -133,7 +133,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UABcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universitat Autònoma de Barcelona</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultat de Ciències.</strong> Aula C3/032.</p>' +
+                  '<div id="bodyContent"><p><b>Facultat de Ciències.</b> Aula C3/032.</p>' +
                   "</div></div>";
                 const UABwindow = new google.maps.InfoWindow({ content: UABcontent, });
                 markerUAB.addListener("click", () => { UABwindow.open({ anchor: markerUAB, map, shouldFocus: false, }); });
@@ -142,7 +142,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UNEDcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad de Murcia</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultad de Economía y Empresa.</strong> B1.0.095. Aula F0/20.</p>' +
+                  '<div id="bodyContent"><p><b>Facultad de Economía y Empresa.</b> B1.0.095. Aula F0/20.</p>' +
                   "</div></div>";
                 const UNEDwindow = new google.maps.InfoWindow({ content: UNEDcontent, });
                 markerUNED.addListener("click", () => { UNEDwindow.open({ anchor: markerUNED, map, shouldFocus: false, }); });
@@ -151,7 +151,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UVAcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad de Valladolid</h5>' +
-                  '<div id="bodyContent"><p><strong>Aulario M. Delibes.</strong> Aula 108.</p>' +
+                  '<div id="bodyContent"><p><b>Aulario M. Delibes.</b> Aula 108.</p>' +
                   "</div></div>";
                 const UVAwindow = new google.maps.InfoWindow({ content: UVAcontent, });
                 markerUVA.addListener("click", () => { UVAwindow.open({ anchor: markerUVA, map, shouldFocus: false, }); });
@@ -169,7 +169,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const USALcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad de Salamanca</h5>' +
-                  '<div id="bodyContent"><p><strong>Edificio trilingüe.</strong> Aula V.</p>' +
+                  '<div id="bodyContent"><p><b>Edificio trilingüe.</b> Aula V.</p>' +
                   "</div></div>";
                 const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
                 markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });
@@ -178,7 +178,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UPCcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universitat Politècnica de Catalunya</h5>' +
-                  '<div id="bodyContent"><p><strong>Campus Nord.</strong> Aula A4-105.</p>' +
+                  '<div id="bodyContent"><p><b>Campus Nord.</b> Aula A4-105.</p>' +
                   "</div></div>";
                 const UPCwindow = new google.maps.InfoWindow({ content: UPCcontent, });
                 markerUPC.addListener("click", () => { UPCwindow.open({ anchor: markerUPC, map, shouldFocus: false, }); });
@@ -187,7 +187,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UAMcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad Autónoma de Madrid</h5>' +
-                  '<div id="bodyContent"><p><strong>Módulo 13.</strong> Aula 401.</p>' +
+                  '<div id="bodyContent"><p><b>Módulo 13.</b> Aula 401.</p>' +
                   "</div></div>";
                 const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
                 markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });
@@ -196,7 +196,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UNIZARcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universidad de Zaragoza</h5>' +
-                  '<div id="bodyContent"><p><strong>Edificio de Física.</strong> Aula 3.</p>' +
+                  '<div id="bodyContent"><p><b>Edificio de Física.</b> Aula 3.</p>' +
                   "</div></div>";
                 const UNIZARwindow = new google.maps.InfoWindow({ content: UNIZARcontent, });
                 markerUNIZAR.addListener("click", () => { UNIZARwindow.open({ anchor: markerUNIZAR, map, shouldFocus: false, }); });
@@ -214,7 +214,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const EHUcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Euskal Herriko Unibertsitatea</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultad de Ciencia y Tecnología.</strong> Aula 2.4.</p>' +
+                  '<div id="bodyContent"><p><b>Facultad de Ciencia y Tecnología.</b> Aula 2.4.</p>' +
                   "</div></div>";
                 const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
                 markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); }); 
@@ -232,7 +232,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UBcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
                   '<h5 id="firstHeading" class="firstHeading">Universitat de Barcelona</h5>' +
-                  '<div id="bodyContent"><p><strong>Facultat de Física.</strong> Sala de Juntes 104.</p>' +
+                  '<div id="bodyContent"><p><b>Facultat de Física.</b> Sala de Juntes 104.</p>' +
                   "</div></div>";
                 const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
                 markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
