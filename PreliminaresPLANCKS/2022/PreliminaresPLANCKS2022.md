@@ -43,7 +43,6 @@ permalink: /PreliminaresPLANCKS2022/
 
     <div class="section">
       <div class="row center">
-        <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares!</p>
 
         <html>
           <head>
@@ -57,6 +56,7 @@ permalink: /PreliminaresPLANCKS2022/
 
           <body>
             <strong><h3 style="margin-bottom: 15px;">El mapa de las Preliminares de PLANCKS 2022</h3></strong>
+            <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares 2022!</p>
             <div id="map"></div>
             <script>            
               function initMap() {
