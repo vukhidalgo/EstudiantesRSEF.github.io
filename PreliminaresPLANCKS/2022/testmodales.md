@@ -106,17 +106,7 @@ permalink: /Prelisconmodales/
 
              {%- if person.otherinfo1link -%}
              <div class="row">
-               <div class="col s12 m6 l6">
-                 <div class="row center">
-                  <a href="{{ person.otherinfo1link }}" target="_blank">{{ person.otherinfo1text }}</a>
-                </div>
-              </div>
               {%- if person.otherinfo2link -%}
-              <div class="col s12 m6 l6">
-                <div class="row center">
-                    <a href="{{ person.otherinfo2link }}" target="_blank">{{ person.otherinfo2text }}</a>
-                </div>
-              </div>
               {%- endif -%}
              </div>
             {%- endif -%}
