@@ -26,7 +26,7 @@ permalink: /PreliminaresPLANCKS2022/
           <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
           <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
         </div>
-      </div> 
+      </div>
 
     <div class="section">
       <div class="row center">
@@ -38,7 +38,7 @@ permalink: /PreliminaresPLANCKS2022/
         <h5 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h5>
 
 <!-- MAP -->
-        <p style="text-align: justify;">En el mapa de la derecha puedes consultar todas las sedes de las Preliminares de este año.</p>
+        <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares!</p>
 
         <html>
           <head>
@@ -51,7 +51,7 @@ permalink: /PreliminaresPLANCKS2022/
           </head>
 
           <body>
-            <h5>El mapa de las Preliminares PLANCKS 2022</h5>
+            <strong><h4 style="margin-bottom: 5px;">El mapa de las Preliminares de PLANCKS 2022</h4></strong>
             <div id="map"></div>
             <script>            
               function initMap() {
@@ -101,7 +101,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
                 markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
-                
+
                 var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
                 const UVcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
@@ -110,7 +110,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
                 markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });
-              
+
                 var markerURJC = new google.maps.Marker({ map: map, position: URJC, title: "Universidad Rey Juan Carlos" });
                 const URJCcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
@@ -119,7 +119,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const URJCwindow = new google.maps.InfoWindow({ content: URJCcontent, });
                 markerURJC.addListener("click", () => { URJCwindow.open({ anchor: markerURJC, map, shouldFocus: false, }); });
-              
+
                 var markerUS = new google.maps.Marker({ map: map, position: US, title: "Universidad de Sevilla" });
                 const UScontent =
                   '<div id="content"><div id="siteNotice"></div>' +
@@ -182,7 +182,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UPCwindow = new google.maps.InfoWindow({ content: UPCcontent, });
                 markerUPC.addListener("click", () => { UPCwindow.open({ anchor: markerUPC, map, shouldFocus: false, }); });
-              
+
                 var markerUAM = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
                 const UAMcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
@@ -208,7 +208,7 @@ permalink: /PreliminaresPLANCKS2022/
                   '<div id="bodyContent"><p>Aula B03.</p>' +
                   "</div></div>";
                 const UNIOVIwindow = new google.maps.InfoWindow({ content: UNIOVIcontent, });
-                markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); }); 
+                markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); });
 
                 var markerEHU = new google.maps.Marker({ map: map, position: EHU, title: "Euskal Herriko Unibertsitatea" });
                 const EHUcontent =
@@ -217,7 +217,7 @@ permalink: /PreliminaresPLANCKS2022/
                   '<div id="bodyContent"><p><b>Facultad de Ciencia y Tecnología.</b> Aula 2.4.</p>' +
                   "</div></div>";
                 const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
-                markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); }); 
+                markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); });
 
                 var markerUM = new google.maps.Marker({ map: map, position: UM, title: "Universidad de Murcia" });
                 const UMcontent =
@@ -236,7 +236,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
                 markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-              
+
                 var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universitat d'Alacant" });
                 const UAcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
@@ -246,7 +246,7 @@ permalink: /PreliminaresPLANCKS2022/
                 const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
                 markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
 
-              
+
               }
             </script>
 
@@ -258,13 +258,13 @@ permalink: /PreliminaresPLANCKS2022/
         </html>
       </div>
     </div>
-      
+
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
       <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
       <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
     </div>
-      
+
     {% assign loopindex = 0 %}
     {% for event in site.events reversed %}
     {% if event.title contains "Preliminares de PLANCKS"%}
@@ -300,7 +300,7 @@ permalink: /PreliminaresPLANCKS2022/
     {% if loopindex == 1 %}
       </div>
     {% endif %}
-      
+
   </div>
 </div>
 
