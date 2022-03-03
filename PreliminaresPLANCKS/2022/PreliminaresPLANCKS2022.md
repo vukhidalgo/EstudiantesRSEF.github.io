@@ -425,7 +425,6 @@ permalink: /PreliminaresPLANCKS2022/
               <p align="center">Alejandro Fernández Muñoz - Responsable Web y IT</p>
               <p align="center">Joan Llobera Querol - Web y IT</p>
               <p align="center">Imanol Corredoira Fernández - Logística</p>
-              <p align="center">Irene Carrión López - Logística</p>
               <p align="center">Pedro Villalba González - Logística</p>
             </div>
           </div>
