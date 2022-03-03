@@ -102,21 +102,6 @@ permalink: /Prelisconmodales/
 
              <div class="row">
                <h2 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h2>
-               {%- if person.book1title -%}
-                {%- if person.book2title -%}<div class="col s12 m6 l6">{%- endif -%}     
-
-                {%- if person.book2title -%}</div>{%- endif -%}      
-               {%- endif -%}
-               {%- if person.book2title -%}
-               <div class="col s12 m6 l6">
-                 <div class="row center">
-                   <a href="{{ person.book2link }}" target="_blank"><img class="responsive-img" style="width:50%" src="{{ person.book2img }}"></a>
-                   <p style="text-align: center; padding-right: 2px; padding-left: 2px;">
-                     <a href="{{ person.book2link }}" target="_blank">{{ person.book2title }}</a>
-                   </p>
-                 </div>
-               </div>
-               {%- endif -%}
              </div>
 
              {%- if person.videotitle -%}
