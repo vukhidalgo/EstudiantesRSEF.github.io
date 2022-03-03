@@ -51,7 +51,7 @@ permalink: /PreliminaresPLANCKS2022/
           </head>
 
           <body>
-            <strong><h4 style="margin-bottom: 5px;">El mapa de las Preliminares de PLANCKS 2022</h4></strong>
+            <strong><h3 style="margin-bottom: 5px;">El mapa de las Preliminares de PLANCKS 2022</h3></strong>
             <div id="map"></div>
             <script>            
               function initMap() {
@@ -505,7 +505,7 @@ permalink: /PreliminaresPLANCKS2022/
 
         <p>Conócenos mejor en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo de Estudiantes de la RSEF.</p>
 
-        
+
       </div>
     </div>
   </div>
