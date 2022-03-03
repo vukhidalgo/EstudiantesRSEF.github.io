@@ -1,0 +1,47 @@
+- year: "2022"
+  miembros:
+    #OC
+    - nombre: "Inmaculada Pérez Pérez"
+      class: "OC"
+      img: "/img/junta/inmaculada-perez.jpg"
+      rol: "Presidenta"
+      
+    - nombre: "Cristina Balsells Llort"
+      class: "OC"
+      img: "/img/junta/cristina-balsells.jpg"
+      rol: "Vicepresidenta"
+      
+    - nombre: "Pablo Blanco Mas"
+      class: "OC"
+      img: "/img/junta/pablo-blanco.jpg"
+      rol: "Secretaría e inscripciones"
+
+    - nombre: "Sergio Salvía Fernández"
+      class: "OC"
+      img: "/img/junta/sergio-salvia.jpg"
+      rol: "Responsable de Relaciones Públicas"
+
+    - nombre: "Odette Alonso-Sañudo Álvarez"
+      class: "OC"
+      rol: "Relaciones Públicas"
+      img: "/img/junta/odette.png"
+
+    - nombre: "Alejandro Fernández Muñoz"
+      class: "OC"
+      img: "/img/junta/alejandro-fernandez.jpg"
+      rol: "Responsable Web y IT"
+      
+    - nombre: "Joan Llobera Querol"
+      class: "OC"
+      img: "/img/junta/joan-llobera.jpg"
+      rol: "Web y IT"
+
+    - nombre: "Imanol Corredoira Fernández"
+      class: "OC"
+      img: "/img/junta/imanol-corredoira.jpg"
+      rol: "Logística"
+
+    - nombre: "Pedro Villalba González"
+      class: "OC"
+      img: "/img/junta/pedro-villalba-2.jpg"
+      rol: "Logística"
