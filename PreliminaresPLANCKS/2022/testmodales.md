@@ -25,20 +25,8 @@ permalink: /Prelisconmodales/
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
                  <img src="{{ person.img }}" alt="" class="circle">
-                 {% if person.nombredes %}
-                 <span class="title" style="padding-left: 10px">{{ person.nombredes }}</span>
-                 {% else %}
                  <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
-                 {% endif %}
-                 {% if person.roldes %}
-                 <p style="padding-top: 10px">
-                   {{ person.roldes }}
-                 </p>
-                 {% else %}
-                 <p style="padding-top: 10px">
-                   {{ person.rol }}
-                 </p>
-                 {% endif %}
+                 <p style="padding-top: 10px">{{ person.rol }}</p>
                </li>
              </a>
            </ul>
@@ -72,8 +60,6 @@ permalink: /Prelisconmodales/
              </div>
            </div>
 
-           <!-- Biografía -->
-
            <div class="row">
              <h2 class="justify">Biografía</h2>
              {%- if person.bio1 -%}<p style="text-align: justify;">
@@ -84,9 +70,6 @@ permalink: /Prelisconmodales/
              </p>{%- endif -%}
              {%- if person.bio3 -%}<p style="text-align: justify;">
              {{ person.bio3 }}
-             </p>{%- endif -%}
-             {%- if person.bio4 -%}<p style="text-align: justify;">
-             {{ person.bio4 }}
              </p>{%- endif -%}
            </div>
 
