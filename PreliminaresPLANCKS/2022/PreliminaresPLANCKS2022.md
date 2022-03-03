@@ -36,8 +36,13 @@ permalink: /PreliminaresPLANCKS2022/
 <!-- COUNTDOWN -->
         <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
         <h5 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h5>
+      </div>        
+    </div>
 
 <!-- MAP -->
+
+    <div class="section">
+      <div class="row center">
         <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares!</p>
 
         <html>
