@@ -228,6 +228,14 @@ permalink: /PreliminaresPLANCKS2022/
                 const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
                 markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); });
 
+                var markerUB = new google.maps.Marker({ map: map, position: UB, title: "Universitat de Barcelona" });
+                const UBcontent =
+                  '<div id="content"><div id="siteNotice"></div>' +
+                  '<h5 id="firstHeading" class="firstHeading">Universitat de Barcelona</h5>' +
+                  '<div id="bodyContent"><p><b>Facultat de Física.</b> Sala de Juntes 104.</p>' +
+                  "</div></div>";
+                const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
+                markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
 
               
               }
