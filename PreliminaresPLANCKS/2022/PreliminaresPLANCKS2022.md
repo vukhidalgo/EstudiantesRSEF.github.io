@@ -51,7 +51,7 @@ permalink: /PreliminaresPLANCKS2022/
           </head>
 
           <body>
-            <strong><h3 style="margin-bottom: 5px;">El mapa de las Preliminares de PLANCKS 2022</h3></strong>
+            <strong><h3 style="margin-bottom: 15px;">El mapa de las Preliminares de PLANCKS 2022</h3></strong>
             <div id="map"></div>
             <script>            
               function initMap() {
