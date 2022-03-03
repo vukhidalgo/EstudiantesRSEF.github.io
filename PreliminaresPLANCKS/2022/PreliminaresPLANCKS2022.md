@@ -210,6 +210,23 @@ permalink: /PreliminaresPLANCKS2022/
                 const UNIOVIwindow = new google.maps.InfoWindow({ content: UNIOVIcontent, });
                 markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); }); 
 
+                var markerEHU = new google.maps.Marker({ map: map, position: EHU, title: "Euskal Herriko Unibertsitatea" });
+                const EHUcontent =
+                  '<div id="content"><div id="siteNotice"></div>' +
+                  '<h5 id="firstHeading" class="firstHeading">Euskal Herriko Unibertsitatea</h5>' +
+                  '<div id="bodyContent"><p><b>Facultad de Ciencia y Tecnología.</b> Aula 2.4.</p>' +
+                  "</div></div>";
+                const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
+                markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); }); 
+
+                var markerUM = new google.maps.Marker({ map: map, position: UM, title: "Universidad de Murcia" });
+                const UMcontent =
+                  '<div id="content"><div id="siteNotice"></div>' +
+                  '<h5 id="firstHeading" class="firstHeading">Universidad de Murcia</h5>' +
+                  '<div id="bodyContent"><p>Sala de seminarios CIOyN.</p>' +
+                  "</div></div>";
+                const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
+                markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); });
 
 
               
