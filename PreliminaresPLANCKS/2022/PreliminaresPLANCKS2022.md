@@ -26,23 +26,21 @@ permalink: /PreliminaresPLANCKS2022/
           <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
           <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
         </div>
-      </div>
 
-    <div class="section">
-      <div class="row center">
+        <div class="row center">
 <!-- COMITÉS -->
-        <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
+          <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
 
 <!-- COUNTDOWN -->
-        <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
-        <h5 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h5>
-      </div>        
-    </div>
+          <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2022 se cerrarán en...</p>
+          <h5 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h5>
+        </div>        
+      </div>
 
 <!-- MAP -->
 
-    <div class="section">
-      <div class="row center">
+      <div class="section">
+        <div class="row center">
 
         <html>
           <head>
