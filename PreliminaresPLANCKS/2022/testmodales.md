@@ -104,12 +104,6 @@ permalink: /Prelisconmodales/
                <h2 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h2>
              </div>
 
-             {%- if person.videotitle -%}
-             <div class="row">
-               <center><iframe width="642" height="361" src="{{- person.videolink -}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-             </div>
-             {%- endif -%}
-
              {%- if person.otherinfo1link -%}
              <div class="row">
                <div class="col s12 m6 l6">
