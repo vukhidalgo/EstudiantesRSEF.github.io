@@ -59,7 +59,7 @@ permalink: /PreliminaresPLANCKS2022/
                 var centerPen = {lat: 40.416775, lng: -3.703790};
                 var centerPos = {lat: 36.7875,   lng: -7.0135};
                 // Facultades de https://www.cofis.es/elfisico/facultades.html
-                var UA = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
+                var UA  = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
                 var UAB = {lat: 41.501105, lng: 2.109064}; // Facultat de Ciències (Bellaterra)
                 var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias
                 var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física
@@ -236,11 +236,11 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
                 markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-
+              
                 var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universitat d'Alacant" });
                 const UAcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
-                  '<h5 id="firstHeading" class="firstHeading">Universitat d'Alacant</h5>' +
+                  "<h5 class="firstHeading">Universitat d'Alacant</h5>" +
                   '<div id="bodyContent"><p>Sala de juntas del DFISTS.</p>' +
                   "</div></div>";
                 const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
