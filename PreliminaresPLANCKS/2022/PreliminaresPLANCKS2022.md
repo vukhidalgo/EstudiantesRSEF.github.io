@@ -240,7 +240,7 @@ permalink: /PreliminaresPLANCKS2022/
                 var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universitat d'Alacant" });
                 const UAcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
-                  "<h5 class="firstHeading">Universitat d'Alacant</h5>" +
+                  "<h5 class='firstHeading'>Universitat d'Alacant</h5>" +
                   '<div id="bodyContent"><p>Sala de juntas del DFISTS.</p>' +
                   "</div></div>";
                 const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
