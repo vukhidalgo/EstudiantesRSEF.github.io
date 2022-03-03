@@ -24,7 +24,7 @@ permalink: /Prelisconmodales/
        <div class="col s12 m6">
          <div class="row center">
          {% for person in site.persons %}
-         {% if person.evento contains "JornadasVerano2021" %}
+         {% if person.evento contains "Prelis2022" %}
          {% if person.destacado contains "YES" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
