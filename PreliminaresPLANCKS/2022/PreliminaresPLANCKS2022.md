@@ -101,7 +101,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
                 markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
-
+<!--
                 var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
                 const UVcontent =
                   '<div id="content"><div id="siteNotice"></div>' +
@@ -245,7 +245,7 @@ permalink: /PreliminaresPLANCKS2022/
                   "</div></div>";
                 const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
                 markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
-              
+-->              
               }
             </script>
 
