@@ -58,7 +58,7 @@ permalink: /Prelisconmodales/
      <!-- Modal PONENTES -->
 
      {% for person in site.persons %}
-     {% if person.evento contains "JornadasVerano2021" %}
+     {% if person.evento contains "Prelis2022" %}
 
      <div id="{{ person.id | remove: "/" }}-modal" class="modal">
        <div class="modal-content">
