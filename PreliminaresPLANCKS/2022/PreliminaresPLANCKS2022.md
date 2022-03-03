@@ -475,6 +475,46 @@ permalink: /PreliminaresPLANCKS2022/
 </div>
 
 
+<!-- MODAL COMITÉ ORGANIZADOR -->
+
+<div id="ModalComOrgJor21" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center" style="padding-left: 30px; padding-top: 10px;">
+        <h3 class="justify">El Comité Organizador</h3>
+
+        {% for item in site.data.prelis %}
+
+        <div class="col s12 m6">
+          <div class="row center">
+            {% for miembro in item.miembros %}
+            {% if miembro.class contains "OC" %}
+            <ul class="collection waves-effect waves-light">
+              <li class="collection-item avatar2">
+                <img src="{{ miembro.img }}" alt="imagen" class="circle">
+                <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
+                <p>{{ miembro.rol }}</p>
+              </li>
+            </ul>
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+
+        {% endfor %}
+
+        <p>Conócenos mejor en la <a href="{{ site.url}}/junta-de-gobierno" target="_blank">web de la Junta de Gobierno</a> del Grupo de Estudiantes de la RSEF.</p>
+
+        
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
+
 <!-- TIMER SCRIPT -->
 <script>
   // Set the date we're counting down to
