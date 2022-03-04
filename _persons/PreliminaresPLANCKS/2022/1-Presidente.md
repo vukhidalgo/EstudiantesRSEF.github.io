@@ -1,14 +1,14 @@
 ---
 layout: person
 evento: "Prelis2022"
-nombre: "Prof. Ignacio Cirac"
-img: "/img/eventos/2021-Jornadas/ponentes/IgnacioCirac.jpg"
+nombre: "Juan José León García"
+img: "/img/eventos/2022-PLANCKS/leon.jpg"
 rol: "Presidente del Comité Académico"
 linkedin: ""
 
-bio1: "Juan Ignacio Cirac es actualmente Director de la División de Teória, Instituto Max Planck de Óptica Cuántica, Garching, Alemania."
-bio2: "Juan Ignacio Cirac (Manresa, 1965) se licenció en Física Fundamental en la Universidad Complutense de Madrid en 1988 y obtuvo el doctorado en 1991. Profesor titular de la Universidad de Castilla-La Mancha desde 1991 hasta 1996, periodo en el que paso largas estancias en la Universidad de Colorado y la Universidad de Harvard. Catedrático de Física Teória en la Universidad de Innsbruck (Austria) desde 1996 hasta el 2001. Miembro de la Sociedad Max Planck desde 2001, es desde ese mismo año director en el Instituto Max Planck de Óptica Cuántica (Garching, Alemania). En el año 2002 fue nombrado profesor honorario de la Universidad Técnica de Munich."
-bio3: "Experto en computación cuántica y sus aplicaciones en el campo de la información, su línea de investigación se centra en la teoría cuántica de la información. Según sus teorías, el ordenador cuántico revolucionará el mundo de la información, y será posible asimismo una comunicación más eficaz y una mayor seguridad en el tratamiento y transmisión de datos."
+bio1: "Físico teórico jubilado y presidente del Comité Académico de las Preliminares de PLANCKS desde 2019."
+bio2: "Sus principales temas de interés científico son la física cuántica y de partículas, sobre las que publicó numerosas investigaciones durante su etapa profesional. Trabajó en diversos grupos científicos tanto en España como en el extranjero como el FermiLab (DoE, USA) o el International Center of Theoretical Physics (ICTP, UNESCO-Italy), donde hizo su doctorado. Es además fundador del grupo QUINFOG en el CSIC. También ha formado parte de varios comités científicos nacionales e internacionales como la Comisión Científica del CSIC, el ESA Horizon 200+ Survey Committee o el IRSQI Council."
+bio3: "Desde el Grupo de Estudiantes de la RSEF queremos destacar y agradecer el incansable compromiso de Juan con la excelencia científica del país. No sólo se encarga de velar por la calidad del examen de las Preliminares de PLANCKS, sino que es también miembro del Comité de las Olimpiadas de Física Internacionales y jurado de otras competiciones internacionales para jóvenes estudiantes e investigadores."
 
 
 ---
