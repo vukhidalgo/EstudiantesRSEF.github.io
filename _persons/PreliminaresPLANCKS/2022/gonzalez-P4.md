@@ -5,7 +5,7 @@ nombre: "Rosario González-Férez"
 aff: "Universidad de Granada"
 img: "/img/eventos/2022-PLANCKS/gonzalez.jpg"
 rol: "Autora de problema"
-roldes: "Autora del Problema 4"
+roldes: 'Autora del Problema "The Ammonia Maser"'
 linkedin: ""
 presi: "NO"
 
