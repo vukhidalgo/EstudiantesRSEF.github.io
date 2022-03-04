@@ -6,7 +6,15 @@ permalink: /Prelisconmodales/
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
-      
+    
+    <hr>
+    <h2 style="text-align: center;">
+      <span style="color: #A1A7EA;">
+        <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES PRELIMINARES</strong></a>
+      </span>
+    </h2>
+    <hr>
+    
     <!-- AUTORES -->
 
     <div class="section">
