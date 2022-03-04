@@ -21,7 +21,7 @@ permalink: /Prelisconmodales/
          <div class="row center">
          {% for person in site.persons %}
          {% if person.evento contains "Prelis2022" %}
-           <ul class="collection waves-effect waves-light" style="width: 33%">
+           <ul class="collection waves-effect waves-light" style="width: 40%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
                  <img src="{{ person.img }}" alt="" class="circle">
@@ -53,9 +53,10 @@ permalink: /Prelisconmodales/
                </div>
              </div>
              <div class="col s12 m6 l6">        
-               <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+               <div class="row center" style="padding-left: 30px; padding-top: 50px;">
                  <h3 class="justify">{{ person.nombre }}</h3>
-                 <h5 class="justify">{{ person.rol }}</h5>
+                 <h5 class="justify">{{ person.aff }}</h5>
+                 <h5 class="justify" style="padding-top: 10px;">{{ person.roldes }}</h5>
                </div>
              </div>
            </div>
