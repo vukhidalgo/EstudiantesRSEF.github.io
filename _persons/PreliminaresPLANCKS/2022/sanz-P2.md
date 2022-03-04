@@ -5,7 +5,7 @@ nombre: "Ángel Sanz"
 aff: "Universidad Complutense de Madrid"
 img: "/img/eventos/2022-PLANCKS/sanz.jpg"
 rol: "Autor de problema"
-roldes: "Autor del Problema 2"
+roldes: 'Autor del Problema "Light interference and PV cell design"'
 linkedin: ""
 presi: "NO"
 
