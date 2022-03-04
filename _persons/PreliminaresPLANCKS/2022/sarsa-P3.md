@@ -5,7 +5,7 @@ nombre: "María Luisa Sarsa Sarsa"
 aff: "Universidad de Zaragoza"
 img: "/img/eventos/2022-PLANCKS/sarsa.jpg"
 rol: "Autora de problema"
-roldes: "Autora del Problema 3"
+roldes: 'Autora del Problema "ANAIS and the wind of dark matter"'
 linkedin: ""
 presi: "NO"
 
