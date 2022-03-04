@@ -2,7 +2,7 @@
 layout: person
 evento: "Prelis2022"
 nombre: "María Luisa Sarsa Sarsa"
-aff: "Universidad de Zaragoza"
+aff: "Universidad de Zaragoza (UNIZAR)"
 img: "/img/eventos/2022-PLANCKS/sarsa.jpg"
 rol: "Autora de problema"
 roldes: 'Autora del Problema "ANAIS and the wind of dark matter"'
