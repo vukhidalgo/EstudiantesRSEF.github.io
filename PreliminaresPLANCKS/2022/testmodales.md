@@ -31,7 +31,15 @@ permalink: /Prelisconmodales/
                </li>
              </a>
            </ul>
-         {% else %}
+         {% endif %}
+         {% endif %}
+         {% endfor %}    
+         </div>
+         
+         <div class="row center">
+         {% for person in site.persons %}
+         {% if person.evento contains "Prelis2022" %}
+         {% if person.presi contains "NO" %}
            <ul class="collection waves-effect waves-light" style="width: 40%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
