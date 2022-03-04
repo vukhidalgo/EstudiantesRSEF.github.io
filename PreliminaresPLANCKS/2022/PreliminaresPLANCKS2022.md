@@ -30,7 +30,7 @@ permalink: /PreliminaresPLANCKS2022/
       
 
 <!-- COMITÉS -->
-      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
+      <p style="text-align: justify;">Además, puedes <a href="#ModalComOrgPre22" class="modal-trigger">consultar aquí</a> los integrantes de los Comités Organizador y Académico de las Preliminares de PLANCKS 2022.</p>
 
 <!-- COUNTDOWN -->
       <p style="text-align: justify;">Las inscripciones a las Preliminares de PLANCKS 2022 se cerrarán en...</p>
@@ -478,7 +478,7 @@ permalink: /PreliminaresPLANCKS2022/
 
 <!-- MODAL COMITÉ ORGANIZADOR -->
 
-<div id="ModalComOrgJor21" class="modal">
+<div id="ModalComOrgPre22" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
