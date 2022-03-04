@@ -2,8 +2,10 @@
 layout: person
 evento: "Prelis2022"
 nombre: "Juan José León García"
+aff: "Instituto de Física Fundamental (IFF-CSIC)"
 img: "/img/eventos/2022-PLANCKS/leon.jpg"
 rol: "Presidente del Comité Académico"
+roldes: "Presidente del Comité Académico"
 linkedin: ""
 
 bio1: "Físico teórico jubilado y presidente del Comité Académico de las Preliminares de PLANCKS desde 2019."
