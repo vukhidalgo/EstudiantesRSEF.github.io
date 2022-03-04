@@ -2,7 +2,7 @@
 layout: person
 evento: "Prelis2022"
 nombre: "Rosario González-Férez"
-aff: "Universidad de Granada"
+aff: "Universidad de Granada (UGR)"
 img: "/img/eventos/2022-PLANCKS/gonzalez.jpg"
 rol: "Autora de problema"
 roldes: 'Autora del Problema "The Ammonia Maser"'
