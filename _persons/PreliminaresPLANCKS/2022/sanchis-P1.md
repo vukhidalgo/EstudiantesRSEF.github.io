@@ -5,7 +5,7 @@ nombre: "Miguel Ángel Sanchís Lozano"
 aff: "Universidad de Valencia (UV)"
 img: "/img/eventos/2022-PLANCKS/sanchis.jpg"
 rol: "Autor de problema"
-roldes: "Autor del Problema 1"
+roldes: 'Autor del Problema "Two beads in a ring"'
 linkedin: ""
 presi: "NO"
 
