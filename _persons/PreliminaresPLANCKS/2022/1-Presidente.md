@@ -7,6 +7,7 @@ img: "/img/eventos/2022-PLANCKS/leon.jpg"
 rol: "Presidente del Comité Académico"
 roldes: "Presidente del Comité Académico"
 linkedin: ""
+presi: "YES"
 
 bio1: "Físico teórico jubilado y presidente del Comité Académico de las Preliminares de PLANCKS desde 2019."
 bio2: "Sus principales temas de interés científico son la física cuántica y de partículas, sobre las que publicó numerosas investigaciones durante su etapa profesional. Trabajó en diversos grupos científicos tanto en España como en el extranjero como el FermiLab (DoE, USA) o el International Center of Theoretical Physics (ICTP, UNESCO-Italy), donde hizo su doctorado. Es además fundador del grupo QUINFOG en el CSIC. También ha formado parte de varios comités científicos nacionales e internacionales como la Comisión Científica del CSIC, el ESA Horizon 200+ Survey Committee o el IRSQI Council."
