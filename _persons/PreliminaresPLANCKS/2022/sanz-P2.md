@@ -7,6 +7,7 @@ img: "/img/eventos/2022-PLANCKS/sanz.jpg"
 rol: "Autor de problema"
 roldes: "Autor del Problema 2"
 linkedin: ""
+presi: "NO"
 
 bio1: "."
 bio2: "."
