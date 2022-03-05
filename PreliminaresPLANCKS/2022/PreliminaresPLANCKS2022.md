@@ -15,7 +15,7 @@ permalink: /PreliminaresPLANCKS2022/
       <hr>
         <h2 style="text-align: center;">
           <span style="color: #A1A7EA;">
-            <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES PRELIMINARES</strong></a>
+            <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES EXAMEN</strong></a>
           </span>
         </h2>
       <hr>
