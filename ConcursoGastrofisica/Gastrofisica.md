@@ -67,7 +67,7 @@ permalink: /Gastrofisica/
           <li style="text-align: justify;">Para cualquier duda: escríbenos a <a href="mailto:estudiantes@rsef.es?subject=[Concurso Divulgación Gastrofísica]" target="_blank">estudiantes@rsef.es</a> o a través de nuestras redes.</li>
         </list>
 
-        <h2 class="justify">Fecha máxima de presentación de vídeos: 1 de Mayo de 2022.</h2>
+        <h2 class="justify">Fecha máxima de presentación de vídeos: 1 de Junio de 2022.</h2>
 
         <a href="/ConcursoGastrofisica/Concurso Divulgación Gastrofísica - Reglas del concurso.pdf" id="bases-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(255, 250, 226); color: rgb(0, 0, 0); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px; color: rgb(0, 0, 0);">description</i>Consulta aquí las bases completas del concurso</a>
       </div>
