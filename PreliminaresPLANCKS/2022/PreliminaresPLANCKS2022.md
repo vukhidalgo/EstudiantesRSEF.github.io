@@ -11,15 +11,25 @@ permalink: /PreliminaresPLANCKS2022/
 <!-- HEADER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2022-PLANCKS/Versión definitiva.png">
 
+      <!-- COMENTARIO PARA PRÓXIMAS VECES: LOS ARCHIVOS ES MEJOR NOMBRARLOS SIN UTILIZAR ACENTOS Y SIN DEJAR ESPACIOS ENTRE PALABRAS -->
+
+<!-- RESULTADOS -->
+      <hr>
+      <h2 style="text-align: center;">
+        <span style="color: #A1A7EA;">
+          <a href="https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view?usp=sharing" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2022</strong></a>
+        </span>
+      </h2>
+      <hr>
+
 <!-- SOLUCIONES -->
+      <h2 style="text-align: center;">
+        <span style="color: #A1A7EA;">
+          <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES EXAMEN</strong></a>
+        </span>
+      </h2>
       <hr>
-        <h2 style="text-align: center;">
-          <span style="color: #A1A7EA;">
-            <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES EXAMEN</strong></a>
-          </span>
-        </h2>
-      <hr>
-      
+
 <!-- INTRODUCCIÓN -->
       <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? Vuelven en su quinta edición las <strong>Preliminares de PLANCKS</strong> y esta vez... ¡en formato presencial! Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
@@ -36,7 +46,7 @@ permalink: /PreliminaresPLANCKS2022/
           <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
         </div>
       </div>
-      
+
 
 <!-- COMITÉS -->
       <p style="text-align: justify;">Además, puedes <a href="#ModalComOrgPre22" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2022.</p>
@@ -68,7 +78,7 @@ permalink: /PreliminaresPLANCKS2022/
          {% endif %}
          {% endfor %}    
          </div>
-         
+
          <div class="row center">
          {% for person in site.persons %}
          {% if person.evento contains "Prelis2022" %}
@@ -136,8 +146,8 @@ permalink: /PreliminaresPLANCKS2022/
 
      {% endif %}
      {% endfor %}
-    
-    
+
+
 <!-- MAP -->
     <div class="section">
       <div class="section">
