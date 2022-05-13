@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog Divulgación
-title:  "El verdadero lado oscuro de la Inteligencia Artificial"
+title:  "El lado oscuro de la Inteligencia Artificial"
 date: 2022-05-15 00:01
 author: Víctor Zamora Catro
 redirect-from:
@@ -20,7 +20,7 @@ redirect-from:
 <p style="text-align: justify;"> Por poner un caso concreto, es habitual demostrar el potencial de la IA enfrentándola contra humanos en juegos de mesa como el ajedrez. La más reciente de estas batallas enfrentó a la IA de Google, AlphaGo, contra el campeón mundial del juego de mesa chino Go, el señor Lee Sedol. El resultado final fue que la máquina ganó al humano, lo que es considerado otra hazaña más en el historial de éxitos de la IA. Sin embargo, ¡este combate no era justo energéticamente! Mientras que la máquina estaba consumiendo 10 millones de vatios de potencia, el señor Lee consumía apenas 20 vatios (incluso teniendo en cuenta la taza de café que se estaba tomando según se ve en la Figura 1). Esta diferencia  en consumo evidencia la baja eficiencia energética de la IA. En breve explicaremos cómo y dónde se origina esta ineficiencia.</p>
 
 ![Fig1](/img/blog/2022-05-13-LadoOscuroIA/Fig1.png)<br/>
-<br/><a name="Fig1">**Figura 1**</a>: Comparativa de consumo energético en las partidas del juego de mesa Go entre la IA de Google DeepMind, AlphaGo, y el campeón mundial Lee Sedol. Extracto de la grabación <a href="#Ref4">[4]</a>.
+<br/><a name="Fig1"><strong>Figura 1</strong></a>: Comparativa de consumo energético en las partidas del juego de mesa Go entre la IA de Google DeepMind, AlphaGo, y el campeón mundial Lee Sedol. Extracto de la grabación <a href="#Ref4">[4]</a>.
 
 ### El origen de la ineficiencia de la IA
 
@@ -31,12 +31,12 @@ redirect-from:
 <p style="text-align: justify;"> Con respecto al software, la IA se basa principalmente en el uso de algoritmos de redes neuronales. Una red neuronal es un conjunto de nodos (o neuronas) cada uno de ellos caracterizados por una activación <strong><em>a</strong></em> que es un número real. Como se muestra en la Figura 2, estos nodos se encuentran vinculados entre sí mediante una serie de conexiones (o sinapsis) caracterizadas por un número real <strong><em>w</strong></em> que determina el grado de conexión entre las dos neuronas conectadas y que recibe el nombre de peso sináptico.</p>
 
 ![Fig2](/img/blog/2022-05-13-LadoOscuroIA/Fig2.png)<br/>
-<br/><a name="Fig2">**Figura 2**</a>: Conexión sináptica entre dos neuronas o nodos de una red neuronal indicando las activaciones ***a*** (presináptica a la izquierda y postsináptica a la derecha) y el peso sináptico ***w***.
+<br/><a name="Fig2"><strong>Figura 2</strong></a>: Conexión sináptica entre dos neuronas o nodos de una red neuronal indicando las activaciones <strong><em>a</strong></em> (presináptica a la izquierda y postsináptica a la derecha) y el peso sináptico <strong><em>w</strong></em>.
 
 <p style="text-align: justify;"> Para hacernos una idea más concreta, supongamos que queremos construir una red neuronal que sea capaz de diferenciar perros de gatos en imágenes en las que aparece un perro o un gato (véase Figura 3). Es decir, que tenga una serie de neuronas de entrada que lean la información de una foto, posteriormente procese la información y finalmente indique mediante dos neuronas de salida si la foto enseñada corresponde a un perro o a un gato. La idea es que la información de entrada, la foto, se propague a través de la red, neurona tras neurona, hasta llegar finalmente a las dos neuronas de salida<sup><a href="#foot1">1</a></sup>.</p>
 
 ![Fig3](/img/blog/2022-05-13-LadoOscuroIA/Fig3.png)<br/>
-<br/><a name="Fig3">**Figura 3**</a>: Estructura simplificada de una red neuronal capaz de distinguir perros de gatos. En la parte inferior se indica cómo se computan las activaciones de una capa a partir de las activaciones de la capa anterior.
+<br/><a name="Fig3"><strong>Figura 3</strong></a>: Estructura simplificada de una red neuronal capaz de distinguir perros de gatos. En la parte inferior se indica cómo se computan las activaciones de una capa a partir de las activaciones de la capa anterior.
 
 <p style="text-align: justify;"> ¿Y cómo se propaga la información? La activación <strong><em>y<sub>i</sub></strong></em> de una neurona (que no sea de entrada) se calcula ponderando la activación <strong><em>x<sub>j</sub></strong></em> de las neuronas de la capa anterior mediante los pesos <strong><em>w<sub>ij</sub></strong></em> de las conexiones que terminan en ella, tal y como se muestra en la parte inferior de la Figura 3.</p>
 
@@ -48,7 +48,7 @@ redirect-from:
 <p style="text-align: justify;"> Las redes neuronales se implementan actualmente en ordenadores que, como la mayoría de los ordenadores, siguen la denominada arquitectura de von Neumann. Según se muestra en la Figura 4, este diseño está fuertemente caracterizado por la separación en las computadoras de una zona dedicada al cómputo (el procesador o CPU) y otra al almacenamiento de información (las memorias como la RAM o el disco duro). Para implementar redes neuronales en esta arquitectura, se debe desplazar constantemente la información de los pesos y las activaciones de la memoria al procesador para calcular nuevas activaciones, y posteriormente el resultado se ha de trasladar de vuelta a la memoria para su almacenamiento (Figura 4).</p>
 
 ![Fig4](/img/blog/2022-05-13-LadoOscuroIA/Fig4.png)<br/>
-<br/><a name="Fig4">**Figura 4**</a>: Actual arquitectura de computadores de von Neumann donde el desplazamiento continuo de activaciones ***x*** y pesos ***w*** entre la CPU y la memoria RAM satura las comunicaciones en lo que se denomina el Cuello de Botella de von Neumann.
+<br/><a name="Fig4"><strong>Figura 4</strong></a>: Actual arquitectura de computadores de von Neumann donde el desplazamiento continuo de activaciones <strong><em>x</strong></em> y pesos <strong><em>w</strong></em> entre la CPU y la memoria RAM satura las comunicaciones en lo que se denomina el Cuello de Botella de von Neumann.
 
 <p style="text-align: justify;"> Con esta forma de proceder el problema es el siguiente: cuando se implementan las redes más punteras que se utilizan actualmente, con millones de pesos y miles de activaciones, este ir y venir constante de información entre el procesador y la memoria satura las vías de comunicación en lo que se conoce como el <em>Cuello de Botella de von Neumann</em>. Es más, se produce un gran consumo energético debido a todo el calor disipado por efecto Joule al mover la información entre el procesador y la memoria.</p>
 
@@ -63,18 +63,18 @@ redirect-from:
 <p style="text-align: justify;"> Empecemos considerando un único memristor. La corriente que fluye por él vendrá dada por la Ley de Ohm, <strong><em>I = GV</strong></em>, donde </strong></em>G</strong></em> es la conductancia (o la inversa de la resistencia), y <strong><em>V</strong></em> es el voltaje. Esto se encuentra representado en la parte derecha de la Figura 5, donde se ha utilizado el símbolo del memristor. Si comparamos la ecuación anterior con cómo se relaciona la activación de una neurona pre-sináptica <strong><em>a<sub>pre</sub></strong></em> conectada a una sola neurona post-sináptica con activación <strong><em>a<sub>post</sub></strong></em> (parte izquierda en la Figura 5), vemos que el voltaje <strong><em>V</strong></em> podría jugar el papel de la activación pre-sináptica; la conductancia <strong><em>G</strong></em>, el del peso sináptico <strong><em>w</strong></em>; y la intensidad <strong><em>I</strong></em>, el de la activación post-sináptica.</p>
 
 ![Fig5](/img/blog/2022-05-13-LadoOscuroIA/Fig5.png)<br/>
-<br/><a name="Fig5">**Figura 5**</a>: Analogía entre dos neuronas en una red neuronal (izquierda) y un memristor (derecha).
+<br/><a name="Fig5"><strong>Figura 5</strong></a>: Analogía entre dos neuronas en una red neuronal (izquierda) y un memristor (derecha).
 
 <p style="text-align: justify;"> Si combinamos <strong><em>M</strong></em> memristores tal y como se muestra en la Figura 6, la intensidad resultante será la suma. Este esquema nos sirve como el equivalente a <strong><em>M</strong></em> neuronas presinápticas conectadas a una neurona post-sináptica.</p>
 
 
 ![Fig6](/img/blog/2022-05-13-LadoOscuroIA/Fig6.png)<br/>
-<br/><a name="Fig6">**Figura 6**</a>: Analogía entre ***M*** neuronas conectadas a otra en una red neuronal y ***M*** memristores conectados a un punto de tierra común.
+<br/><a name="Fig6"><strong>Figura 6</strong></a>: Analogía entre <strong><em>M</strong></em> neuronas conectadas a otra en una red neuronal y <strong><em>M</strong></em> memristores conectados a un punto de tierra común.
 
-<p style="text-align: justify;"> ¿Cómo completamos nuestra red? Si ahora copiamos esta estructura conectando memristores de forma transversal podemos obtener una malla tal y como la que se muestra en la Figura 7. Este esquema equivale a una red con <strong><em>M</strong></em> neuronas de una capa a <strong><em>N</strong></em> neuronas de otra. Lo importante de usar mallas es que no son estáticas: al estar hechas de memristores podemos programar mediante corrientes las conductancias <strong><em>G_<sub>ij</sub></strong></em> de modo que repliquen los pesos sinápticos <strong><em>w<sub>ij</sub></strong></em> que hacen que las redes neuronales lleven a cabo la tarea para la que han sido diseñadas. De este modo, combinando varias de estas mallas una tras otra es posible implementar una red neuronal completa.</p>
+<p style="text-align: justify;"> ¿Cómo completamos nuestra red? Si ahora copiamos esta estructura conectando memristores de forma transversal podemos obtener una malla tal y como la que se muestra en la Figura 7. Este esquema equivale a una red con <strong><em>M</strong></em> neuronas de una capa a <strong><em>N</strong></em> neuronas de otra. Lo importante de usar mallas es que no son estáticas: al estar hechas de memristores podemos programar mediante corrientes las conductancias <strong><em>G<sub>ij</sub></strong></em> de modo que repliquen los pesos sinápticos <strong><em>w<sub>ij</sub></strong></em> que hacen que las redes neuronales lleven a cabo la tarea para la que han sido diseñadas. De este modo, combinando varias de estas mallas una tras otra es posible implementar una red neuronal completa.</p>
 
 ![Fig7](/img/blog/2022-05-13-LadoOscuroIA/Fig7.png)<br/>
-<br/><a name="Fig7">**Figura 7**</a>: Analogía entre la conexión de ***M*** neuronas presinápticas conectadas a ***N*** neuronas postsinápticas en una red neuronal y ***M x N*** memristores conectados en una estructura de malla.
+<br/><a name="Fig7"><strong>Figura 7</strong></a>: Analogía entre la conexión de <strong><em>M</strong></em> neuronas presinápticas conectadas a <strong><em>N</strong></em> neuronas postsinápticas en una red neuronal y <strong><em>M x N</strong></em> memristores conectados en una estructura de malla.
 
 <p style="text-align: justify;"> ¿Y cómo determinan estas mallas qué valores de conductancia se han de usar? La respuesta es que estas mallas no son capaces de aprender por su cuenta, solo sirven para inferir, es decir, para computar las respuesta de la red neuronal sabiendo de antemano cuáles son los pesos adecuados. El entrenamiento se realiza fuera de la malla en un ordenador tradicional que determina la configuración óptima de los pesos sinápticos. Posteriormente, estos pesos óptimos se escriben en la malla programando mediante voltajes adecuados los valores de las conductancias de los memristores. Ciertamente hay versiones más complejas de estas mallas que son capaces de realizar también el proceso de entrenamiento <a href="#Ref6">[6]</a>, pero en este artículo se ha preferido mostrar mallas especializadas en inferencia ya que estas encierran todas las ideas que se pretendía transmitir.</p>
 
@@ -91,9 +91,15 @@ redirect-from:
 
 ### Referencias
 <a name="Ref1">[1]</a>: Youyou, W., Kosinski, M. and Stillwell, D., 2015. Computer-based personality judgments are more accurate than those made by humans. *Proceedings of the National Academy of Sciences*, 112(4), pp.1036-1040.<br/>
+
 <a name="Ref2">[2]</a>: Strubell, E., Ganesh, A. and McCallum, A., 2019. Energy and Policy Considerations for Deep Learning in NLP. *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*.<br/>
+
 <a name="Ref3">[3]</a>: M. Cho et al. PowerAI DDL. 2017. arXiv: 1708.02188. <br/>
+
 <a name="Ref4">[4]</a>: Grabación disponible en [https://youtu.be/vFr3K2DORc8].<br/>
+
 <a name="Ref5">[5]</a>: Sergio J Salvía Fernández, 2020. Memristores: ¿neuronas para tu ordenador? *Blog del Grupo de Estudiantes RSEF*. [https://estudiantes.rsef.es/blog/2020/10/11/memristores/].<br/>
+
 <a name="Ref6">[6]</a>: Chang, H., Burr, G., Narayanan, P., Lewis, S., Farinha, N., Hosokawa, K., Mackin, C., Tsai, H., Ambrogio, S. and Chen, A., 2019. AI hardware acceleration with analog memory: Microarchitectures for low energy at high speed. *IBM Journal of Research and Development*, 63(6), pp.8:1-8:14..<br/>
+
 <a name="Ref7">[7]</a>: Marinella, M., Agarwal, S., Hsia, A., Richter, I., Jacobs-Gedrim, R., Niroula, J., Plimpton, S., Ipek, E. and James, C., 2018. Multiscale Co-Design Analysis of Energy, Latency, Area, and Accuracy of a ReRAM Analog Neural Training Accelerator. *IEEE Journal on Emerging and Selected Topics in Circuits and Systems*, 8(1), pp.86-101.<br/>
