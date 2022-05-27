@@ -3,7 +3,7 @@ layout: post
 categories: blog Divulgación
 title:  "El lado oscuro de la Inteligencia Artificial"
 date: 2022-05-15 00:01
-author: Víctor Zamora Catro
+author: Víctor Zamora Castro
 redirect-from:
 ---
 
