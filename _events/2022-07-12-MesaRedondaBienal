@@ -2,12 +2,12 @@
 layout: event
 categories: eventos-internacionales
 title: "Mesa redonda: estudiantes de física por España"
-shorttitle: "Mesa redonda"
+shorttitle: "Mesa redonda: estudiantes de física por España"
 startingdate: 2022-07-12
 endingdate:
 place: Murcia
 locandina:
-cover: /img/eventos/2022-Bienal/MesaRedonda.jpeg
+cover: /img/eventos/2022-Bienal/PortadaMesaRedonda.png
 gallery:
 site: /eventos-internacionales/2022/07/12/Networking
 ranking: 
