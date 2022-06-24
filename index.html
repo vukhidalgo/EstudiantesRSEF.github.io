@@ -91,19 +91,18 @@ layout: default
                     </a>
                     <div class="caption left-align">
 		      {% if event.shorttitle %}
-                    	<h4>
-                        {{ event.shorttitle }}
-                      </h4>
+                    	<h4>{{ event.shorttitle }}</h4>
 		      {% else %}
-                    	<h4>
-                        {{ event.title }}
-                      </h4>
+                    	<h4>{{ event.title }}</h4>
 		      {% endif %}
+		      {% if event.hidedataincover == "Yes" %}
+		      {% else %}
                     	<p class="white-text">
-                        {{ event.place }},
-                        <br>
-                        {{ event.startingdate | date: '%b %Y' }}
-                      </p>
+				{{ event.place }},
+                        	<br>
+                        	{{ event.startingdate | date: '%b %Y' }}
+                        </p>
+		      {% endif %}
                     </div>
                   </li>
                   {% assign loopindex = loopindex | plus: 1%}
