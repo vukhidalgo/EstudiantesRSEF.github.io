@@ -1,7 +1,7 @@
 ---
 layout: person
 evento: "Bienal2022"
-nombre: "Juan León"
+nombre: "Pedro Villalba González"
 aff: "University of British Columbia (UBC)"
 img: "/img/junta/pedro-villalba-2.jpg"
 rol: "Moderador"
