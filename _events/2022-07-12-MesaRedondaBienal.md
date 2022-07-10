@@ -38,24 +38,16 @@ comm:
       <img class="materialboxed" width="90%" src="/img/eventos/2022-Bienal/MesaRedonda.jpeg">
     </div>
 
-
-<!-- COMITÉS -->
-      <p style="text-align: justify;">Además, puedes <a href="#ModalComOrgPre22" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2022.</p>
-    </div>
-
 <!-- AUTORES -->
 
     <div class="section">
-      <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
-        <p style="text-align: justify;">
-          Los miembros del Comité Académico de las Preliminares PLANCKS 2022 son:
-        </p>
+	    <h3 id="Autores">¡Conoce a l@s ponentes de la mesa redonda!</h3>
 
        <div class="col s12 m6">
          <div class="row center">
          {% for person in site.persons %}
-         {% if person.evento contains "Prelis2022" %}
-         {% if person.presi contains "YES" %}
+         {% if person.evento contains "Bienal2022" %}
+         {% if person.modera contains "YES" %}
            <ul class="collection waves-effect waves-light" style="width: 40%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
@@ -72,8 +64,8 @@ comm:
 
          <div class="row center">
          {% for person in site.persons %}
-         {% if person.evento contains "Prelis2022" %}
-         {% if person.presi contains "NO" %}
+         {% if person.evento contains "Bienal2022" %}
+         {% if person.modera contains "NO" %}
            <ul class="collection waves-effect waves-light" style="width: 40%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
@@ -89,15 +81,11 @@ comm:
          </div>
        </div>
      </div>
-	
-  </div>
-</div>
-
 
      <!-- Modal PONENTES -->
 
      {% for person in site.persons %}
-     {% if person.evento contains "Prelis2022" %}
+     {% if person.evento contains "Bienal2022" %}
 
      <div id="{{ person.id | remove: "/" }}-modal" class="modal">
        <div class="modal-content">
@@ -140,3 +128,7 @@ comm:
 
      {% endif %}
      {% endfor %}
+     
+  </div>
+</div>
+     
