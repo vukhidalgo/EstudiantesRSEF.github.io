@@ -3,7 +3,7 @@ layout: person
 evento: "Bienal2022"
 nombre: "Laura Pérez Molina"
 aff: "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)"
-img: "/img/events/2022-Bienal/laura.jpg"
+img: "/img/eventos/2022-Bienal/laura.jpg"
 rol: ""
 roldes: "Ponente"
 linkedin: ""
