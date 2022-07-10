@@ -3,7 +3,7 @@ layout: person
 evento: "Bienal2022"
 nombre: "Pablo Sánchez-Palencia"
 aff: "Universidad Politécnica de Madrid (UPM)"
-img: "/img/events/2022-Bienal/pablo.jpg"
+img: "/img/eventos/2022-Bienal/pablo.jpg"
 rol: ""
 roldes: "Ponente"
 linkedin: ""
