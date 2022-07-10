@@ -37,8 +37,7 @@ comm:
     <div class="col s12 m6 l5" style="padding: 20px">
       <img class="materialboxed" width="90%" src="/img/eventos/2022-Bienal/MesaRedonda.jpeg">
     </div>
-  </div>
-</div>
+
 
 <!-- COMITÉS -->
       <p style="text-align: justify;">Además, puedes <a href="#ModalComOrgPre22" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2022.</p>
@@ -90,6 +89,9 @@ comm:
          </div>
        </div>
      </div>
+	
+  </div>
+</div>
 
 
      <!-- Modal PONENTES -->
