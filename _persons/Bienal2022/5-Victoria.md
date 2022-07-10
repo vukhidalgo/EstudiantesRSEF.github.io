@@ -2,7 +2,7 @@
 layout: person
 evento: "Bienal2022"
 nombre: "Victoria Vedia"
-aff: ""
+aff: "Centro canadiense de aceleración de partículas TRIUMF"
 img: "/img/eventos/2022-Bienal/victoria.jpg"
 rol: ""
 roldes: "Ponente"
