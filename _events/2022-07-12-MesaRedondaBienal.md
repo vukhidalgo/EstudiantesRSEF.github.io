@@ -49,7 +49,6 @@ comm:
       <div class="row center">
       {% for person in site.persons %}
       {% if person.evento contains "Bienal2022" %}
-      {% if person.modera contains "YES" %}
         <ul class="collection waves-effect waves-light" style="width: 80%">
           <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
             <li class="collection-item avatar2">
@@ -60,29 +59,29 @@ comm:
           </a>
         </ul>
       {% endif %}
-      {% endif %}
       {% endfor %}    
       </div>
-
+    </div>
+	  
+    <div class="col s12 m6">
       <div class="row center">
       {% for person in site.persons %}
       {% if person.evento contains "Bienal2022" %}
-      {% if person.modera contains "NO" %}
-        <ul class="collection waves-effect waves-light" style="width: 40%">
-          <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+        <ul class="collection waves-effect waves-light">
+          <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
             <li class="collection-item avatar2">
-              <img src="{{ person.img }}" alt="" class="circle">
-              <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
-              <p style="padding-top: 10px">{{ person.rol }}</p>
+              <img src="{{ person.img }}" alt="imagen" class="circle">
+              <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
+              <p>{{ person.rol }}</p>
             </li>
           </a>
         </ul>
       {% endif %}
-      {% endif %}
       {% endfor %}    
       </div>
     </div>
-
+	  
+	  
     <!-- Modal PONENTES -->
 
     {% for person in site.persons %}
