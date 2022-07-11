@@ -2,13 +2,13 @@
 layout: event
 categories: eventos-internacionales
 title: "Mesa redonda: estudiantes de física por España"
-shorttitle: ""
+shorttitle: "Mesa redonda: estudiantes de física por España"
 startingdate: 2022-07-12
 endingdate:
 place: Murcia y online
 hidedataincover: ""
 locandina:
-cover: /img/eventos/2022-Bienal/PortadaMesaRedonda.png
+cover: /img/eventos/2022-Bienal/CoverMesaRedonda.png
 gallery:
 site: /eventos-internacionales/2022/07/12/MesaRedondaBienal
 ranking: 
@@ -32,6 +32,9 @@ comm:
         <p style="text-align: justify;">
           Será el <strong>martes 12 de julio de 15:30h a 17h</strong> y estará moderada por Pedro Villalba González, Vocal del GdeE y de la DFTP.
           Sigue nuestras redes sociales y échale un vistazo a la <a href="https://www.um.es/fisica/bienal-2022/programa.php" target="_blank" id="bienal-web">página web de la Bienal</a> para tener las últimas informaciones sobre los panelistas que nos acompañarán. ¡Te esperamos!
+	</p>
+        <p style="text-align: justify;">
+          Y si eres miembro del GdeE pero no puedes asistir a la Bienal, ya has recibido un enlace de Zoom a tu correo electrónico para que puedas seguir la mesa redonda desde donde quieras.
 	</p>
       </div>
     </div>
