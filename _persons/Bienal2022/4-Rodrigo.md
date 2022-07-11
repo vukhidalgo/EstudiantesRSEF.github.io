@@ -2,7 +2,7 @@
 layout: person
 evento: "Bienal2022"
 nombre: "Rodrigo Martín Hernández"
-aff: "Instituto de Instrumentación para Imagen Molecular (I3M)"
+aff: "Universidad de Salamanca"
 img: "/img/eventos/2022-Bienal/rodrigo.jpg"
 rol: ""
 roldes: "Ponente"
