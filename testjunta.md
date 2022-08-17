@@ -32,7 +32,8 @@ OPCIÓN 1
   <div class="row center">
   {% for miembro in item.miembros %}
     <ul class="collection waves-effect waves-light" style="width: 28%">
-      <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank">
+      <!-- <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
+      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
         <li class="collection-item avatar2">
           <img src="{{ miembro.img }}" alt="imagen" class="circle">
           <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
@@ -227,13 +228,13 @@ Sección en remodelación.
 	    <img data-caption="Logo de Estudiantes RSEF." width="80%" src="{{ site.url }}/img/logos/gdee-rsef.png">
           </div>
         </div>
-        <div class="col s12 m4 l4">        
-          <div class="row center" style="padding-top: 70px;">
+        <div class="col s12 m6 l6">        
+          <div class="row center" style="padding-top: 40px;">
             <h3 class="justify">{{ person.nombre }}</h3>
             <h5 class="justify">{{ person.rol }}</h5>
           </div>
         </div>
-	<div class="col s12 m4 l4">        
+	<div class="col s12 m2 l2">        
           <div class="row center">
             <img src="{{ person.img }}" alt="" class="circle" width="70%">
           </div>
