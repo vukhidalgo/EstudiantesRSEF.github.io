@@ -33,7 +33,7 @@ OPCIÓN 1
   {% for miembro in item.miembros %}
     <ul class="collection waves-effect waves-light" style="width: 28%">
       <!-- <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+      <a href="#{{ miembro.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
         <li class="collection-item avatar2">
           <img src="{{ miembro.img }}" alt="imagen" class="circle">
           <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
@@ -50,7 +50,7 @@ OPCIÓN 1
   {% for miembro in item.miembros %}
     <ul class="collection waves-effect waves-light" style="width: 90%">
       <!-- <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+      <a href="#{{ miembro.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
         <li class="collection-item avatar2">
           <img src="{{ miembro.img }}" alt="imagen" class="circle">
           <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
