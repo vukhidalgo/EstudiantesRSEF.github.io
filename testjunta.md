@@ -30,34 +30,38 @@ OPCIÓN 1
 
 <div class="col s12 m6" id="content-desktop">
   <div class="row center">
-  {% for miembro in item.miembros %}
+    {% for person in site.persons %}
+    {% if person.evento contains "EC3" %}
     <ul class="collection waves-effect waves-light" style="width: 28%">
-      <!-- <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
-      <a href="#{{ miembro.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+      <!-- <a href="{{ person.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
+      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
         <li class="collection-item avatar2">
-          <img src="{{ miembro.img }}" alt="imagen" class="circle">
-          <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
-          <p>{{ miembro.rol }}</p>
+          <img src="{{ person.img }}" alt="imagen" class="circle">
+          <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
+          <p>{{ person.rol }}</p>
         </li>
       </a>
     </ul>
+  {% endif %}
   {% endfor %}
   </div>
 </div>
 
 <div class="col s12 m6" id="content-mobile">
   <div class="row center">
-  {% for miembro in item.miembros %}
+    {% for person in site.persons %}
+    {% if person.evento contains "EC3" %}
     <ul class="collection waves-effect waves-light" style="width: 90%">
-      <!-- <a href="{{ miembro.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
-      <a href="#{{ miembro.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+      <!-- <a href="{{ person.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
+      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
         <li class="collection-item avatar2">
-          <img src="{{ miembro.img }}" alt="imagen" class="circle">
-          <strong><p class="title" style="padding-top: 10px">{{ miembro.nombre }}</p></strong>
-          <p>{{ miembro.rol }}</p>
+          <img src="{{ person.img }}" alt="imagen" class="circle">
+          <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
+          <p>{{ person.rol }}</p>
         </li>
       </a>
     </ul>
+  {% endif %}
   {% endfor %}
   </div>
 </div>
