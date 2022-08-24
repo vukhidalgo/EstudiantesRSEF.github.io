@@ -4,6 +4,7 @@
   dataElecciones: "5 de noviembre de 2021"
   dataInicio: "14 de noviembre de 2021"
   dataFin:
+<!--
   miembros:
     - nombre: "Cristina Balsells Llort"
       img: "/img/junta/cristina-balsells.jpg"
@@ -49,3 +50,4 @@
       img: "/img/junta/alejandro-fernandez.jpg"
       rol: "Vocal Expresidente"
       linkedin: "https://www.linkedin.com/in/alejandrofernandezmunoz/"
+-->
