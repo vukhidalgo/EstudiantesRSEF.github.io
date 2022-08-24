@@ -376,20 +376,15 @@ Sección en remodelación.
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row">
-        <div class="col s12 m4 l4">
+        <div class="col s12 m6 l6">
           <div class="row center">
-	    <img data-caption="Logo de Estudiantes RSEF." width="80%" src="{{ site.url }}/img/logos/gdee-rsef.png">
+	    <img src="{{ person.header }}" width="80%">
           </div>
         </div>
         <div class="col s12 m6 l6">        
           <div class="row center" style="padding-top: 40px;">
             <h3 class="justify">{{ person.nombre }}</h3>
             <h5 class="justify">{{ person.rol }}</h5>
-          </div>
-        </div>
-	<div class="col s12 m2 l2">        
-          <div class="row center">
-            <img src="{{ person.img }}" alt="" class="circle" width="70%">
           </div>
         </div>
       </div>
