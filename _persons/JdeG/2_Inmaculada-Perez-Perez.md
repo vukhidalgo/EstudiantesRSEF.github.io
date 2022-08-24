@@ -4,6 +4,7 @@ categories: junta
 evento: "EC3"
 nombre: "Inmaculada Pérez Pérez"
 img: "/img/junta/inmaculada-perez.jpg"
+header: "/img/junta/headers/header-inma.PNG"
 rol: "Vicepresidenta"
 descr: "Estudiante de Máster en Fotónica en la Friedrich-Schiller-Universität Jena, Alemania, donde se especializa en óptica cuántica. De pequeña decía que quería estudiar las estrellas, pero al final se quedó con la luz. Eso sí, por las noches le sigue gustando mirar al cielo."
 
