@@ -25,71 +25,6 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 {% for item in site.data.EC3 %}
 
-OPCIÓN 1
-
-<div class="col s12 m6" id="content-desktop">
-  <div class="row center">
-    {% for person in site.persons %}
-    {% if person.evento contains "EC3" %}
-    <ul class="collection waves-effect waves-light" style="width: 28%">
-      <!-- <a href="{{ person.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-        <li class="collection-item avatar2">
-          <img src="{{ person.img }}" alt="imagen" class="circle">
-          <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
-          <p>{{ person.rol }}</p>
-        </li>
-      </a>
-    </ul>
-  {% endif %}
-  {% endfor %}
-  </div>
-</div>
-
-<div class="col s12 m6" id="content-mobile">
-  <div class="row center">
-    {% for person in site.persons %}
-    {% if person.evento contains "EC3" %}
-    <ul class="collection waves-effect waves-light" style="width: 90%">
-      <!-- <a href="{{ person.linkedin }}" class="collection-item waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px" target="_blank"> -->
-      <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-        <li class="collection-item avatar2">
-          <img src="{{ person.img }}" alt="imagen" class="circle">
-          <strong><p class="title" style="padding-top: 10px">{{ person.nombre }}</p></strong>
-          <p>{{ person.rol }}</p>
-        </li>
-      </a>
-    </ul>
-  {% endif %}
-  {% endfor %}
-  </div>
-</div>
-
-{% endfor %}
-
-OPCIÓN 2
-
-<!-- JUNTA -->
-<div class="section">
-  <div class="col s12 m6">
-    <div class="row center">
-    {% for person in site.persons %}
-    {% if person.evento contains "EC3" %}
-      <ul class="collection waves-effect waves-light" style="width: 33%">
-        <a href="#{{ person.id | remove: "/" }}-modal2" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-          <li class="collection-item avatar4">
-            <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
-            <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
-            <p class="rol" style="padding-left: 120px">{{ person.rol }}</p>
-          </li>
-        </a>
-      </ul>
-    {% endif %}
-    {% endfor %}    
-    </div>
-  </div>
-</div>
-
 OPCIÓN 3
 
 <div class="section" id="content-desktop">
@@ -102,7 +37,7 @@ OPCIÓN 3
           <li class="collection-item avatar4">
             <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
             <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
-            <p class="rol" style="padding-left: 120px">{{ person.rol }}</p>
+            <p class="rol" style="padding-left: 120px; padding-bottom: 1000px">{{ person.rol }}</p>
           </li>
         </a>
       </ul>
