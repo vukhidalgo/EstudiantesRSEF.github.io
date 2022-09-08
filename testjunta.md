@@ -67,7 +67,7 @@ OPCIÓN 3
   </div>
 </div>
 
-
+{% endfor %}
 
 ## Juntas de Gobierno Anteriores
 
