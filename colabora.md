@@ -21,7 +21,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	        <li><b>Tareas que llevar a cabo:</b> Idear y realizar, con el apoyo del Comité, charlas, visitas u otras actividades en la facultad de Física de tu universidad. Publicitar y dar difusión a los eventos del Grupo de Estudiantes entre las distintas clases de tu facultad.</li><br>
 	        <li><b>Habilidades / Conocimientos necesarios:</b> No se requiere ninguna habilidad en particular, pero se valorará la originalidad, saber diseñar carteles/folletos y tener buenas aptitudes sociales y comunicativas (extroversión, amabilidad, empatía, capacidad para moderar conversaciones). El objetivo de esta colaboración es aprender, así que lo más importante es tener motivación y proactividad.</li><br>
 	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 4 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del semestre y parones garantizados en todos los períodos de examen (parciales y finales).</li><br>
-	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li>
+	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2023).</li>
 	      </ul>
               <div class="row">
                 <div style="text-align:right; padding-right: 30px; padding-top: 5px">
@@ -38,7 +38,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	        <li><b>Tareas que llevar a cabo:</b> Redacción de noticias y posts para el Blog del Grupo sobre convocatorias de becas, eventos, efemérides científicas, etc.</li><br>
 	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes comunicativas (amabilidad, empatía) y de expresión escrita (coherencia, cohesión y adecuación del texto; capacidad de síntesis). Creatividad. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li><br>
 	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li><br>
-	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2022).</li><br>
+	        <li><b>Duración de la colaboración:</b> Un semestre académico (hasta el 1 de febrero de 2023).</li><br>
 	        <li><i>Este cargo colaborará estrechamente con la Community Manager del Grupo.</i></li>
 	      </ul>
               <div class="row">
@@ -56,7 +56,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 	        <li><b>Tareas que llevar a cabo:</b> Diseñar carteles, folletos u otro material gráfico para la promoción del Grupo de Estudiantes en redes sociales, la página web y a través del correo. Colaborar en la elaboración de la Newsletter mensual. Aportar nuevas ideas para mejorar la imagen del GdeE.</li><br>
 	        <li><b>Habilidades / Conocimientos necesarios:</b> Buenas dotes artísticas, originalidad y creatividad; capacidad de expresar de forma visual los objetivos que tiene el evento/actividad en cuestión. Capacidad de trabajo en equipo y proactividad. Capacidad de autocrítica constructiva.</li><br>
 	        <li><b>Horas de trabajo / semana (estimación):</b> 2 - 6 horas. Horario totalmente flexible, con picos y valles de trabajo a lo largo del curso y parones garantizados en todos los períodos de examen (parciales y finales).</li><br>
-	        <li><b>Duración de la colaboración:</b> Un curso académico (hasta el 1 de julio de 2022).</li>
+	        <li><b>Duración de la colaboración:</b> Un curso académico (hasta el 1 de julio de 2023).</li>
 	      </ul>
               <div class="row">
                 <div style="text-align:right; padding-right: 30px; padding-top: 5px">
