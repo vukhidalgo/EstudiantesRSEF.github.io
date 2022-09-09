@@ -37,7 +37,7 @@ OPCIÓN 3
           <li class="collection-item avatar4">
             <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
             <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
-            <p class="rol" style="padding-left: 120px; padding-bottom: 50px">{{ person.rol }}</p>
+            <p class="rol" style="padding-left: 120px; padding-bottom: 25px">{{ person.rol }}</p>
           </li>
         </a>
       </ul>
