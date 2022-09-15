@@ -5,7 +5,7 @@
   dataInicio: "14 de noviembre de 2021"
   dataFin:
   nmiembros: "11"
-- miembros:
+  miembros:
     - nombre: "Cristina Balsells Llort"
       img: "/img/junta/cristina-balsells.jpg"
       rol: "Presidenta"
