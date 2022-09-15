@@ -13,7 +13,7 @@ permalink: /testjunta/
     <img data-caption="Logo de Estudiantes RSEF." width="100%" src="{{ site.url }}/img/logos/gdee-rsef.png">
   </div>
     <div class="col s12 m6 offset-m1">
-      <p>La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes de la RSEF, y está actualmente compuesta por {{ item.miembros }} miembros.</p>
+      <p>La Junta de Gobierno es el órgano administrativo y ejecutivo del Grupo de Estudiantes de la RSEF, y está actualmente compuesta por {{ item.nmiembros }} miembros.</p>
     </div>
 </div>
 
