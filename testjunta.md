@@ -32,7 +32,7 @@ OPCIÓN 3
     <div class="row center">
     {% for person in site.persons %}
     {% if person.evento contains "EC3" %}
-      <ul class="collection waves-effect waves-light" style="width: 33%">
+      <ul class="collection waves-effect waves-light" style="width: 300px">
         <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar5">
             <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
