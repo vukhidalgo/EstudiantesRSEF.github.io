@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Preliminares PLANCKS
 permalink: /PreliminaresPLANCKS/
 ---
