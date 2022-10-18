@@ -5,7 +5,6 @@ permalink: /PreliminaresPLANCKS/
 ---
 
 <div class="container">
-  <div class="section">
 
 
 <!-- INTRODUCCIÓN -->
