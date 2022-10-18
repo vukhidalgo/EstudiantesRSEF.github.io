@@ -9,22 +9,18 @@ permalink: /PreliminaresPLANCKS/
 
 <!-- INTRODUCCIÓN -->
     <p style="text-align: justify;">
-    ¿Te gustan los retos y te apasiona la física? ¿Quieres aspirar a representar a nuestro país en un concursoo internacional con estudiantes de física de todo el mundo?
+    ¿Te gustan los retos y te apasiona la física? ¿Quieres aspirar a representar a nuestro país en un concurso internacional con estudiantes de física de todo el mundo?
     El Grupo de Estudiantes de la RSEF lleva ya cinco años organizando las <strong>Preliminares de PLANCKS</strong> en España. Para participar sólo hace falta reunir un grupo de motivados como tú para pasar una tarde resolviendo problemas de física.
     Si ves que falta poco para la próxima edición de las Preliminares, entra a ver qué se cuece. Mientras, puedes explorar las últimas ediciones del concurso.
     Y si quieres conocer más sobre PLANCKS, consulta <a href="https://www.iaps.info/events/plancks/what-is-plancks/" target="_blank">esta página</a> de la International Association of Physics Students (IAPS). ¡Bienvenid@!</p>
 
-    <h4 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2023.</p></h4>
-    <h5 style="text-align: center;"><p style="text-align:center">Más información en enero de 2023.</p></h5>
-    
-    
-  <div class="section">
+    <h5 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2023.</p></h5>
+    <h4 style="text-align: center;"><p style="text-align:center">Más información en enero de 2023.</p></h4>
 
 <!-- EDICIONES ANTERIORES -->
   <div class="section" id="ediciones-anteriores">
     <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
     <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
-  </div>
 
   {% assign loopindex = 0 %}
   {% for event in site.events reversed %}
