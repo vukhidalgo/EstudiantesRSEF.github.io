@@ -4,9 +4,8 @@ title: Preliminares PLANCKS
 permalink: /PreliminaresPLANCKS/
 ---
 
-<div class="container">
-  <div class="section">
 
+<div class="section">
 
 <!-- INTRODUCCIÓN -->
     <p style="text-align: justify;">
@@ -16,8 +15,6 @@ permalink: /PreliminaresPLANCKS/
     Y si quieres conocer más sobre PLANCKS, consulta <a href="https://www.iaps.info/events/plancks/what-is-plancks/" target="_blank">esta página</a> de la International Association of Physics Students (IAPS). ¡Bienvenid@!</p>
 
 
-
-<!-- MAP -->
   <div class="section">
 
 <!-- EDICIONES ANTERIORES -->
@@ -59,8 +56,6 @@ permalink: /PreliminaresPLANCKS/
   {% if loopindex == 1 %}
     </div>
   {% endif %}
-
-</div>
 
 
 
