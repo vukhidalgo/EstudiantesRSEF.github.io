@@ -14,7 +14,10 @@ permalink: /PreliminaresPLANCKS/
     Si ves que falta poco para la próxima edición de las Preliminares, entra a ver qué se cuece. Mientras, puedes explorar las últimas ediciones del concurso.
     Y si quieres conocer más sobre PLANCKS, consulta <a href="https://www.iaps.info/events/plancks/what-is-plancks/" target="_blank">esta página</a> de la International Association of Physics Students (IAPS). ¡Bienvenid@!</p>
 
-
+    <h4 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2023.</p></h4>
+    <h5 style="text-align: center;"><p style="text-align:center">Más información en enero de 2023.</p></h5>
+    
+    
   <div class="section">
 
 <!-- EDICIONES ANTERIORES -->
