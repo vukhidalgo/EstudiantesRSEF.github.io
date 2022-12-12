@@ -23,7 +23,7 @@ permalink: /FisicaYAhoraQue/
 
     {% assign loopindex = 0 %}
     {% for event in site.events reversed %}
-    {% if event.title contains "Física, ¿y ahora qué?"%}
+    {% if event.title contains "y ahora qu"%}
     {% assign rowfinder = loopindex | modulo:2 %}
     {% if rowfinder == 0 %}
       <div class="row">
