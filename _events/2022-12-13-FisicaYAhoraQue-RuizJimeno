@@ -1,14 +1,14 @@
 ---
 layout: event
 categories: eventos-internacionales
-title: "Física, ¿y ahora qué?: charla de Alberto Ruiz Jimeno, físico de partículas"
-shorttitle: "Física, ¿y ahora qué? - Física de Partículas"
+title: "Física, ¿Y ahora qué?: charla de Alberto Ruiz Jimeno, físico de partículas"
+shorttitle: "Física, ¿Y ahora qué? - Física de Partículas"
 startingdate: 2022-12-13
 endingdate:
 place: Online
-hidedataincover: ""
+hidedataincover: "Yes"
 locandina:
-cover: "/img/logo.jpg"
+cover: "/img/eventos/2022-YAhoraQue/20221213_Portada.png"
 gallery:
 site:
 ranking: 
@@ -35,7 +35,7 @@ comm:
       </div>
     </div>
     <div class="col s12 m6 l5" style="padding: 20px">
-      <img class="materialboxed" width="90%" src="/img/logo.jpg">
+      <img class="materialboxed" width="90%" src="/img/eventos/2022-YAhoraQue/20221213_Redes.png">
     </div>
 	 
   </div>
