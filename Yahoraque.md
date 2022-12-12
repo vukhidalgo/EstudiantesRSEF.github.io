@@ -17,13 +17,13 @@ permalink: /FisicaYAhoraQue/
     
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
-      <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
+      <h3 id="Próximas charlas">Próximas charlas</h3>
       <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
     </div>
 
     {% assign loopindex = 0 %}
     {% for event in site.events reversed %}
-    {% if event.title contains "y ahora qu"%}
+    {% if event.date >= site.time and event.title contains "y ahora qu"%}
     {% assign rowfinder = loopindex | modulo:2 %}
     {% if rowfinder == 0 %}
       <div class="row">
@@ -51,8 +51,13 @@ permalink: /FisicaYAhoraQue/
     {% assign loopindex = loopindex | plus: 1 %}
     {% endif %}
     {% endfor %}
-    {% if loopindex == 1 %}
+    {% if rowfinder == 0 %}
       </div>
+    {% endif %}
+    {% if loopindex == 0 %}
+    <ul class="collection">
+        <li class="collection-item"> No hay eventos programados. Stay tuned! </li>
+    </ul>
     {% endif %}
       
       
