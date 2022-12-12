@@ -50,7 +50,6 @@ permalink: /FisicaYAhoraQue/
     {% endif %}
     {% assign loopindex = loopindex | plus: 1 %}
     {% endif %}
-    {% endif %}
     {% endfor %}
     {% if loopindex == 1 %}
       </div>
