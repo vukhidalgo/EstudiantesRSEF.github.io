@@ -22,8 +22,8 @@ permalink: /FisicaYAhoraQue/
     </div>
 
     {% assign loopindex = 0 %}
-    {% for event in site.events.reversed %}
-    <!-- {% if event.yahoraque contains "Yes" %} -->
+    {% for event in site.events reversed %}
+    {% if event.yahoraque contains "Yes" %}
     {% assign rowfinder = loopindex | modulo:2 %}
     {% if rowfinder == 0 %}
     <div class="row">
@@ -47,7 +47,7 @@ permalink: /FisicaYAhoraQue/
     </div>
     {% endif %}
     {% assign loopindex = loopindex | plus: 1 %}
-    <!-- {% endif %} -->
+    {% endif %}
     {% endfor %}
     {% if rowfinder == 0 %}
     </div>
