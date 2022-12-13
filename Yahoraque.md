@@ -23,7 +23,7 @@ permalink: /FisicaYAhoraQue/
 
     {% assign loopindex = 0 %}
     {% for event in site.events.reversed %}
-    {% if event.categories contains "charlas-y-ahora-que" %}
+    {% if event.yahoraque contains "Yes" %}
     {% assign rowfinder = loopindex | modulo:2 %}
     {% if rowfinder == 0 %}
     <div class="row">
