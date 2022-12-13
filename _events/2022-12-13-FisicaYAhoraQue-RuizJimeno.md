@@ -1,6 +1,7 @@
 ---
 layout: event
-categories: eventos-internacionales charlas-y-ahora-que
+categories: eventos-internacionales
+yahoraque: "Yes"
 title: "Física, ¿Y ahora qué?: charla de Alberto Ruiz Jimeno, físico de partículas"
 shorttitle: ""
 startingdate: 2022-12-13
@@ -10,7 +11,7 @@ hidedataincover: "Yes"
 locandina:
 cover: "/img/eventos/2022-YAhoraQue/20221213_Portada.png"
 gallery:
-site:
+site: https://estudiantes.rsef.es/FisicaYAhoraQue/
 ranking: 
 exam:
 comm:
