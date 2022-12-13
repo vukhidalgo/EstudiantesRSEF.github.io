@@ -11,7 +11,7 @@ hidedataincover: "Yes"
 locandina:
 cover: "/img/eventos/2022-YAhoraQue/20221121_Portada.png"
 gallery:
-site:
+site: https://estudiantes.rsef.es/FisicaYAhoraQue/
 ranking: 
 exam:
 comm:
