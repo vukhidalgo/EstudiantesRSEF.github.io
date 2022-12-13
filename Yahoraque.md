@@ -9,21 +9,21 @@ permalink: /FisicaYAhoraQue/
     <div class="section">
 
 <!-- HEADER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2022-Gastrofisica/banner-gastrofisica.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2022-YAhoraQue/baner.png">
 
 <!-- INTRODUCCIÓN -->
       <p style="text-align: justify;">Empezamos este nuevo curso con el ciclo de charlas <strong>"Física... ¿y ahora qué?"</strong>
-        En estas charlas en colaboración con el <a href="https://www.cofis.es" id="cofis" target="_blank">Colegio Oficial de Físicos</a> contaremos con diversos invitados que nos contarán más sobre la diversidad de salidas de la Física, desde la empresa hasta la investigación científica. </p>
+        En estas charlas en colaboración con el <a href="https://www.cofis.es" id="cofis" target="_blank">Colegio Oficial de Físicos</a> contaremos con diversos invitados que nos contarán más sobre la diversidad de salidas profesionales de la Física, desde la empresa hasta la investigación científica. </p>
     
 <!-- CHARLAS -->
-    <div class="section" id="proximas-charlas">
-      <h3>Próximas charlas</h3>
-      <p style="text-align: justify;">En esta sección encontrarás toda la información actualizada sobre las siguientes charlas.</p>
+    <div class="section" id="charlas">
+      <h3>Todas las charlas</h3>
+      <p style="text-align: justify;">En esta sección encontrarás toda la información actualizada sobre las charlas pasadas y futuras.</p>
     </div>
 
     {% assign loopindex = 0 %}
-    {% for event in site.events %}
-    {% if event.date >= site.time and event.categories contains "eventos-internacionales" %}
+    {% for event in site.events.reversed %}
+    {% if event.title contains "ahora qu" %}
     {% assign rowfinder = loopindex | modulo:2 %}
     {% if rowfinder == 0 %}
     <div class="row">
@@ -57,7 +57,7 @@ permalink: /FisicaYAhoraQue/
         <li class="collection-item"> No hay eventos programados. Stay tuned! </li>
     </ul>
     {% endif %}
-
+<!--
     <div class="section" id="anteriores-charlas">
       <h3>Anteriores charlas</h3>
       <p style="text-align: justify;">En esta sección guardamos todo lo relativo a las charlas que ya se han celebrado. Consulta los grandes ponentes que hemos tenido hasta la fecha.</p>
@@ -94,6 +94,6 @@ permalink: /FisicaYAhoraQue/
     {% if rowfinder == 0 %}
     </div>
     {% endif %}
-      
+-->      
   </div>
 </div>
