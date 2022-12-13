@@ -1,6 +1,7 @@
 ---
 layout: event
 categories: eventos-internacionales
+yahoraque: "Yes"
 title: "Física, ¿Y ahora qué?: charla de Luis Paniagua, data scientist"
 shorttitle: ""
 startingdate: 2022-11-21
