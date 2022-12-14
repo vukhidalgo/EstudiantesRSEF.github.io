@@ -23,3 +23,16 @@
   ex:
   logo: "/img/delegaciones/DUNIOVI/logoDUNIOVI_hor.png"
   congelado:
+
+- nombre: "Granada - UGR"
+  img: "/img/delegaciones/DUGR/DUGR_junta.jpg"
+  mail: "estudiantesrsef.ugr@ugr.es"
+  presidente: Víctor Palma Cortés
+  fundacion: "11/2022"
+  ins: "https://www.instagram.com/estudiantesrsef.ugr/"
+  tw: "https://twitter.com/estuRSEF_UGR"
+  fb:
+  reglamento:
+  ex:
+  logo: "/img/delegaciones/DUGR/DUGR_logo.jpeg"
+  congelado:
