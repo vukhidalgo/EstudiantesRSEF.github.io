@@ -40,6 +40,9 @@ permalink: /FisicaYAhoraQue/
           <div class="card-action">
             <a href="{{ event.site }}">Sitio</a>
             <a href="{{ event.url }}">Info</a>
+            {% if event.video contains "www" %}
+              <a href="{{ event.video }}">Grabación</a>
+            {% endif %}
           </div>
         </div>
       </div>
