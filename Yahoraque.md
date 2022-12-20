@@ -41,7 +41,7 @@ permalink: /FisicaYAhoraQue/
             <a href="{{ event.site }}">Sitio</a>
             <a href="{{ event.url }}">Info</a>
             {% if event.video contains "www" %}
-              <a href="{{ event.video }}">Grabación</a>
+              <a href="{{ event.video }}" target="_blank">Grabación</a>
             {% endif %}
           </div>
         </div>
