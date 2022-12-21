@@ -43,6 +43,9 @@ permalink: /FisicaYAhoraQue/
             {% if event.video contains "www" %}
               <a href="{{ event.video }}" target="_blank">Grabación</a>
             {% endif %}
+            {% if event.slides contains "drive" %}
+              <a href="{{ event.slides }}" target="_blank">Diapositivas</a>
+            {% endif %}
           </div>
         </div>
       </div>
