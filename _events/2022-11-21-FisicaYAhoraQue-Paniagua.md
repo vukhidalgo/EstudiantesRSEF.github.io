@@ -15,6 +15,7 @@ site: https://estudiantes.rsef.es/FisicaYAhoraQue/
 ranking: 
 exam:
 comm:
+slides: https://drive.google.com/file/d/1Auo57f9PwoOfpTUku75di7CpUmCFSdIf/view?usp=sharing
 ---
 
 <div class="section">
