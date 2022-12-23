@@ -130,9 +130,9 @@ Sección en remodelación.
           </div>
           <!-- Distinciones -->
           <div class="col s4">
-            {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" style="width:10%;" title="Reconocido/a con la Insignia del Grupo de Estudiantes de la RSEF">{% endif %}
-            {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" style="width:10%;" title="Galardonado/a con la Mención al Colaborador Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
-            {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:10%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
+            {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" style="width:15%;" title="Reconocido/a con la Insignia del Grupo de Estudiantes de la RSEF">{% endif %}
+            {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" style="width:15%;" title="Galardonado/a con la Mención al Colaborador Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
+            {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:15%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
           <div class="col s6">
