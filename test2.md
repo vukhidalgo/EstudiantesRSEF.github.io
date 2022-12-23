@@ -138,7 +138,7 @@ Sección en remodelación.
             </div>
           </div>
           <!-- Última actualización del perfil -->
-          <div class="col s12 m4 l4" style="justify-content: end; align-content:center;">
+          <div class="col s12 m4 l4" style="justify-content: end; vertical-align: baseline;">
             <p style="color: grey; text-align: right;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
