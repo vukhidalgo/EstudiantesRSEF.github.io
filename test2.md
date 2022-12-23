@@ -100,6 +100,7 @@ Sección en remodelación.
     <div style="padding-left: 30px; padding-right: 30px;">
 
     <!-- HEADER -->
+      <!-- Versión móvil -->
       <div id="phone-header">
         <div class="row">
           <div class="col s12 m6 l6">
@@ -116,9 +117,27 @@ Sección en remodelación.
         </div>
       </div>
 
+      <!-- Versión escritorio -->
       <div id="desktop-header">
         <div class="row" >
           <img src="{{ person.bigheader }}">
+        </div>
+        <hr>
+        <div class="row" >
+          <!-- LinkedIn -->
+          <div class="col s12 m6 l6">
+            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-lg fa-linkedin" aria-hidden="true"></i></a>
+          </div>
+          <!-- Distinciones -->
+          <div class="col s12 m6 l6">
+            {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" width="10%">{% endif %}
+            {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" width="10%">{% endif %}
+            {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" width="10%">{% endif %}
+          </div>
+          <!-- Última actualización del perfil -->
+          <div class="col s12 m6 l6">
+            <p style:"color: grey;">Last update: <em>{{ person.lastupdate | date: '%d %b %Y' }}</em></p>
+          </div>
         </div>
       </div>
 
