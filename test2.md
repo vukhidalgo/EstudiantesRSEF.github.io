@@ -6,10 +6,11 @@ permalink: /test2/
 
 <head>
 <style>
-.phone {}
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-  .phone {}
+@media screen and (min-width: 0px) and (max-width: 600px) {
+  #phone-header { display: block; }  /* show it on small screens */
+}
+@media screen and (min-width: 601px) {
+  #phone-header { display: none; }   /* hide it elsewhere */
 }
 </style>
 </head>
@@ -88,7 +89,7 @@ Sección en remodelación.
 <div id="{{ person.id | remove: "/" }}-modal3" class="modal">
   <div class="modal-content">
 
-    <div class="phone" style="padding-left: 30px; padding-right: 30px;">
+    <div id="phone-header" style="padding-left: 30px; padding-right: 30px;">
       <div class="row">
         <div class="col s12 m6 l6">
           <div class="row center">
