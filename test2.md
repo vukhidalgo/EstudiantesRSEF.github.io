@@ -227,7 +227,7 @@ Sección en remodelación.
         <h5 class="justify">Trayectoria en el GdeE-RSEF</h5>
       </div>
 
-      <p><strong>Cofundador y primer Presidente (oct. 2018 - oct. 2021)
+      <p><strong>Cofundador y primer Presidente (oct. 2018 - oct. 2021)</strong></p>
       <ul class="list-ic vertical">
       	<li>
       		<span>•</span>
