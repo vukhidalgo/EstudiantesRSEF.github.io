@@ -112,6 +112,7 @@ Sección en remodelación.
             <div class="row center" style="display: grid; justify-content: center; align-content: center">
               <h3 class="justify">{{ person.nombre }}</h3>
               <h5 class="justify">{{ person.rol }}</h5>
+              <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a>
             </div>
           </div>
         </div>
@@ -157,7 +158,7 @@ Sección en remodelación.
       <!-- Responsabilidades -->
 
       <div class="row">
-        <h5 class="justify">Trayectoria en el GdeE</h5>
+        <h5 class="justify">Trayectoria en el GdeE-RSEF</h5>
       </div>
 
       <!-- Artículos -->
