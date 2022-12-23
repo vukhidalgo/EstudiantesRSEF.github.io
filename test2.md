@@ -126,17 +126,17 @@ Sección en remodelación.
         <div class="row" >
           <!-- LinkedIn -->
           <div class="col s12 m6 l6">
-            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-lg fa-linkedin" aria-hidden="true"></i></a>
+            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-lg fa-linkedin-square" aria-hidden="true"></i></a>
           </div>
           <!-- Distinciones -->
           <div class="col s12 m6 l6">
-            {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" width="10%">{% endif %}
-            {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" width="10%">{% endif %}
-            {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" width="10%">{% endif %}
+            {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" style="width:10%;">{% endif %}
+            {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" style="width:10%;">{% endif %}
+            {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:10%;">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
           <div class="col s12 m6 l6">
-            <p style:"color: grey;">Last update: <em>{{ person.lastupdate | date: '%d %b %Y' }}</em></p>
+            <p style="color: grey;">Last update: <em>{{ person.lastupdate | date: '%d %b %Y' }}</em></p>
           </div>
         </div>
       </div>
