@@ -8,9 +8,9 @@ header: "/img/junta/headers/header-alex.PNG"
 bigheader: "/img/junta/headers/bigheader-alex.png"
 rol: "Vocal expresidente"
 descr: ""
-insignia:
+insignia: "YES"
 mencion: "YES"
-medalla:
+medalla: "YES"
 lastupdate: 2022-12-23
 
 part1: "Expresidente y fundador del GdeE (04/2018 - 11/2021)"
