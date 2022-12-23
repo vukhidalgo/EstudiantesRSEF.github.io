@@ -125,7 +125,7 @@ Sección en remodelación.
         <hr>
         <div class="row" >
           <!-- LinkedIn -->
-          <div class="col s2">
+          <div class="col s4">
             <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-3x fa-linkedin-square" aria-hidden="true"></i></a>
           </div>
           <!-- Distinciones -->
@@ -135,7 +135,7 @@ Sección en remodelación.
             {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:15%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
-          <div class="col s6">
+          <div class="col s4">
             <p style="color: grey;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
