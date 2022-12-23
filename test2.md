@@ -21,72 +21,43 @@ permalink: /test2/
   #desktop-header { display: block; }   /* show it elsewhere */
 }
 
-.list-ic a {
-  color: #788288;
-  text-decoration: none;
+/* No normal bullets please */
+ul {
+  list-style-type: none;
 }
-.list-ic li {
+
+li {
+  /* You need to turn on relative positioning so the line is placed relative to the item rather than absolutely on the page */
   position: relative;
+
+  /* Use padding to space things out rather than margins as the line would get broken up otherwise */
+  margin: 0;
+  padding-bottom: 1em;
+  padding-left: 20px;
 }
-.list-ic li span {
-  display: inline-block;
-  font-weight: 800;
-  width: 1em;
-  height: 1em;
-  text-align: center;
-  line-height: 1em;
-  border-radius: 1em;
-  background: #B2B2B2;
-  color: white;
-  position: relative;
-}
-.list-ic li::before {
+
+/* The actual line being placed before each list item, tweak width and color as appropriate */
+li:before {
+  background-color: #c00;
+  width: 2px;
   content: '';
   position: absolute;
-  background: #B2B2B2;
-  z-index: -1;
+  top: 0px;
+  bottom: 0px;
+  left: 5px;
 }
-.list-ic.horizontal li {
-  display: inline-block;
-}
-.list-ic.horizontal li span {
-  margin: 0 1em;
-}
-.list-ic.horizontal li::before {
-  top: 0.9em;
-  left: -25px;
-  width: 4em;
-  height: 0.2em;
-}
-.list-ic.vertical {
-  padding: 0;
-  margin: 0;
-}
-.list-ic.vertical li {
-  list-style-type: none;
-  text-align: left;
-}
-.list-ic.vertical li span {
-  margin: 1em 0;
-}
-.list-ic.vertical li::before {
-  top: -35px;
-  left: 6.5px;
-  width: 0.2em;
-  height: 4em;
-}
-.list-ic li:first-child::before {
-  display: none;
-}
-.list-ic .active {
-  background: dodgerblue;
-}
-.list-ic .active ~ li {
-  background: lightblue;
-}
-.list-ic .active ~ li::before {
-  background: lightblue;
-}
+
+/* Start the line further down on the first list item */
+li:first-child:before { top: 15px;  }
+
+/* Stop the line short on the final list item */
+li:last-child:before { height: 6px; }
+
+/* Styles for the SVG bullet points */
+.bullet { margin-left: -20px; width: 12px; fill: #c00; float: left; padding-right: 10px }
+.bullet.big { width: 16px; margin-left: -22px; padding-right: 8px }
+
+a { color: #06e; }
 
 </style>
 </head>
@@ -228,24 +199,38 @@ Sección en remodelación.
       </div>
 
       <p><strong>Cofundador y primer Presidente (oct. 2018 - oct. 2021)</strong></p>
-      <ul class="list-ic vertical">
-      	<li>
-      		<span>•</span>
-      		Vicepresidente y Responsable de IT - Jornadas de Verano 2021
-      	</li>
-      	<li>
-      		<span>·</span>
-      		<a href="#">Fill in your contact details.</a>
-      	</li>
-      	<li>
-      		<span>·</span>
-      		<a href="#">Voilá! You've got a job.</a>
-      	</li>
-        <li>
-      		<span>·</span>
-      		<a href="#">Voilá! You've got a job.</a>
-      	</li>
-      </ul>
+      <ul>
+          <li>
+            <div class="bullet big">
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><path d="M16 4c6.6 0 12 5.4 12 12s-5.4 12-12 12S4 22.6 4 16 9.4 4 16 4zm0-4C7.2 0 0 7.2 0 16s7.2 16 16 16 16-7.2 16-16S24.8 0 16 0z"></path><circle cx="16" cy="16" r="6"></circle></svg>
+            </div>
+            So, the line to the left..
+          </li>
+          <li>
+            <div class="bullet">
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+            </div>
+            is created using a <code>:before</code> pseudo-element on each <code>&lt;li&gt;</code>..
+          </li>
+          <li>
+            <div class="bullet">
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+            </div>
+            with no content, 2 pixels wide, red background color, and..
+          </li>
+          <li>
+            <div class="bullet">
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+            </div>
+            positioned absolutely relative to the list item.
+          </li>
+          <li>
+            <div class="bullet">
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+            </div>
+            The bullets are rendered using SVG which I tweaked from the BBC but are essentially just drawing circles.
+          </li>    
+        </ul>
 
       <!-- Artículos -->
 
