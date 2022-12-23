@@ -77,10 +77,11 @@ Sección en remodelación.
 <div id="{{ person.id | remove: "/" }}-modal3" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
+    @media (max-width: $small-screen){
       <div class="row">
         <div class="col s12 m6 l6">
           <div class="row center">
-	    <img src="{{ person.header }}" width="80%">
+	        <img src="{{ person.header }}" width="80%">
           </div>
         </div>
         <div class="col s12 m6 l6">        
@@ -90,7 +91,10 @@ Sección en remodelación.
           </div>
         </div>
       </div>
-
+    }
+    <div class="row">
+      <img src="{{ person.bigheader }}">
+    </div>
       <!-- Biografía -->
 
       <div class="row">
@@ -101,7 +105,7 @@ Sección en remodelación.
           </p>
         {% endif %}
       </div>
-      
+
       <!-- Responsabilidades -->
 
       <div class="row">
@@ -137,9 +141,9 @@ Sección en remodelación.
           {% endif %}
         </list>
       </div>
-      
+
       <!-- Artículos -->
-      
+
       {% if person.arti1 %}
         <div class="row">
           <h5 class="justify">Artículos del blog</h5>
@@ -180,7 +184,7 @@ Sección en remodelación.
 
      </div>
    </div>
-  
+
    <div class="modal-footer">
      <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
    </div>
@@ -188,14 +192,14 @@ Sección en remodelación.
 
  {% endif %}
  {% endfor %}       
-	
-	
-	
-	
+
+
+
+
 
 <p>CODIGO ANTIGUO</p>
-	
-	
+
+
 <!-- Modal Trigger -->
 <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
 </div>
