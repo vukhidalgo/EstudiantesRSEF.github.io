@@ -133,6 +133,7 @@ Sección en remodelación.
             {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" style="width:20%;" title="Reconocido/a con la Insignia del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" style="width:20%;" title="Galardonado/a con la Mención al Colaborador Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:20%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
+            {% if person.pnj22 != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:40%;" title="Premiado con la Mención Honorífica en Ciencia y Tecnología en los Premios Nacionales de Juventud 2022">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
           <div class="col s4" style="justify-content: end; align-content:center;">
