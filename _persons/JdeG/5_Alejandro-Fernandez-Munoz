@@ -8,9 +8,9 @@ header: "/img/junta/headers/header-alex.PNG"
 bigheader: "/img/junta/headers/bigheader-alex.png"
 rol: "Vocal expresidente"
 descr: ""
-insignia: "YES"
-mencion: "YES"
-medalla: "YES"
+insignia:
+mencion:
+medalla: 
 pnj22: "YES"
 lastupdate: 2022-12-23
 

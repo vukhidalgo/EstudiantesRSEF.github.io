@@ -156,36 +156,59 @@ Sección en remodelación.
 
       <div class="row">
         <h5 class="justify">¿Qué ha hecho en el GdeE?</h5>
-        <list class="a">
-          {% if person.part1 %}
-            {% if person.link1 %}
-              <li><a href="{{ person.link1 }}" target="_blank">{{ person.part1 }}</a></li>
-            {% else %}
-            <li>{{ person.part1 }}</li>
-            {% endif %}
-          {% endif %}
-          {% if person.part2 %}
-            {% if person.link2 %}
-              <li><a href="{{ person.link2 }}" target="_blank">{{ person.part2 }}</a></li>
-            {% else %}
-            <li>{{ person.part2 }}</li>
-            {% endif %}
-          {% endif %}
-          {% if person.part3 %}
-            {% if person.link3 %}
-              <li><a href="{{ person.link3 }}" target="_blank">{{ person.part3 }}</a></li>
-            {% else %}
-            <li>{{ person.part3 }}</li>
-            {% endif %}
-          {% endif %}
-          {% if person.part4 %}
-            {% if person.link4 %}
-              <li><a href="{{ person.link4 }}" target="_blank">{{ person.part4 }}</a></li>
-            {% else %}
-            <li>{{ person.part4 }}</li>
-            {% endif %}
-          {% endif %}
-        </list>
+        <ul class="timeline">
+           <li class="timeline-item">
+               <div class="timeline-info">
+                   <span>March 12, 2016</span>
+               </div>
+               <div class="timeline-marker"></div>
+               <div class="timeline-content">
+                   <h3 class="timeline-title">Event Title</h3>
+                   <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                       eu pede mollis pretium. Pellentesque ut neque.</p>
+               </div>
+           </li>
+           <li class="timeline-item">
+               <div class="timeline-info">
+                   <span>March 23, 2016</span>
+               </div>
+               <div class="timeline-marker"></div>
+               <div class="timeline-content">
+                   <h3 class="timeline-title">Event Title</h3>
+                   <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                       eu pede mollis pretium. Pellentesque ut neque. </p>
+               </div>
+           </li>
+           <li class="timeline-item period">
+               <div class="timeline-info"></div>
+               <div class="timeline-marker"></div>
+               <div class="timeline-content">
+                   <h2 class="timeline-title">April 2016</h2>
+               </div>
+           </li>
+           <li class="timeline-item">
+               <div class="timeline-info">
+                   <span>April 02, 2016</span>
+               </div>
+               <div class="timeline-marker"></div>
+               <div class="timeline-content">
+                   <h3 class="timeline-title">Event Title</h3>
+                   <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                       eu pede mollis pretium. Pellentesque ut neque. </p>
+               </div>
+           </li>
+           <li class="timeline-item">
+               <div class="timeline-info">
+                   <span>April 28, 2016</span>
+               </div>
+               <div class="timeline-marker"></div>
+               <div class="timeline-content">
+                   <h3 class="timeline-title">Event Title</h3>
+                   <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                       eu pede mollis pretium. Pellentesque ut neque. </p>
+               </div>
+           </li>
+           </ul>
       </div>
 
       <!-- Artículos -->
