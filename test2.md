@@ -112,7 +112,7 @@ Sección en remodelación.
             <div class="row center" style="display: grid; justify-content: center; align-content: center">
               <h3 class="justify">{{ person.nombre }}</h3>
               <h5 class="justify">{{ person.rol }}</h5>
-              <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a>
+              <h5><a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a></h5>
             </div>
           </div>
         </div>
@@ -126,7 +126,7 @@ Sección en remodelación.
         <div class="row" >
           <!-- LinkedIn -->
           <div class="col s12 m4 l4" style="justify-content: start">
-            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a>
+            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-3x fa-linkedin-square" aria-hidden="true"></i></a>
           </div>
           <!-- Distinciones -->
           <div class="col s12 m4 l4" style="justify-content: center">
@@ -138,7 +138,7 @@ Sección en remodelación.
             </div>
           </div>
           <!-- Última actualización del perfil -->
-          <div class="col s12 m4 l4" style="justify-content: end; vertical-align: baseline;">
+          <div class="col s12 m4 l4">
             <p style="color: grey; text-align: right;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
