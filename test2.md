@@ -132,21 +132,19 @@ Sección en remodelación.
             {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" style="width:20%;" title="Reconocido/a con la Insignia del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" style="width:20%;" title="Galardonado/a con la Mención al Colaborador Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:20%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
-            {% if person.pnj22 != nil %}<img src="/img/junta/distinciones/pnj22.jpg" style="width:20%;" title="Premiado con la Mención Honorífica en Ciencia y Tecnología en los Premios Nacionales de Juventud 2022">{% endif %}
+            {% if person.pnj22 != nil %}<img src="/img/junta/distinciones/pnj22.jpg" style="width:17%;" title="Premiado con la Mención Honorífica en Ciencia y Tecnología en los Premios Nacionales de Juventud 2022">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
           <div class="col s12 m4 l4" style="justify-content: end; align-content:center;">
             <p style="color: grey; text-align: right;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
-        <h2 class="center">{{ person.nombre }}</h2>
-        <h3 class="center">{{ person.rol }}</h3>
       </div>
 
       <!-- Biografía -->
 
       <div class="row">
-        <h5 class="justify">Biografía</h5>
+        <h5 class="justify">Biografía de {{ person.nombre }}</h5>
         {% if person.descr %}
           <p style="text-align: justify;">
             {{ person.descr }}
