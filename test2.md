@@ -177,9 +177,8 @@ Sección en remodelación.
           </div>
           <div class="col s12 m6 l6">        
             <div class="row center" style="display: grid; justify-content: center; align-content: center">
-              <h3 class="justify">{{ person.nombre }}</h3>
-              <h5 class="justify">{{ person.rol }}</h5>
-              <h5><a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-3x fa-linkedin-square" aria-hidden="true"></i></a></h5>
+              <h3 class="justify"><strong>{{ person.nombre }}</strong><br>{{ person.rol }}</h3>
+              <h5><a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a></h5>
             </div>
           </div>
         </div>
@@ -228,10 +227,11 @@ Sección en remodelación.
         <h5 class="justify">Trayectoria en el GdeE-RSEF</h5>
       </div>
 
+      <p><strong>Cofundador y primer Presidente (oct. 2018 - oct. 2021)
       <ul class="list-ic vertical">
       	<li>
-      		<span>·</span>
-      		Create account.
+      		<span>•</span>
+      		Vicepresidente y Responsable de IT - Jornadas de Verano 2021
       	</li>
       	<li>
       		<span>·</span>
