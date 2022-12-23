@@ -6,12 +6,21 @@ permalink: /test2/
 
 <head>
 <style>
-@media screen and (min-width: 0px) and (max-width: 600px) {
+
+@media screen and (max-width: 600px) {
   #phone-header { display: block; }  /* show it on small screens */
 }
 @media screen and (min-width: 601px) {
   #phone-header { display: none; }   /* hide it elsewhere */
 }
+
+@media screen and (max-width: 600px) {
+  #desktop-header { display: none; }  /* hide it on small screens */
+}
+@media screen and (min-width: 601px) {
+  #desktop-header { display: block; }   /* show it elsewhere */
+}
+
 </style>
 </head>
 
@@ -88,26 +97,31 @@ Sección en remodelación.
 
 <div id="{{ person.id | remove: "/" }}-modal3" class="modal">
   <div class="modal-content">
+    <div style="padding-left: 30px; padding-right: 30px;">
 
-    <div id="phone-header" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row">
-        <div class="col s12 m6 l6">
-          <div class="row center">
-	        <img src="{{ person.header }}" width="80%">
+    <!-- HEADER -->
+      <div id="phone-header">
+        <div class="row">
+          <div class="col s12 m6 l6">
+            <div class="row center">
+  	        <img src="{{ person.header }}" width="80%">
+            </div>
           </div>
-        </div>
-        <div class="col s12 m6 l6">        
-          <div class="row center" style="padding-top: 40px;">
-            <h3 class="justify">{{ person.nombre }}</h3>
-            <h5 class="justify">{{ person.rol }}</h5>
+          <div class="col s12 m6 l6">        
+            <div class="row center" style="padding-top: 40px;">
+              <h3 class="justify">{{ person.nombre }}</h3>
+              <h5 class="justify">{{ person.rol }}</h5>
+            </div>
           </div>
         </div>
       </div>
-    </div>
 
-    <div class="row">
-      <img src="{{ person.bigheader }}">
-    </div>
+      <div id="desktop-header">
+        <div class="row" >
+          <img src="{{ person.bigheader }}">
+        </div>
+      </div>
+
       <!-- Biografía -->
 
       <div class="row">
