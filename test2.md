@@ -21,6 +21,73 @@ permalink: /test2/
   #desktop-header { display: block; }   /* show it elsewhere */
 }
 
+.list-ic a {
+  color: #788288;
+  text-decoration: none;
+}
+.list-ic li {
+  position: relative;
+}
+.list-ic li span {
+  display: inline-block;
+  font-weight: 800;
+  width: 1em;
+  height: 1em;
+  text-align: center;
+  line-height: 1em;
+  border-radius: 1em;
+  background: #B2B2B2;
+  color: white;
+  position: relative;
+}
+.list-ic li::before {
+  content: '';
+  position: absolute;
+  background: #B2B2B2;
+  z-index: -1;
+}
+.list-ic.horizontal li {
+  display: inline-block;
+}
+.list-ic.horizontal li span {
+  margin: 0 1em;
+}
+.list-ic.horizontal li::before {
+  top: 0.9em;
+  left: -25px;
+  width: 4em;
+  height: 0.2em;
+}
+.list-ic.vertical {
+  padding: 0;
+  margin: 0;
+}
+.list-ic.vertical li {
+  list-style-type: none;
+  text-align: left;
+}
+.list-ic.vertical li span {
+  margin: 1em 0;
+}
+.list-ic.vertical li::before {
+  top: -35px;
+  left: 6.5px;
+  width: 0.2em;
+  height: 4em;
+}
+.list-ic li:first-child::before {
+  display: none;
+}
+.list-ic .active {
+  background: dodgerblue;
+}
+.list-ic .active ~ li {
+  background: lightblue;
+}
+.list-ic .active ~ li::before {
+  background: lightblue;
+}
+
 </style>
 </head>
 
@@ -160,6 +227,25 @@ Sección en remodelación.
       <div class="row">
         <h5 class="justify">Trayectoria en el GdeE-RSEF</h5>
       </div>
+
+      <ul class="list-ic vertical">
+      	<li>
+      		<span>·</span>
+      		Create account.
+      	</li>
+      	<li>
+      		<span>·</span>
+      		<a href="#">Fill in your contact details.</a>
+      	</li>
+      	<li>
+      		<span>·</span>
+      		<a href="#">Voilá! You've got a job.</a>
+      	</li>
+        <li>
+      		<span>·</span>
+      		<a href="#">Voilá! You've got a job.</a>
+      	</li>
+      </ul>
 
       <!-- Artículos -->
 
