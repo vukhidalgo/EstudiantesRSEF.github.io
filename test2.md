@@ -4,6 +4,17 @@ title: test2
 permalink: /test2/
 ---
 
+<head>
+<style>
+.phone {}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .phone {}
+}
+</style>
+</head>
+
+
 <div class="row">
   <div class="col s12 m4">
     <img class="materialboxed" data-caption="Logo de Estudiantes RSEF." width="100%" src="{{ site.url }}/img/logos/gdee-rsef.png">
@@ -76,8 +87,8 @@ Sección en remodelación.
 
 <div id="{{ person.id | remove: "/" }}-modal3" class="modal">
   <div class="modal-content">
-    <div class="section" style="padding-left: 30px; padding-right: 30px;">
-    @media (max-width: $small-screen){
+
+    <div class="phone" style="padding-left: 30px; padding-right: 30px;">
       <div class="row">
         <div class="col s12 m6 l6">
           <div class="row center">
@@ -91,7 +102,8 @@ Sección en remodelación.
           </div>
         </div>
       </div>
-    }
+    </div>
+
     <div class="row">
       <img src="{{ person.bigheader }}">
     </div>
