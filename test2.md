@@ -125,18 +125,18 @@ Sección en remodelación.
         <hr>
         <div class="row" >
           <!-- LinkedIn -->
-          <div class="col s4" style="justify-content: start">
+          <div class="col s12 m4 l4" style="justify-content: start">
             <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-3x fa-linkedin-square" aria-hidden="true"></i></a>
           </div>
           <!-- Distinciones -->
-          <div class="col s4" style="justify-content: center">
+          <div class="col s12 m4 l4" style="justify-content: center">
             {% if person.insignia != nil %}<img src="/img/junta/distinciones/insignia.png" style="width:20%;" title="Reconocido/a con la Insignia del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.mencion != nil %}<img src="/img/junta/distinciones/mencion.png" style="width:20%;" title="Galardonado/a con la Mención al Colaborador Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:20%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
             {% if person.pnj22 != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:40%;" title="Premiado con la Mención Honorífica en Ciencia y Tecnología en los Premios Nacionales de Juventud 2022">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
-          <div class="col s4" style="justify-content: end; align-content:center;">
+          <div class="col s12 m4 l4" style="justify-content: end; align-content:center;">
             <p style="color: grey;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
