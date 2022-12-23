@@ -122,7 +122,6 @@ Sección en remodelación.
         <div class="row" >
           <img src="{{ person.bigheader }}">
         </div>
-        <hr>
         <div class="row" >
           <!-- LinkedIn -->
           <div class="col s12 m4 l4" style="justify-content: start">
