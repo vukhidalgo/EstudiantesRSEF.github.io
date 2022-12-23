@@ -126,7 +126,7 @@ Sección en remodelación.
         <div class="row" >
           <!-- LinkedIn -->
           <div class="col s12 m4 l4" style="justify-content: start">
-            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-3x fa-linkedin-square" aria-hidden="true"></i></a>
+            <a href="{{ person.linkedin }}" target="_blank" title="Explora su LinkedIn"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a>
           </div>
           <!-- Distinciones -->
           <div class="col s12 m4 l4" style="justify-content: center">
