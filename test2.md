@@ -136,7 +136,7 @@ Sección en remodelación.
           </div>
           <!-- Última actualización del perfil -->
           <div class="col s12 m6 l6">
-            <p style="color: grey;"><em>Last update: {{ person.lastupdate | date: '%d %b %Y' }}</em></p>
+            <p style="color: grey;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
       </div>
