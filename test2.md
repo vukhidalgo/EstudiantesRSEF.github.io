@@ -135,7 +135,7 @@ Sección en remodelación.
             {% if person.medalla != nil %}<img src="/img/junta/distinciones/medalla.png" style="width:20%;" title="Galardonado/a con la Medalla al Servicio Distinguido del Grupo de Estudiantes de la RSEF">{% endif %}
           </div>
           <!-- Última actualización del perfil -->
-          <div class="col s4" style="justify-content: end">
+          <div class="col s4" style="justify-content: end; align-content:center;">
             <p style="color: grey;"><em>Last update: {{ person.lastupdate | date: '%b %Y' }}</em></p>
           </div>
         </div>
