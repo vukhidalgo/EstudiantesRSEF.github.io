@@ -197,38 +197,38 @@ Sección en remodelación.
       </div>
 
       <p><strong>Cofundador y primer Presidente (oct. 2018 - oct. 2021)</strong></p>
-      <ul.timeline style="font-size: 16px;">
-          <il.timeline>
+      <list class="b">
+          <li>
             <div class="bullet big">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><path d="M16 4c6.6 0 12 5.4 12 12s-5.4 12-12 12S4 22.6 4 16 9.4 4 16 4zm0-4C7.2 0 0 7.2 0 16s7.2 16 16 16 16-7.2 16-16S24.8 0 16 0z"></path><circle cx="16" cy="16" r="6"></circle></svg>
             </div>
             So, the line to the left..
-          </il.timeline>
-          <il.timeline>
+          </li>
+          <li>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
-            is created using a <code>:before</code> pseudo-element on each <code>&lt;li&gt;</code>..
-          </il.timeline>
-          <il.timeline>
+            is created using a..
+          </li>
+          <li>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             with no content, 2 pixels wide, red background color, and..
-          </il.timeline>
-          <il.timeline>
+          </li>
+          <li>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             positioned absolutely relative to the list item.
-          </il.timeline>
-          <il.timeline>
+          </li>
+          <li>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             The bullets are rendered using SVG which I tweaked from the BBC but are essentially just drawing circles.
-          </il.timeline>    
-        </ul.timeline>
+          </li>    
+        </list>
 
       <!-- Artículos -->
 
