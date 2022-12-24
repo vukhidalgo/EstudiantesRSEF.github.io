@@ -191,12 +191,13 @@ video.responsive-video {
 
 // Listing
 
-list.a {
+list.a { //Bullet points list
   list-style-type: disc;
 }
 
-list.b {
+list.b { //Timeline list
   list-style-type: none;
+  font-size: 16px;
   li {
     position: relative;
     margin: 0;
