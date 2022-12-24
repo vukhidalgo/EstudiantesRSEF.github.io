@@ -22,11 +22,11 @@ permalink: /test2/
 }
 
 /* No normal bullets please */
-timeline {
+ul.timeline {
   list-style-type: none;
 }
 
-timeline-item {
+il.timeline {
   /* You need to turn on relative positioning so the line is placed relative to the item rather than absolutely on the page */
   position: relative;
 
@@ -37,7 +37,7 @@ timeline-item {
 }
 
 /* The actual line being placed before each list item, tweak width and color as appropriate */
-timeline-item:before {
+il.timeline:before {
   background-color: #c00;
   width: 2px;
   content: '';
@@ -48,16 +48,14 @@ timeline-item:before {
 }
 
 /* Start the line further down on the first list item */
-timeline-item:first-child:before { top: 15px;  }
+il.timeline:first-child:before { top: 15px;  }
 
 /* Stop the line short on the final list item */
-timeline-item:last-child:before { height: 6px; }
+il.timeline:last-child:before { height: 6px; }
 
 /* Styles for the SVG bullet points */
 .bullet { margin-left: -20px; width: 12px; fill: #c00; float: left; padding-right: 10px }
 .bullet.big { width: 16px; margin-left: -22px; padding-right: 8px }
-
-a { color: #06e; }
 
 </style>
 </head>
@@ -199,38 +197,38 @@ Sección en remodelación.
       </div>
 
       <p><strong>Cofundador y primer Presidente (oct. 2018 - oct. 2021)</strong></p>
-      <timeline>
-          <timeline-item>
+      <ul.timeline style="font-size: 16px;">
+          <il.timeline>
             <div class="bullet big">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><path d="M16 4c6.6 0 12 5.4 12 12s-5.4 12-12 12S4 22.6 4 16 9.4 4 16 4zm0-4C7.2 0 0 7.2 0 16s7.2 16 16 16 16-7.2 16-16S24.8 0 16 0z"></path><circle cx="16" cy="16" r="6"></circle></svg>
             </div>
             So, the line to the left..
-          </timeline-item>
-          <timeline-item>
+          </il.timeline>
+          <il.timeline>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             is created using a <code>:before</code> pseudo-element on each <code>&lt;li&gt;</code>..
-          </timeline-item>
-          <timeline-item>
+          </il.timeline>
+          <il.timeline>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             with no content, 2 pixels wide, red background color, and..
-          </timeline-item>
-          <timeline-item>
+          </il.timeline>
+          <il.timeline>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             positioned absolutely relative to the list item.
-          </timeline-item>
-          <timeline-item>
+          </il.timeline>
+          <il.timeline>
             <div class="bullet">
               <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
             </div>
             The bullets are rendered using SVG which I tweaked from the BBC but are essentially just drawing circles.
-          </timeline-item>    
-        </timeline>
+          </il.timeline>    
+        </ul.timeline>
 
       <!-- Artículos -->
 
