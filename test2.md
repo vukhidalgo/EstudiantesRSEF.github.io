@@ -206,25 +206,25 @@ Sección en remodelación.
           </li>
           <li>
             <div class="bullet">
-              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="16"></circle></svg>
             </div>
             is created using a..
           </li>
           <li>
             <div class="bullet">
-              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="16"></circle></svg>
             </div>
             with no content, 2 pixels wide, red background color, and..
           </li>
           <li>
             <div class="bullet">
-              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="16"></circle></svg>
             </div>
             positioned absolutely relative to the list item.
           </li>
           <li>
             <div class="bullet">
-              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="10"></circle></svg>
+              <svg aria-hidden="true" viewBox="0 0 32 32" focusable="false"><circle stroke="none" cx="16" cy="16" r="16"></circle></svg>
             </div>
             The bullets are rendered using SVG which I tweaked from the BBC but are essentially just drawing circles.
           </li>    
