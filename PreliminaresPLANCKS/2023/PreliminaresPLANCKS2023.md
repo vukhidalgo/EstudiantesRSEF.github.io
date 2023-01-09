@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Preliminares PLANCKS 2022
-permalink: /PreliminaresPLANCKS2022/
+title: Preliminares PLANCKS 2023
+permalink: /PreliminaresPLANCKS2023/
 ---
 
 <div class="no-pad-top" id="index-page">
