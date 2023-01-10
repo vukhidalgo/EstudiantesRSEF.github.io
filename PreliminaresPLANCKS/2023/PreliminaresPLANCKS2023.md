@@ -8,10 +8,8 @@ permalink: /PreliminaresPLANCKS2023/
   <div class="container">
     <div class="section">
 
-<!-- HEADER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2022-PLANCKS/Versión definitiva.png">
-
-      <!-- COMENTARIO PARA PRÓXIMAS VECES: LOS ARCHIVOS ES MEJOR NOMBRARLOS SIN UTILIZAR ACENTOS Y SIN DEJAR ESPACIOS ENTRE PALABRAS -->
+<!-- BANNER -->
+      <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/banner.png">
 
 <!-- RESULTADOS -->
       <hr>
