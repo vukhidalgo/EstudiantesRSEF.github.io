@@ -11,25 +11,26 @@ permalink: /PreliminaresPLANCKS2023/
 <!-- BANNER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/banner.png">
 
+
 <!-- RESULTADOS -->
-      <hr>
+<!--      <hr>
       <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
           <a href="https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view?usp=sharing" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2022</strong></a>
         </span>
       </h2>
-      <hr>
+      <hr> -->
 
 <!-- SOLUCIONES -->
-      <h2 style="text-align: center;">
+<!--      <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
           <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES EXAMEN</strong></a>
         </span>
       </h2>
-      <hr>
+      <hr> -->
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? Vuelven en su quinta edición las <strong>Preliminares de PLANCKS</strong> y esta vez... ¡en formato presencial! Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la sexta edición de las <strong>Preliminares de PLANCKS</strong>! Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -37,22 +38,22 @@ permalink: /PreliminaresPLANCKS2023/
           <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
         </div>
         <div class="row center">
-          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>
-          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
-          <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
-          <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
-          <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: rgb(41, 49, 132); display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
+          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>
+          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
+          <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
+          <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
+          <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
         </div>
       </div>
 
 
 <!-- COMITÉS -->
-      <p style="text-align: justify;">Además, puedes <a href="#ModalComOrgPre22" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2022.</p>
+      <p style="text-align: justify;">Además, puedes <a href="#OCPrelis23" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
     </div>
 
 <!-- AUTORES -->
 
-    <div class="section">
+<!--    <div class="section">
       <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
         <p style="text-align: justify;">
           Los miembros del Comité Académico de las Preliminares PLANCKS 2022 son:
@@ -143,7 +144,7 @@ permalink: /PreliminaresPLANCKS2023/
      </div>
 
      {% endif %}
-     {% endfor %}
+     {% endfor %} -->
 
 
 <!-- MAP -->
@@ -203,7 +204,7 @@ permalink: /PreliminaresPLANCKS2023/
               var map = new google.maps.Map(targetElem, cameraPosition);
 
               // We have already displayed the map, let's add markers
-
+<!--
               var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
               const UCMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -356,7 +357,7 @@ permalink: /PreliminaresPLANCKS2023/
                 "</div></div>";
               const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
               markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
-
+-->
 
             }
           </script>
@@ -378,7 +379,7 @@ permalink: /PreliminaresPLANCKS2023/
     {% assign loopindex = 0 %}
     {% for event in site.events reversed %}
     {% if event.title contains "Preliminares de PLANCKS"%}
-    {% if event.title != "Preliminares de PLANCKS 2022"%}
+    {% if event.title != "Preliminares de PLANCKS 2023"%}
     {% assign rowfinder = loopindex | modulo:2 %}
     {% if rowfinder == 0 %}
       <div class="row">
