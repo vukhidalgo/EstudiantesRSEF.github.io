@@ -9,8 +9,8 @@ locandina: /img/eventos/2022-PLANCKS/LogoPrelis22LogoGdeEv3NoFondopng.png
 cover: /img/eventos/2022-PLANCKS/LogoPrelis22v3_40003000.png
 gallery:
 site: /PreliminaresPLANCKS2022/
-ranking:
-exam:
+ranking: https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view?usp=sharing
+exam: https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing
 comm:
 ---
 
