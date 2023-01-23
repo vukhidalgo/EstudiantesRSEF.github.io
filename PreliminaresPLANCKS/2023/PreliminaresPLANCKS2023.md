@@ -96,7 +96,7 @@ permalink: /PreliminaresPLANCKS2023/
          {% endfor %}    
          </div>
        </div>
-     </div>
+     </div> -->
 
 
      <!-- Modal PONENTES -->
@@ -144,7 +144,7 @@ permalink: /PreliminaresPLANCKS2023/
      </div>
 
      {% endif %}
-     {% endfor %} -->
+     {% endfor %}
 
 
 <!-- MAP -->
@@ -443,7 +443,7 @@ permalink: /PreliminaresPLANCKS2023/
 
 <!-- MODAL COMITÉ ORGANIZADOR -->
 
-<div id="ModalComOrgPre22" class="modal">
+<div id="OCPrelis23" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center" style="padding-left: 30px; padding-top: 10px;">
