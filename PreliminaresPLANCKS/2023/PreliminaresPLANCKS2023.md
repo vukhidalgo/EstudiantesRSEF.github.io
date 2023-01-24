@@ -41,6 +41,7 @@ permalink: /PreliminaresPLANCKS2023/
           <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>
           <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
           <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
+          <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">trophy</i>Premios</a>
           <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
           <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
         </div>
@@ -355,6 +356,37 @@ permalink: /PreliminaresPLANCKS2023/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
         <h3 class="justify">Conoce Plancks </h3>
+        <p style="text-align: justify;">
+          Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física. La última edición reunió 250 participantes de más de 50 países. Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
+        </p>
+      </div>
+    </div>
+    <div class="section">
+      <div class="row center">
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://www.iaps.info/events/plancks/plancks-2023-in-milan/" target="_blank" id="plancks-button" class="btn-large waves-effect waves-light" style="background-color: #018c45">Conoce Plancks</a>
+          </div>
+        </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: #018c45">Conoce IAPS</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
+<!-- PREMIOS MODAL -->
+<div id="premios-modal" class="modal">
+  <div class="modal-content-tight">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center">
+        <h3 class="justify">Premios</h3>
         <p style="text-align: justify;">
           Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física. La última edición reunió 250 participantes de más de 50 países. Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
         </p>
