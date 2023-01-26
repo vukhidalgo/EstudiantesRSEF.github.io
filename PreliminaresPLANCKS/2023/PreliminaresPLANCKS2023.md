@@ -30,7 +30,7 @@ permalink: /PreliminaresPLANCKS2023/
       <hr> -->
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la sexta edición de las <strong>Preliminares de PLANCKS</strong>! Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la sexta edición de las <strong>Preliminares de PLANCKS</strong>! Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -303,6 +303,7 @@ permalink: /PreliminaresPLANCKS2023/
         <p style="text-align: justify;">Lee la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2023 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
         <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
+        <p style="text-align: justify;">¡Y este año, tenemos premios para los mejores equipos! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="https://shorturl.at/bdhDU" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
@@ -388,22 +389,11 @@ permalink: /PreliminaresPLANCKS2023/
       <div class="row center">
         <h3 class="justify">Premios</h3>
         <p style="text-align: justify;">
-          Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física. La última edición reunió 250 participantes de más de 50 países. Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
+          Este año contamos con el apoyo y financiación de la <a href="https://www.fundacionareces.es" id="ramon-areces" target="_blank">Fundación Ramón Areces</a>, que nos permite ofrecer premios a los mejores equipos. Los premios serán de 550€ para el primer equipo y 450€ para el segundo, además de la participación a la fase internacional en Milán de los equipos clasificados.
         </p>
-      </div>
-    </div>
-    <div class="section">
-      <div class="row center">
-        <div class="col s12 m6">
-          <div class="row center">
-            <a href="https://www.iaps.info/events/plancks/plancks-2023-in-milan/" target="_blank" id="plancks-button" class="btn-large waves-effect waves-light" style="background-color: #018c45">Conoce Plancks</a>
-          </div>
-        </div>
-        <div class="col s12 m6">
-          <div class="row center">
-            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: #018c45">Conoce IAPS</a>
-          </div>
-        </div>
+        <p style="text-align: justify;">
+          Estamos muy agradecidos por la confianza y el apoyo de la Fundación Ramón Areces.
+        </p>
       </div>
     </div>
   </div>
