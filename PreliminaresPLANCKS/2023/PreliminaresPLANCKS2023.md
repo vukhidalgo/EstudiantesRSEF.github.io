@@ -9,7 +9,7 @@ permalink: /PreliminaresPLANCKS2023/
     <div class="section">
 
 <!-- BANNER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/banner.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/BANNER.png">
 
 
 <!-- RESULTADOS -->
@@ -153,84 +153,6 @@ permalink: /PreliminaresPLANCKS2023/
      {% endif %}
      {% endfor %}
 
-
-<!-- MAP -->
-<!--    <div class="section">
-      <div class="section">
-        <strong><h3>El mapa de las Preliminares de PLANCKS 2023</h3></strong>
-        <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares 2023!</p> -->
-
-          <html>
-            <head>
-              <style>
-                #map {
-                  height: 600px;
-                  width: 100%;
-                }
-              </style>
-            </head>
-
-            <body>
-          <div id="map"></div>
-          <script>            
-            function initMap() {
-              // A couple of places
-              var centerPen = {lat: 40.416775, lng: -3.703790};
-              var centerPos = {lat: 36.7875,   lng: -7.0135};
-              // Facultades de https://www.cofis.es/elfisico/facultades.html
-              var UA  = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
-              var UAB = {lat: 41.501105, lng: 2.109064}; // Facultat de Ciències (Bellaterra)
-              var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias
-              var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física
-              var UNICAN = {lat: 43.471183, lng: -3.801105}; // Facultad de Ciencias (Santander)
-              var UCM = {lat: 40.450831, lng: -3.726087}; // Facultad de Ciencias Físicas
-              var UCO = {lat: 37.914788, lng: -4.716931}; // Facultad de Ciencias
-              var UEM = {lat: 40.373069, lng: -3.919072}; // Universidad Europea de Madrid (Villaviciosa de Odón)
-              var UEV = {lat: 39.475430, lng: -0.365282}; // Universidad Europea de Valencia
-              var UNEX = {lat: 38.884575, lng: -7.009206}; // Facultad de Ciencias (Badajoz)
-              var UGR = {lat: 37.179751, lng: -3.609293}; // Facultad de Ciencias
-              var UIB = {lat: 39.636006, lng: 2.647993}; // Edifici Mateu Orfila i Rotger
-              var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)
-              var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química
-              var UNED  = {lat: 38.016856, lng: -1.170757}; // Facultad de Economía y Empresa
-              var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
-              var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)
-              var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
-              var USC = {lat: 42.875917, lng: -8.560536}; // Facultade de Física
-              var US =  {lat: 37.359384, lng: -5.986452}; // Facultad de Física
-              var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)
-              var UVA = {lat: 41.663388, lng: -4.705462}; // Facultad de Ciencias
-              var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias
-              var URJC = {lat: 40.335479, lng: -3.877537}; // Campus de Móstoles
-              var UC3M = {lat: 40.332473, lng: -3.765400}; // Campus de Leganés
-              var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal
-              // Create map, draw it in the targetElem and sets the cameraPosition
-              var targetElem = document.getElementById('map');
-              // var cameraPosition = { zoom: 5.25, center: centerPos };
-              var cameraPosition = { zoom: 6, center: centerPen };
-              var map = new google.maps.Map(targetElem, cameraPosition);
-
-              // We have already displayed the map, let's add markers
-
-              // var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
-              // const UCMcontent =
-              //  '<div id="content"><div id="siteNotice"></div>' +
-              //  '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
-              //  '<div id="bodyContent"><p><b>Facultad de Ciencias Físicas.</b> Aula 4A.</p>' +
-              //  "</div></div>";
-              // const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
-              // markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
-
-            }
-          // </script>
-
-          <!-- Loads maps library (with places library) and then calls initMap() -->
-          // <script async defer
-          //   src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initMap&key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU">
-          // </script>
-        </body>
-      </html>
-    </div>
 
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
