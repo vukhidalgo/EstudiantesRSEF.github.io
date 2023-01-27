@@ -158,7 +158,7 @@ permalink: /PreliminaresPLANCKS2023/
 <!--    <div class="section">
       <div class="section">
         <strong><h3>El mapa de las Preliminares de PLANCKS 2023</h3></strong>
-        <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares 2023!</p>
+        <p style="text-align: justify;">¡En el siguiente mapa puedes consultar todas las sedes y correspondientes aulas de las Preliminares 2023!</p> -->
 
           <html>
             <head>
@@ -225,12 +225,12 @@ permalink: /PreliminaresPLANCKS2023/
           </script>
 
           <!-- Loads maps library (with places library) and then calls initMap() -->
-          <script async defer
-            src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initMap&key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU">
-          </script>
+          // <script async defer
+          //   src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initMap&key=AIzaSyD1Jrpoe5nWt64lkJlxQ_9f5oAn7p5qvoU">
+          // </script>
         </body>
       </html>
-    </div> -->
+    </div>
 
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
