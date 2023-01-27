@@ -346,7 +346,7 @@ permalink: /PreliminaresPLANCKS2023/
         </div>
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://forms.gle/yDEvVWuEY71osu2z7" id="inscripcion-supers-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Inscripción supervisoras/es</a>
+            <a href="https://forms.gle/yDEvVWuEY71osu2z7" id="inscripcion-supers-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Inscripción supervisores</a>
           </div>
         </div>
       </div>
