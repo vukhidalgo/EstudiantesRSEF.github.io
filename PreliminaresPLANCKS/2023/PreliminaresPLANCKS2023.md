@@ -38,7 +38,7 @@ permalink: /PreliminaresPLANCKS2023/
           <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
         </div>
         <div class="row center">
-          <a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>
+          <!--<a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>-->
           <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
           <a href="#conocer-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
           <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">star</i>Premios</a>
@@ -55,7 +55,7 @@ permalink: /PreliminaresPLANCKS2023/
 
 
 <!-- COMITÉS -->
-      <p style="text-align: justify;">Además, puedes <a href="#OCPrelis23" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
+      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
     </div>
 
 <!-- AUTORES -->
@@ -211,16 +211,16 @@ permalink: /PreliminaresPLANCKS2023/
               var map = new google.maps.Map(targetElem, cameraPosition);
 
               // We have already displayed the map, let's add markers
-<!--
-              var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
-              const UCMcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
-                '<div id="bodyContent"><p><b>Facultad de Ciencias Físicas.</b> Aula 4A.</p>' +
-                "</div></div>";
-              const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
-              markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
--->
+
+              // var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
+              // const UCMcontent =
+              //  '<div id="content"><div id="siteNotice"></div>' +
+              //  '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
+              //  '<div id="bodyContent"><p><b>Facultad de Ciencias Físicas.</b> Aula 4A.</p>' +
+              //  "</div></div>";
+              // const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
+              // markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });
+
             }
           </script>
 
@@ -281,38 +281,59 @@ permalink: /PreliminaresPLANCKS2023/
 <!-- INFO MODAL -->
 <div id="info-modal" class="modal">
   <div class="modal-content-tight">
+    
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
         <h3 class="justify">Información general</h3>
-        <p style="text-align: justify;"><strong>¿Qué es PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí. Conoce más información sobre PLANCKS y IAPS <a href="#conocer-modal" class="modal-trigger">aquí</a>. Este año, la prueba tendrá lugar del 12 al 16 de mayo en la Universidad de Milán. ¿Y cómo puede un equipo conseguir clasificarse para esta prueba final? Desde España, debe lograrlo en las Preliminares que organizamos a nivel nacional.</p>
+
+        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2023 es una competición de física teórica por equipos en la que habrá que resolver 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
+        
+        <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
+
         <p style="text-align: justify;"><strong>¿Cómo y cuándo tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2023 en España se celebrarán el próximo <strong>viernes 3 de marzo por la tarde</strong>, de forma simultánea en sedes situadas en facultades de física del territorio nacional. La prueba durará 3 horas y tendrá lugar de 16:00 a 19:00 (GMT+1).</p>
+        
+        <p style="text-align: justify;"><strong>Y si la prueba os sale muy bien hay premio por partida doble...</strong></p>
+        
+        <list class="a">
+          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Milán! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a href="#plancks-modal" class="modal-trigger">este enlace</a>.</li>
+          <li style="text-align: justify;">¡Y este año, como novedad, tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</li>
+        </list>
+
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="https://shorturl.at/bdhDU" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
+    
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #018c45;">
+        <strong>Términos y Condiciones de IAPS</strong> | Todos los participantes:
+        <p style="text-align: justify;">- Declaran conocer que PLANCKS está regulado por el Artículo 12 de las <a href="https://www.iaps.info/wp-content/uploads/2023/01/iaps__Regulations_2022.pdf" target="_blank">IAPS Regulations</a>.</p>
+        <p style="text-align: justify;">- Y se comprometen a cumplir las <a href="https://www.iaps.info/wp-content/uploads/2021/01/PLANCKS-General-Rules-EGM-2020.pdf" target="_blank">Reglas Generales de PLANCKS</a>, además del <a href="https://www.iaps.info/wp-content/uploads/2022/08/IAPS-Code-of-Conduct-2020.pdf" target="_blank">IAPS Code of Conduct</a>.</p>
+        <p style="text-align: justify;">Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en modo alguno de intermediario económico en este convocatoria de PLANCKS.</p>
+      </div>
+    </div>
+    
   </div>
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
 </div>
 
-<!-- EQUIPOS MODAL -->
-<div id="equipos-modal" class="modal">
+
+<!-- PREMIOS MODAL -->
+<div id="premios-modal" class="modal">
   <div class="modal-content-tight">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
-        <h3 class="justify">Información para equipos</h3>
-        <p style="text-align: justify;">Lee la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
-        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2023 consistirán en un conjunto de 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
-        <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
-        <p style="text-align: justify;">¡Y este año, tenemos premios para los mejores equipos! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</p>
-        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="https://shorturl.at/bdhDU" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
-      </div>
-    </div>
-    <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #018c45;">
-        <strong>Términos y Condiciones de IAPS</strong> | Todos los participantes:
-        <p style="text-align: justify;">- Declaran conocer que PLANCKS está regulado por el Artículo 12 de las <a href="https://www.iaps.info/wp-content/uploads/2019/10/IAPS-Regulations-Final-Version-Sept2019.pdf" target="_blank">IAPS Regulations</a>.</p>
-        <p style="text-align: justify;">- Y se comprometen a cumplir las <a href="https://www.iaps.info/wp-content/uploads/2021/01/PLANCKS-General-Rules-EGM-2020.pdf" target="_blank">Reglas Generales de PLANCKS</a>, además del <a href="https://www.iaps.info/wp-content/uploads/2022/08/IAPS-Code-of-Conduct-2020.pdf" target="_blank">IAPS Code of Conduct</a>.</p>
-        <p style="text-align: justify;">Además, habrán de tener en cuenta que el Grupo de Estudiantes de la RSEF no ejerce en modo alguno de intermediario económico en este convocatoria de PLANCKS.</p>
+        <h3 class="justify">Premios</h3>
+        <p style="text-align: justify;">
+          Este año contamos con el apoyo y financiación de la <a href="https://www.fundacionareces.es" id="ramon-areces" target="_blank">Fundación Ramón Areces</a>, que nos permite ofrecer premios a los dos mejores equipos: 550€ para el primer equipo y 450€ para el segundo. Además, los clasificados participarán en la fase internacional de PLANCKS en Milán, con la inscripción y el alojamiento financiado por el Grupo de Estudiantes.
+        </p>
+        <p style="text-align: justify;">
+          Todo esto no sería posible sin el apoyo de la Fundación Ramón Areces y de los miembros del GdeE. ¡Así que muchas gracias por confiar en nosotros!
+        </p>
+        <p style="text-align: justify;">
+          Si aún no sabes de qué estamos hablando, clica en este <a href="#info-modal" class="modal-trigger">este enlace</a>.
+        </p>
       </div>
     </div>
   </div>
@@ -327,7 +348,7 @@ permalink: /PreliminaresPLANCKS2023/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
         <h3 class="justify">Información para supervisoras/es</h3>
-        <p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible supervisor/a de examen en las Preliminares de PLANCKS 2023. A continuación, te introducimos brevemente a las Preliminares y te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
+        <p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible supervisor/a de examen en las Preliminares de PLANCKS 2023. A continuación, te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
         <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:</p>
         <list class="a">
@@ -339,7 +360,7 @@ permalink: /PreliminaresPLANCKS2023/
           <li style="text-align: justify;">Imprimir las hojas de la prueba y custodiarlas hasta la realización del examen.</li>
           <li style="text-align: justify;">Comprobar la identificación de los participantes a la prueba.</li>
           <li style="text-align: justify;">Supervisar el desarrollo de la prueba durante su realización y velar por el cumplimiento de las normas establecidas.</li>
-          <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al Comité Organizador.</li>
+          <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al Comité Organizador el mismo día de la prueba.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2023?</strong> Es muy sencillo: sólo tienes que rellenar <a href="https://forms.gle/GSXuS5ELfqqj7mhH7" id="inscripcion-supervisores-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
         <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="https://shorturl.at/bdhDU" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
@@ -352,16 +373,19 @@ permalink: /PreliminaresPLANCKS2023/
 </div>
 
 <!-- CONOCER MODAL -->
-<div id="conocer-modal" class="modal">
+<div id="plancks-modal" class="modal">
   <div class="modal-content-tight">
+    
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
         <h3 class="justify">Conoce Plancks </h3>
+        <p style="text-align: justify;"><strong>¿Qué es PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí.</p>
         <p style="text-align: justify;">
-          Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física. La última edición reunió 250 participantes de más de 50 países. Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
+          Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física y la prueba tendrá lugar del 12 al 16 de mayo en la Universidad de Milán. ¡La última edición reunió 250 participantes de más de 50 países! Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
         </p>
       </div>
     </div>
+    
     <div class="section">
       <div class="row center">
         <div class="col s12 m6">
@@ -376,26 +400,7 @@ permalink: /PreliminaresPLANCKS2023/
         </div>
       </div>
     </div>
-  </div>
-  <div class="modal-footer">
-    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
-  </div>
-</div>
-
-<!-- PREMIOS MODAL -->
-<div id="premios-modal" class="modal">
-  <div class="modal-content-tight">
-    <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="row center">
-        <h3 class="justify">Premios</h3>
-        <p style="text-align: justify;">
-          Este año contamos con el apoyo y financiación de la <a href="https://www.fundacionareces.es" id="ramon-areces" target="_blank">Fundación Ramón Areces</a>, que nos permite ofrecer premios a los mejores equipos. Los premios serán de 550€ para el primer equipo y 450€ para el segundo, además de la participación a la fase internacional en Milán de los equipos clasificados.
-        </p>
-        <p style="text-align: justify;">
-          Estamos muy agradecidos por la confianza y el apoyo de la Fundación Ramón Areces.
-        </p>
-      </div>
-    </div>
+    
   </div>
   <div class="modal-footer">
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
@@ -405,11 +410,13 @@ permalink: /PreliminaresPLANCKS2023/
 <!-- INSCRIPCIÓN MODAL -->
 <div id="inscripcion-modal" class="modal">
   <div class="modal-content-tight">
+    
     <div class="section">
       <div class="row center">
         <h3 class="justify">¡Inscríbete!</h3>
       </div>
-      <div class="row center">
+      
+      <div class="row center">  
         <div class="col s12 m6">
           <div class="row center">
             <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Inscripción equipos</a>
@@ -421,6 +428,7 @@ permalink: /PreliminaresPLANCKS2023/
           </div>
         </div>
       </div>
+      
     </div>
   </div>
   <div class="modal-footer">
@@ -442,12 +450,12 @@ permalink: /PreliminaresPLANCKS2023/
               <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
               <p align="center">Cristina Balsells Llort - Vicepresidenta</p>
               <p align="center">Pablo Blanco Mas - Secretaría e inscripciones</p>
+              <p align="center">Joan Llobera Querol - Web y grafismos</p>
               <p align="center">Sergio Salvía Fernández - Responsable de Relaciones Públicas</p>
               <p align="center">Odette Alonso-Sañudo Álvarez - Relaciones Públicas</p>
-              <p align="center">Alejandro Fernández Muñoz - Responsable Web y IT</p>
-              <p align="center">Joan Llobera Querol - Web y IT</p>
-              <p align="center">Imanol Corredoira Fernández - Logística</p>
+              <p align="center">Irene Carrión López - Logística</p>
               <p align="center">Pedro Villalba González - Logística</p>
+              <p align="center">Juan Lorenzo Campos - Logística</p>
             </div>
           </div>
           <div class="col s12 m6 l5">
@@ -506,7 +514,7 @@ permalink: /PreliminaresPLANCKS2023/
 <!-- TIMER SCRIPT -->
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Feb 3, 2023 0:00:01").getTime();
+  var countDownDate = new Date("Jan 27, 2023 0:00:01").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
