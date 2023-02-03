@@ -14,8 +14,11 @@ permalink: /PreliminaresPLANCKS/
     Si ves que falta poco para la próxima edición de las Preliminares, entra a ver qué se cuece. Mientras, puedes explorar las últimas ediciones del concurso.
     Y si quieres conocer más sobre PLANCKS, consulta <a href="https://www.iaps.info/events/plancks/what-is-plancks/" target="_blank">esta página</a> de la International Association of Physics Students (IAPS). ¡Bienvenid@!</p>
 
-    <h5 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2023.</p></h5>
-    <h4 style="text-align: center;"><p style="text-align:center">Más información en enero de 2023.</p></h4>
+    <div class="row center">
+      <a href="{{ site.url }}/PreliminaresPLANCKS2023/" id="prelis-button" class="btn-large waves-effect waves-light" style="background-color: #018c45;">Accede a la información de esta edición de las Prelis!</a>
+    </div>    
+    <!-- <h5 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2023.</p></h5>
+    <h4 style="text-align: center;"><p style="text-align:center">Más información en enero de 2023.</p></h4> -->
 
 <!-- EDICIONES ANTERIORES -->
   <div class="section" id="ediciones-anteriores">
@@ -25,6 +28,7 @@ permalink: /PreliminaresPLANCKS/
   {% assign loopindex = 0 %}
   {% for event in site.events reversed %}
   {% if event.title contains "Preliminares de PLANCKS"%}
+  {% if event.title != "Preliminares de PLANCKS 2023"%}
   {% assign rowfinder = loopindex | modulo:2 %}
   {% if rowfinder == 0 %}
     <div class="row">
@@ -50,6 +54,7 @@ permalink: /PreliminaresPLANCKS/
     </div>
   {% endif %}
   {% assign loopindex = loopindex | plus: 1 %}
+  {% endif %}
   {% endif %}
   {% endfor %}
   {% if loopindex == 1 %}
