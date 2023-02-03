@@ -51,7 +51,7 @@ permalink: /PreliminaresPLANCKS2023/
       <div class="row">  
         <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2023 se abrirán en...</p>
         <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
-        <p style="text-align: justify;">Sólo para equipos con miembros del GdeE. El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p>
+        <!-- <p style="text-align: justify;">Sólo para equipos con miembros del GdeE. El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p> -->
       </div>
 
 
