@@ -6,7 +6,7 @@ startingdate: 2023-03-03
 endingdate:
 place: Toda España
 locandina: /img/eventos/2023-PLANCKS/logo.png
-cover: /img/eventos/2023-PLANCKS/logo.png
+cover: /img/eventos/2023-PLANCKS/fondo_web.png
 gallery:
 site: /PreliminaresPLANCKS2023/
 ranking:
