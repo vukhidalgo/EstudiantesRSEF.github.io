@@ -25,11 +25,11 @@
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
  - text: <strong>¡Inscríbete!</strong>
    url: /inscripcion/
- - text: <strong>Física... ¿Y ahora qué?</strong>
-   url: /FisicaYAhoraQue/
+# - text: <strong>Física... ¿Y ahora qué?</strong>
+#   url: /FisicaYAhoraQue/
 # - text: <strong>Gastrofísica</strong>
 #   url: /Gastrofisica/
-# - text: <strong>PLANCKS 22</strong>
-#   url: /PreliminaresPLANCKS2022/
+ - text: <strong>PLANCKS 23</strong>
+   url: /PreliminaresPLANCKS2023/
 # - text: <strong>JORNADAS '21</strong>
 #   url: /JornadasVerano2021/
