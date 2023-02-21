@@ -49,7 +49,7 @@ permalink: /PreliminaresPLANCKS2023/
 
 <!-- COUNTDOWN -->
       <div class="row">  
-        <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2023 se abrirán en...</p>
+        <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2023 se cerrarán en...</p>
         <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
         <p style="text-align: justify;">¡No dejes tu inscripción para el último momento para asegurarnos que tendrás aulas y supervisores disponibles en tu facultad!</p>
         <!-- <p style="text-align: justify;">Sólo para equipos con miembros del GdeE. El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p> -->
@@ -438,7 +438,7 @@ permalink: /PreliminaresPLANCKS2023/
 <!-- TIMER SCRIPT -->
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Jan 27, 2023 0:00:01").getTime();
+  var countDownDate = new Date("Feb 26, 2023 23:59:59").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
@@ -462,7 +462,7 @@ permalink: /PreliminaresPLANCKS2023/
     // If the count down is over, write some text
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById("countdown").innerHTML = "INSCRIPCIONES ABIERTAS hasta el 26 de febrero.";
+      document.getElementById("countdown").innerHTML = "INSCRIPCIONES CERRADAS.";
     }
   }, 1000);
 </script>
