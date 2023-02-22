@@ -7,7 +7,7 @@ redirect_from:
 
 <ul class="post-list">
   {% assign id = 0 %}
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.enef %}
     {% if post.hidden != true %}
       {% assign id = id | plus:1 %}
       <div  id="{{id}}">
@@ -32,7 +32,7 @@ redirect_from:
           {% endif %}
           {% if post.categories %}
             {% for category in post.categories %}
-              {% if category == 'blog' %}
+              {% if category == 'enef' %}
                 {% else %}
                   <div class="chip">
                     <span class="post-meta">
@@ -58,7 +58,7 @@ redirect_from:
 <script type="text/javascript">
   function filterUsingCategory(selectedCategory) {
     var id = 0;
-    {% for post in site.categories.blog %}
+    {% for post in site.categories.enef %}
       var cats = {{ post.categories | jsonify }}
 
       var postDiv = document.getElementById(++id);
