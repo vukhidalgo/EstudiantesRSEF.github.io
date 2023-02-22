@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: enef
 title: Encuentro Nacional de Estudiantes de Física 2023
 permalink: /ENEF2023/
 ---
