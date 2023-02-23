@@ -127,6 +127,9 @@ body {
   {% assign cat = category | first %}
   {% if cat == 'blog' %}
   {% elsif cat == 'noticias' %}
+  {% elsif cat == 'enef' %}
+  {% elsif cat == 'ENEF' %}
+  {% elsif cat == '2023' %}
   {% else %}
   <button class="chip_button" id="{{ cat }}" onclick="filterUsingCategory(this.id)">
     {{ cat }}
