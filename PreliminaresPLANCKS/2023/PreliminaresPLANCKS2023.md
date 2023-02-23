@@ -291,7 +291,7 @@ permalink: /PreliminaresPLANCKS2023/
               const UC3Mcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
                 '<h5 id="firstHeading" class="firstHeading">Universidad Carlos III de Madrid</h5>' +
-                '<div id="bodyContent"><p>Aula 1.2.G04.</p>' +
+                '<div id="bodyContent"><p></p>' +
                 "</div></div>";
               const UC3Mwindow = new google.maps.InfoWindow({ content: UC3Mcontent, });
               markerUC3M.addListener("click", () => { UC3Mwindow.open({ anchor: markerUC3M, map, shouldFocus: false, }); });
@@ -300,7 +300,7 @@ permalink: /PreliminaresPLANCKS2023/
               const UScontent =
                 '<div id="content"><div id="siteNotice"></div>' +
                 '<h5 id="firstHeading" class="firstHeading">Universidad de Sevilla</h5>' +
-                '<div id="bodyContent"><p><b>Facultad de Física.</b> Aula Magna.</p>' +
+                '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
               const USwindow = new google.maps.InfoWindow({ content: UScontent, });
               markerUS.addListener("click", () => { USwindow.open({ anchor: markerUS, map, shouldFocus: false, }); });            
@@ -309,7 +309,7 @@ permalink: /PreliminaresPLANCKS2023/
               const UMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
                 '<h5 id="firstHeading" class="firstHeading">Universidad de Murcia</h5>' +
-                '<div id="bodyContent"><p>Sala de seminarios CIOyN.</p>' +
+                '<div id="bodyContent"><p></p>' +
                 "</div></div>";
               const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
               markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); }); 
