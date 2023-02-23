@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Noticias del ENEF 2023"
+layout: enef_page
+title: "Todas las noticias del ENEF 2023"
 permalink: /ENEF2023/Noticias
 redirect_from:
 ---
