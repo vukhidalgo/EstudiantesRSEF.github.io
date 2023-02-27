@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: enef-2023
+categories: enef2023
 title:  "¡Bienvenid@ a la página del ENEF!"
 date: 2023-02-27 00:01
 author: Comité Organizador ENEF
