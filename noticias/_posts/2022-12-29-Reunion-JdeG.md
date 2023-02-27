@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: enef-2023
+categories: enef2023
 title:  "Reunión presencial de la Junta del GdeE"
 date: 2022-12-29 00:01
 author: Comité Organizador ENEF
