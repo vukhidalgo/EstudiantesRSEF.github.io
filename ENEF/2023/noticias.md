@@ -55,6 +55,11 @@ redirect_from:
   {% endfor %}
 </ul>
 
+<div class="row center">
+  <a href="{{ site.url }}/ENEF2023" id="about-button" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Vuelve a la página del ENEF</a>
+</div>
+
+
 <script type="text/javascript">
   function filterUsingCategory(selectedCategory) {
     var id = 0;
