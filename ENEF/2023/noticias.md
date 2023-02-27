@@ -7,7 +7,7 @@ redirect_from:
 
 <ul class="post-list">
   {% assign id = 0 %}
-  {% for post in site.categories.enef %}
+  {% for post in site.categories.enef2023 %}
     {% if post.hidden != true %}
       {% assign id = id | plus:1 %}
       <div  id="{{id}}">
@@ -32,7 +32,7 @@ redirect_from:
           {% endif %}
           {% if post.categories %}
             {% for category in post.categories %}
-              {% if category == 'enef' %}
+              {% if category == 'enef2023' %}
                 {% else %}
                   <div class="chip">
                     <span class="post-meta">
