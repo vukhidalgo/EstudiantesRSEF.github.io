@@ -8,6 +8,7 @@ redirect-from:
 ---
 
 <p style="text-align: justify;">¡Bienvenid@ a la página web oficial del Encuentro Nacional de Estudiantes de Física (ENEF)!</p>
+
 <p style="text-align: justify;">El ENEF es la conferencia que estabas esperando: cuatro días de charlas de física en investigación, industria y divulgación, con actividades de networking, visitas a laboratorios, una feria de empresas… ¡y oportunidades para que presentes tu propio trabajo! 
 Está organizado por y para estudiantes de grado, máster y doctorado en física en España.</p>
 
@@ -15,3 +16,7 @@ Está organizado por y para estudiantes de grado, máster y doctorado en física
 
 <p style="text-align: justify;">Sigue explorando la web para saber más detalles de la conferencia. 
 ¡Ven al ENEF y ayúdanos a seguir construyendo una comunidad de estudiantes con motivación, pasión y conexión!</p>
+
+<div class="row center">
+  <a href="{{ site.url }}/ENEF2023" id="about-button" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Accede a la página del ENEF</a>
+</div>
