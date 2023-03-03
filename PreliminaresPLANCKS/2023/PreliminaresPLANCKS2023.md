@@ -48,11 +48,20 @@ permalink: /PreliminaresPLANCKS2023/
       </div>
 
 <!-- COUNTDOWN -->
-      <div class="row">  
+      <!-- <div class="row">  
         <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2023 se cerrarán en...</p>
         <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
         <p style="text-align: justify;">¡No dejes tu inscripción para el último momento para asegurarnos que tendrás aulas y supervisores disponibles en tu facultad!</p>
-        <!-- <p style="text-align: justify;">Sólo para equipos con miembros del GdeE. El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p> -->
+        <p style="text-align: justify;">Sólo para equipos con miembros del GdeE. El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p>
+      </div> -->
+      
+<!-- FINAL INSCRIPCIONES -->
+      <div class="row">  
+        <p style="text-align: justify;">¡Las inscripciones para las Preliminares de PLANCKS 2023 han sido un éxito! Hemos vuelto a superar el número de participantes, con un total de...</p>
+        <h3 style="text-align: center;">60 equipos</h3>
+        <h3 style="text-align: center;">228 participantes</h3>
+        <h3 style="text-align: center;">16 sedes en 9 comunidades autónomas</h3>
+        <p style="text-align: justify;">¡Gracias por ser parte de las Preliminares de PLANCKS 2023 y contribuir a su éxito!</p>
       </div>
 
 
