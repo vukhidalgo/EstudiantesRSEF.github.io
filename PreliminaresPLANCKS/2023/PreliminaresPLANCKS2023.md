@@ -38,12 +38,10 @@ permalink: /PreliminaresPLANCKS2023/
           <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
         </div>
         <div class="row center">
-          <!--<a href="#equipos-modal" id="equipos-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Equipos</a>-->
           <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
           <a href="#plancks-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
           <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">star</i>Premios</a>
           <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
-          <!-- <a href="https://forms.gle/v8owEfCFjK4BNaD68" id="inscripcion-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a> -->
         </div>
       </div>
 
@@ -64,39 +62,30 @@ permalink: /PreliminaresPLANCKS2023/
         <p style="text-align: justify;">¡Gracias por ser parte de las Preliminares de PLANCKS 2023 y contribuir a su éxito!</p>
       </div>
 
-
-<!-- COMITÉS -->
-      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
-    </div>
-
 <!-- AUTORES -->
 
-<!--    <div class="section">
-      <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
-        <p style="text-align: justify;">
-          Los miembros del Comité Académico de las Preliminares PLANCKS 2022 son:
-        </p>
+      <div class="section">
+        <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
+        <p style="text-align: justify;">Los miembros del Comité Académico de las Preliminares PLANCKS 2023 son:</p>
 
-       <div class="col s12 m6">
-         <div class="row center">
-         {% for person in site.persons %}
-         {% if person.evento contains "Prelis2022" %}
-         {% if person.presi contains "YES" %}
-           <ul class="collection waves-effect waves-light" style="width: 40%">
-             <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-               <li class="collection-item avatar2">
-                 <img src="{{ person.img }}" alt="" class="circle">
-                 <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
-                 <p style="padding-top: 10px">{{ person.rol }}</p>
-               </li>
-             </a>
-           </ul>
-         {% endif %}
-         {% endif %}
-         {% endfor %}    
-         </div>
+        <div class="col s12 m6">
+          <div class="row center">
+            {% for person in site.persons %}
+            {% if person.evento contains "Prelis2022" %}
+              <ul class="collection waves-effect waves-light" style="width: 40%">
+                <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+                  <li class="collection-item avatar2">
+                    <img src="{{ person.img }}" alt="" class="circle">
+                    <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
+                    <p style="padding-top: 10px">{{ person.rol }}</p>
+                  </li>
+                </a>
+              </ul>
+            {% endif %}
+            {% endfor %}    
+          </div>
 
-         <div class="row center">
+         <!-- <div class="row center">
          {% for person in site.persons %}
          {% if person.evento contains "Prelis2022" %}
          {% if person.presi contains "NO" %}
@@ -112,9 +101,14 @@ permalink: /PreliminaresPLANCKS2023/
          {% endif %}
          {% endif %}
          {% endfor %}    
-         </div>
+         </div> -->
        </div>
-     </div> -->
+     </div>
+
+<!-- COMITÉS -->
+      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
+    </div>
+
 
 
      <!-- Modal PONENTES -->
