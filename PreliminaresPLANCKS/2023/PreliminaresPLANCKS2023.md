@@ -54,16 +54,17 @@ permalink: /PreliminaresPLANCKS2023/
       </div> -->
       
 <!-- FINAL INSCRIPCIONES -->
-      <div class="row">  
-        <p style="text-align: justify;">¡Las inscripciones para las Preliminares de PLANCKS 2023 han sido un éxito! Hemos vuelto a superar el número de participantes, con un total de...</p>
-        <h3 style="text-align: center;">60 equipos</h3>
-        <h3 style="text-align: center;">228 participantes</h3>
-        <h3 style="text-align: center;">16 sedes en 9 comunidades autónomas</h3>
-        <p style="text-align: justify;">¡Gracias por ser parte de las Preliminares de PLANCKS 2023 y contribuir a su éxito!</p>
+      <div class="section">  
+        <div class="row center">
+          <p style="text-align: justify;">¡Las inscripciones para las Preliminares de PLANCKS 2023 han sido un éxito! Hemos vuelto a superar el número de participantes, con un total de...</p>
+          <h3 style="text-align: center;">60 equipos</h3>
+          <h3 style="text-align: center;">228 participantes</h3>
+          <h3 style="text-align: center;">16 sedes en 9 comunidades autónomas</h3>
+          <p style="text-align: justify;">¡Gracias por ser parte de las Preliminares de PLANCKS 2023 y contribuir a su éxito!</p>
+        </div>
       </div>
 
 <!-- AUTORES -->
-
       <div class="section">
         <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
         <p style="text-align: justify;">Los miembros del Comité Académico de las Preliminares PLANCKS 2023 son:</p>
@@ -71,7 +72,7 @@ permalink: /PreliminaresPLANCKS2023/
         <div class="col s12 m6">
           <div class="row center">
             {% for person in site.persons %}
-            {% if person.evento contains "Prelis2022" %}
+            {% if person.evento contains "Prelis2023" %}
               <ul class="collection waves-effect waves-light" style="width: 40%">
                 <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                   <li class="collection-item avatar2">
