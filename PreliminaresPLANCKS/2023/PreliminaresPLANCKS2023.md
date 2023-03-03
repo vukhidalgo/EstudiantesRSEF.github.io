@@ -13,18 +13,18 @@ permalink: /PreliminaresPLANCKS2023/
 
 
 <!-- RESULTADOS -->
-<!--      <hr>
+      <!-- <hr>
       <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
-          <a href="https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view?usp=sharing" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2022</strong></a>
+          <a href="" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2022</strong></a>
         </span>
-      </h2>
-      <hr> -->
+      </h2> -->
 
 <!-- SOLUCIONES -->
-<!--      <h2 style="text-align: center;">
+      <!-- <hr>
+      <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
-          <a href="https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing" target="_blank"><strong>SOLUCIONES EXAMEN</strong></a>
+          <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></a>
         </span>
       </h2>
       <hr> -->
