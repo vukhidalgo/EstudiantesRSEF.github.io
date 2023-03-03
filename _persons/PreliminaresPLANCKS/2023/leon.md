@@ -5,7 +5,7 @@ nombre: "Juan León"
 aff: "Instituto de Física Fundamental (IFF-CSIC)"
 img: "/img/eventos/2023-PLANCKS/leon.jpg"
 rol: "Presidente del Comité Académico y autor del Problema 4"
-roldes: "Presidente del Comité Académico y autor del Problema 4"
+roldes: 'Presidente del Comité Académico y autor del Problema "The gravity of neutron waves"'
 linkedin: ""
 presi: "YES"
 
