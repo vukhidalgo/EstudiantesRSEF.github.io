@@ -21,13 +21,13 @@ permalink: /PreliminaresPLANCKS2023/
       </h2> -->
 
 <!-- SOLUCIONES -->
-      <!-- <hr>
+      <hr>
       <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
           <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></a>
         </span>
       </h2>
-      <hr> -->
+      <hr>
 
 <!-- INTRODUCCIÓN -->
       <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la sexta edición de las <strong>Preliminares de PLANCKS</strong>! Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
