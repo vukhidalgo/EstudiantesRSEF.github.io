@@ -30,6 +30,9 @@ site: https://estudiantes.rsef.es/FisicaYAhoraQue/
           María Benito es graduada por la Universidad Complutense de Madrid y Máster en Nanofísica y Materiales avanzados por la misma universidad. Tras varias estancias de investigación en IMDEA y en el CEA-Saclay, volvió a España para trabajar como Junior Quantum Hardware Engineer en Qilimanjaro QT. Y ahora… ¡Tenemos la suerte de que esté con nosotros!
         </p>
         <a href="https://forms.gle/jaQTPmR96v8bwLTr9" target="_blank" id="inscribete" class="btn-large waves-effect waves-light">¡Inscríbete a la charla!</a>
+	<p style="text-align: justify;">
+	  Recupera todas las charlas del ciclo <strong>Física, ¿y ahora qué?</strong> en <a href="https://estudiantes.rsef.es/FisicaYAhoraQue/" target="_blank">este enlace</a>.
+        </p>
       </div>
     </div>
     <div class="col s12 m6 l5" style="padding: 20px">
