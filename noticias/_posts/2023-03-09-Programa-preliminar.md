@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enef-post
 categories: enef2023
 title:  "Desvelado el programa preliminar del ENEF"
 date: 2023-03-09 00:01
