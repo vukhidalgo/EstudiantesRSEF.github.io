@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: enef_post
 categories: enef2023
 title:  "Reunión presencial de la Junta del GdeE"
 date: 2022-12-29 00:01
