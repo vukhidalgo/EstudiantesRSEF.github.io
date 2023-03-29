@@ -29,7 +29,7 @@
 #   url: /FisicaYAhoraQue/
 # - text: <strong>Gastrofísica</strong>
 #   url: /Gastrofisica/
- - text: <strong>PLANCKS 23</strong>
-   url: /PreliminaresPLANCKS2023/
-# - text: <strong>JORNADAS '21</strong>
-#   url: /JornadasVerano2021/
+# - text: <strong>PLANCKS 23</strong>
+#   url: /PreliminaresPLANCKS2023/
+ - text: <strong>ENEF 23</strong>
+   url: /ENEF2023/
