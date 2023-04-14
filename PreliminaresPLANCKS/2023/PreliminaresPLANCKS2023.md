@@ -16,7 +16,7 @@ permalink: /PreliminaresPLANCKS2023/
       <hr>
       <h2 style="text-align: center;">
         <span style="color: #A1A7EA;">
-          <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023.pdf" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2023</strong></a>
+          <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023_new.pdf" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2023</strong></a>
         </span>
       </h2>
 
