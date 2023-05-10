@@ -18,13 +18,13 @@ permalink: /ENEF2023/programa
 <!-- PROGRAMA -->
       <div class="section">
         <h4 id="programa">Programa</h4>
-	<p style="text-align: justify;">¡Ya está aquí el programa preliminar del ENEF! Podéis ver que contamos con las mejores oportunidades de networking, divulgación y desarrollo profesional. Aunque aun puede estar sujeto a cambios, cuenta con actividades interesantes como ponencias científicas, talleres de desarrollo profesional, visitas a laboratorios, oportunidades de networking, feria de empresas, concurso de presentaciones... combinado con actividades lúdicas y culturales como una fiesta de prau y una espicha asturiana. Además de un día extra en uno de los parajes naturales más bonitos de España.</p>
-        <p style="text-align: justify;">¿Te lo vas a perder? Comprueba que ya eres miembro del GdeE e <a href="{{ site.url }}/ENEF2023/#inscribete">inscríbete al ENEF</a>.</p>
+	<p style="text-align: justify;">¡Ya está aquí el programa del ENEF!</p>
+        <p style="text-align: justify;">¿Te lo vas a perder? Consulta el resto de información en la <a href="{{ site.url }}/ENEF2023">web del ENEF</a>.</p>
         <div class="row">
-          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-2.png">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-3.png">
         </div>
 	
-	<h3 id="concurso-tesis">En el ENEF contaremos con...</h3>
+	<h3 id="ponentes">En el ENEF contaremos con...</h3>
 	<p style="text-align: justify;">¡Descubre los mejores ponentes que nos acompañarán durante el ENEF!</p>
 
       </div>
