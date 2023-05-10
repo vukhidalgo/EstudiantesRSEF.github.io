@@ -24,10 +24,8 @@ permalink: /ENEF2023/programa
           <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-2.png">
         </div>
 	
-	<h3 id="concurso-tesis">¡Preséntame tu tesis en 5 minutos!</h3>
-	<p style="text-align: justify;">También queremos que TÚ seas el protagonista de este programa.
-	Si te gusta la divulgación y quieres probar tus dotes artísticos, ¡te presentamos el mejor lugar: el concurso “Preséntame tu tesis en 5 minutos”! Puedes presentar un proyecto de investigación personal, tu TFG, TFM o una parte de tu tesis, o un proyecto de una asignatura.</p>
-	<p style="text-align: justify;">Si quieres participar en este concurso o te lo estás pensando, indícalo en el formulario de inscripción y reservamos tu plaza. Además, <strong>aquellas personas que nos indiquen que quieren participar tendrán más posibilidades de recibir una plaza en el ENEF</strong>. Más adelante te explicaremos el funcionamiento más concreto y te pediremos el título y el abstract de tu presentación, junto con la composición del jurado. La presentación con mejor equilibrio entre calidad científica, capacidad de síntesis y divulgación amena será la ganadora y... ¡recibirá un PREMIO!</p>
+	<h3 id="concurso-tesis">En el ENEF contaremos con...</h3>
+	<p style="text-align: justify;">¡Descubre los mejores ponentes que nos acompañarán durante el ENEF!</p>
 
       </div>
 	    
@@ -35,7 +33,7 @@ permalink: /ENEF2023/programa
        <div class="col s12 m6">
          <div class="row center">
          {% for person in site.persons %}
-         {% if person.evento contains "JornadasVerano2021" %}
+         {% if person.evento contains "ENEF2023" %}
          {% if person.destacado contains "YES" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
