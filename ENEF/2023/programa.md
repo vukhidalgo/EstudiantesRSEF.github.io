@@ -18,17 +18,27 @@ permalink: /ENEF2023/programa
 <!-- PROGRAMA -->
       <div class="section">
         <h4 id="programa">Programa</h4>
-	<p style="text-align: justify;">¡Ya está aquí el programa del ENEF!</p>
-        <p style="text-align: justify;">¿Te lo vas a perder? Consulta el resto de información en la <a href="{{ site.url }}/ENEF2023">web del ENEF</a>.</p>
-        <div class="row">
-          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-3.png">
-        </div>
-	
-	<h3 id="ponentes">En el ENEF contaremos con...</h3>
-	<p style="text-align: justify;">¡Descubre los mejores ponentes que nos acompañarán durante el ENEF!</p>
-
+	<p style="text-align: justify;">¡Ya está aquí el programa del ENEF! ¿Te lo vas a perder? Consulta el resto de información en la <a href="{{ site.url }}/ENEF2023">web del ENEF</a>.</p>
       </div>
 	    
+      <div class="section" id="content-desktop">
+        <div class="row">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-3.png">
+        </div>	 
+      </div>
+      <div class="section" id="content-mobile">
+        <div class="row">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-4.png">
+        </div>
+      </div>
+
+      <div class="section">
+	<h3 id="ponentes">En el ENEF contaremos con...</h3>
+	<p style="text-align: justify;">¡Descubre los mejores ponentes que nos acompañarán durante el ENEF!</p>
+      </div>
+	    
+	    
+<!-- PONENTES -->    
       <div class="section">
        <div class="col s12 m6">
          <div class="row center">
