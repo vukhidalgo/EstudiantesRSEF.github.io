@@ -1,0 +1,242 @@
+---
+layout: enef
+title: Encuentro Nacional de Estudiantes de Física 2023
+hidden: true
+permalink: /ENEF2023/programa
+---
+
+<div class="no-pad-top" id="index-page">
+  <div class="container">
+  
+    <div class="section">
+
+
+<!-- BANNER -->
+      <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Banner-5.png">
+
+<!-- INTRODUCCIÓN -->
+      <p style="text-align: justify;">¡Bienvenid@ a la página web oficial del Encuentro Nacional de Estudiantes de Física (ENEF)!</p>
+      <p style="text-align: justify;">El ENEF es la conferencia que estabas esperando: cuatro días de charlas de física en investigación, industria y divulgación, con actividades de networking, visitas a laboratorios, una feria de empresas… ¡y oportunidades para que presentes tu propio trabajo! 
+Está organizado por y para estudiantes de grado, máster y doctorado en física en España.</p>
+      <p style="text-align: justify;">Sigue explorando la web para saber más detalles de la conferencia. 
+¡Ven al ENEF y ayúdanos a seguir construyendo una comunidad de estudiantes con motivación, pasión y conexión!</p>
+
+<!-- BOTONES -->
+      <div class="section">
+        <div class="row">
+          <div class="col s6 m6 l3">
+            <div class="row center">
+              <a href="#objetivos" id="boton-objetivos" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Objetivos</a>
+            </div>
+          </div>
+          <div class="col s6 m6 l3">
+            <div class="row center">
+              <a href="#programa" id="boton-programa" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Programa</a>
+            </div>
+          </div>
+          <div class="col s6 m6 l3">
+            <div class="row center">
+              <a href="#logistica" id="boton-logistica" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Logística</a>
+            </div>
+          </div>
+	  <div class="col s6 m6 l3">
+            <div class="row center">
+              <a href="#inscribete" id="boton-inscribete" class="btn-large waves-effect waves-light" style="color:#000000;background-color:#E8C005">¡Inscríbete!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+<!-- FOTOS -->
+      <div class="section" id="content-desktop">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="row center">
+              <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Foto-Todas.png">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="section" id="content-mobile">
+        <div class="row">
+          <div class="col s12 m12 l12">
+            <div class="row center">
+              <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Foto-Cuadradas.png">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <h4 id="objetivos">Objetivos</h4>
+<!-- OBJETIVOS -->
+      <div class="section">
+        <div class="row">
+	  <div class="col s0 m1 l2">
+	    <div class="row center"></div>
+	  </div>
+	  <div class="col s12 m10 l8">
+	    <div class="row center">
+              <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Objetivos-3.png">
+	    </div>
+	  </div>
+	  <div class="col s0 m1 l2">
+	    <div class="row center"></div>
+	  </div>
+        </div>
+      </div>
+
+	
+<!-- PROGRAMA -->
+      <div class="section">
+        <h4 id="programa">Programa</h4>
+	<p style="text-align: justify;">¡Ya está aquí el programa preliminar del ENEF! Podéis ver que contamos con las mejores oportunidades de networking, divulgación y desarrollo profesional. Aunque aun puede estar sujeto a cambios, cuenta con actividades interesantes como ponencias científicas, talleres de desarrollo profesional, visitas a laboratorios, oportunidades de networking, feria de empresas, concurso de presentaciones... combinado con actividades lúdicas y culturales como una fiesta de prau y una espicha asturiana. Además de un día extra en uno de los parajes naturales más bonitos de España.</p>
+        <p style="text-align: justify;">¿Te lo vas a perder? Comprueba que ya eres miembro del GdeE e <a href="{{ site.url }}/ENEF2023/#inscribete">inscríbete al ENEF</a>.</p>
+        <div class="row">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-2.png">
+        </div>
+	
+	<h3 id="concurso-tesis">¡Preséntame tu tesis en 5 minutos!</h3>
+	<p style="text-align: justify;">También queremos que TÚ seas el protagonista de este programa.
+	Si te gusta la divulgación y quieres probar tus dotes artísticos, ¡te presentamos el mejor lugar: el concurso “Preséntame tu tesis en 5 minutos”! Puedes presentar un proyecto de investigación personal, tu TFG, TFM o una parte de tu tesis, o un proyecto de una asignatura.</p>
+	<p style="text-align: justify;">Si quieres participar en este concurso o te lo estás pensando, indícalo en el formulario de inscripción y reservamos tu plaza. Además, <strong>aquellas personas que nos indiquen que quieren participar tendrán más posibilidades de recibir una plaza en el ENEF</strong>. Más adelante te explicaremos el funcionamiento más concreto y te pediremos el título y el abstract de tu presentación, junto con la composición del jurado. La presentación con mejor equilibrio entre calidad científica, capacidad de síntesis y divulgación amena será la ganadora y... ¡recibirá un PREMIO!</p>
+
+      </div>
+
+
+<!-- LOGÍSTICA -->
+      <div class="section">
+        <div class="row">
+          <div class="col s12 m6 l8">
+            <div class="row">
+              <h4 id="logistica">Logística</h4>
+              <p style="text-align: justify;">El ENEF se celebrará <strong>del 26 al 29 de julio en Oviedo</strong>, capital de Asturias. Próximamente publicaremos más información sobre las instalaciones donde tendrán lugar las distintas actividades y cómo llegar a Oviedo de la forma más rápida y cómoda.</p>
+            </div>
+          </div>
+          <div class="col s12 m6 l4" style="padding: 20px">
+            <img class="materialboxed" width="90%" src="/img/eventos/2023-ENEF/Logo.png">
+          </div>
+        </div>
+	<div class="row">
+	  <p style="text-align: justify;">De momento, estamos contentos de anunciar que nos alojaremos en el <a href="https://sangregorio.uniovi.es/"  target="_blank">Colegio Mayor San Gregorio</a>. ¡Muchas gracias por vuestra colaboración!</p>
+	</div>
+      </div>
+	  
+
+<!-- NOTICIAS -->
+      <div class="section">
+        <div class="row">
+          <div class="col s12 m12">
+            <h3 id="noticias">Las últimas noticias del ENEF</h3>
+            <div class="blog-index">
+              {% assign maxCountBlog = 3 %}
+              {% assign countBlog = 0 %}
+              {% for post in site.categories['enef2023'] %}
+                {% if post.hidden != true and countBlog < maxCountBlog and post.date != nil %}
+                  {% assign countBlog = countBlog | plus: 1 %}
+                  {% assign post = site.posts.first %}
+                  {% assign content = post.excerpt %}
+                  {% include post_enef_detail.html %}
+                {% endif %}
+              {% endfor %}
+              <div class="divider"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row center">
+          <a href="{{ site.url }}/ENEF2023/Noticias" id="about-button" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Accede a todas las noticias del ENEF</a>
+        </div>
+      </div>
+
+	    
+<!-- INSCRIPCIÓN -->
+      <div class="section">
+        <h4 id="inscribete">¡Inscríbete!</h4>
+	<p style="text-align: justify;">Abrimos las inscripciones de las primeras plazas al ENEF, cuya cuota de inscripción son 100€ con todo incluido (alojamiento, comida y actividades). En la segunda ronda de inscripciones, a partir de las 70 plazas, el precio subirá a 110€ y en la tercera a 120€, ¡así que te recomendamos inscribirte con tiempo! Esta cuota no incluye la noche extra del 29 al 30 y la actividad especial, de la cual tendréis información en unos días.</p>
+	<p style="text-align: justify;">Además, debido al límite de participantes que tenemos, <strong>la inscripción no queda aceptada automáticamente, sino que tienes que esperar a nuestra confirmación por correo</strong>. A continuación te detallamos los pasos a seguir.</p>
+        <!-- <p style="text-align: justify;">Para inscribirte te lo ponemos muy fácil, solo debes seguir los siguientes pasos:</p> -->
+        <div class="row">
+          <!-- <div class="col s12 m8 l8">
+            <div class="row center">
+              <h2>Para que no te quedes sin plaza, danos tu dirección de mail y te avisamos cuando se abran las inscripciones.</h2>
+            </div>
+          </div>
+	  <div class="col s12 m4 l4">
+            <div class="row center">
+              <a href="https://form.jotform.com/230614532405042" target="_blank" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color:#000000; background-color:#E8C005; display: inline-flex; align-items: center; margin-bottom: 5px;">Pre-registro</a>
+	      <p>Gratis y sin compromiso.</p>
+            </div>
+          </div> --> 
+          <div class="col s12 m12 l12">
+            <div class="row center">
+              <h2>Paso 1:</h2>
+              <a href="{{ site.url }}/inscripcion" target="_blank" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB">Inscripción Grupo Estudiantes RSEF</a>
+              <p>Hazlo cuanto antes para que tengamos tiempo de procesarlo.</p>
+            </div>
+          </div>
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <h2>Paso 2:</h2>
+              <a href="{{ site.url }}/ENEF2023/inscripcion" target="_blank" class="btn-large waves-effect waves-light" style="color:#FFFFFF;background-color:#313FBB;border-color:#888888;border-width:4px">Inscripción ENEF</a>
+            </div>
+          </div>
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <h2>Paso 3:</h2>
+              <a href="#modal-pago" class="collection-item modal-trigger btn-large waves-effect waves-light" style="color:#000000; background-color:#EFF1F4; display: inline-flex; align-items: center; margin-bottom: 5px;">Pago</a>
+	      <p>Aún no disponible.</p>
+            </div>
+          </div>
+        </div>
+	<p style="text-align: justify;">¡Después de esto solo debes planear tu viaje hasta Oviedo y cargar pilas para vernos a finales de julio!</p>
+	<p style="text-align: justify;">Si tienes alguna duda, escríbenos a <a href="mailto:estudiantes@rsef.es?subject=[ENEF 2023]">estudiantes@rsef.es</a>.</p>
+      </div>
+	  
+<!-- SPONSORS -->
+      <div class="section">
+        <h2>Organiza:</h2>
+        <div class="row">
+          <div class="col s12 m6 l6">
+            <img id="logo GdeE" class="materialboxed" width="100%" src="/img/logos/gdee-rsef.png" alt="Grupo de Estudiantes de la RSEF">
+          </div>
+	</div>
+	<h2>Colaboradores oro:</h2>
+        <div class="row">	
+          <div class="col s12 m6 l5">
+            <img id="logo EPS-YM" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/YoungMinds.png" alt="European Physical Society - Young Minds">
+          </div>
+	</div>
+	<h2>Colaboradores plata:</h2>
+	<div class="row">
+	  <div class="col s12 m4 l4">
+            <img id="logo TKELEVATOR" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/TKE.png" alt="TKElevator">
+          </div>
+	  <div class="col s12 m4 l4">
+            <img id="logo TIMEO" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/FATineo.png" alt="Fundación Automáticos Tineo">
+          </div>
+	  <div class="col s12 m4 l4">
+            <img id="logo CASIO" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CDE.png" alt="CASIO">
+          </div>
+        </div>
+      </div>
+	  
+    </div>
+	   
+    
+  </div>
+</div>
+
+<!-- MODAL PAGO -->
+<div id="modal-pago" class="modal">
+  <div class="modal-content-tight">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+      <div class="row center">
+        <h3 class="justify">Pago</h3>
+        <p style="text-align: justify;">Cuando hayamos confirmado tu participación deberás pagar la cuota de inscripción, 100€ con todo incluido (comidas, alojamiento, actividades, etc.). Te especificaremos más detalles sobre cómo hacerlo por correo electrónico.</p>
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
