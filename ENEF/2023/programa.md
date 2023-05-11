@@ -120,7 +120,7 @@ permalink: /ENEF2023/programa
 <!-- Modal PONENTES -->
 
 {% for person in site.persons %}
-{% if person.evento contains "JornadasVerano2021" %}
+{% if person.evento contains "ENEF2023" %}
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
