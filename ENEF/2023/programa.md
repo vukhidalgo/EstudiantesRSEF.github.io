@@ -43,43 +43,36 @@ permalink: /ENEF2023/programa
             <div class="row center">
               <ul class="collapsible">
                 <li>
-		  <div class="collapsible-header"><h5>Miércoles 26</h5></div>
+		  <div class="collapsible-header">Miércoles 26</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">12:00</p>
-			<p style="padding: 5px; text-align: center;">Check-in</p>
+                        <p style="padding: 5px; text-align: center;">12:00 - Check-in</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">13:30</p>
-			<p style="padding: 5px; text-align: center;">Comida</p>
+                        <p style="padding: 5px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">16:30</p>
-			<p style="padding: 5px; text-align: center;">Bienvenida</p>
+                        <p style="padding: 5px; text-align: center;">16:30 - Bienvenida</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">17:00</p>
-			<p style="padding: 5px; text-align: center;">Ponencia inaugural</p>
+                        <p style="padding: 5px; text-align: center;">17:00 - Ponencia inaugural</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">18:30</p>
-			<p style="padding: 5px; text-align: center;">Recepción institucional</p>
+                        <p style="padding: 5px; text-align: center;">18:30 - Recepción institucional</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">18:45</p>
-			<p style="padding: 5px; text-align: center;">Gincana por Oviedo</p>
+                        <p style="padding: 5px; text-align: center;">18:45 - Gincana por Oviedo</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">21:00</p>
-			<p style="padding: 5px; text-align: center;">Cena inaugural</p>
+                        <p style="padding: 5px; text-align: center;">21:00 - Cena inaugural</p>
 		      </div></li>
                     </ul>
                   </div>
                 </li>
 		<li>
-                  <div class="collapsible-header"><h5>Jueves 27</h5></div>
+                  <div class="collapsible-header">Jueves 27</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
@@ -120,7 +113,7 @@ permalink: /ENEF2023/programa
             <div class="row center">
               <ul class="collapsible">
                 <li>
-                  <div class="collapsible-header"><h5>Viernes 28</h5></div>
+                  <div class="collapsible-header">Viernes 28</div>
                   <div class="collapsible-body">
                     <ul class="collection">
 		      <li class="collection-item"><div style="text-align: left;">
@@ -131,6 +124,7 @@ permalink: /ENEF2023/programa
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 5px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
+			<p style="text-align: center;">con <strong>Laura Lechuga</strong></p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 5px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
@@ -142,33 +136,33 @@ permalink: /ENEF2023/programa
                   </div>
                 </li>
 		<li>
-                  <div class="collapsible-header"><h5>Sábado 29</h5></div>
+                  <div class="collapsible-header">Sábado 29</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">8:00 - Desayuno y check-out</p>
+                        <p style="padding: 0px; text-align: center;">8:00 - Desayuno y check-out</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">10:00 - Taller de divulgación</p>
+                        <p style="padding: 0px; text-align: center;">10:00 - Taller de divulgación</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">10:30 - Coffee break</p>
+                        <p style="padding: 0px; text-align: center;">10:30 - Coffee break</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">10:45 - Concurso pitch</p>
+                        <p style="padding: 0px; text-align: center;">10:45 - Concurso pitch</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">12:00 - Entrega de premios</p>
+                        <p style="padding: 0px; text-align: center;">12:00 - Entrega de premios</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">12:15 - Junta GdeE</p>
+                        <p style="padding: 0px; text-align: center;">12:15 - Junta GdeE</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">13:00 - Ponencia de clausura</p>
+                        <p style="padding: 0px; text-align: center;">13:00 - Ponencia de clausura</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">14:00 - Comida</p>
+                        <p style="padding: 0px; text-align: center;">14:00 - Comida</p>
 		      </div></li>
                     </ul>
                   </div>
@@ -194,6 +188,8 @@ permalink: /ENEF2023/programa
          {% if person.visible contains "SÍ" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		     
+		     https://estudiantes.rsef.es/ENEF2023/programa#ponentes1-LauraLechuga-modal
                <li class="collection-item avatar2">
                  <img src="{{ person.img }}" alt="" class="circle">
                  {% if person.nombredes %}
