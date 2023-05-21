@@ -47,12 +47,34 @@ permalink: /ENEF2023/programa
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
-		      <li>
-		      <div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">11:00</p>
-			<p style="padding: 5px; text-align: center;">Bienvenida y check-in</p>
-		      </div>
-		      </li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">12:00</p>
+			<p style="padding: 5px; text-align: center;">Check-in</p>
+		      </div></li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">13:30</p>
+			<p style="padding: 5px; text-align: center;">Comida</p>
+		      </div></li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">16:30</p>
+			<p style="padding: 5px; text-align: center;">Bienvenida</p>
+		      </div></li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">17:00</p>
+			<p style="padding: 5px; text-align: center;">Ponencia inaugural</p>
+		      </div></li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">18:30</p>
+			<p style="padding: 5px; text-align: center;">Recepción institucional</p>
+		      </div></li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">18:45</p>
+			<p style="padding: 5px; text-align: center;">Gincana por Oviedo</p>
+		      </div></li>
+		      <li><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">21:00</p>
+			<p style="padding: 5px; text-align: center;">Cena inaugural</p>
+		      </div></li>
                     </ul>
                   </div>
                 </li>
