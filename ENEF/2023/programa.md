@@ -43,7 +43,7 @@ permalink: /ENEF2023/programa
             <div class="row center">
               <ul class="collapsible">
                 <li>
-                  <div class="collapsible-header">Miércoles 26</div>
+		  <div class="collapsible-header"><h5>Miércoles 26</h5></div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
@@ -79,7 +79,7 @@ permalink: /ENEF2023/programa
                   </div>
                 </li>
 		<li>
-                  <div class="collapsible-header">Jueves 27</div>
+                  <div class="collapsible-header"><h5>Jueves 27</h5></div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
@@ -109,6 +109,66 @@ permalink: /ENEF2023/programa
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 5px; text-align: center;">20:00 - Espicha asturiana</p>
+		      </div></li>
+                    </ul>
+                  </div>
+                </li>
+	      </ul>
+	    </div>
+	  </div>
+          <div class="col s12 m6 l6">
+            <div class="row center">
+              <ul class="collapsible">
+                <li>
+                  <div class="collapsible-header"><h5>Viernes 28</h5></div>
+                  <div class="collapsible-body">
+                    <ul class="collection">
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">Mañana - Excursiones</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">13:30 - Comida</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">21:00 - Cena de clausura</p>
+		      </div></li>
+                    </ul>
+                  </div>
+                </li>
+		<li>
+                  <div class="collapsible-header"><h5>Sábado 29</h5></div>
+                  <div class="collapsible-body">
+                    <ul class="collection">
+                      <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">8:00 - Desayuno y check-out</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">10:00 - Taller de divulgación</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">10:30 - Coffee break</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">10:45 - Concurso pitch</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">12:00 - Entrega de premios</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">12:15 - Junta GdeE</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">13:00 - Ponencia de clausura</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 5px; text-align: center;">14:00 - Comida</p>
 		      </div></li>
                     </ul>
                   </div>
