@@ -48,11 +48,9 @@ permalink: /ENEF2023/programa
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
 		      <div style="text-align: left;">
-                        <p style="padding: 0px">11:00</p>
-                      </div>
-		      <div style="text-align: left;">
-                        <p style="padding: 0px">Bienvenida y check-in</p>
-                      </div>
+                        <p style="padding: 5px">11:00</p>
+			<p style="padding: 5px">Bienvenida y check-in</p>
+		      </div>
                     </ul>
                   </div>
                 </li>
