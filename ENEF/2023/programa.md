@@ -44,7 +44,7 @@ permalink: /ENEF2023/programa
          <div class="row center">
          {% for person in site.persons %}
          {% if person.evento contains "ENEF2023" %}
-         {% if person.destacado contains "YES" %}
+         {% if person.visible contains "SÍ" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
@@ -134,8 +134,8 @@ permalink: /ENEF2023/programa
         </div>
         <div class="col s12 m6 l6">        
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h3 class="justify">{{ person.nombre }}</h3>
-            <h5 class="justify">Biografía y Contenido Recomendado</h5>
+            <h2 class="justify">{{ person.nombre }}</h2>
+            <h5 class="justify">{{ person.roldes }}</h5>
           </div>
         </div>
       </div>
@@ -143,7 +143,7 @@ permalink: /ENEF2023/programa
       <!-- Biografía -->
 
       <div class="row">
-        <h2 class="justify">Biografía</h2>
+        <h3 class="justify">Biografía</h3>
         {% if person.bio1 %}
           <p style="text-align: justify;">
 	    {{ person.bio1 }}
@@ -163,7 +163,7 @@ permalink: /ENEF2023/programa
       <!-- Recomendaciones -->
 
       <div class="row">
-        <h2 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h2>
+        <h3 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h3>
         {%- if person.book1title -%}
           {%- if person.book2title -%}<div class="col s12 m6 l6">{%- endif -%}     
             <div class="row center">
