@@ -54,15 +54,9 @@ permalink: /ENEF2023/programa
                  {% else %}
                  <span class="title" style="padding-left: 10px">{{ person.nombre }}</span>
                  {% endif %}
-                 {% if person.roldes %}
                  <p style="padding-top: 10px">
-                   {{ person.roldes }}
+                   {{ person.horario }}
                  </p>
-                 {% else %}
-                 <p style="padding-top: 10px">
-                   {{ person.rol }}
-                 </p>
-                 {% endif %}
                </li>
              </a>
            </ul>
