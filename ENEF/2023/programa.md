@@ -38,19 +38,21 @@ permalink: /ENEF2023/programa
 	    
       <div class="section">
         <div class="row center">
+	  <h2 style="text-align: center;">Programa detallado</h2>
           <div class="col s12 m6 l6">
             <div class="row center">
-              <h2 style="text-align: center;">Programa detallado</h2>
               <ul class="collapsible">
                 <li>
                   <div class="collapsible-header">Miércoles 26</div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
+		      <li>
 		      <div style="text-align: left;">
                         <p style="padding: 5px; text-align: center;">11:00</p>
 			<p style="padding: 5px; text-align: center;">Bienvenida y check-in</p>
 		      </div>
+		      </li>
                     </ul>
                   </div>
                 </li>
