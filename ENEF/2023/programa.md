@@ -126,10 +126,11 @@ permalink: /ENEF2023/programa
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
 			<p style="text-align: center;">con <strong>Laura Lechuga</strong></p>
 		      </div></li>
+		      <a href="#ponentes1-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
-			<p style="text-align: center;">con <a href="#ponentes1-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">Laura Lechuga</a></p>
+                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento con <strong>Laura Lechuga</strong></p>
 		      </div></li>
+		      </a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
 		      </div></li>
