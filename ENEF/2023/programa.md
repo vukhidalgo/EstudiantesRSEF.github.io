@@ -48,25 +48,25 @@ permalink: /ENEF2023/programa
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">12:00 - Check-in</p>
+                        <p style="padding: 0px; text-align: center;">12:00 - Check-in</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">13:30 - Comida</p>
+                        <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">16:30 - Bienvenida</p>
+                        <p style="padding: 0px; text-align: center;">16:30 - Bienvenida</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">17:00 - Ponencia inaugural</p>
+                        <p style="padding: 0px; text-align: center;">17:00 - Ponencia inaugural</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">18:30 - Recepción institucional</p>
+                        <p style="padding: 0px; text-align: center;">18:30 - Recepción institucional</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">18:45 - Gincana por Oviedo</p>
+                        <p style="padding: 0px; text-align: center;">18:45 - Gincana por Oviedo</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">21:00 - Cena inaugural</p>
+                        <p style="padding: 0px; text-align: center;">21:00 - Cena inaugural</p>
 		      </div></li>
                     </ul>
                   </div>
@@ -77,31 +77,31 @@ permalink: /ENEF2023/programa
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">8:00 - Desayuno</p>
+                        <p style="padding: 0px; text-align: center;">8:00 - Desayuno</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">9:00 - Ponencias científicas</p>
+                        <p style="padding: 0px; text-align: center;">9:00 - Ponencias científicas</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">10:30 - Coffee break</p>
+                        <p style="padding: 0px; text-align: center;">10:30 - Coffee break</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">11:00 - Talleres de desarrollo personal</p>
+                        <p style="padding: 0px; text-align: center;">11:00 - Talleres de desarrollo personal</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">13:30 - Comida</p>
+                        <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">16:00 - Ponencias de divulgación</p>
+                        <p style="padding: 0px; text-align: center;">16:00 - Ponencias de divulgación</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">17:30 - Coffee break</p>
+                        <p style="padding: 0px; text-align: center;">17:30 - Coffee break</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">18:00 - Mesa redonda de divulgación</p>
+                        <p style="padding: 0px; text-align: center;">18:00 - Mesa redonda de divulgación</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">20:00 - Espicha asturiana</p>
+                        <p style="padding: 0px; text-align: center;">20:00 - Espicha asturiana</p>
 		      </div></li>
                     </ul>
                   </div>
@@ -117,20 +117,24 @@ permalink: /ENEF2023/programa
                   <div class="collapsible-body">
                     <ul class="collection">
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">Mañana - Excursiones</p>
+                        <p style="padding: 0px; text-align: center;">Mañana - Excursiones</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">13:30 - Comida</p>
+                        <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
+                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
 			<p style="text-align: center;">con <strong>Laura Lechuga</strong></p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
+                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
+			<p style="text-align: center;">con <a href="#ponentes1-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">Laura Lechuga</a></p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 5px; text-align: center;">21:00 - Cena de clausura</p>
+                        <p style="padding: 0px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
+		      </div></li>
+		      <li class="collection-item"><div style="text-align: left;">
+                        <p style="padding: 0px; text-align: center;">21:00 - Cena de clausura</p>
 		      </div></li>
                     </ul>
                   </div>
@@ -188,8 +192,6 @@ permalink: /ENEF2023/programa
          {% if person.visible contains "SÍ" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		     
-		     https://estudiantes.rsef.es/ENEF2023/programa#ponentes1-LauraLechuga-modal
                <li class="collection-item avatar2">
                  <img src="{{ person.img }}" alt="" class="circle">
                  {% if person.nombredes %}
