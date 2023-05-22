@@ -122,10 +122,6 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
-		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
-			<p style="text-align: center;">con <strong>Laura Lechuga</strong></p>
-		      </div></li>
 		      <a href="#ponentes1-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento con <strong>Laura Lechuga</strong></p>
