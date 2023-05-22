@@ -20,8 +20,10 @@ permalink: /ENEF2023/programa
         <h4 id="programa">Programa</h4>
 	<p style="text-align: justify;">¡Ya está aquí el programa del ENEF! ¿Te lo vas a perder? Consulta el resto de información en la <a href="{{ site.url }}/ENEF2023">web del ENEF</a>.</p>
       </div>
-	    
+
+
       <div class="section" id="content-desktop">
+	<h5>Haz clic en la imagen para ver el programa en tamaño completo</h5>
         <div class="row">
           <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-3.png">
         </div>	 
@@ -204,11 +206,23 @@ permalink: /ENEF2023/programa
            </ul>
          {% endif %}
          {% endif %}
-         {% endfor %}    
+         {% endfor %}
+         <h5>...y muchos más, que desvelaremos próximamente.</h5>
          </div>
        </div>
      </div>
 
+     <div class="section">
+       <h3 id="espacios">Además visitaremos espacios como...</h3>
+       <p style="text-align: justify;">Instalaciones de la Universidad de Oviedo y laboratorios de física de los alrededores.</p>
+       <h5>Anuncios próximamente</h5>
+     </div>
+	    
+     <div class="section">
+       <h3 id="actividades">Y tenemos actividades de todo tipo</h3>
+       <p style="text-align: justify;">Tendremos oportunidades de networking, divulgación y desarrollo profesional únicas por estar en el ENEF.</p>
+       <h5>Anuncios próximamente</h5>
+     </div>
 
 	  
 <!-- SPONSORS -->
