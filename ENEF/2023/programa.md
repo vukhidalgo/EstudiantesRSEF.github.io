@@ -323,8 +323,8 @@ permalink: /ENEF2023/programa
       <!-- Recomendaciones -->
 
       <div class="row">
-        <h3 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h3>
         {%- if person.book1title -%}
+	  <h3 class="justify" style="padding-bottom: 12px;">Contenido Recomendado</h3>
           {%- if person.book2title -%}<div class="col s12 m6 l6">{%- endif -%}     
             <div class="row center">
               <a href="{{ person.book1link }}" target="_blank"><img class="responsive-img" style="width:50%; align: center;" src="{{ person.book1img }}"></a>
