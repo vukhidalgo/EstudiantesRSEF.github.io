@@ -45,7 +45,7 @@ permalink: /ENEF2023/programa
             <div class="row center">
               <ul class="collapsible">
                 <li>
-		  <div class="collapsible-header">Miércoles 26</div>
+		  <div class="collapsible-header"><strong>Miércoles 26</strong></div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
@@ -74,7 +74,7 @@ permalink: /ENEF2023/programa
                   </div>
                 </li>
 		<li>
-                  <div class="collapsible-header">Jueves 27</div>
+                  <div class="collapsible-header"><strong>Jueves 27</strong></div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
@@ -115,7 +115,7 @@ permalink: /ENEF2023/programa
             <div class="row center">
               <ul class="collapsible">
                 <li>
-                  <div class="collapsible-header">Viernes 28</div>
+                  <div class="collapsible-header"><strong>Viernes 28</strong></div>
                   <div class="collapsible-body">
                     <ul class="collection">
 		      <li class="collection-item"><div style="text-align: left;">
@@ -141,7 +141,7 @@ permalink: /ENEF2023/programa
                   </div>
                 </li>
 		<li>
-                  <div class="collapsible-header">Sábado 29</div>
+                  <div class="collapsible-header"><strong>Sábado 29</strong></div>
                   <div class="collapsible-body">
                     <ul class="collection">
                       <!-- <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">11:00h Bienvenida y check-in</a> -->
