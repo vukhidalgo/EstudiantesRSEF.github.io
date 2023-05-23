@@ -20,19 +20,4 @@ bio4: "En 2016 recibió el Premio RSEF-Fund.BBVA en la modalidad de Física, Inn
 
 recom: "YES"
 
-<!--
-book1title: ""
-book1img: ""
-book1link: ""
-book2title: ""
-book2img: ""
-book2link: ""
-videotitle: ""
-videolink: ""
-
-otherinfo1: ""
-otherinfo2: ""
-otherinfo3: ""
--->
-
 ---
