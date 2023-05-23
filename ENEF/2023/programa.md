@@ -125,10 +125,10 @@ permalink: /ENEF2023/programa
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
 		      <a href="#ponentes1-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento con <strong>Laura Lechuga</strong></p>
-			<p style="text-align; center;">"<strong>Del laboratorio al mercado: impulsando la innovación y el emprendimiento en tecnología de sensores.</strong>"</p>
-			<p style="text-align; center;">por <strong>Laura Lechuga</strong>.</p>      
+		      <li class="collection-item"><div style="text-align: center;">
+                        <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
+			<p style="padding: 0px; text-align: center;">"<strong>Del laboratorio al mercado: impulsando la innovación y el emprendimiento en tecnología de sensores.</strong>"</p>
+			<p style="padding: 0px; text-align: center;">por <strong>Laura Lechuga</strong>.</p>      
 		      </div></li>
 		      </a>
 		      <li class="collection-item"><div style="text-align: left;">
@@ -294,6 +294,14 @@ permalink: /ENEF2023/programa
 
       <!-- Biografía -->
 
+      <div class="row">
+        {% if person.charla %}
+          <p style="text-align: justify;">
+	    {{ person.charla }}
+          </p>
+        {% endif %}
+      </div>
+	    
       <div class="row">
         <h3 class="justify">Biografía</h3>
         {% if person.bio1 %}
