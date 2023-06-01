@@ -25,18 +25,15 @@ permalink: /ENEF2023/programa
       <div class="section" id="content-desktop">
 	<h5>Haz clic en la imagen para ver el programa en tamaño completo</h5>
         <div class="row">
-          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-3.png">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-5.png">
         </div>	 
       </div>
       <div class="section" id="content-mobile">
         <div class="row">
-          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-4.png">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-6.png">
         </div>
       </div>
 
-
-	    
-	    
 	    
       <div class="section">
         <div class="row center">
@@ -135,7 +132,7 @@ permalink: /ENEF2023/programa
                         <p style="padding: 0px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">21:00 - Cena de clausura</p>
+                        <p style="padding: 0px; text-align: center;">21:00 - Fiesta de clausura</p>
 		      </div></li>
                     </ul>
                   </div>
@@ -152,10 +149,10 @@ permalink: /ENEF2023/programa
                         <p style="padding: 0px; text-align: center;">10:00 - Taller de divulgación</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">10:30 - Coffee break</p>
+                        <p style="padding: 0px; text-align: center;">10:30 - Concurso pitch</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">10:45 - Concurso pitch</p>
+                        <p style="padding: 0px; text-align: center;">11:45 - Coffee break</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">12:00 - Entrega de premios</p>
@@ -164,7 +161,7 @@ permalink: /ENEF2023/programa
                         <p style="padding: 0px; text-align: center;">12:15 - Junta GdeE</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
-                        <p style="padding: 0px; text-align: center;">13:00 - Ponencia de clausura</p>
+                        <p style="padding: 0px; text-align: center;">12:45 - Ponencia de clausura</p>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">14:00 - Comida</p>
