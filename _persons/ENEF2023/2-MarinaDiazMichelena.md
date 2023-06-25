@@ -2,7 +2,7 @@
 layout: person
 categories: ponentes
 evento: "ENEF2023"
-nombre: "Dra. María Díaz Michelena"
+nombre: "Dra. Marina Díaz Michelena"
 img: "/img/eventos/2023-ENEF/ponentes/MarinaDiazMichelena.png"
 rol: "Investigadora en el INTA"
 roldes: "Investigadora en el INTA"
