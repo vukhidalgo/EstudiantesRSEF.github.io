@@ -80,7 +80,7 @@ permalink: /ENEF2023/programa
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">9:00 - Ponencias científicas simultáneas</p>
-			<a href="#ponentes2-MarinaDiazMichelena-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+			<a href="#ponentes6-MarinaDiazMichelena-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
    			  <p style="padding: 0px; text-align: center;">"<strong>Nuevos horizontes de magnetometría en Marte y la Luna. Entrenamiento a través de investigaciones en análogos terrestres</strong>"</p>
 			  <p style="padding: 0px; text-align: center;">por <strong>Marina Díaz Michelena</strong>.</p>
 			</a>
@@ -98,7 +98,7 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de divulgación</p>
 		      </div></li>
-		      <a href="#ponentes3-AnabelForte-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		      <a href="#ponentes4-AnabelForte-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
 		      <li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:30 - Ponencia de divulgación</p>
 			<p style="padding: 0px; text-align: center;">"<strong>Hablemos de física incierta</strong>"</p>
@@ -136,7 +136,7 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
-		      <a href="#ponentes1-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		      <a href="#ponentes2-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
 		      <li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
 			<p style="padding: 0px; text-align: center;">"<strong>Del laboratorio al mercado: impulsando la innovación y el emprendimiento en tecnología de sensores.</strong>"</p>
