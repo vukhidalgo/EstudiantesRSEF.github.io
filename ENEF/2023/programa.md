@@ -213,7 +213,6 @@ permalink: /ENEF2023/programa
          <div class="row center">
          {% for person in site.persons %}
          {% if person.evento contains "ENEF2023" %}
-         {% if person.categories contains ponentes %}
          {% if person.visible contains "SÍ" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
@@ -230,7 +229,6 @@ permalink: /ENEF2023/programa
                </li>
              </a>
            </ul>
-         {% endif %}
          {% endif %}
          {% endif %}
          {% endfor %}
@@ -298,7 +296,6 @@ permalink: /ENEF2023/programa
 
 {% for person in site.persons %}
 {% if person.evento contains "ENEF2023" %}
-{% if person.categories contains ponentes %}
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
@@ -419,7 +416,6 @@ permalink: /ENEF2023/programa
   </div>
 </div>
 
-{% endif %}
 {% endif %}
 {% endfor %}
 
