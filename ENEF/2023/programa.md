@@ -88,7 +88,14 @@ permalink: /ENEF2023/programa
    			  <p style="padding: 0px; text-align: center;">"<strong>Nuevos horizontes de magnetometría en Marte y la Luna. Entrenamiento a través de investigaciones en análogos terrestres</strong>"</p>
 			  <p style="padding: 0px; text-align: center;">por <strong>Marina Díaz Michelena</strong>.</p>
 			</a>
-   			  <p style="padding: 0px; text-align: center;">y dos ponencias más...</p>
+   			<a href="#ponentes8-DeniaVilches-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+   			  <p style="padding: 0px; text-align: center;">"<strong>Radiofísica hospitalaria</strong>"</p>
+			  <p style="padding: 0px; text-align: center;">por <strong>Denia Vilches</strong>.</p>
+			</a>
+			<a href="#ponentes9-RaulDelCoso-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+   			  <p style="padding: 0px; text-align: center;">"<strong>Física en acción: del mundo académico a la realidad empresarial; impactando en las transformaciones digital y energética.</strong>"</p>
+			  <p style="padding: 0px; text-align: center;">por <strong>Raúl del Coso</strong>.</p>
+			</a>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">10:30 - Coffee break</p>
