@@ -55,9 +55,13 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">16:30 - Bienvenida</p>
 		      </div></li>
-		      <li class="collection-item"><div style="text-align: left;">
+		      <a href="#ponentes1-KipThorne-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		      <li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">17:00 - Ponencia inaugural</p>
+			<p style="padding: 0px; text-align: center;">"<strong>The Science of Interstellar</strong>"</p>
+			<p style="padding: 0px; text-align: center;">por <strong>Kip Thorne</strong>.</p>      
 		      </div></li>
+		      </a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">18:30 - Recepción institucional</p>
 		      </div></li>
