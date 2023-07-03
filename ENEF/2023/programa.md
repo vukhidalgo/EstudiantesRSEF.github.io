@@ -213,6 +213,7 @@ permalink: /ENEF2023/programa
          <div class="row center">
          {% for person in site.persons %}
          {% if person.evento contains "ENEF2023" %}
+         {% if person.categories contains ponentes %}
          {% if person.visible contains "SÍ" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
@@ -231,6 +232,7 @@ permalink: /ENEF2023/programa
            </ul>
          {% endif %}
          {% endif %}
+         {% endif %}
          {% endfor %}
          <h5>...y muchos más, que desvelaremos próximamente.</h5>
          </div>
@@ -242,6 +244,39 @@ permalink: /ENEF2023/programa
        <p style="text-align: justify;">Instalaciones de la Universidad de Oviedo y laboratorios de física de los alrededores.</p>
        <h5>Anuncios próximamente</h5>
      </div>
+     
+<!-- PONENTES -->    
+      <div class="section">
+       <div class="col s12 m6">
+         <div class="row center">
+         {% for location in site.locations %}
+         {% if location.evento contains "ENEF2023" %}
+         {% if location.visible contains "SÍ" %}
+           <ul class="collection waves-effect waves-light" style="width: 33%">
+             <a href="#{{ location.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+               <li class="collection-item avatar2">
+                 <img src="{{ location.img }}" alt="" class="circle">
+                 {% if location.nombredes %}
+                 <span class="title" style="padding-left: 10px">{{ location.nombredes }}</span>
+                 {% else %}
+                 <span class="title" style="padding-left: 10px">{{ location.nombre }}</span>
+                 {% endif %}
+                 <p style="padding-top: 10px">
+                   {{ location.horario }}
+                 </p>
+               </li>
+             </a>
+           </ul>
+         {% endif %}
+         {% endif %}
+         {% endfor %}
+         <h5>...y muchos más, que desvelaremos próximamente.</h5>
+         </div>
+       </div>
+     </div>
+
+
+     
 	    
      <div class="section">
        <h3 id="actividades">Y tenemos actividades de todo tipo</h3>
@@ -263,6 +298,7 @@ permalink: /ENEF2023/programa
 
 {% for person in site.persons %}
 {% if person.evento contains "ENEF2023" %}
+{% if person.categories contains ponentes %}
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
@@ -383,5 +419,54 @@ permalink: /ENEF2023/programa
   </div>
 </div>
 
+{% endif %}
+{% endif %}
+{% endfor %}
+
+
+<!-- Modal SITIOS -->
+
+{% for person in site.persons %}
+{% if person.evento contains "ENEF2023" %}
+{% if person.categories contains locations %}
+
+<div id="{{ location.id | remove: "/" }}-modal" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+
+      <div class="row">
+        <div class="col s12 m6 l6">
+          <div class="row center">
+            <img src="{{ location.img }}" alt="" class="circle" width="70%">
+          </div>
+        </div>
+        <div class="col s12 m6 l6">        
+          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
+            <h2 class="justify">{{ location.nombre }}</h2>
+          </div>
+        </div>
+      </div>
+
+      <!-- Explicación -->
+	    
+      <div class="row">
+        {% if location.bio1 %}
+          <p style="text-align: justify;">
+	    {{ location.bio1 }}
+          </p>
+        {% endif %}
+        {%- if location.bio2 -%}<p style="text-align: justify;">
+          {{ location.bio2 }}
+        </p>{%- endif -%}
+      </div>
+
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
+{% endif %}
 {% endif %}
 {% endfor %}
