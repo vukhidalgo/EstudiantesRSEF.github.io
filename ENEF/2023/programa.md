@@ -143,6 +143,12 @@ permalink: /ENEF2023/programa
                     <ul class="collection">
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">Mañana - Excursiones</p>
+			<a href="#CINN-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+   			  <p style="padding: 0px; text-align: center;">"<strong>Centro de Investigación en Nanomateriales y Nanotecnología (CINN)</strong>"</p>
+			</a>
+   			<a href="#SeveroOchoa-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+   			  <p style="padding: 0px; text-align: center;">"<strong>Centro Científico-Tecnológico Severo Ochoa</strong>"</p>
+			</a>
 		      </div></li>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
@@ -439,6 +445,43 @@ permalink: /ENEF2023/programa
       <div class="row">
         <p style="text-align: justify;">
 	  El Centro de Investigación en Nanomateriales y Nanotecnología (CINN) es un instituto de investigación científica y tecnológica, referencia internacional en el campo de la nanociencia y la nanotecnología. Está equipado con tecnología de última generación y laboratorios especializados que permiten a investigadores, profesores y estudiantes, explorar los límites de la ciencia a escala nanométrica. La investigación en el CINN abarca una amplia gama de áreas, tales como la síntesis de nanomateriales, la fabricación de dispositivos nanoestructurados, la aplicación de nanotecnología en la medicina y la biología, o la energía sostenible.
+        </p>
+      </div>
+
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
+  </div>
+</div>
+
+<div id="SeveroOchoa-modal" class="modal">
+  <div class="modal-content">
+    <div class="section" style="padding-left: 30px; padding-right: 30px;">
+
+      <div class="row">
+        <div class="col s12 m4 l4">
+          <div class="row center">
+            <img src="/img/eventos/2023-ENEF/locations/SeveroOchoa_image.png" alt="" class="circle" width="70%">
+          </div>
+        </div>
+	<div class="col s12 m4 l4">        
+          <div class="row center" style="padding-top: 35px;">
+            <h5 class="justify">Centro Científico-Tecnológico Severo Ochoa</h5>
+          </div>
+        </div>
+	<div class="col s12 m4 l4">
+          <div class="row center" style="padding-top: 30px;">
+            <img src="/img/eventos/2023-ENEF/locations/UniOvi_logo.png" alt="" width="80%">
+          </div>
+        </div>
+      </div>
+
+      <!-- Explicación -->
+	    
+      <div class="row">
+        <p style="text-align: justify;">
+	  El Centro Científico-Tecnológico Severo Ochoa es un instituto de investigación dedicado a una amplia gama de disciplinas científicas como la biología, la química, la física y la ingeniería. Cuenta con instalaciones modernas y laboratorios equipados con tecnología de vanguardia. Además, también promueve la divulgación científica y colabora con empresas y otras instituciones tanto a nivel nacional como internacional, buscando transferir los resultados de la investigación a la sociedad y fomentar la innovación y el desarrollo tecnológico.
         </p>
       </div>
 
