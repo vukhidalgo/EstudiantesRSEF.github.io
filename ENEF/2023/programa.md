@@ -281,9 +281,9 @@ permalink: /ENEF2023/programa
                <li class="collection-item avatar2">
                  <img src="/img/eventos/2023-ENEF/locations/CINN_image.png" alt="" class="circle">
                  {% if location.nombredes %}
-                 <span class="title" style="padding-left: 10px">"Centro de Investigación en Nanomateriales y Nanotecnología"</span>
+                 <span class="title" style="padding-left: 10px">Centro de Investigación en Nanomateriales y Nanotecnología</span>
                  <p style="padding-top: 10px">
-                   "Viernes 28 por la mañana."
+                   Viernes 28 por la mañana.
                  </p>
                </li>
              </a>
