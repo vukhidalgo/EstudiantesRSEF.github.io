@@ -238,7 +238,7 @@ permalink: /ENEF2023/programa
          {% endif %}
          {% endif %}
          {% endfor %}
-         <h5>...y muchos más, que desvelaremos próximamente.</h5>
+         <h5>...¡y muchos más!</h5>
          </div>
        </div>
      </div>
@@ -246,7 +246,6 @@ permalink: /ENEF2023/programa
      <div class="section">
        <h3 id="espacios">Además visitaremos espacios como...</h3>
        <p style="text-align: justify;">Instalaciones de la Universidad de Oviedo y laboratorios de física de los alrededores.</p>
-       <h5>Anuncios próximamente</h5>
      </div>
 
 <!-- LOCATIONS MANUAL -->    
@@ -264,7 +263,18 @@ permalink: /ENEF2023/programa
                </li>
              </a>
            </ul>
-         <h5>...y muchos más, que desvelaremos próximamente.</h5>
+	   <ul class="collection waves-effect waves-light" style="width: 33%">
+             <a href="#SeveroOchoa-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+               <li class="collection-item avatar2">
+                 <img src="/img/eventos/2023-ENEF/locations/SeveroOchoa_image.png" alt="" class="circle">
+                 <span class="title" style="padding-left: 10px">Centro Científico-Tecnológico Severo Ochoa</span>
+                 <p style="padding-top: 10px">
+                   Viernes 28 por la mañana.
+                 </p>
+               </li>
+             </a>
+           </ul>
+         <h5>...¡y muchos más!</h5>
          </div>
        </div>
      </div>
