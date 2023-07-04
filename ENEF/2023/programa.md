@@ -422,9 +422,8 @@ permalink: /ENEF2023/programa
 
 <!-- Modal SITIOS -->
 
-{% for person in site.persons %}
-{% if person.evento contains "ENEF2023" %}
-{% if person.categories contains locations %}
+{% for location in site.locations %}
+{% if location.evento contains "ENEF2023" %}
 
 <div id="{{ location.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
@@ -463,6 +462,5 @@ permalink: /ENEF2023/programa
   </div>
 </div>
 
-{% endif %}
 {% endif %}
 {% endfor %}
