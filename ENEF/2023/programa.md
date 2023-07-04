@@ -242,37 +242,8 @@ permalink: /ENEF2023/programa
        <p style="text-align: justify;">Instalaciones de la Universidad de Oviedo y laboratorios de física de los alrededores.</p>
        <h5>Anuncios próximamente</h5>
      </div>
-     
-<!-- PONENTES -->    
-      <div class="section">
-       <div class="col s12 m6">
-         <div class="row center">
-         {% for location in site.locations %}
-         {% if location.evento contains "ENEF2023" %}
-         {% if location.visible contains "SÍ" %}
-           <ul class="collection waves-effect waves-light" style="width: 33%">
-             <a href="#{{ location.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-               <li class="collection-item avatar2">
-                 <img src="{{ location.img }}" alt="" class="circle">
-                 {% if location.nombredes %}
-                 <span class="title" style="padding-left: 10px">{{ location.nombredes }}</span>
-                 {% else %}
-                 <span class="title" style="padding-left: 10px">{{ location.nombre }}</span>
-                 {% endif %}
-                 <p style="padding-top: 10px">
-                   {{ location.horario }}
-                 </p>
-               </li>
-             </a>
-           </ul>
-         {% endif %}
-         {% endif %}
-         {% endfor %}
-         <h5>...y muchos más, que desvelaremos próximamente.</h5>
-         </div>
-       </div>
 
-<!-- PONENTES MANUAL -->    
+<!-- LOCATIONS MANUAL -->    
       <div class="section">
        <div class="col s12 m6">
          <div class="row center">
@@ -280,7 +251,7 @@ permalink: /ENEF2023/programa
              <a href="#CINN-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
                  <img src="/img/eventos/2023-ENEF/locations/CINN_image.png" alt="" class="circle">
-                 <span class="title" style="padding-left: 10px">Centro de Investigación en Nanomateriales y Nanotecnología</span>
+                 <span class="title" style="padding-left: 10px">CINN</span>
                  <p style="padding-top: 10px">
                    Viernes 28 por la mañana.
                  </p>
@@ -451,14 +422,14 @@ permalink: /ENEF2023/programa
             <img src="/img/eventos/2023-ENEF/locations/CINN_image.png" alt="" class="circle" width="70%">
           </div>
         </div>
-	<div class="col s12 m4 l4">
-          <div class="row center">
-            <img src="/img/eventos/2023-ENEF/locations/CINN_logo.png" alt="" width="80%">
+	<div class="col s12 m4 l4">        
+          <div class="row center" style="padding-top: 35px;">
+            <h2 class="justify">Centro de Investigación en Nanomateriales y Nanotecnología</h2>
           </div>
         </div>
-        <div class="col s12 m4 l4">        
-          <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h2 class="justify">Centro de Investigación en Nanomateriales y Nanotecnología</h2>
+	<div class="col s12 m4 l4">
+          <div class="row center" style="padding-top: 30px;">
+            <img src="/img/eventos/2023-ENEF/locations/CINN_logo.png" alt="" width="80%">
           </div>
         </div>
       </div>
