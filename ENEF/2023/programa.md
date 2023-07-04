@@ -424,7 +424,7 @@ permalink: /ENEF2023/programa
         </div>
 	<div class="col s12 m4 l4">        
           <div class="row center" style="padding-top: 35px;">
-            <h2 class="justify">Centro de Investigación en Nanomateriales y Nanotecnología</h2>
+            <h5 class="justify">Centro de Investigación en Nanomateriales y Nanotecnología</h5>
           </div>
         </div>
 	<div class="col s12 m4 l4">
