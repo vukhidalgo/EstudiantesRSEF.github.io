@@ -271,6 +271,26 @@ permalink: /ENEF2023/programa
          <h5>...y muchos más, que desvelaremos próximamente.</h5>
          </div>
        </div>
+
+<!-- PONENTES MANUAL -->    
+      <div class="section">
+       <div class="col s12 m6">
+         <div class="row center">
+           <ul class="collection waves-effect waves-light" style="width: 33%">
+             <a href="#CINN-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+               <li class="collection-item avatar2">
+                 <img src="/img/eventos/2023-ENEF/locations/CINN_image.png" alt="" class="circle">
+                 {% if location.nombredes %}
+                 <span class="title" style="padding-left: 10px">"Centro de Investigación en Nanomateriales y Nanotecnología"</span>
+                 <p style="padding-top: 10px">
+                   "Viernes 28 por la mañana."
+                 </p>
+               </li>
+             </a>
+           </ul>
+         <h5>...y muchos más, que desvelaremos próximamente.</h5>
+         </div>
+       </div>
      </div>
 
 
@@ -422,22 +442,24 @@ permalink: /ENEF2023/programa
 
 <!-- Modal SITIOS -->
 
-{% for location in site.locations %}
-{% if location.evento contains "ENEF2023" %}
-
-<div id="{{ location.id | remove: "/" }}-modal" class="modal">
+<div id="CINN-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
       <div class="row">
-        <div class="col s12 m6 l6">
+        <div class="col s12 m4 l4">
           <div class="row center">
-            <img src="{{ location.img }}" alt="" class="circle" width="70%">
+            <img src="/img/eventos/2023-ENEF/locations/CINN_image.png" alt="" class="circle" width="70%">
           </div>
         </div>
-        <div class="col s12 m6 l6">        
+	<div class="col s12 m4 l4">
+          <div class="row center">
+            <img src="/img/eventos/2023-ENEF/locations/CINN_logo.png" alt="" width="80%">
+          </div>
+        </div>
+        <div class="col s12 m4 l4">        
           <div class="row center" style="padding-left: 30px; padding-top: 70px;">
-            <h2 class="justify">{{ location.nombre }}</h2>
+            <h2 class="justify">Centro de Investigación en Nanomateriales y Nanotecnología</h2>
           </div>
         </div>
       </div>
@@ -445,14 +467,9 @@ permalink: /ENEF2023/programa
       <!-- Explicación -->
 	    
       <div class="row">
-        {% if location.bio1 %}
-          <p style="text-align: justify;">
-	    {{ location.bio1 }}
-          </p>
-        {% endif %}
-        {%- if location.bio2 -%}<p style="text-align: justify;">
-          {{ location.bio2 }}
-        </p>{%- endif -%}
+        <p style="text-align: justify;">
+	  El Centro de Investigación en Nanomateriales y Nanotecnología (CINN) es un instituto de investigación científica y tecnológica, referencia internacional en el campo de la nanociencia y la nanotecnología. Está equipado con tecnología de última generación y laboratorios especializados que permiten a investigadores, profesores y estudiantes, explorar los límites de la ciencia a escala nanométrica. La investigación en el CINN abarca una amplia gama de áreas, tales como la síntesis de nanomateriales, la fabricación de dispositivos nanoestructurados, la aplicación de nanotecnología en la medicina y la biología, o la energía sostenible.
+        </p>
       </div>
 
     </div>
@@ -461,6 +478,3 @@ permalink: /ENEF2023/programa
     <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
   </div>
 </div>
-
-{% endif %}
-{% endfor %}
