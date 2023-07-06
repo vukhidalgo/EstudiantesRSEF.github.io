@@ -2,8 +2,8 @@
 layout: event
 categories: eventos-internacionales
 yahoraque: "Yes"
-title: "The Science of Interstellar"
-shorttitle: ""
+title: "The Science of Interstellar, by Kip Thorne"
+shorttitle: "The Science of Interstellar"
 startingdate: 2023-07-26
 endingdate:
 place: Oviedo and Online
