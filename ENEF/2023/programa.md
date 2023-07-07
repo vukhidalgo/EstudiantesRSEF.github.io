@@ -106,9 +106,13 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
-		      <li class="collection-item"><div style="text-align: left;">
+		      <a href="#ponentes5-JoseEdelstein-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		      <li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de divulgación</p>
+			<p style="padding: 0px; text-align: center;">"<strong>El siglo de los agujeros negros</strong>"</p>
+			<p style="padding: 0px; text-align: center;">por <strong>José Edelstein</strong>.</p>      
 		      </div></li>
+		      </a>
 		      <a href="#ponentes4-AnabelForte-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
 		      <li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:30 - Ponencia de divulgación</p>
@@ -116,9 +120,13 @@ permalink: /ENEF2023/programa
 			<p style="padding: 0px; text-align: center;">por <strong>Anabel Forte</strong>.</p>      
 		      </div></li>
 		      </a>
-		      <li class="collection-item"><div style="text-align: left;">
+		      <a href="#ponentes7-JoseLuisOltra-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		      <li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">17:00 - Ponencia de divulgación</p>
+			<p style="padding: 0px; text-align: center;">"<strong>¿Y eso para qué sirve?</strong>"</p>
+			<p style="padding: 0px; text-align: center;">por <strong>José Luis Oltra</strong>.</p>      
 		      </div></li>
+		      </a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">17:30 - Coffee break</p>
 		      </div></li>
