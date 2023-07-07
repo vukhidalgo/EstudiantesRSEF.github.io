@@ -25,7 +25,7 @@ site: /eventos-internacionales/2023/07/26/KipThorne
         <p style="text-align: justify;">
           In this ceremony we have the honour to count on the online lecture of the Nobel Prize in Physics 2017, <strong>Kip Thorne</strong>, with a talk etitled <strong>"The Science of Interstellar"</strong>. With him we will explore the fascinating scientific concepts behind the movie Interstellar and its relation to the most extreme astrophysical phenomena. Get ready to dive into the world of black holes and the mysteries of spacetime guided by one of the most prominent scientists of our time.
         </p>
-        <ul>
+        <ul style="text-align: justify;">
           <li> When? <strong>July 26th at 16:30h CEST.</strong></li>
           <li> Where? <strong>Online</strong>. The participants of the <a href="https://estudiantes.rsef.es/ENEF2023/" target="_blank">Encuentro Nacional de Estudiantes de Física</a> will be in Oviedo.</li>
           <li> Who is invited? All members of the <a href="https://rsef.es" target="_blank">Real Sociedad Española de Física</a>, <a href="https://www.cofis.es" target="_blank">Colegio Oficial de Físicos</a>, <a href="https://iaps.info" target="_blank">International Association of Physics Students</a>, <a href="https://www.epsyoungminds.org" target="_blank">EPS Young Minds</a> and <a href="https://amautas.com" target="_blank">Amautas</a>.</li>
