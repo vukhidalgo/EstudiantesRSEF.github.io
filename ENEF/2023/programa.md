@@ -55,13 +55,11 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">16:30 - Bienvenida</p>
 		      </div></li>
-		      <a href="#ponentes1-KipThorne-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		      <li class="collection-item"><div style="text-align: center;">
+		      <a href="#ponentes1-KipThorne-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px"><li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">17:00 - Ponencia inaugural</p>
 			<p style="padding: 0px; text-align: center;">"<strong>The Science of Interstellar</strong>"</p>
 			<p style="padding: 0px; text-align: center;">por <strong>Kip Thorne</strong>.</p>      
-		      </div></li>
-		      </a>
+		      </div></li></a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">18:30 - Recepción institucional</p>
 		      </div></li>
@@ -106,27 +104,21 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
-		      <a href="#ponentes5-JoseEdelstein-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		      <li class="collection-item"><div style="text-align: center;">
+		      <a href="#ponentes5-JoseEdelstein-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px"><li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de divulgación</p>
 			<p style="padding: 0px; text-align: center;">"<strong>El siglo de los agujeros negros</strong>"</p>
 			<p style="padding: 0px; text-align: center;">por <strong>José Edelstein</strong>.</p>      
-		      </div></li>
-		      </a>
-		      <a href="#ponentes4-AnabelForte-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		      <li class="collection-item"><div style="text-align: center;">
+		      </div></li></a>
+		      <a href="#ponentes4-AnabelForte-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px"><li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:30 - Ponencia de divulgación</p>
 			<p style="padding: 0px; text-align: center;">"<strong>Hablemos de física incierta</strong>"</p>
 			<p style="padding: 0px; text-align: center;">por <strong>Anabel Forte</strong>.</p>      
-		      </div></li>
-		      </a>
-		      <a href="#ponentes7-JoseLuisOltra-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		      <li class="collection-item"><div style="text-align: center;">
+		      </div></li></a>
+		      <a href="#ponentes7-JoseLuisOltra-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px"><li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">17:00 - Ponencia de divulgación</p>
 			<p style="padding: 0px; text-align: center;">"<strong>¿Y eso para qué sirve?</strong>"</p>
 			<p style="padding: 0px; text-align: center;">por <strong>José Luis Oltra</strong>.</p>      
-		      </div></li>
-		      </a>
+		      </div></li></a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">17:30 - Coffee break</p>
 		      </div></li>
@@ -161,13 +153,11 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">13:30 - Comida</p>
 		      </div></li>
-		      <a href="#ponentes2-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-		      <li class="collection-item"><div style="text-align: center;">
+		      <a href="#ponentes2-LauraLechuga-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px"><li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">16:00 - Ponencia de emprendimiento</p>
 			<p style="padding: 0px; text-align: center;">"<strong>Del laboratorio al mercado: impulsando la innovación y el emprendimiento en tecnología de sensores.</strong>"</p>
 			<p style="padding: 0px; text-align: center;">por <strong>Laura Lechuga</strong>.</p>      
-		      </div></li>
-		      </a>
+		      </div></li></a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">17:30 - Feria de empresas y oportunidades</p>
 		      </div></li>
@@ -200,9 +190,11 @@ permalink: /ENEF2023/programa
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">12:15 - Junta GdeE</p>
 		      </div></li>
-		      <li class="collection-item"><div style="text-align: left;">
+		      <a href="#ponentes3-RomanOrus-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px"><li class="collection-item"><div style="text-align: center;">
                         <p style="padding: 0px; text-align: center;">12:45 - Ponencia de clausura</p>
-		      </div></li>
+			<p style="padding: 0px; text-align: center;">"<strong>Cuentos cuánticos para no dormir</strong>"</p>
+			<p style="padding: 0px; text-align: center;">por <strong>Román Orús</strong>.</p>      
+		      </div></li></a>
 		      <li class="collection-item"><div style="text-align: left;">
                         <p style="padding: 0px; text-align: center;">14:00 - Comida</p>
 		      </div></li>
