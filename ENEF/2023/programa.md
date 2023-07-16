@@ -25,12 +25,12 @@ permalink: /ENEF2023/programa
       <div class="section" id="content-desktop">
 	<h5>Haz clic en la imagen para ver el programa en tamaño completo</h5>
         <div class="row">
-          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-5.png">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-7.png">
         </div>	 
       </div>
       <div class="section" id="content-mobile">
         <div class="row">
-          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-6.png">
+          <img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Programa-8.png">
         </div>
       </div>
 
