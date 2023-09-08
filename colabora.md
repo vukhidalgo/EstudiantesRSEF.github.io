@@ -12,7 +12,7 @@ Encuentra abajo la oportunidad que más encaje contigo (y si no tienes configura
 <div class="section">
   <div class="row">
       <div class="row center">
-	<ul class="collapsible">
+	<ul class="collapsible.big">
 	  <li>
 	    <div class="collapsible-header"><i class="material-icons">event_available</i>Organizador/a de eventos en tu universidad</div>
 	    <div class="collapsible-body" style="text-align: left">
