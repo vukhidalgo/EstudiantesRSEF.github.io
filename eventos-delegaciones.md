@@ -115,7 +115,7 @@ permalink: /eventos-delegaciones/
                 <table class="centered striped">
                   <tbody>
                     {% for event in site.events reversed%}
-                    {% if event.date < site.time and event.delegacion contains item.nome %}
+                    {% if event.date < site.time and event.delegacion contains item.nombre %}
                     <tr>
                       <td>{{ event.title }}</td>
                       <td>{{ event.date | date: '%d %b %Y' }}</td>
