@@ -12,9 +12,9 @@
       inDuration: 300,
       outDuration: 225,
       constrain_width: true, // Constrains width of dropdown to the activator
-      hover: true,
+      hover: false,
       gutter: 0, // Spacing from edge
-      belowOrigin: true,
+      belowOrigin: false,
       alignment: 'left'
     };
 
