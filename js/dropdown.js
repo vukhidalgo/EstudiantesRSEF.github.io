@@ -83,10 +83,10 @@
       var leftPosition = 0;
 
       // Below Origin
-      var verticalOffset = 10;
-      if (options.belowOrigin === true) {
-        verticalOffset = originHeight;
-      }
+      var verticalOffset = 100;
+      //if (options.belowOrigin === true) {
+      //  verticalOffset = originHeight;
+      //}
 
       // Check for scrolling positioned container.
       var scrollOffset = 0;
