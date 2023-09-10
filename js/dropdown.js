@@ -83,7 +83,7 @@
       var leftPosition = 0;
 
       // Below Origin
-      var verticalOffset = 0;
+      var verticalOffset = 10;
       if (options.belowOrigin === true) {
         verticalOffset = originHeight;
       }
