@@ -6,7 +6,7 @@ permalink: /junta-de-gobierno/try
 
 <!-- INTRO -->
 
-{% for item in site.data.EC3 %}
+{% for item in site.data.EC4 %}
 
 <div class="row">
   <div class="col s12 m4">
@@ -23,13 +23,13 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 {% if item.dataInicio != nil %}Sus miembros tomaron posesión de su cargo el {{ item.dataInicio }}.{% endif %}
 {% if item.dataFin != nil %}Sus miembros permanecieron en sus respectivos cargos hasta el {{ item.dataFin }}.{% endif %}
 
-{% for item in site.data.EC3 %}
+{% for item in site.data.EC4 %}
 
 <div class="section" id="content-desktop">
   <div class="col s12 m6">
     <div class="row center">
     {% for person in site.persons %}
-    {% if person.evento contains "EC3" %}
+    {% if person.evento contains "EC4" %}
       <ul class="collection waves-effect waves-light" style="width: 300px">
         <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar5">
@@ -49,7 +49,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
   <div class="col s12 m6">
     <div class="row center">
     {% for person in site.persons %}
-    {% if person.evento contains "EC3" %}
+    {% if person.evento contains "EC4" %}
       <ul class="collection waves-effect waves-light" style="width: 90%">
         <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar5">
