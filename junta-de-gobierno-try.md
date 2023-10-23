@@ -30,33 +30,13 @@ Miembro {{item.nombre}}
   <div class="col s12 m6">
     <div class="row center">
     {% for person in site.persons %}
-    {% if person.evento contains "EC4" %}
-      <ul class="collection waves-effect waves-light" style="width: 300px">
-        <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
-          <li class="collection-item avatar5">
-            <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
-            <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
-            <p class="rol" style="padding-left: 120px; padding-bottom: 25px">{{ person.rol }}</p>
-          </li>
-        </a>
-      </ul>
-    {% endif %}
-    {% endfor %}    
-    </div>
-  </div>
-</div>
-
-<div class="section" id="content-mobile">
-  <div class="col s12 m6">
-    <div class="row center">
-    {% for person in site.persons %}
-    {% if person.evento contains "EC4" %}
+    {% if person.EC4%}
       <ul class="collection waves-effect waves-light" style="width: 90%">
         <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar5">
             <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
             <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
-            <p class="rol" style="padding-left: 120px">{{ person.rol }}</p>
+            <p class="rol" style="padding-left: 120px; padding-bottom: 25px">{{ person.EC4 }}</p>
           </li>
         </a>
       </ul>
@@ -65,7 +45,6 @@ Miembro {{item.nombre}}
     </div>
   </div>
 </div>
-
 {% endfor %}
 
 ## Juntas de Gobierno Anteriores
