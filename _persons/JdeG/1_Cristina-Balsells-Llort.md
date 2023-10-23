@@ -2,7 +2,8 @@
 layout: person
 categories: junta
 evento: "EC3"
-EC3: 'Presidenta'
+EC3: "Presidenta"
+EC4:
 nombre: "Cristina Balsells Llort"
 img: "/img/junta/cristina-balsells.jpg"
 header: "/img/junta/headers/header-cris.PNG"
