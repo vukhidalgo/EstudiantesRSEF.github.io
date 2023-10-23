@@ -25,6 +25,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 
 {% for item in site.data.EC4 %}
 
+Miembro {{item.nombre}}
 <div class="section" id="content-desktop">
   <div class="col s12 m6">
     <div class="row center">
