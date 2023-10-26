@@ -239,7 +239,7 @@ Miembro {{person.nombre}}
  </div>
 
  {% endif %}
- {% endfor %}   
+ 
 
 
 {% if person.EC3 < "4"%}
@@ -357,3 +357,4 @@ Miembro {{person.nombre}}
  </div>
 
  {% endif %}
+ {% endfor %}  
