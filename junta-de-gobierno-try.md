@@ -28,6 +28,7 @@ Esta Junta de Gobierno fue elegida el {{ item.dataElecciones }}.
 Miembro {{person.nombre}}
 
 {% endfor %}
+{% endfor %}
 
 
 
