@@ -81,7 +81,7 @@ Miembro {{person.nombre}}
   <div class="col s12 m6">
     <div class="row center">
 	{% assign sorted_persons = site.persons | sort: 'Pos_EC3' %}
-    	{% for person in sorted_persons%} 
+    	{% for person in sorted_persons limit:3%} 
 	    	{% if person.EC3 %}
 		      <ul class="collection waves-effect waves-light" style="width: 300px">
 		        <a href="#{{ person.id | remove: "/" }}-EC4" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
@@ -102,7 +102,7 @@ Miembro {{person.nombre}}
   <div class="col s12 m6">
     <div class="row center">
 	{% assign sorted_persons = site.persons | sort: 'Pos_EC3' %}
-	{% for person in sorted_persons%}
+	{% for person in sorted_persons limit:3%}
 		{% if person.EC3 "%}
 			<ul class="collection waves-effect waves-light" style="width: 90%">
 		        <a href="#{{ person.id | remove: "/" }}-EC3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
