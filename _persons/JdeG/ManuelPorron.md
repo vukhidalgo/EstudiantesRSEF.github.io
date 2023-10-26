@@ -4,6 +4,7 @@ categories: junta
 evento: 
 EC3: 
 EC4: "Presidente"
+EC4: "1"
 nombre: "Manuel Porrón Álvarez"
 img: "/img/junta/ManuelPorron.jpg"
 header: "/img/junta/ManuelPorron.jpg"
