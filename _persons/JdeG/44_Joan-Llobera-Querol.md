@@ -3,7 +3,9 @@ layout: person
 categories: junta
 evento: "EC3"
 EC3: "Vocal"
+Pos_EC3: "5"
 EC4: "Secretario-tesorero"
+Pos_EC4: "3"
 nombre: "Joan Llobera Querol"
 img: "/img/junta/joan-llobera.jpg"
 header: "/img/junta/headers/header-joan.PNG"
