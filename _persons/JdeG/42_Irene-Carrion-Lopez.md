@@ -3,6 +3,7 @@ layout: person
 categories: junta
 evento: "EC3"
 EC3: "Vocal"
+Pos_EC3: "5"
 EC4: "Vocal"
 nombre: "Irene Carrión López"
 img: "/img/junta/irene-carrion.png"
