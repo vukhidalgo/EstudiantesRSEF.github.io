@@ -2,6 +2,8 @@
 layout: person
 categories: junta
 evento: "EC3"
+EC3: "Secretario-Tesorero"
+EC4: 
 nombre: "Pablo Blanco Mas"
 img: "/img/junta/pablo-blanco.jpg"
 header: "/img/junta/headers/header-pablo.PNG"
