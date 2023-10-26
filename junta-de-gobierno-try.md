@@ -50,7 +50,6 @@ Miembro {{person.nombre}}
     </div>
   </div>
 </div>
-
 {% endfor %}
 
 
