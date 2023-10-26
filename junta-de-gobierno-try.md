@@ -35,7 +35,7 @@ Miembro {{person.nombre}}
   <div class="col s12 m6">
     <div class="row center">
 	{% assign sorted_persons = site.persons | sort: 'Pos_EC4' %}
-    	{% for person in site.persons %}
+    	{% for person in sorted_persons %}
 	    	{% if person.EC4 %}
 		      <ul class="collection waves-effect waves-light" style="width: 300px">
 		        <a href="#{{ person.id | remove: "/" }}-EC4" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
