@@ -4,6 +4,7 @@ categories: junta
 evento: 
 EC3: 
 EC4: "Vocal"
+Pos_EC4: "5"
 nombre: "María Sánchez Hernández"
 img: "/img/logos/gdee-rsef-logo-cuadrado.png"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
