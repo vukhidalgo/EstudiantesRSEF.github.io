@@ -37,7 +37,7 @@ Miembro {{person.nombre}}
     {% for person in site.persons %}
     {% if person.EC4 %}
       <ul class="collection waves-effect waves-light" style="width: 300px">
-        <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+        <a href="#{{ person.id | remove: "/" }}-EC4" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar5">
             <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
             <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
@@ -57,7 +57,7 @@ Miembro {{person.nombre}}
     {% for person in site.persons %}
     {% if person.EC4 %}
       <ul class="collection waves-effect waves-light" style="width: 90%">
-        <a href="#{{ person.id | remove: "/" }}-modal3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+        <a href="#{{ person.id | remove: "/" }}-EC4" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
           <li class="collection-item avatar5">
             <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
             <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
@@ -75,7 +75,7 @@ Miembro {{person.nombre}}
 {% for person in site.persons %}
 {% if person.EC4 %}
 
-<div id="{{ person.id | remove: "/" }}-modal3" class="modal">
+<div id="{{ person.id | remove: "/" }}-EC4" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row">
