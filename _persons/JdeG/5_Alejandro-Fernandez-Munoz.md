@@ -3,6 +3,7 @@ layout: person
 categories: junta
 evento: "EC3"
 EC3: "Vocal-Expresidente"
+Pos_EC3: "4"
 EC4: 
 nombre: "Alejandro Fernández Muñoz"
 img: "/img/junta/alejandro-fernandez.jpg"
