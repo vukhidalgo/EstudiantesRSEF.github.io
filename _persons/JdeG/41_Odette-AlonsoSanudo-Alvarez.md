@@ -3,6 +3,7 @@ layout: person
 categories: junta
 evento: "EC3"
 EC3: "Vocal"
+PosEC3: "5"
 EC4: 
 nombre: "Odette Alonso-Sañudo Álvarez"
 img: "/img/junta/odette.png"
