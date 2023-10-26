@@ -3,6 +3,7 @@ layout: person
 categories: junta
 evento: "EC3"
 EC3: "Vicepresidente"
+Pos_EC3: "2"
 EC4: 
 nombre: "Inmaculada Pérez Pérez"
 img: "/img/junta/inmaculada-perez.jpg"
