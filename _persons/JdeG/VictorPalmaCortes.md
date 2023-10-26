@@ -4,6 +4,7 @@ categories: junta
 evento:
 EC3: 
 EC4: "Vicepresidente"
+Pos_EC4: "2"
 nombre: "Víctor Palma Cortés"
 img: "/img/junta/VictorPalma.jpg"
 header: "/img/junta/VictorPalma.jpg"
