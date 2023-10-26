@@ -5,8 +5,8 @@ evento: "EC3"
 EC3: 
 EC4: "Presidente"
 nombre: "Manuel Porrón Álvarez"
-img: "/img/junta/cristina-balsells.jpg"
-header: "/img/junta/headers/header-cris.PNG"
+img: "/img/junta/ManuelPorron.jpg"
+header: "/img/junta/ManuelPorron.jpg"
 rol: "Presidente"
 descr: ""
 
