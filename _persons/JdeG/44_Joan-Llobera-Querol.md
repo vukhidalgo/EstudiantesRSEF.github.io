@@ -8,7 +8,8 @@ nombre: "Joan Llobera Querol"
 img: "/img/junta/joan-llobera.jpg"
 header: "/img/junta/headers/header-joan.PNG"
 rol: "Vocal"
-descr: "Graduado en Ingeniería Física y Matemáticas por la UPC y Máster en Astrofísica por la UAB, le apasiona el estudio de las ondas gravitacionales y quiere empezar sus estudios de doctorado en ello. Además, toca el violín, el piano y la guitarra, y ha sido monitor de esplai durante muchos años. Le encanta cantar, conocer mundo y las croquetas."
+descr: "Me llamo Joan Llobera Querol, y soy estudiante de doctorado en física gravitacional en la Universidad de las Islas Baleares. Actualmente soy vocal de la Junta de Gobierno del GdeE.
+Hace dos años, me uní a este proyecto centrando mis esfuerzos en el comité de herramientas digitales y la administración de la página web del GdeE. Esta labor me ha brindado la oportunidad de conocer de cerca todos los eventos que hemos organizado. He sido parte activa en la organización de las Preliminares de PLANCKS, el concurso Gastrofísica, el ciclo de charlas “Física y ahora qué” y el proceso de creación y organización del primer Encuentro Nacional de Estudiantes de Física de la historia. "
 
 part1: "Colaborador en administración web (10/2021)"
 link1: 
