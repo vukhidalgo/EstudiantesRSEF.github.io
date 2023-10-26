@@ -80,7 +80,7 @@ Miembro {{person.nombre}}
 <div class="section" id="content-desktop">
   <div class="col s12 m6">
     <div class="row center">
-	{% assign sorted_persons = site.persons | sort: 'Pos_EC3' %}
+	{% assign sorted_persons = site.persons | where: 'EC3','!=' | sort: 'Pos_EC3' %}
     	{% for person in sorted_persons limit:3%} 
 	    	{% if person.EC3 %}
 		      <ul class="collection waves-effect waves-light" style="width: 300px">
@@ -101,7 +101,7 @@ Miembro {{person.nombre}}
 <div class="section" id="content-mobile">
   <div class="col s12 m6">
     <div class="row center">
-	{% assign sorted_persons = site.persons | sort: 'Pos_EC3' %}
+	{% assign sorted_persons = site.persons | where: 'EC3','!=' | sort: 'Pos_EC3' %}
 	{% for person in sorted_persons limit:3%}
 		{% if person.EC3 "%}
 			<ul class="collection waves-effect waves-light" style="width: 90%">
