@@ -242,7 +242,7 @@ Miembro {{person.nombre}}
  {% endfor %}
 
 
-{% for person in sorted_persons %}
+{% for person in site.persons %}
 {% if person.EC3%}
 
 <div id="{{ person.id | remove: "/" }}-EC3" class="modal">
