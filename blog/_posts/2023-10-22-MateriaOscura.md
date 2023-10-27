@@ -3,7 +3,7 @@ layout: post
 categories: blog Divulgación
 title:  "Materia Oscura: ayer, hoy y mañana"
 date: 2023-10-22 21:00
-author: Adriana Barriego Quintana
+author: Adriana Bariego Quintana
 redirect-from:
 ---
 
