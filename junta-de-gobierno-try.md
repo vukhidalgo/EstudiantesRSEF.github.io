@@ -257,7 +257,7 @@ Miembro {{person.nombre}}
         <div class="col s12 m6 l6">        
           <div class="row center" style="padding-top: 40px;">
             <h3 class="justify">{{ person.nombre }}</h3>
-            <h5 class="justify">{{ person.EC4 }}</h5>
+            <h5 class="justify">{{ person.EC3 }}</h5>
           </div>
         </div>
       </div>
