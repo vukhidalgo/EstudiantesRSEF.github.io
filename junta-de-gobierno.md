@@ -241,7 +241,7 @@ Miembro {{person.nombre}}
  {% endif %}
  {% endfor %}
 
-{% assign sorted_persons = site.persons | sort: 'Pos_EC3' %}
+
 {% for person in sorted_persons %}
 {% if person.EC3%}
 
