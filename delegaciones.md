@@ -17,8 +17,9 @@ Descubre con este vídeo todo lo que nuestras Delegaciones pueden ofrecerte:
 
 {% assign n = 0 %}
 {% for item in site.data.LC %}
-	<!- {% unless item.congelado %} ->
-	{% assign n = n | plus: 1 %}
+	{% unless item.congelado %}
+		{% assign n = n | plus: 1 %}
+ 	{% endunless %}
 {% endfor %}
 
 El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegaciones en:
