@@ -17,6 +17,7 @@ Descubre con este vídeo todo lo que nuestras Delegaciones pueden ofrecerte:
 
 {% assign n = 0 %}
 {% for item in site.data.LC %}
+	{% unless item.congelado %}
 	{% assign n = n | plus: 1 %}
 {% endfor %}
 
