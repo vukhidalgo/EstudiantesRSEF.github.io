@@ -37,7 +37,7 @@
   logo: "/img/delegaciones/DUGR/DUGR_logo.jpeg"
   congelado:
 
-  - nombre: "Barcelona - UAB"
+- nombre: "Barcelona - UAB"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef@gmail.com"
   presidente: "Elena Martínez Barceló"
@@ -50,7 +50,7 @@
   logo: "/img/logos/gdee-rsef-logo-cuadrado.png"
   congelado:
   
-  - nombre: "Valencia - UV"
+- nombre: "Valencia - UV"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef.uv@gmail.com"
   presidente: "Sonsoles Riscos Martínez"
