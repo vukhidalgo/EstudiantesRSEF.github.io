@@ -9,30 +9,56 @@
   reglamento:
   ex:
   logo: "/img/delegaciones/DUCM/LogoDUCM.jpeg"
-  congelado:
+  congelado: True
 
 - nombre: "Oviedo - UniOvi"
   img: "/img/delegaciones/DUNIOVI/cuatro.jpg"
   mail: "estudiantesrsef.uniovi@gmail.com"
-  presidente: Miguel Carrasco Arango
+  presidente: "Miguel Carrasco Arango"
   fundacion: "03/2022"
   ins: "https://www.instagram.com/estudiantesrsef_uniovi/"
   tw: "https://twitter.com/estRSEF_UniOvi"
   fb:
   reglamento:
-  ex: Manuel Porrón Álvarez
+  ex: "Manuel Porrón Álvarez"
   logo: "/img/delegaciones/DUNIOVI/logoDUNIOVI_hor.png"
   congelado:
 
 - nombre: "Granada - UGR"
   img: "/img/delegaciones/DUGR/DUGR_junta.jpg"
   mail: "estudiantesrsef.ugr@ugr.es"
-  presidente: Víctor Palma Cortés
+  presidente: "Carlos Martínez Morales"
   fundacion: "11/2022"
   ins: "https://www.instagram.com/estudiantesrsef.ugr/"
   tw: "https://twitter.com/estuRSEF_UGR"
   fb:
   reglamento:
-  ex:
+  ex: "Víctor Palma Cortés"
   logo: "/img/delegaciones/DUGR/DUGR_logo.jpeg"
+  congelado:
+
+  - nombre: "Barcelona - UAB"
+  img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+  mail: "estudiantesrsef@gmail.com"
+  presidente: "Elena Martínez Barceló"
+  fundacion: "09/2023"
+  ins: "https://www.instagram.com/estudiantesrsef/"
+  tw: "https://twitter.com/EstudiantesRSEF"
+  fb:
+  reglamento:
+  ex: 
+  logo: "/img/logos/gdee-rsef-logo-cuadrado.png"
+  congelado:
+  
+  - nombre: "Valencia - UV"
+  img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+  mail: "estudiantesrsef.uv@gmail.com"
+  presidente: "Sonsoles Riscos Martínez"
+  fundacion: "09/2023"
+  ins: "https://www.instagram.com/estudiantesrsef_uv/"
+  tw: "https://twitter.com/EstRSEF_UV"
+  fb:
+  reglamento:
+  ex: 
+  logo: "/img/logos/gdee-rsef-logo-cuadrado.png"
   congelado:
