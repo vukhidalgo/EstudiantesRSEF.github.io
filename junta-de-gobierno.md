@@ -84,7 +84,7 @@ Miembro {{person.nombre}}
     	{% for person in sorted_persons%} 
 	    	{% if person.EC3 %}
 		      <ul class="collection waves-effect waves-light" style="width: 300px">
-		        <a href="#{{ person.id | remove: "/" }}-EC4" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
+		        <a href="#{{ person.id | remove: "/" }}-EC3" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
 		          <li class="collection-item avatar5">
 		            <img src="{{ person.img }}" style="margin-bottom: 10px;" alt="" class="circle">
 		            <p class="title" style="padding-left: 120px; padding-top: 15px">{{ person.nombre }}</p>
