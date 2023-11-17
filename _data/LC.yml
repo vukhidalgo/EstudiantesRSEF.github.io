@@ -47,7 +47,7 @@
   fb:
   reglamento:
   ex: 
-  logo: "img/banner/logo-banner-estrsef.jpg"
+  logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
   
 - nombre: "Valencia - UV"
@@ -60,5 +60,5 @@
   fb:
   reglamento:
   ex: 
-  logo: "img/banner/logo-banner-estrsef.jpg"
+  logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
