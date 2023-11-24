@@ -107,10 +107,18 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
       </div>
 	Equipo:
 	<ul>
-	  <li>Presidente: {{item.presidente}}</li>
-	  <li>Vicepresidente:</li>
-	  <li>Tesorero:</li>
-	  <li>Vocales:</li>
+		<li>Presidente: {{item.presidente}}</li>
+		<li>Vicepresidente: {{item.vicepresidente}}</li>
+		<li>Tesorero: {{item.tesorero}} </li>
+		{% if item.colaboradores != nil %}	
+			<li>Colaboradores:
+				<ul>
+				{% for col in item.colaboradores %}
+	  				<il> {{col.nombre_col}} </il>
+	  			{% endfor %}	
+				</ul>	  			
+   	  		</li>			
+		{% endif %}	  
 	</ul>   
     
 	Miembros:
