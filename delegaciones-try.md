@@ -27,7 +27,7 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 <ul id="presidenti_LC" class="collection">
 	{% for item in site.data.LC %}
 		{% unless item.congelado %}
-		        <a href="#{{ item.id | remove: "/" }}-Delegacion">
+		        <a href="#{{item.id}}" style="color: rgba(0, 0, 0, 0.87)">
 				<li class="collection-item avatar" id="{{ item.nombre }}">
 					<div class="tertiary-content">
 						<img src="{{ item.logo }}">
@@ -89,7 +89,7 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 {% for item in site.data.LC %}
 {% unless item.congelado %}
 
-<div id="{{ item.id | remove: "/" }}-Delegacion" class="modal">
+<div id="{{item.id}}" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row">
@@ -105,15 +105,20 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
           </div>
         </div>
       </div>
+	Equipo:
+	    Presidente: item.presidente
+	    Vicepresidente: 
+	    Tesorero:
+	    Vocales:
+	Miembros:
 
- 
-     </div>
-   </div>
-  
+     	Descripción:
+      
+    </div>
+   </div>  
    <div class="modal-footer">
      <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
    </div>
  </div>
-
 {% endunless %}
 {% endfor %}
