@@ -112,7 +112,7 @@ Consulta [esta página](/nueva-delegacion/).
 		<ul>
 			<li><b>Presidencia:</b> {{item.presidente}}</li>
 			<li><b>Vicepresidencia:</b> {{item.vicepresidente}}</li>
-			<li><b>Secretaría:</b> {{item.vicepresidente}}</li>
+			<li><b>Secretaría:</b> {{item.secretario}}</li>
 			<li><b>Tesorería:</b> {{item.tesorero}} </li>
 			{% if item.colaboradores != nil %}	
 				<li><b>Colaboradores</b>:
