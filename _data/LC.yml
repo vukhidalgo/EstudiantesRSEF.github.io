@@ -7,7 +7,6 @@
   ins: "https://www.instagram.com/estudiantesrsef_ucm/"
   tw:
   fb: "https://www.facebook.com/EstudiantesRSEF.UCM/"
-  reglamento:
   ex:
   logo: "/img/delegaciones/DUCM/LogoDUCM.jpeg"
   congelado: True
@@ -17,11 +16,16 @@
   img: "/img/delegaciones/DUNIOVI/DOVI_junta_avatar.jpg"
   mail: "estudiantesrsef.uniovi@gmail.com"
   presidente: "Miguel Carrasco Arango"
+  vicepresidente: "Silvia Rodríguez del Amo"
+  secretario: "Celia Cabrerizo García"
+  tesorero: "Lucía Longo Balagué"
+  colaboradores:
+    - nombre_col: "Michel Verdú Álvarez"
+    - nombre_col: "Covadonga Martínez Cueto"
+    - nombre_col: "Irene Bernaldo de Quirós Bujanda"  
   fundacion: "03/2022"
   ins: "https://www.instagram.com/estudiantesrsef_uniovi/"
   tw: "https://twitter.com/estRSEF_UniOvi"
-  fb:
-  reglamento:
   ex: "Manuel Porrón Álvarez"
   logo: "/img/delegaciones/DUNIOVI/logoDUNIOVI_hor.png"
   congelado:
@@ -31,11 +35,12 @@
   img: "/img/delegaciones/DUGR/DUGR_junta_avatar.jpg"
   mail: "estudiantesrsef.ugr@ugr.es"
   presidente: "Carlos Martínez Morales"
+  vicepresidente: "Ramón Moreno Salamanca"
+  secretario: "Julia Díaz Canon"
+  tesorero: "Lucía Montoro González"
   fundacion: "11/2022"
   ins: "https://www.instagram.com/estudiantesrsef.ugr/"
   tw: "https://twitter.com/estuRSEF_UGR"
-  fb:
-  reglamento:
   ex: "Víctor Palma Cortés"
   logo: "/img/delegaciones/DUGR/DUGR_logo.jpeg"
   congelado:
@@ -45,11 +50,15 @@
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef@gmail.com"
   presidente: "Elena Martínez Barceló"
-  fundacion: "09/2023"
+  vicepresidente: "Mario Martínez Angulo"
+  secretario: "Eloi Casalé Cabanes"
+  tesorero: "Eric Jiménez Zurera"
+  colaboradores:
+    - nombre_col: "Jordi Freixa Martínez"
+    - nombre_col: "Joan Reverté Flores"
+  fundacion: "06/2023"
   ins: "https://www.instagram.com/estudiantsrsef_uab/"
   tw: "https://twitter.com/EstRSEF_UAB"
-  fb:
-  reglamento:
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
@@ -59,11 +68,14 @@
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef.uv@gmail.com"
   presidente: "Sonsoles Riscos Martínez"
+  vicepresidente: "Laura Pérez Contreras"
+  secretario: "Guillermo Lagunas Gualda"
+  tesorero: "Javier Rodríguez Jiménez"
+  colaboradores:
+    - nombre_col: "Alberto López Martín"
   fundacion: "09/2023"
   ins: "https://www.instagram.com/estudiantesrsef_uv/"
   tw: "https://twitter.com/EstRSEF_UV"
-  fb:
-  reglamento:
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
