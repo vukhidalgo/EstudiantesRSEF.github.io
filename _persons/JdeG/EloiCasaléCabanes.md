@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Eloi Casalé Cabanes"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/EloiCasaleCabanes.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Soy Eloi Casalé Cabanes, estudiante de Física y Matemáticas en la UAB. Llevo un par de años participando de diversas asociaciones en mi facultad y el año pasado me uní al GdeE creando una Delegación en la UAB. Me presento para formar parte de la Junta de Gobierno con muchas ganas de empezar proyectos nuevos y más ambiciosos."
