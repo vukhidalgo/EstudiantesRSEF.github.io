@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "María Sánchez Hernández"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/MariaSanchezHernandez.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Mi nombre es María Sánchez Hernández. Actualmente estoy en el primer año de doctorado en la Universidad de País Vasco (UPV/EHU), trabajando en el desarrollo de dispositivos fotónicos para aplicaciones en óptica cuántica y no lineal. Como Vocal quiero colaborar en distintas iniciativas de orientación, de creación de lazos entre nosotros y de profundización en las diversas ramas de la Física, tanto desde el punto de vista científico como académico. Espero aportar un poquito de mí, de mi experiencia, y de mi campo pero, sobre todo, ¡espero aportar ideas, ilusión y ganas!"
