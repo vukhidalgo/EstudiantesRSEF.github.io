@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Adrián Marín Boyero"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/AdrianMarinBoyero.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "¡Hola! Me llamo Adrián Marín Boyero y soy estudiante de cuarto de Física en la Universidad de Granada. Siempre me ha apasionado crear diseños relacionados con el mundo de la ciencia para dar a conocer la Física, por lo que como Vocal del GdeE espero poder ayudar a dar a trasmitir sus objetivos y propuestas a nivel nacional."
