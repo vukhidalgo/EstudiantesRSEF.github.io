@@ -27,7 +27,7 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 <ul id="presidenti_LC" class="collection">
 	{% for item in site.data.LC %}
 		{% unless item.congelado %}
-		        <a href="#{{item.id}}" style="color: rgba(0, 0, 0, 0.87)">
+		        <a href="#{{item.id}}" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87)">
 				<li class="collection-item avatar" id="{{ item.nombre }}">
 					<div class="tertiary-content">
 						<img src="{{ item.logo }}">
