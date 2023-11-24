@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Iván Villar Naredo"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/IvanVillarNaredo.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Mi nombre es Iván Villar Naredo y estudio el doble grado de Física y Matemáticas en la Universidad de Oviedo. Me interesan mucho las potenciales oportunidades internacionales que podemos ofrecer desde el Grupo de Estudiantes como National Committee de IAPS. Como Vocal tengo el objetivo de mantener y mejorar nuestra imagen y relaciones internacionales gracias a mi facilidad con los idiomas y predisposición."
