@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Ana Garrigues Navarro"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/AnaIsabelGarriguesNavarro.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Soy Ana Garrigues Navarro, estudio el máster de Fotónica en la Universitat de València. Conocí el grupo de estudiantes en el ENEF. Como Vocal quiero contribuir a continuar con el trabajo llevado a cabo hasta ahora por el Grupo de Estudiantes, sobretodo acercando a los estudiantes de física de todo el país."
