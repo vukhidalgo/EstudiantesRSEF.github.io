@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Misael Malqui Cruz"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/MisaelSamirMalquiCruz.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Hola, soy Misael Malqui Cruz, de Barcelona. Actualmente estoy estudiando Física y Matemáticas, y deseo postularme para el puesto de Vocal en el Grupo de Estudiantes de la RSEF. Durante el último año, he tenido el honor de ser parte del comité de relaciones públicas del Grupo. Como Vocal, deseo aplicar la experiencia que he adquirido para continuar impulsando nuestras iniciativas, a la par que aportar nuevas ideas para hacer que el grupo sea aún más atractivo y relevante para los estudiantes."
