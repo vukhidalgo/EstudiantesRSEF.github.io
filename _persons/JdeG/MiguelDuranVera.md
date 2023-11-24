@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Miguel Durán Vera"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/MiguelDuranVera.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Mi nombre es Miguel Durán Vera, estudio Física y Matemáticas en la Universidad de Oviedo. Actualmente estoy haciendo cuarto curso en la Universidad de Tubinga, Alemania. Estoy entusiasmado de ser Vocal en el Grupo de Estudiantes de la RSEF (GdeE), con el plan de asumir la responsabilidad de la gestión de la página web."
