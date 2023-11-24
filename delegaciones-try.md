@@ -100,15 +100,16 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
         </div>
         <div class="col s12 m6 l6">        
           <div class="row center" style="padding-top: 40px;">
-            <h3 class="justify">{{ item.nombre }}</h3>
+            <h1 class="justify">{{ item.nombre }}</h1>
             	Desde <h5 class="justify">{{ item.fundacion }}</h5>
-		Equipo:
+		<h5>Equipo</h5>
 		<ul>
-			<li>Presidente: {{item.presidente}}</li>
-			<li>Vicepresidente: {{item.vicepresidente}}</li>
-			<li>Tesorero: {{item.tesorero}} </li>
+			<li><b>Presidencia:</b> {{item.presidente}}</li>
+			<li><b>Vicepresidencia:</b> {{item.vicepresidente}}</li>
+			<li><b>Secretaría:</b> {{item.vicepresidente}}</li>
+			<li><b>Tesorería:</b> {{item.tesorero}} </li>
 			{% if item.colaboradores != nil %}	
-				<li>Colaboradores:
+				<li><b>Colaboradores</b>:
 					<ul>
 					{% for col in item.colaboradores %}
 		  				<li> {{col.nombre_col}} </li>
@@ -117,9 +118,6 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 	   	  		</li>			
 			{% endif %}	  
 		</ul>   
-	    
-		Miembros:
-	     	Descripción:    
           </div>
         </div>
       </div>	  
