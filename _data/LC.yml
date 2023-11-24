@@ -1,4 +1,5 @@
 - nombre: "Madrid - UCM"
+  id: "MadridUCM"
   img: "/img/delegaciones/DUCM/VictorAlvarez.jpg"
   mail: "estudiantesrsef.ucm@gmail.com"
   presidente: "Víctor Álvarez Martínez"
@@ -12,6 +13,7 @@
   congelado: True
 
 - nombre: "Oviedo - UniOvi"
+  id: "Oviedo"
   img: "/img/delegaciones/DUNIOVI/cuatro.jpg"
   mail: "estudiantesrsef.uniovi@gmail.com"
   presidente: "Miguel Carrasco Arango"
@@ -25,6 +27,7 @@
   congelado:
 
 - nombre: "Granada - UGR"
+  id: "Granada"
   img: "/img/delegaciones/DUGR/DUGR_junta.jpg"
   mail: "estudiantesrsef.ugr@ugr.es"
   presidente: "Carlos Martínez Morales"
@@ -38,6 +41,7 @@
   congelado:
 
 - nombre: "Barcelona - UAB"
+  id: "BarcelonaUAB"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef@gmail.com"
   presidente: "Elena Martínez Barceló"
@@ -51,6 +55,7 @@
   congelado:
   
 - nombre: "Valencia - UV"
+  id: "ValenciaUV"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef.uv@gmail.com"
   presidente: "Sonsoles Riscos Martínez"
