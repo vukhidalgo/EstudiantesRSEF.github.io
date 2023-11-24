@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Lucía Longo Balague"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/LuciaLongoBalague.png"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Hola, soy Lucía Longo Balagué, estudiante de Física y Matemáticas en la Universidad de Oviedo. Como Vocal del Grupo de Estudiantes voy involucrarme en materia de RRPP y redes sociales. Sé que podría aportar un gran número de cosas buenas, como hacer un cambio más actual de imagen en redes sociales para así llegar a todos los usuarios posibles."
