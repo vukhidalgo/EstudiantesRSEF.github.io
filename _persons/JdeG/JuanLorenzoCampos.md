@@ -6,7 +6,7 @@ EC3:
 EC4: "Vocal"
 Pos_EC4: "5"
 nombre: "Juan Lorenzo Campos"
-img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+img: "/img/junta/JuanLorenzoCampos.jpg"
 header: "/img/logos/gdee-rsef-logo-cuadrado.png"
 rol: 
 descr: "Soy Juan Lorenzo Campos, vallisoletano de nacimiento, pero estudiante del Doble Grado de Física y Matemáticas en la Universidad de Oviedo. Como Vocal formo parte del Comité de Miembros y Delegaciones de la Junta del GdeE, desde donde con mi ganas y mi entusiasmo podré aportar para que el GdeE llegue a todos los rincones de las universidades españolas."
