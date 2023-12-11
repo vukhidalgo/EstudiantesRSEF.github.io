@@ -80,17 +80,17 @@
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
 
-- nombre: "País Vasco - UPV"
-  id: "PaisVascoUPV"
+- nombre: "País Vasco - EHU"
+  id: "PaisVascoEUH"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
-  mail: "estudiantesrsef.upv@gmail.com"
-  presidente: "Leire Zufia"
-  vicepresidente: "Laura Pérez Contreras"
-  secretario: "Guillermo Lagunas Gualda"
-  tesorero: "Javier Rodríguez Jiménez"
+  mail: "estudiantesrsef.ehu@gmail.com"
+  presidente: "Leire Zufia Miguel"
+  vicepresidente: "Eneko Lekaroz Urriza"
+  secretario: "Josu Bayer Aguirre"
+  tesorero: "Ane Varela Etxeberria"
   fundacion: "12/2023"
-  ins: "https://www.instagram.com/estudiantesrsef_upv/"
-  tw: "https://twitter.com/EstRSEF_UPV"
+  ins: "https://www.instagram.com/estudiantesrsef_ehu/"
+  tw: "https://twitter.com/EstRSEF_EHU"
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
-  congelado: True
+  congelado: 
