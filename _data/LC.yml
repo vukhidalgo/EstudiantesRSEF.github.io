@@ -79,3 +79,18 @@
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
+
+- nombre: "País Vasco - UPV"
+  id: "PaisVascoUPV"
+  img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+  mail: "estudiantesrsef.upv@gmail.com"
+  presidente: "Leire Zufia"
+  vicepresidente: "Laura Pérez Contreras"
+  secretario: "Guillermo Lagunas Gualda"
+  tesorero: "Javier Rodríguez Jiménez"
+  fundacion: "12/2023"
+  ins: "https://www.instagram.com/estudiantesrsef_upv/"
+  tw: "https://twitter.com/EstRSEF_UPV"
+  ex: 
+  logo: "/img/banner/logo-banner-estrsef.jpg"
+  congelado: True
