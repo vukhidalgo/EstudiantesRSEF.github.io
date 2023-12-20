@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preliminares PLANCKS
-permalink: /PreliminaresPLANCKS2024/
+permalink: /PreliminaresPLANCKS/
 ---
 
 
