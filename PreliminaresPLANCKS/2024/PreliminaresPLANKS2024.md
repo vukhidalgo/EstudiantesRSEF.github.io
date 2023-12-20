@@ -399,7 +399,6 @@ permalink: /PreliminaresPLANCKS2024/
     {% if loopindex == 1 %}
       </div>
     {% endif %}
--->
   </div>
 </div>
 
