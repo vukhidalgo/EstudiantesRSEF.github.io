@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Preliminares PLANCKS 2024
@@ -7,7 +6,7 @@ permalink: /PreliminaresPLANCKS2024/
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
-    <div class="section">
+ <!--   <div class="section">
 
 <!-- BANNER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/BANNER.png">
@@ -400,7 +399,7 @@ permalink: /PreliminaresPLANCKS2024/
     {% if loopindex == 1 %}
       </div>
     {% endif %}
-
+-->
   </div>
 </div>
 
