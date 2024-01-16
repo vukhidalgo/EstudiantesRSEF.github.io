@@ -17,8 +17,8 @@ permalink: /PreliminaresPLANCKS/
     <div class="row center">
       <a href="{{ site.url }}/PreliminaresPLANCKS2023/" id="prelis-button" class="btn-large waves-effect waves-light" style="background-color: #018c45;">Accede a la información de esta edición de las Prelis!</a>
     </div>    
-    <!-- <h5 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2023.</p></h5>
-    <h4 style="text-align: center;"><p style="text-align:center">Más información en enero de 2023.</p></h4> -->
+    <h5 style="text-align: center;"><p style="text-align:center">La próxima edición de las preliminares de Plancks será en marzo de 2024.</p></h5>
+    <h4 style="text-align: center;"><p style="text-align:center">Más información en enero de 2024.</p></h4>
 
 <!-- EDICIONES ANTERIORES -->
   <div class="section" id="ediciones-anteriores">
