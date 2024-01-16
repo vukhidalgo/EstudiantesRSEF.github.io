@@ -577,15 +577,18 @@ permalink: /PreliminaresPLANCKS2024/
           <div class="col s12 m6 l7">
             <div class="icon-block">
               <h5 class="center">Comité Organizador</h5>
-              <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
-              <p align="center">Cristina Balsells Llort - Vicepresidenta</p>
-              <p align="center">Pablo Blanco Mas - Secretaría e inscripciones</p>
-              <p align="center">Joan Llobera Querol - Web y grafismos</p>
-              <p align="center">Sergio Salvía Fernández - Responsable de Relaciones Públicas</p>
-              <p align="center">Odette Alonso-Sañudo Álvarez - Relaciones Públicas</p>
-              <p align="center">Irene Carrión López - Logística</p>
-              <p align="center">Pedro Villalba González - Logística</p>
-              <p align="center">Juan Lorenzo Campos - Logística</p>
+              <p align="center">Joan Llobera Querol - Presidenta</p>
+              <p align="center">Irene Carrión López - Vicepresidenta</p>
+              <p align="center">Misael Samir Malqui Cruz - Redes </p>
+              <p align="center">Lucía Longo - Redes </p>
+              <p align="center">María Sánchez Hernández - Redes </p>
+              <p align="center">Miguel Durán Vera - Web </p>
+              <p align="center">Adrián Marín Boyero - Grafismos </p>
+              <p align="center">Víctor Palma Cortés - Logística</p>
+              <p align="center">Eric Jiménez Zurera - Logística</p>
+              <p align="center">Eloi Casalé Cabanes - Logística</p>
+              <p align="center">Inmaculada Pérez Pérez  - Senior Advisor</p>
+              <p align="center">Manuel Porrón Álvarez - </p>
             </div>
           </div>
           <div class="col s12 m6 l5">
