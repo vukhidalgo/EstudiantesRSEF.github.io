@@ -9,7 +9,7 @@ locandina: /img/eventos/2023-PLANCKS/logo.png
 cover: /img/eventos/2023-PLANCKS/fondo_web.png
 gallery:
 site: /PreliminaresPLANCKS2023/
-ranking: https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view
+ranking: https://drive.google.com/file/d/1cpB54H_7XjsrewWeqIm6cYMS4SoyIV16/view
 exam: https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view
 comm: https://estudiantes.rsef.es/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2023/
 ---
