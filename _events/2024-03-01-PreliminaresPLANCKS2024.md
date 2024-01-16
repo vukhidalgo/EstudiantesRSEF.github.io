@@ -1,7 +1,7 @@
 ---
 layout: event
-categories: eventos-internacionales
-title:  "Preliminares_de PLANCKS 2024"
+categories: eventos-internacionales_
+title:  "Preliminares_de PLANCKS 2024" 
 startingdate: 2024-03-01
 endingdate:
 place: Toda España
