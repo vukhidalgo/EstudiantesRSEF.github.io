@@ -13,20 +13,24 @@ permalink: /PreliminaresPLANCKS2024/
 
 
 <!-- RESULTADOS -->
+      <!--
       <hr>
       <h2 style="text-align: center;">        
-          <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023_new.pdf" target="_blank"><span style="color: #3ca41c;"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2023</strong></span></a>        
+          <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023_new.pdf" target="_blank"><span style="color: #3ca41c;"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2024</strong></span></a>        
       </h2>
+      -->
 
 <!-- SOLUCIONES -->
+      <!--
       <hr>
       <h2 style="text-align: center;">        
           <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><span style="color: #3ca41c;"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></span></a>        
       </h2>
       <hr>
+      -->
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la séptima edición de las <strong>Preliminares de PLANCKS</strong>! Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la octava edición de las <strong>Preliminares de PLANCKS</strong>! <!-- Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. --> Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -61,6 +65,7 @@ permalink: /PreliminaresPLANCKS2024/
       </div>
 -->
 
+<!--
 <!-- AUTORES -->
       <div class="section">
         <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
@@ -84,10 +89,12 @@ permalink: /PreliminaresPLANCKS2024/
           </div>
        </div>
      </div>
-
+-->
+<!--
 <!-- COMITÉS -->
       <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
     </div>
+-->
     
      <!-- Modal PONENTES -->
 
@@ -136,6 +143,7 @@ permalink: /PreliminaresPLANCKS2024/
      {% endif %}
      {% endfor %}
 
+<!--
 <!-- MAP -->
     <div class="section">
       <div class="section">
@@ -350,7 +358,7 @@ permalink: /PreliminaresPLANCKS2024/
         </body>
       </html>
     </div>
-
+-->
 
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
@@ -405,17 +413,17 @@ permalink: /PreliminaresPLANCKS2024/
       <div class="row center">
         <h3 class="justify">Información general</h3>
 
-        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2023 es una competición de física teórica por equipos en la que habrá que resolver 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
+        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2024 es una competición de física teórica por equipos en la que habrá que resolver 4 problemas. Puedes ver las pruebas de otros años en la <a class="modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
         
         <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://forms.gle/ae8FCyQvty9tRrSS9" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
 
-        <p style="text-align: justify;"><strong>¿Cómo y cuándo tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2023 en España se celebrarán el próximo <strong>viernes 3 de marzo por la tarde</strong>, de forma simultánea en sedes situadas en facultades de física del territorio nacional. La prueba durará 3 horas y tendrá lugar de 16:00 a 19:00 (GMT+1).</p>
+        <p style="text-align: justify;"><strong>¿Cómo y cuándo tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2023 en España se celebrarán el próximo <strong>lunes 1 de marzo por la tarde</strong>, de forma simultánea en sedes situadas en facultades de física del territorio nacional. La prueba durará 3 horas y tendrá lugar de 16:00 a 19:00 (GMT+1).</p>
         
         <p style="text-align: justify;"><strong>Y si la prueba os sale muy bien hay premio por partida doble...</strong></p>
         
         <list class="a">
-          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Milán! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a href="#plancks-modal" class="modal-trigger">este enlace</a>.</li>
-          <li style="text-align: justify;">¡Y este año, como novedad, tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</li>
+          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Dublín! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a href="#plancks-modal" class="modal-trigger">este enlace</a>.</li>
+          <!-- <li style="text-align: justify;">¡Y este año, como novedad, tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</li> -->
         </list>
 
         <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="https://drive.google.com/file/d/1Rg48G45oEnFR7w9CxcF1VcY7t-hvD_M6/view?usp=sharing" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
@@ -445,7 +453,7 @@ permalink: /PreliminaresPLANCKS2024/
       <div class="row center">
         <h3 class="justify">Premios</h3>
         <p style="text-align: justify;">
-          Este año contamos con el apoyo y financiación de la <a href="https://www.fundacionareces.es" id="ramon-areces" target="_blank">Fundación Ramón Areces</a>, que nos permite ofrecer premios a los dos mejores equipos: 550€ para el primer equipo y 450€ para el segundo. Además, los clasificados participarán en la fase internacional de PLANCKS en Milán, con la inscripción y el alojamiento financiado por el Grupo de Estudiantes.
+          Este año contamos con el apoyo y financiación de la <a href="https://www.fundacionareces.es" id="ramon-areces" target="_blank">Fundación Ramón Areces</a>, que nos permite ofrecer premios a los dos mejores equipos: 550€ para el primer equipo y 450€ para el segundo. Además, los clasificados participarán en la fase internacional de PLANCKS en Dublín, con la inscripción y el alojamiento financiado por el Grupo de Estudiantes.
         </p>
         <p style="text-align: justify;">
           Todo esto no sería posible sin el apoyo de la Fundación Ramón Areces y de los miembros del GdeE. ¡Así que muchas gracias por confiar en nosotros!
@@ -467,12 +475,12 @@ permalink: /PreliminaresPLANCKS2024/
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
       <div class="row center">
         <h3 class="justify">Información para supervisoras/es</h3>
-        <p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible supervisor/a de examen en las Preliminares de PLANCKS 2023. A continuación, te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
+        <p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible supervisor/a de examen en las Preliminares de PLANCKS 2024. A continuación, te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
         <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:</p>
         <list class="a">
           <li style="text-align: justify;">Ser investigador pre- o post-doctoral o ser docente universitario (en activo o jubilado).</li>
-          <li style="text-align: justify;">Comprometerse a tener disponibilidad en el rango horario 15:30h - 19:30h el viernes 3 de marzo de 2023, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
+          <li style="text-align: justify;">Comprometerse a tener disponibilidad en el rango horario 15:30h - 19:30h el lunes 1 de marzo de 2024, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cuáles son las responsabilidades del cargo de Supervisor/a?</strong> Son las siguientes:</p>
         <list class="a">
@@ -481,7 +489,7 @@ permalink: /PreliminaresPLANCKS2024/
           <li style="text-align: justify;">Supervisar el desarrollo de la prueba durante su realización y velar por el cumplimiento de las normas establecidas.</li>
           <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al Comité Organizador el mismo día de la prueba.</li>
         </list>
-        <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2023?</strong> Es muy sencillo: sólo tienes que rellenar <a href="https://forms.gle/yDEvVWuEY71osu2z7" id="inscripcion-supervisores-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
+        <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2024?</strong> Es muy sencillo: sólo tienes que rellenar <a href="https://forms.gle/yDEvVWuEY71osu2z7" id="inscripcion-supervisores-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
         <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="https://drive.google.com/file/d/1Rg48G45oEnFR7w9CxcF1VcY7t-hvD_M6/view?usp=sharing" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
@@ -500,7 +508,7 @@ permalink: /PreliminaresPLANCKS2024/
         <h3 class="justify">Conoce Plancks </h3>
         <p style="text-align: justify;"><strong>¿Qué es PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí.</p>
         <p style="text-align: justify;">
-          Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física y la prueba tendrá lugar del 12 al 16 de mayo en la Universidad de Milán. ¡La última edición reunió 250 participantes de más de 50 países! Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
+          Este año PLANCKS será organizado por la Asociación Italiana de Estudiantes de Física y la prueba tendrá lugar del 23 al 27 de mayo en la Universidad de Dublín. ¡La última edición reunió 250 participantes de más de 50 países! Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
         </p>
       </div>
     </div>
