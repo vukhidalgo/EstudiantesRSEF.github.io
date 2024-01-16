@@ -31,7 +31,7 @@ comm:
       
 <!-- BUTTONS -->
     <div class="row center">
-      <a href="{{ site.url }}/PreliminaresPLANCKS2023/" id="prelis-button" class="btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c "><strong> Ir a la página de PLANCKS </strong></a>
+      <a href="{{ site.url }}/PreliminaresPLANCKS2024/" id="prelis-button" class="btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c "><strong> Ir a la página de PLANCKS </strong></a>
     </div>
   </div>
 </div>      
