@@ -75,7 +75,7 @@ permalink: /PreliminaresPLANCKS2024/
         <div class="col s12 m6">
           <div class="row center">
             {% for person in site.persons %}
-            {% if person.evento contains "Prelis2023" %}
+            {% if person.evento contains "Prelis2024" %}
               <ul class="collection waves-effect waves-light" style="width: 40%">
                 <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                   <li class="collection-item avatar2">
@@ -93,10 +93,10 @@ permalink: /PreliminaresPLANCKS2024/
 -->
 
 <!-- COMITÉS -->
-<!--
+
       <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
     </div>
--->
+
     
      <!-- Modal PONENTES -->
 
