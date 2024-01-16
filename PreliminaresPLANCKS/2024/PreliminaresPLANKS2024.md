@@ -30,7 +30,7 @@ permalink: /PreliminaresPLANCKS2024/
       -->
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la octava edición de las <strong>Preliminares de PLANCKS</strong>! <!-- Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. --> Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la séptima edición de las <strong>Preliminares de PLANCKS</strong>! <!-- Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. --> Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -65,8 +65,9 @@ permalink: /PreliminaresPLANCKS2024/
       </div>
 -->
 
-<!--
+
 <!-- AUTORES -->
+<!--
       <div class="section">
         <h3 id="Autores">¡Conoce a l@s autor@s de los problemas!</h3>
         <p style="text-align: justify;">Los miembros del Comité Académico de las Preliminares PLANCKS 2024 son:</p>
@@ -90,8 +91,9 @@ permalink: /PreliminaresPLANCKS2024/
        </div>
      </div>
 -->
-<!--
+
 <!-- COMITÉS -->
+<!--
       <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
     </div>
 -->
@@ -143,8 +145,9 @@ permalink: /PreliminaresPLANCKS2024/
      {% endif %}
      {% endfor %}
 
-<!--
+
 <!-- MAP -->
+<!--
     <div class="section">
       <div class="section">
         <strong><h3>El mapa de las Preliminares de PLANCKS 2024</h3></strong>
