@@ -1,6 +1,6 @@
 ---
 layout: event
-categories: eventos-internacionales_
+categories: eventos//-internacionales
 title:  "Preliminares_de PLANCKS 2024" 
 startingdate: 2024-03-01
 endingdate:
