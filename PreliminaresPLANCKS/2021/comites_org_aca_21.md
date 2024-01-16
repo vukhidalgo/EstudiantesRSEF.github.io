@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ComPreliminaresPLANCKS20
+title: ComPreliminaresPLANCKS21
 permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2021/
 ---
 
