@@ -11,7 +11,7 @@ gallery:
 site: /PreliminaresPLANCKS2023/
 ranking: https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view
 exam: https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view
-comm:
+comm: https://estudiantes.rsef.es/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2023/
 ---
 
 <div class="container">
