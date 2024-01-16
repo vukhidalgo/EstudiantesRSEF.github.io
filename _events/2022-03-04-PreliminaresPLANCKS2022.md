@@ -11,7 +11,7 @@ gallery:
 site: /PreliminaresPLANCKS2022/
 ranking: https://drive.google.com/file/d/1EwHQMn3ToKZKP-gpT1EyS-rrCHyS5ZZv/view?usp=sharing
 exam: https://drive.google.com/drive/folders/17blBbgvKqz17WHktJYhnanSugrKsyZYD?usp=sharing
-comm:
+comm: https://estudiantes.rsef.es/PreliminaresPLANCKS/ComitesOrganizadorAcademico/2022/
 ---
 
 <div class="container">
