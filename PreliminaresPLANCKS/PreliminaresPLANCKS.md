@@ -10,9 +10,9 @@ permalink: /PreliminaresPLANCKS/
 <!-- INTRODUCCIÓN -->
     <p style="text-align: justify;">
     ¿Te gustan los retos y te apasiona la física? ¿Quieres aspirar a representar a nuestro país en un concurso internacional con estudiantes de física de todo el mundo?
-    El Grupo de Estudiantes de la RSEF lleva ya cinco años organizando las <strong>Preliminares de PLANCKS</strong> en España. Para participar sólo hace falta reunir un grupo de motivados como tú para pasar una tarde resolviendo problemas de física.
+    El Grupo de Estudiantes de la RSEF lleva ya seis años organizando las <strong>Preliminares de PLANCKS</strong> en España. Para participar sólo hace falta reunir un grupo de motivados como tú para pasar una tarde resolviendo problemas de física.
     Si ves que falta poco para la próxima edición de las Preliminares, entra a ver qué se cuece. Mientras, puedes explorar las últimas ediciones del concurso.
-    Y si quieres conocer más sobre PLANCKS, consulta <a href="https://www.iaps.info/events/plancks/what-is-plancks/" target="_blank">esta página</a> de la International Association of Physics Students (IAPS). ¡Bienvenid@!</p>
+    Y si quieres conocer más sobre PLANCKS, consulta <a href="https://iaps.info/events/plancks/" target="_blank">esta página</a> de la International Association of Physics Students (IAPS). ¡Bienvenid@!</p>
 
     <div class="row center">
       <a href="{{ site.url }}/PreliminaresPLANCKS2023/" id="prelis-button" class="btn-large waves-effect waves-light" style="background-color: #018c45;">Accede a la información de esta edición de las Prelis!</a>
