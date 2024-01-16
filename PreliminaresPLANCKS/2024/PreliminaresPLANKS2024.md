@@ -519,12 +519,12 @@ permalink: /PreliminaresPLANCKS2024/
       <div class="row center">
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://www.iaps.info/events/plancks/plancks-2023-in-milan/" target="_blank" id="plancks-button" class="btn-large waves-effect waves-light" style="background-color: #018c45">Conoce Plancks</a>
+            <a href="https://www.iaps.info/events/plancks/plancks-2023-in-milan/" target="_blank" id="plancks-button" class="btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c"><strong>Conoce Plancks</strong></a>
           </div>
         </div>
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: #018c45">Conoce IAPS</a>
+            <a href="https://www.iaps.info/" target="_blank" id="iaps-button" class="btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c"><strong>Conoce IAPS</strong></a>
           </div>
         </div>
       </div>
@@ -548,12 +548,12 @@ permalink: /PreliminaresPLANCKS2024/
       <div class="row center">  
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://forms.gle/ae8FCyQvty9tRrSS9" id="inscripcion-equipos-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i>Inscripción equipos</a>
+            <a href="https://forms.gle/ae8FCyQvty9tRrSS9" id="inscripcion-equipos-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">groups</i><strong>Inscripción equipos</strong></a>
           </div>
         </div>
         <div class="col s12 m6">
           <div class="row center">
-            <a href="https://forms.gle/yDEvVWuEY71osu2z7" id="inscripcion-supers-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Inscripción supervisores</a>
+            <a href="https://forms.gle/yDEvVWuEY71osu2z7" id="inscripcion-supers-button" target="_blank" class="btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i><strong>Inscripción supervisores</strong></a>
           </div>
         </div>
       </div>
