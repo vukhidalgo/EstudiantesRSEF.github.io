@@ -6,7 +6,7 @@ permalink: /PreliminaresPLANCKS2024/
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
- <!--   <div class="section">
+     <div class="section">
 
 <!-- BANNER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/BANNER.png">
@@ -92,9 +92,7 @@ permalink: /PreliminaresPLANCKS2024/
 <!-- COMITÉS -->
       <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
     </div>
-
-
-
+    
      <!-- Modal PONENTES -->
 
      {% for person in site.persons %}
