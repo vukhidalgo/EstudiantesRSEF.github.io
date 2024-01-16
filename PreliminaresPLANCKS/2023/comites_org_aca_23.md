@@ -13,15 +13,15 @@ permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2023/
         <div class="col s12 m6">
           <div class="icon-block">
             <h2 class="center">Comité Organizador</h2>
-            <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
-            <p align="center">Alejandro Fernández Muñoz - Vicepresidente y IT Manager</p>
-            <p align="center">Pedro Villalba González - Responsable de Relaciones Públicas</p>
-            <p align="center">Sergio Salvía Fernández - Relaciones Públicas</p>
-            <p align="center">Alba Tacoronte Hernández - Diseño gráfico</p>
-            <p align="center">Cristina Balsells Llort - Responsable de Logística</p>
-            <p align="center">Alberto Flores Ruiz - Logística</p>
-            <p align="center">Imanol Corredoira Fernández - Logística</p>
-            <p align="center">Jorge Morón Vidal - Logística</p>
+              <p align="center">Inmaculada Pérez Pérez - Presidenta</p>
+              <p align="center">Cristina Balsells Llort - Vicepresidenta</p>
+              <p align="center">Pablo Blanco Mas - Secretaría e inscripciones</p>
+              <p align="center">Joan Llobera Querol - Web y grafismos</p>
+              <p align="center">Sergio Salvía Fernández - Responsable de Relaciones Públicas</p>
+              <p align="center">Odette Alonso-Sañudo Álvarez - Relaciones Públicas</p>
+              <p align="center">Irene Carrión López - Logística</p>
+              <p align="center">Pedro Villalba González - Logística</p>
+              <p align="center">Juan Lorenzo Campos - Logística</p>
           </div>
         </div>
         <div class="col s12 m6">
