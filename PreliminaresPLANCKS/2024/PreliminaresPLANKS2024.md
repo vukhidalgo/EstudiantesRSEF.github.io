@@ -14,10 +14,8 @@ permalink: /PreliminaresPLANCKS2024/
 
 <!-- RESULTADOS -->
       <hr>
-      <h2 style="text-align: center;">
-        <span style="color: #3ca41c;">
-          <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023_new.pdf" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2023</strong></a>
-        </span>
+      <h2 style="text-align: center;">        
+          <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023_new.pdf" target="_blank"><span style="color: #3ca41c;"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2023</strong></span></a>        
       </h2>
 
 <!-- SOLUCIONES -->
