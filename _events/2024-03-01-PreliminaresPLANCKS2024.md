@@ -5,8 +5,8 @@ title:  "Preliminares de PLANCKS 2024"
 startingdate: 2024-03-01
 endingdate:
 place: Toda España
-locandina: /img/eventos/2024-PrelisPLANCKS/LOGO_PrelisPLANCKS2024.png
-cover: /img/eventos/2024-PrelisPLANCKS/LOGO_PrelisPLANCKS2024.png
+locandina: /img/eventos/2024-PrelisPLANCKS/logo.png
+cover: /img/eventos/2024-PrelisPLANCKS/logo.png
 gallery:
 site: /PreliminaresPLANCKS2024/
 ranking: 
