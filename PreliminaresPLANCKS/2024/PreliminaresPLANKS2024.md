@@ -15,7 +15,7 @@ permalink: /PreliminaresPLANCKS2024/
 <!-- RESULTADOS -->
       <hr>
       <h2 style="text-align: center;">
-        <span style="color: #A1A7EA;">
+        <span style="color: #3ca41c;">
           <a href="{{ site.url}}/PreliminaresPLANCKS/2023/resultados2023_new.pdf" target="_blank"><strong>RESULTADOS DE LAS PRELIMINARES DE PLANCKS 2023</strong></a>
         </span>
       </h2>
@@ -23,7 +23,7 @@ permalink: /PreliminaresPLANCKS2024/
 <!-- SOLUCIONES -->
       <hr>
       <h2 style="text-align: center;">
-        <span style="color: #A1A7EA;">
+        <span style="color: #3ca41c;">
           <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></a>
         </span>
       </h2>
@@ -35,13 +35,13 @@ permalink: /PreliminaresPLANCKS2024/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
         </div>
         <div class="row center">
-          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
-          <a href="#plancks-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
-          <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">star</i>Premios</a>
-          <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #018c45; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
+          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
+          <a href="#plancks-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
+          <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">star</i>Premios</a>
+          <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
         </div>
       </div>
 
