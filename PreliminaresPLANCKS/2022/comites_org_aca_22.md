@@ -28,6 +28,7 @@ permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2022/
           <div class="icon-block">
             <h2 class="center">Comité Académico</h2>
             <p align="center">Juan León (QUINFOG, CSIC) - Presidente y Autor de Problema</p>
+            <p align="center">Rosario González-Férez (UGR) - Autora de Problema</p>
             <p align="center">Miguel Ángel Sanchís Lozano (UV) - Autor de Problema</p>
             <p align="center">Ángel Sanz (UCM) - Autor de Problema</p>
             <p align="center">María Luisa Sarsa Sarsa (UNIZAR) - Autora de Problema</p>
