@@ -586,10 +586,10 @@ permalink: /PreliminaresPLANCKS2023/
           <div class="col s12 m6 l5">
             <div class="icon-block">
               <h5 class="center">Comité Académico</h5>
-              <p align="center">No podemos desvelar su composición hasta después de la realización de la prueba. ;)</p>
-              <p align="center"></p>
-              <p align="center"></p>
-              <p align="center"></p>
+                <p align="center">Juan León (QUINFOG, CSIC) - Presidente y Autor de Problema</p>
+                <p align="center">Alberto Pérez Izquierdo (US) - Autor de Problema</p>
+                <p align="center">Marta González Silveira (UAB) - Autora de Problema</p>
+                <p align="center">Mariano Santander (UVa) - Autor de Problema</p>
             </div>
           </div>
         </div>
