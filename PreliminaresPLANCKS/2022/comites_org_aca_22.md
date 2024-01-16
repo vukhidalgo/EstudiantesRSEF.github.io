@@ -1,12 +1,12 @@
 ---
 layout: default
-title: ComPreliminaresPLANCKS20
+title: ComPreliminaresPLANCKS22
 permalink: /PreliminaresPLANCKS/ComitesOrganizadorAcademico/2022/
 ---
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
-        <h3 class="justify"><strong>Preliminares de PLANCKS 2021</strong></h3>
+        <h3 class="justify"><strong>Preliminares de PLANCKS 2022</strong></h3>
           <h2 class="justify"><strong>Comités Organizador y Académico</strong></h2>
     <div class="section">
       <div class="row">
