@@ -22,10 +22,8 @@ permalink: /PreliminaresPLANCKS2024/
 
 <!-- SOLUCIONES -->
       <hr>
-      <h2 style="text-align: center;">
-        <span style="color: #3ca41c;">
-          <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></a>
-        </span>
+      <h2 style="text-align: center;">        
+          <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><span style="color: #3ca41c;"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></span></a>        
       </h2>
       <hr>
 
@@ -35,13 +33,13 @@ permalink: /PreliminaresPLANCKS2024/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i>Información general</a>
+          <a href="#info-modal" id="info-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center;"><i class="material-icons" style="padding-right: 8px;">info</i><strong>Información general</strong></a>
         </div>
         <div class="row center">
-          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i>Supervisoras/es</a>
-          <a href="#plancks-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i>Conoce Plancks</a>
-          <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">star</i>Premios</a>
-          <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i>Inscríbete</a>
+          <a href="#supervisores-modal" id="supervisores-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">remove_red_eye</i><strong>Supervisoras/es</strong></a>
+          <a href="#plancks-modal" id="conocer-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">explore</i><strong>Conoce Plancks</strong></a>
+          <a href="#premios-modal" id="premios-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">star</i><strong>Premios</strong></a>
+          <a href="#inscripcion-modal" id="inscripcion-button" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffffff; color: #3ca41c; display: inline-flex; align-items: center; margin-bottom: 5px;"><i class="material-icons" style="padding-right: 8px;">create</i><strong>Inscríbete</strong></a>
         </div>
       </div>
 
