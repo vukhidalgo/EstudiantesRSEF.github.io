@@ -586,8 +586,9 @@ permalink: /PreliminaresPLANCKS2024/
               <p align="center">Víctor Palma Cortés - Logística</p>
               <p align="center">Eric Jiménez Zurera - Logística</p>
               <p align="center">Eloi Casalé Cabanes - Logística</p>
+              <p align="center">Manuel Porrón Álvarez - Logística </p>
               <p align="center">Inmaculada Pérez Pérez  - Senior Advisor</p>
-              <p align="center">Manuel Porrón Álvarez - </p>
+              
             </div>
           </div>
           <div class="col s12 m6 l5">
