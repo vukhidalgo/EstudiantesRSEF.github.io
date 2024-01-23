@@ -26,11 +26,12 @@ ul {
 }
 
 a {
-	color: #3ca41c;
+	color: $link-color;
 	text-decoration: none;
-
-  // Gets rid of tap active state
+	// Gets rid of tap active state
   -webkit-tap-highlight-color: transparent;
+
+}
 
 .prelis24 {
   color: #3ca41c;
@@ -46,8 +47,8 @@ a {
   color: #308316;
   background-color: transparent;
   text-decoration: none;
-}}
 }
+
 
 
 // Positioning
