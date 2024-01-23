@@ -4,8 +4,6 @@ title: Preliminares PLANCKS 2024
 permalink: /PreliminaresPLANCKS2024/
 ---
 
-<link rel="stylesheet" type="text/css" href="/_sass/newclasses/links.scss">
-
 <div class="no-pad-top" id="index-page">
   <div class="container">
      <div class="section">
