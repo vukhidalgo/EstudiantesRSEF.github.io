@@ -113,7 +113,7 @@ a.prelis24:hover {
 
 <!-- COMITÉS -->
     <div class="row"> 
-      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2024.</p>
+      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="prelis24">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2024.</p>
     </div>
 
     
