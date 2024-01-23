@@ -49,7 +49,7 @@ a.prelis24:hover {
       -->
 
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la séptima edición de las <strong>Preliminares de PLANCKS</strong>! Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la séptima edición de las <strong>Preliminares de PLANCKS</strong>! Y este año también ofrecemos <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
 
 <!-- BOTONES -->
       <div class="section">
@@ -69,7 +69,7 @@ a.prelis24:hover {
         <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2024 se cerrarán en...</p>
         <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
         <p style="text-align: justify;">¡No dejes tu inscripción para el último momento para asegurarnos que tendrás aulas y supervisores disponibles en tu facultad!</p>
-        <p style="text-align: justify;"> Sólo para equipos con miembros del GdeE. El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p>
+        <p style="text-align: justify;"> <!-- Sólo para equipos con miembros del GdeE. --> El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p>
       </div> 
       
 <!-- FINAL INSCRIPCIONES -->
@@ -440,21 +440,21 @@ a.prelis24:hover {
         
         <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe621X8cPqOPlC6gNIk9nioyiRIrpsDfFANJnPRVUAaavZDNA/viewform" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
 
-        <p style="text-align: justify;"><strong>¿Cómo y cuándo tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2023 en España se celebrarán el próximo <strong>lunes 1 de marzo por la tarde</strong>, de forma simultánea en sedes situadas en facultades de física del territorio nacional. La prueba durará 3 horas y tendrá lugar de 16:00 a 19:00 (GMT+1).</p>
+        <p style="text-align: justify;"><strong>¿Cómo y cuándo tendrán lugar las Preliminares?</strong> Las Preliminares de PLANCKS 2024 en España se celebrarán el próximo <strong>lunes 1 de marzo por la tarde</strong>, de forma simultánea en sedes situadas en facultades de física del territorio nacional. La prueba durará 3 horas y tendrá lugar de 16:00 a 19:00 (GMT+1).</p>
         
         <p style="text-align: justify;"><strong>Y si la prueba os sale muy bien hay premio por partida doble...</strong></p>
         
         <list class="a">
           <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Dublín! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a href="#plancks-modal" class="modal-trigger">este enlace</a>.</li>
-          <!-- <li style="text-align: justify;">¡Y este año, como novedad, tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</li> -->
-        </list>
+          <li style="text-align: justify;">¡Y este año tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</li> 
+        </list> 
 
         <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="/PreliminaresPLANCKS/2024/Competition_Rules_PrelisPLANCKS24.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
     
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #018c45;">
+      <div class="section" style="padding-left: 15px; padding-right: 15px; border: 2px solid #3ca41c;">
         <strong>Términos y Condiciones de IAPS</strong> | Todos los participantes:
         <p style="text-align: justify;">- Declaran conocer que PLANCKS está regulado por el Artículo 12 de las <a href="https://www.iaps.info/wp-content/uploads/2023/01/iaps__Regulations_2022.pdf" target="_blank">IAPS Regulations</a>.</p>
         <p style="text-align: justify;">- Y se comprometen a cumplir las <a href="https://www.iaps.info/wp-content/uploads/2021/01/PLANCKS-General-Rules-EGM-2020.pdf" target="_blank">Reglas Generales de PLANCKS</a>, además del <a href="https://www.iaps.info/wp-content/uploads/2022/08/IAPS-Code-of-Conduct-2020.pdf" target="_blank">IAPS Code of Conduct</a>.</p>
@@ -502,7 +502,7 @@ a.prelis24:hover {
         <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a href="#info-modal" class="modal-trigger">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:</p>
         <list class="a">
-          <li style="text-align: justify;">Ser investigador pre- o post-doctoral o ser docente universitario (en activo o jubilado).</li>
+          <li style="text-align: justify;">Ser investigador pre- o post-doctoral o ser docente universitario o de educación secundaria (en activo o jubilado).</li>
           <li style="text-align: justify;">Comprometerse a tener disponibilidad en el rango horario 15:30h - 19:30h el viernes 1 de marzo de 2024, así como a dedicar esa disponibilidad a las responsabilidades abajo indicadas.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cuáles son las responsabilidades del cargo de Supervisor/a?</strong> Son las siguientes:</p>
@@ -531,7 +531,7 @@ a.prelis24:hover {
         <h3 class="justify">Conoce Plancks </h3>
         <p style="text-align: justify;"><strong>¿Qué es PLANCKS?</strong> PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) es la competición internacional de física teórica de IAPS, la International Association of Physics Students. En ella pueden participar equipos de tres a cuatro estudiantes de grado y/o máster. Además, la competición se enmarca en un evento de varios días repleto de charlas y actividades para que los participantes se conozcan entre sí.</p>
         <p style="text-align: justify;">
-          Este año PLANCKS será organizado por <a href="https://www.iop.org/" id="iop-button" target="_blank"> the Institute of Physics (IOP) </a> y la prueba tendrá lugar del 23 al 27 de mayo en la Universidad de Dublín. ¡La última edición reunió 250 participantes de más de 50 países! Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
+          Este año PLANCKS será organizado por <a href="https://www.iop.org/" id="iop-button" target="_blank"> the Institute of Physics (IOP) </a> y la prueba tendrá lugar del 23 al 27 de mayo en la Universidad de Dublín. ¡La última edición reunió 250 participantes de unos 30 países! Si quieres conocer más sobre PLANCKS y IAPS, la International Association of Physics Students, clica en los enlaces siguientes.
         </p>
       </div>
     </div>
@@ -597,7 +597,7 @@ a.prelis24:hover {
           <div class="col s12 m6 l7">
             <div class="icon-block">
               <h5 class="center">Comité Organizador</h5>
-              <p align="center">Joan Llobera Querol - Presidenta</p>
+              <p align="center">Joan Llobera Querol - Presidente</p>
               <p align="center">Irene Carrión López - Vicepresidenta</p>
               <p align="center">Misael Samir Malqui Cruz - Redes </p>
               <p align="center">Lucía Longo - Redes </p>
