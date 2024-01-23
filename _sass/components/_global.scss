@@ -33,17 +33,19 @@ a {
 
 }
 
-.prelis24 {
+.prelis24:link {
   color: #3ca41c;
   background-color: transparent;
   text-decoration: none;
+}
 
-  &:visited {
+.prelis24:visited {
   color: #3399ff;
   background-color: transparent;
   text-decoration: none;
 }
-  &:hover {
+
+.prelis24:hover {
   color: #308316;
   background-color: transparent;
   text-decoration: none;
