@@ -113,7 +113,7 @@ a:hover {
 
 <!-- COMITÉS -->
     <div class="row"> 
-      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2023.</p>
+      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2024.</p>
     </div>
 
     
@@ -383,8 +383,10 @@ a:hover {
 
 <!-- EDICIONES ANTERIORES -->
     <div class="section" id="ediciones-anteriores">
-      <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
-      <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
+      <div class="row center">
+        <h3 id="EdicionesAnteriores">Ediciones Anteriores</h3>
+        <p style="text-align: justify;">En esta sección encontrarás información sobre ediciones anteriores de las Preliminares de PLANCKS como clasificaciones, exámenes resueltos o los integrantes de los Comités Organizador y Académico.</p>
+      </div>
     </div>
 
     {% assign loopindex = 0 %}
