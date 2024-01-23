@@ -3,6 +3,25 @@ layout: default
 title: Preliminares PLANCKS 2024
 permalink: /PreliminaresPLANCKS2024/
 ---
+<style>
+a:link {
+  color: #3ca41c;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #3399ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #308316;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
@@ -428,7 +447,7 @@ permalink: /PreliminaresPLANCKS2024/
           <!-- <li style="text-align: justify;">¡Y este año, como novedad, tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="modal-trigger">este enlace</a>.</li> -->
         </list>
 
-        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="Competition_Rules_PrelisPLANCKS24.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a href="PreliminaresPLANCKS/2024/Competition_Rules_PrelisPLANCKS24.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
     
