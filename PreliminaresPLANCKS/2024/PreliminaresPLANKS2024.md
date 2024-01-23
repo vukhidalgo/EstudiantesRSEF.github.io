@@ -4,28 +4,6 @@ title: Preliminares PLANCKS 2024
 permalink: /PreliminaresPLANCKS2024/
 ---
 
-<!--
-<style>
-a.prelis24:link {
-  color: #3ca41c;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a.prelis24:visited {
-  color: #3399ff;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a.prelis24:hover {
-  color: #308316;
-  background-color: transparent;
-  text-decoration: none;
-}
-</style>
--->
-
 <div class="no-pad-top" id="index-page">
   <div class="container">
      <div class="section">
