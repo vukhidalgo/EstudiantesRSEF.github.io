@@ -115,7 +115,7 @@ a.prelis24:hover {
 
 <!-- COMITÉS -->
     <div class="row"> 
-      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="prelis24">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2024.</p>
+      <p style="text-align: justify;">Además, puedes <a href="#comites-modal" class="prelis24 modal-trigger">consultar aquí</a> los integrantes del Comité Organizador de las Preliminares de PLANCKS 2024.</p>
     </div>
 
     
@@ -438,7 +438,7 @@ a.prelis24:hover {
       <div class="row center">
         <h3 class="justify">Información general</h3>
 
-        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2024 es una competición de física teórica por equipos en la que habrá que resolver 4 problemas. Puedes ver las pruebas de otros años en la <a class="prelis24" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
+        <p style="text-align: justify;"><strong>¿En qué consisten las Preliminares?</strong> Las Preliminares de PLANCKS 2024 es una competición de física teórica por equipos en la que habrá que resolver 4 problemas. Puedes ver las pruebas de otros años en la <a class="prelis24 modal-close" href="#ediciones-anteriores">sección de Ediciones anteriores</a>.</p>
         
         <p style="text-align: justify;"><strong>¿Cómo puedo participar en las Preliminares?</strong> Es muy sencillo: si conoces un@s cuant@s amig@s con los que te apetecería pasar un buen rato, resolver problemas que resultan todo un reto e inventarte respuestas disparatadas cuando no sepas por donde salir, reúne un equipo de hasta cuatro personas y no lo dudes: <a class="prelis24" href="https://docs.google.com/forms/d/e/1FAIpQLSe621X8cPqOPlC6gNIk9nioyiRIrpsDfFANJnPRVUAaavZDNA/viewform" id="inscripcion-button" target="_blank">¡inscríbete!</a> Esta primera fase nacional nos permitirá seleccionar al mejor equipo para que nos represente en la competición internacional. Por cierto, es posible que el comité organizador os pida ayuda para encontrar un aula y un/a supervisor/a para poder garantizar una sede de las Preliminares en vuestra ciudad.</p>
 
@@ -447,7 +447,7 @@ a.prelis24:hover {
         <p style="text-align: justify;"><strong>Y si la prueba os sale muy bien hay premio por partida doble...</strong></p>
         
         <list class="a">
-          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Dublín! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a class="prelis24" href="#plancks-modal">este enlace</a>.</li>
+          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Dublín! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a class="prelis24 modal-trigger" href="#plancks-modal">este enlace</a>.</li>
           <li style="text-align: justify;">¡Y este año tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="prelis24">este enlace</a>.</li> 
         </list> 
 
@@ -484,7 +484,7 @@ a.prelis24:hover {
           Todo esto no sería posible sin el apoyo de la Fundación Ramón Areces y de los miembros del GdeE. ¡Así que muchas gracias por confiar en nosotros!
         </p>
         <p style="text-align: justify;">
-          Si aún no sabes de qué estamos hablando, clica en este <a class="prelis24" href="#info-modal">este enlace</a>.
+          Si aún no sabes de qué estamos hablando, clica en este <a class="prelis24 modal-trigger" href="#info-modal">este enlace</a>.
         </p>
       </div>
     </div>
@@ -501,7 +501,7 @@ a.prelis24:hover {
       <div class="row center">
         <h3 class="justify">Información para supervisoras/es</h3>
         <p style="text-align: justify;">¡Hola! Si has llegado hasta esta página es que puedes ser un/a posible supervisor/a de examen en las Preliminares de PLANCKS 2024. A continuación, te contamos cuáles son los requisitos y las responsabilidades del cargo.</p>
-        <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a class="prelis24" href="#info-modal">este enlace</a>.</p>
+        <p style="text-align: justify;">Lee sobre la información general de las Preliminares de PLANCKS en <a class="prelis24 modal-trigger" href="#info-modal">este enlace</a>.</p>
         <p style="text-align: justify;"><strong>¿Cuáles son los requisitos del cargo de Supervisor/a?</strong> Son dos:</p>
         <list class="a">
           <li style="text-align: justify;">Ser investigador pre- o post-doctoral o ser docente universitario o de educación secundaria (en activo o jubilado).</li>
