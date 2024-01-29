@@ -9,7 +9,7 @@ permalink: /PreliminaresPLANCKS2024/
      <div class="section">
 
 <!-- BANNER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2023-PLANCKS/BANNER.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2024-PrelisPLANCKS/bannerPrelis24.png">
 
 
 <!-- RESULTADOS -->
