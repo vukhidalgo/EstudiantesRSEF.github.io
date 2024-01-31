@@ -22,11 +22,11 @@ comm:
     
 <!-- COUNTDOWN -->
     <div class="row">  
-      <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2024 se abrirán en...</p>
+      <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2024 se cerrarán en...</p>
       <h4 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h4>
       
 <!-- INTRO -->
-      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la sexta edición de las <strong>Preliminares de PLANCKS</strong>! Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
+      <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la séptima edición de las <strong>Preliminares de PLANCKS</strong>! Y este año... como novedad, con <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
     </div>
       
 <!-- BUTTONS -->
@@ -40,7 +40,7 @@ comm:
 <!-- TIMER SCRIPT -->
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Jan 31, 2024 00:00:00").getTime();
+  var countDownDate = new Date("Feb 26, 2024 00:00:00").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
