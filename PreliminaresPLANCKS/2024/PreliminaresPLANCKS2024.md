@@ -430,7 +430,7 @@ permalink: /PreliminaresPLANCKS2024/
           <li style="text-align: justify;">¡Y este año tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="prelis24">este enlace</a>.</li> 
         </list> 
 
-        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a class="prelis24" href="/PreliminaresPLANCKS/2024/Competition_Rules_PrelisPLANCKS24.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a class="prelis24" href="/PreliminaresPLANCKS/2024/CompetitionRules_PrelisPLANCKS2024.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
     
@@ -494,7 +494,7 @@ permalink: /PreliminaresPLANCKS2024/
           <li style="text-align: justify;">Recoger las hojas de la prueba y escanearlas para enviarlas al Comité Organizador el mismo día de la prueba.</li>
         </list>
         <p style="text-align: justify;"><strong>¿Cómo puedo supervisar un examen en las Preliminares 2024?</strong> Es muy sencillo: sólo tienes que rellenar <a class="prelis24" href="https://docs.google.com/forms/d/e/1FAIpQLSdEsspz155pqui07-RYSDWc12-pOQ4msZ2p6EI-iPYuWypghw/viewform" id="inscripcion-supervisores-button" target="_blank">este formulario</a>. Una vez cumplimentado, nos pondremos en contacto contigo para informarte de los siguientes pasos.</p>
-        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a class="prelis24" href="/PreliminaresPLANCKS/2024/Competition_Rules_PrelisPLANCKS24.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
+        <p style="text-align: justify;"><i class="material-icons" style="padding-right: 8px;">warning</i><strong>Lee las reglas de la competición en <a class="prelis24" href="/PreliminaresPLANCKS/2024/CompetitionRules_PrelisPLANCKS2024.pdf" id="reglas-button" target="_blank">este enlace</a>.</strong></p>
       </div>
     </div>
   </div>
