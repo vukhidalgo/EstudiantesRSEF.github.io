@@ -50,7 +50,7 @@ permalink: /PreliminaresPLANCKS2024/
         <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2024 se cerrarán en...</p>
         <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
         <p style="text-align: justify;">¡No dejes tu inscripción para el último momento para asegurarnos que tendrás aulas y supervisores disponibles en tu facultad!</p>
-        <p style="text-align: justify;"> <!-- Sólo para equipos con miembros del GdeE. --> El día 1 de febrero iniciamos la promoción a todos los estudiantes de física de España. ¡Así que sé el primero y no te quedes sin plaza!</p>
+        <p style="text-align: justify;"> <!-- Sólo para equipos con miembros del GdeE. --> Hemos comenzado ya con la promoción a todos los estudiantes de física de España. ¡Así que no te quedes sin plaza!</p>
       </div> 
       
 <!-- FINAL INSCRIPCIONES -->
@@ -426,7 +426,7 @@ permalink: /PreliminaresPLANCKS2024/
         <p style="text-align: justify;"><strong>Y si la prueba os sale muy bien hay premio por partida doble...</strong></p>
         
         <list class="a">
-          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Dublín! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a class="prelis24 modal-trigger" href="#plancks-modal">este enlace</a>.</li>
+          <li style="text-align: justify;">Las Preliminares de PLANCKS son además la fase de clasificación nacional para PLANCKS en nuestro país. El mejor equipo de las Prelis nos representará en mayo en la final, ¡que se celebra en Dublín! La inscripción y alojamiento estará cubierta por el Grupo de Estudiantes. ¿Que aun no sabes lo que es PLANCKS? Encuentra toda la información en <a class="prelis24 modal-trigger" href="#premios-modal">este enlace</a>.</li>
           <li style="text-align: justify;">¡Y este año tenemos premios para los dos mejores equipos gracias a la financiación de la Fundación Ramón Areces! Lee más en <a href="#premios-modal" class="prelis24">este enlace</a>.</li> 
         </list> 
 
@@ -649,7 +649,7 @@ permalink: /PreliminaresPLANCKS2024/
 <!-- TIMER SCRIPT -->
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("Feb 26, 2024 23:59:59").getTime();
+  var countDownDate = new Date("Feb 26, 2024 00:00:00").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
