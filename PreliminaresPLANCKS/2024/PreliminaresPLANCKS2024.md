@@ -226,7 +226,6 @@ permalink: /PreliminaresPLANCKS2024/
               const UVAwindow = new google.maps.InfoWindow({ content: UVAcontent, });
               markerUVA.addListener("click", () => { UVAwindow.open({ anchor: markerUVA, map, shouldFocus: false, }); });
               
-              
               var markerUNIOVI = new google.maps.Marker({ map: map, position: UNIOVI, title: "Universidad de Oviedo" });
               const UNIOVIcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -275,7 +274,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UGRwindow = new google.maps.InfoWindow({ content: UGRcontent, });
               markerUGR.addListener("click", () => { UGRwindow.open({ anchor: markerUGR, map, shouldFocus: false, }); });
               -->
-              
+              <!--
               var markerUB = new google.maps.Marker({ map: map, position: UB, title: "Universitat de Barcelona" });
               const UBcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -284,7 +283,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
               markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-
+              -->
               <!--
               var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
               const UC3Mcontent =
@@ -364,7 +363,26 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const URVwindow = new google.maps.InfoWindow({ content: URVcontent, });
               markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });
-              -->              
+              -->      
+              
+              var markerUNIZAR = new google.maps.Marker({ map: map, position: UNIZAR, title: "Universidad de Zaragoza" });
+              const UNIZARcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Zaragoza</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UNIZARwindow = new google.maps.InfoWindow({ content: UNIZARcontent, });
+              markerUNIZAR.addListener("click", () => { UNIZARwindow.open({ anchor: markerUNIZAR, map, shouldFocus: false, }); });
+            }
+            
+              var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universidad de Alicante" });
+              const UAcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Alicante</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
+              markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
             }
           </script>
           <script async defer
