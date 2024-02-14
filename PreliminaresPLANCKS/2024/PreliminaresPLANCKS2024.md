@@ -373,7 +373,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UNIZARwindow = new google.maps.InfoWindow({ content: UNIZARcontent, });
               markerUNIZAR.addListener("click", () => { UNIZARwindow.open({ anchor: markerUNIZAR, map, shouldFocus: false, }); });
-            }
+            
             
               var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universidad de Alicante" });
               const UAcontent =
