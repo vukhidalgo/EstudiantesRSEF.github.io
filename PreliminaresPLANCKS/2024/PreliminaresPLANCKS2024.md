@@ -147,7 +147,7 @@ permalink: /PreliminaresPLANCKS2024/
 
 
 <!-- MAP -->
-<!--
+
     <div class="section">
       <div class="section">
         <strong><h3>El mapa de las Preliminares de PLANCKS 2024</h3></strong>
@@ -216,6 +216,7 @@ permalink: /PreliminaresPLANCKS2024/
               const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
               markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); });
 
+             
               var markerUVA = new google.maps.Marker({ map: map, position: UVA, title: "Universidad de Valladolid" });
               const UVAcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -224,7 +225,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UVAwindow = new google.maps.InfoWindow({ content: UVAcontent, });
               markerUVA.addListener("click", () => { UVAwindow.open({ anchor: markerUVA, map, shouldFocus: false, }); });
-
+              
+              
               var markerUNIOVI = new google.maps.Marker({ map: map, position: UNIOVI, title: "Universidad de Oviedo" });
               const UNIOVIcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -234,6 +236,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UNIOVIwindow = new google.maps.InfoWindow({ content: UNIOVIcontent, });
               markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); });
 
+              <!--
               var markerUAM = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
               const UAMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -242,7 +245,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
               markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });  
-            
+              -->
+              
               var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
               const UCMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -261,6 +265,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UABwindow = new google.maps.InfoWindow({ content: UABcontent, });
               markerUAB.addListener("click", () => { UABwindow.open({ anchor: markerUAB, map, shouldFocus: false, }); });  
 
+              <!--
               var markerUGR = new google.maps.Marker({ map: map, position: UGR, title: "Universidad de Granada" });
               const UGRcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -269,7 +274,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UGRwindow = new google.maps.InfoWindow({ content: UGRcontent, });
               markerUGR.addListener("click", () => { UGRwindow.open({ anchor: markerUGR, map, shouldFocus: false, }); });
-
+              -->
+              
               var markerUB = new google.maps.Marker({ map: map, position: UB, title: "Universitat de Barcelona" });
               const UBcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -278,7 +284,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
               markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
- 
+
+              <!--
               var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
               const UC3Mcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -287,7 +294,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UC3Mwindow = new google.maps.InfoWindow({ content: UC3Mcontent, });
               markerUC3M.addListener("click", () => { UC3Mwindow.open({ anchor: markerUC3M, map, shouldFocus: false, }); });
-
+              -->
+              
               var markerUS = new google.maps.Marker({ map: map, position: US, title: "Universidad de Sevilla" });
               const UScontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -297,6 +305,7 @@ permalink: /PreliminaresPLANCKS2024/
               const USwindow = new google.maps.InfoWindow({ content: UScontent, });
               markerUS.addListener("click", () => { USwindow.open({ anchor: markerUS, map, shouldFocus: false, }); });            
 
+              <!--
               var markerUM = new google.maps.Marker({ map: map, position: UM, title: "Universidad de Murcia" });
               const UMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -305,7 +314,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
               markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); }); 
-            
+              -->
+              <!--
               var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
               const UAHcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -314,7 +324,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UAHwindow = new google.maps.InfoWindow({ content: UAHcontent, });
               markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); }); 
-            
+              -->
+              <!--
               var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
               const UVcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -323,7 +334,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
               markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });            
-
+              -->
+              <!--
               var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
               const USALcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -332,7 +344,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
               markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });            
-
+              -->
+              <!--
               var markerUIB = new google.maps.Marker({ map: map, position: UIB, title: "Universitat de les Illes Balears" });
               const UIBcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -341,7 +354,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UIBwindow = new google.maps.InfoWindow({ content: UIBcontent, });
               markerUIB.addListener("click", () => { UIBwindow.open({ anchor: markerUIB, map, shouldFocus: false, }); });
-
+              -->
+              <!--
               var markerURV = new google.maps.Marker({ map: map, position: URV, title: "Universitat Rovira i Virgili" });
               const URVcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -350,7 +364,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const URVwindow = new google.maps.InfoWindow({ content: URVcontent, });
               markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });
-
+              -->              
             }
           </script>
           <script async defer
@@ -359,7 +373,7 @@ permalink: /PreliminaresPLANCKS2024/
         </body>
       </html>
     </div>
--->
+
 
 
 <!-- EDICIONES ANTERIORES -->
