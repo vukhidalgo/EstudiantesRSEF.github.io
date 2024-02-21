@@ -173,32 +173,32 @@ permalink: /PreliminaresPLANCKS2024/
               // Facultades de https://www.cofis.es/elfisico/facultades.html
               var UA  = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
               var UAB = {lat: 41.501105, lng: 2.109064}; // Facultat de Ciències (Bellaterra)
-              <!--var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias -->
-              <!--var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física -->
+              var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias
+              var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física
               <!--var UNICAN = {lat: 43.471183, lng: -3.801105}; // Facultad de Ciencias (Santander) -->
               var UCM = {lat: 40.450831, lng: -3.726087}; // Facultad de Ciencias Físicas
-              <!--var UCO = {lat: 37.914788, lng: -4.716931}; // Facultad de Ciencias-->
+              var UCO = {lat: 37.914788, lng: -4.716931}; // Facultad de Ciencias
               <!--var UEM = {lat: 40.373069, lng: -3.919072}; // Universidad Europea de Madrid (Villaviciosa de Odón)-->
               <!--var UEV = {lat: 39.475430, lng: -0.365282}; // Universidad Europea de Valencia-->
               <!--var UNEX = {lat: 38.884575, lng: -7.009206}; // Facultad de Ciencias (Badajoz)-->
-              <!--var UGR = {lat: 37.179751, lng: -3.609293}; // Facultad de Ciencias-->
+              var UGR = {lat: 37.179751, lng: -3.609293}; // Facultad de Ciencias
               <!--var UIB = {lat: 39.636006, lng: 2.647993}; // Edifici Mateu Orfila i Rotger-->
               <!--var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)-->
               <!--var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química-->
               <!--var UNED  = {lat: 38.016856, lng: -1.170757}; // Facultad de Economía y Empresa-->
               var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
               var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)
-              <!--var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias-->
+              var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
               <!--var USC = {lat: 42.875917, lng: -8.560536}; // Facultade de Física-->
               var US =  {lat: 37.359384, lng: -5.986452}; // Facultad de Física
-              <!--var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)-->
+              var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)
               var UVA = {lat: 41.663388, lng: -4.705462}; // Facultad de Ciencias
               var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias
               <!--var URJC = {lat: 40.335479, lng: -3.877537}; // Campus de Móstoles-->
               <!--var UC3M = {lat: 40.332473, lng: -3.765400}; // Campus de Leganés-->
-              <!--var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal-->
+              var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal
               <!--var UAH = {lat: 40.510801, lng: -3.346646}; // Campus Científico-Tecnológico-->
-              <!--var URV = {lat: 41.133793, lng: 1.242566}; // Campus Sescelades-->
+              var URV = {lat: 41.133793, lng: 1.242566}; // Campus Sescelades
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
               // var cameraPosition = { zoom: 5.25, center: centerPos };
@@ -279,7 +279,6 @@ permalink: /PreliminaresPLANCKS2024/
               const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
               markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
               
-              <!--
               var markerUAM = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
               const UAMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -287,10 +286,8 @@ permalink: /PreliminaresPLANCKS2024/
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
               const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
-              markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });  
-              -->         
+              markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });         
               
-              <!--
               var markerUGR = new google.maps.Marker({ map: map, position: UGR, title: "Universidad de Granada" });
               const UGRcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -299,9 +296,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UGRwindow = new google.maps.InfoWindow({ content: UGRcontent, });
               markerUGR.addListener("click", () => { UGRwindow.open({ anchor: markerUGR, map, shouldFocus: false, }); });
-              -->
               
-              <!--
               var markerUB = new google.maps.Marker({ map: map, position: UB, title: "Universitat de Barcelona" });
               const UBcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -310,7 +305,6 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
               markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-              -->
               
               <!--
               var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
@@ -333,7 +327,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
               markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); }); 
               -->
-              <!--
+              
               var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
               const UAHcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -342,8 +336,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UAHwindow = new google.maps.InfoWindow({ content: UAHcontent, });
               markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); }); 
-              -->
-              <!--
+
+              
               var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
               const UVcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -352,8 +346,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
               markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });            
-              -->
-              <!--
+
+              
               var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
               const USALcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -362,7 +356,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
               markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });            
-              -->
+
               <!--
               var markerUIB = new google.maps.Marker({ map: map, position: UIB, title: "Universitat de les Illes Balears" });
               const UIBcontent =
@@ -373,7 +367,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UIBwindow = new google.maps.InfoWindow({ content: UIBcontent, });
               markerUIB.addListener("click", () => { UIBwindow.open({ anchor: markerUIB, map, shouldFocus: false, }); });
               -->
-              <!--
+              
               var markerURV = new google.maps.Marker({ map: map, position: URV, title: "Universitat Rovira i Virgili" });
               const URVcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -381,8 +375,7 @@ permalink: /PreliminaresPLANCKS2024/
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
               const URVwindow = new google.maps.InfoWindow({ content: URVcontent, });
-              markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });
-              -->            
+              markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });           
 
             }
           </script>
