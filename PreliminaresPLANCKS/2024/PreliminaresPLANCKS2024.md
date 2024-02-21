@@ -328,14 +328,14 @@ permalink: /PreliminaresPLANCKS2024/
               markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); }); 
               -->
               
-              var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
+              <!-- var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
               const UAHcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
                 '<h5 id="firstHeading" class="firstHeading">Universidad de Alcalá</h5>' +
                 '<div id="bodyContent"><p></p>' +
                 "</div></div>";
               const UAHwindow = new google.maps.InfoWindow({ content: UAHcontent, });
-              markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); }); 
+              markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); }); -->
 
               
               var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
@@ -376,6 +376,24 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const URVwindow = new google.maps.InfoWindow({ content: URVcontent, });
               markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });           
+
+              var markerUPC = new google.maps.Marker({ map: map, position: UPC, title: "Universitat Politècnica de Catalunya" });
+              const UPCcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universitat Politècnica de Catalunya</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UPCwindow = new google.maps.InfoWindow({ content: UPCcontent, });
+              markerUPC.addListener("click", () => { UPCwindow.open({ anchor: markerUPC, map, shouldFocus: false, }); });  
+
+              var markerUCO = new google.maps.Marker({ map: map, position: UCO, title: "Universidad de Córdoba" });
+              const UCOcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Córdoba</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UCOwindow = new google.maps.InfoWindow({ content: UCOcontent, });
+              markerUCO.addListener("click", () => { UCOwindow.open({ anchor: markerUCO, map, shouldFocus: false, }); }); 
 
             }
           </script>
