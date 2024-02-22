@@ -183,7 +183,7 @@ permalink: /PreliminaresPLANCKS2024/
               <!--var UNEX = {lat: 38.884575, lng: -7.009206}; // Facultad de Ciencias (Badajoz)-->
               var UGR = {lat: 37.179751, lng: -3.609293}; // Facultad de Ciencias
               <!--var UIB = {lat: 39.636006, lng: 2.647993}; // Edifici Mateu Orfila i Rotger-->
-              <!--var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)-->
+              var ULL = {lat: 28.481822, lng: -16.320882}; // Facultad de Ciencias (San Cristóbal de La Laguna)
               <!--var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química-->
               <!--var UNED  = {lat: 38.016856, lng: -1.170757}; // Facultad de Economía y Empresa-->
               var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
@@ -394,6 +394,15 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UCOwindow = new google.maps.InfoWindow({ content: UCOcontent, });
               markerUCO.addListener("click", () => { UCOwindow.open({ anchor: markerUCO, map, shouldFocus: false, }); }); 
+
+              var markerULL = new google.maps.Marker({ map: map, position: ULL, title: "Universidad de La Laguna" });
+              const ULLcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de La Laguna</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const ULLwindow = new google.maps.InfoWindow({ content: ULLcontent, });
+              markerULL.addListener("click", () => { ULLwindow.open({ anchor: markerULL, map, shouldFocus: false, }); }); 
 
             }
           </script>
