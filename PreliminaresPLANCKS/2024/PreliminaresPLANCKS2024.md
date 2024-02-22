@@ -197,7 +197,7 @@ permalink: /PreliminaresPLANCKS2024/
               <!--var URJC = {lat: 40.335479, lng: -3.877537}; // Campus de Móstoles-->
               <!--var UC3M = {lat: 40.332473, lng: -3.765400}; // Campus de Leganés-->
               var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal
-              <!--var UAH = {lat: 40.510801, lng: -3.346646}; // Campus Científico-Tecnológico-->
+              var UAH = {lat: 40.510801, lng: -3.346646}; // Campus Científico-Tecnológico
               var URV = {lat: 41.133793, lng: 1.242566}; // Campus Sescelades
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
