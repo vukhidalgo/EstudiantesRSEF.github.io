@@ -201,8 +201,8 @@ permalink: /PreliminaresPLANCKS2024/
               var URV = {lat: 41.133793, lng: 1.242566}; // Campus Sescelades
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
-              // var cameraPosition = { zoom: 5.25, center: centerPos };
-              var cameraPosition = { zoom: 6, center: centerPen };
+              var cameraPosition = { zoom: 5.25, center: centerPos };
+              // var cameraPosition = { zoom: 6, center: centerPen };
               var map = new google.maps.Map(targetElem, cameraPosition);
 
               // We have already displayed the map, let's add markers
