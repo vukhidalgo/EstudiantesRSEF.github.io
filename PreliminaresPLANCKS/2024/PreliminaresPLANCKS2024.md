@@ -324,7 +324,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
               markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });            
 
-              <!--
+              
               var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
               const USALcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -332,18 +332,7 @@ permalink: /PreliminaresPLANCKS2024/
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
               const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
-              markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });            
-
-              <!--
-              var markerUIB = new google.maps.Marker({ map: map, position: UIB, title: "Universitat de les Illes Balears" });
-              const UIBcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universitat de les Illes Balears</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UIBwindow = new google.maps.InfoWindow({ content: UIBcontent, });
-              markerUIB.addListener("click", () => { UIBwindow.open({ anchor: markerUIB, map, shouldFocus: false, }); });
-              -->
+              markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });
               
               var markerURV = new google.maps.Marker({ map: map, position: URV, title: "Universitat Rovira i Virgili" });
               const URVcontent =
@@ -380,7 +369,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const ULLwindow = new google.maps.InfoWindow({ content: ULLcontent, });
               markerULL.addListener("click", () => { ULLwindow.open({ anchor: markerULL, map, shouldFocus: false, }); }); 
-              -->
+
             }
           </script>
           <script async defer
