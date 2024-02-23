@@ -305,7 +305,8 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
               markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-              
+
+              <!--
               <!--
               var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
               const UC3Mcontent =
@@ -328,14 +329,14 @@ permalink: /PreliminaresPLANCKS2024/
               markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); }); 
               -->
               
-              <!-- var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
+              var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
               const UAHcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
                 '<h5 id="firstHeading" class="firstHeading">Universidad de Alcalá</h5>' +
                 '<div id="bodyContent"><p></p>' +
                 "</div></div>";
               const UAHwindow = new google.maps.InfoWindow({ content: UAHcontent, });
-              markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); }); -->
+              markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); });
 
               
               var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
@@ -403,7 +404,7 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const ULLwindow = new google.maps.InfoWindow({ content: ULLcontent, });
               markerULL.addListener("click", () => { ULLwindow.open({ anchor: markerULL, map, shouldFocus: false, }); }); 
-
+              -->
             }
           </script>
           <script async defer
