@@ -306,7 +306,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
               markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
 
-              <!--
+              
               <!--
               var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
               const UC3Mcontent =
@@ -348,7 +348,7 @@ permalink: /PreliminaresPLANCKS2024/
               const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
               markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });            
 
-              
+              <!--
               var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
               const USALcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
