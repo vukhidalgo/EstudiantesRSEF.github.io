@@ -305,29 +305,6 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
               markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-
-              
-              <!--
-              var markerUC3M = new google.maps.Marker({ map: map, position: UC3M, title: "Universidad Carlos III de Madrid" });
-              const UC3Mcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad Carlos III de Madrid</h5>' +
-                '<div id="bodyContent"><p></p>' +
-                "</div></div>";
-              const UC3Mwindow = new google.maps.InfoWindow({ content: UC3Mcontent, });
-              markerUC3M.addListener("click", () => { UC3Mwindow.open({ anchor: markerUC3M, map, shouldFocus: false, }); });
-              -->              
-
-              <!--
-              var markerUM = new google.maps.Marker({ map: map, position: UM, title: "Universidad de Murcia" });
-              const UMcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Murcia</h5>' +
-                '<div id="bodyContent"><p></p>' +
-                "</div></div>";
-              const UMwindow = new google.maps.InfoWindow({ content: UMcontent, });
-              markerUM.addListener("click", () => { UMwindow.open({ anchor: markerUM, map, shouldFocus: false, }); }); 
-              -->
               
               var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
               const UAHcontent =
@@ -338,7 +315,6 @@ permalink: /PreliminaresPLANCKS2024/
               const UAHwindow = new google.maps.InfoWindow({ content: UAHcontent, });
               markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); });
 
-              
               var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
               const UVcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
