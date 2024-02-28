@@ -28,7 +28,7 @@ permalink: /PreliminaresPLANCKS/
   {% assign loopindex = 0 %}
   {% for event in site.events reversed %}
   {% if event.title contains "Preliminares de PLANCKS"%}
-  {% if event.title != "Preliminares de PLANCKS 2024"%}
+  <!--{% if event.title != "Preliminares de PLANCKS 2024"%}-->
   {% assign rowfinder = loopindex | modulo:2 %}
   {% if rowfinder == 0 %}
     <div class="row">
@@ -54,7 +54,8 @@ permalink: /PreliminaresPLANCKS/
     </div>
   {% endif %}
   {% assign loopindex = loopindex | plus: 1 %}
-  {% endif %}
+  <!--{% endif %}-->
+  
   {% endif %}
   {% endfor %}
   {% if loopindex == 1 %}
