@@ -46,21 +46,20 @@ permalink: /PreliminaresPLANCKS2024/
       </div>
 
 <!-- COUNTDOWN -->
+<!--
       <div class="row">  
         <p style="text-align: justify;">Las inscripciones para las Preliminares de PLANCKS 2024 se cerrarán en...</p>
         <h3 style="text-align: center;"><p id="countdown" style="text-align:center"></p></h3>
         <p style="text-align: justify;">¡No dejes tu inscripción para el último momento para asegurarnos que tendrás aulas y supervisores disponibles en tu facultad!</p>
         <p style="text-align: justify;"> <!-- Sólo para equipos con miembros del GdeE. --> Hemos comenzado ya con la promoción a todos los estudiantes de física de España. ¡Así que no te quedes sin plaza!</p>
-      </div> 
+      </div> -->
       
 <!-- FINAL INSCRIPCIONES -->
-<!--      <div class="section">  
+<div class="section">  
         <div class="row center">
           <p style="text-align: justify;">¡Las inscripciones para las Preliminares de PLANCKS 2024 han sido un éxito! Hemos vuelto a superar el número de participantes, con un total de...</p>
-          <h3 style="text-align: center;">60 equipos</h3>
-          <h3 style="text-align: center;">228 participantes</h3>
-          <h3 style="text-align: center;">16 sedes en 9 comunidades autónomas</h3>
-          <p style="text-align: justify;">¡Gracias por ser parte de las Preliminares de PLANCKS 2023 y contribuir a su éxito!</p>
+          <h3 style="text-align: center;">¡¡105 equipos en 19 sedes!!</h3>
+          <p style="text-align: justify;">¡Gracias por ser parte de las Preliminares de PLANCKS 2024 y contribuir a su éxito!</p>
         </div>
       </div>
 -->
