@@ -198,7 +198,7 @@ permalink: /PreliminaresPLANCKS2024/
               <!--var UC3M = {lat: 40.332473, lng: -3.765400}; // Campus de Leganés-->
               var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)
               var UVA = {lat: 41.663388, lng: -4.705462}; // Facultad de Ciencias
-              var MIT = {lat: 42.358888, lng: -71.089361 // Hayden Building
+              var MIT = {lat: 42.358888, lng: -71.089361}; // Hayden Building
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
               var cameraPosition = { zoom: 5.25, center: centerPos };
