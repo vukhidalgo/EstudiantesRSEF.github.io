@@ -172,9 +172,10 @@ permalink: /PreliminaresPLANCKS2024/
               // Facultades de https://www.cofis.es/elfisico/facultades.html
               var UA  = {lat: 38.386904, lng: -0.515303}; // Facultat de Ciències (Sant Vicent del Raspeig)
               var UAB = {lat: 41.501105, lng: 2.109064}; // Facultat de Ciències (Bellaterra)
+              var UAH = {lat: 40.510801, lng: -3.346646}; // Campus Científico-Tecnológico
               var UAM = {lat: 40.545385, lng: -3.695173}; // Facultad de Ciencias
-              var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física
-              <!--var UNICAN = {lat: 43.471183, lng: -3.801105}; // Facultad de Ciencias (Santander) -->
+              <!--var UB  = {lat: 41.384376, lng: 2.117189}; // Facultat de Física -->
+              var UC = {lat: 43.471183, lng: -3.801105}; // Facultad de Ciencias (Santander) -->
               var UCM = {lat: 40.450831, lng: -3.726087}; // Facultad de Ciencias Físicas
               var UCO = {lat: 37.914788, lng: -4.716931}; // Facultad de Ciencias
               <!--var UEM = {lat: 40.373069, lng: -3.919072}; // Universidad Europea de Madrid (Villaviciosa de Odón)-->
@@ -186,18 +187,18 @@ permalink: /PreliminaresPLANCKS2024/
               <!--var UM  = {lat: 38.020841, lng: -1.169795}; // Facultad de Química-->
               <!--var UNED  = {lat: 38.016856, lng: -1.170757}; // Facultad de Economía y Empresa-->
               var UNIOVI = {lat: 43.357762, lng: -5.853536}; // Facultad de Ciencias
-              var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)
-              var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
-              <!--var USC = {lat: 42.875917, lng: -8.560536}; // Facultade de Física-->
+              var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias              
+              var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal
+              var EHU = {lat: 43.330791, lng: -2.969898}; // Zientzia eta Teknologia Fakultatea (Leioa)              
+              var URV = {lat: 41.133793, lng: 1.242566}; // Campus Sescelades
               var US =  {lat: 37.359384, lng: -5.986452}; // Facultad de Física
-              var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)
-              var UVA = {lat: 41.663388, lng: -4.705462}; // Facultad de Ciencias
-              var UNIZAR = {lat: 41.642249, lng: -0.900222}; // Facultad de Ciencias
+              var USAL = {lat: 40.960396, lng: -5.670694}; // Facultad de Ciencias
+              <!--var USC = {lat: 42.875917, lng: -8.560536}; // Facultade de Física-->         
               <!--var URJC = {lat: 40.335479, lng: -3.877537}; // Campus de Móstoles-->
               <!--var UC3M = {lat: 40.332473, lng: -3.765400}; // Campus de Leganés-->
-              var UPC = {lat: 41.388412, lng: 2.112770}; // Campus Diagonal
-              var UAH = {lat: 40.510801, lng: -3.346646}; // Campus Científico-Tecnológico
-              var URV = {lat: 41.133793, lng: 1.242566}; // Campus Sescelades
+              var UV  = {lat: 39.507232, lng: -0.420012}; // Facultat de Física (Burjassot)
+              var UVA = {lat: 41.663388, lng: -4.705462}; // Facultad de Ciencias
+              var MIT = {lat: 42.358888, lng: -71.089361 // Hayden Building
               // Create map, draw it in the targetElem and sets the cameraPosition
               var targetElem = document.getElementById('map');
               var cameraPosition = { zoom: 5.25, center: centerPos };
@@ -206,41 +207,14 @@ permalink: /PreliminaresPLANCKS2024/
 
               // We have already displayed the map, let's add markers
 
-              var markerEHU = new google.maps.Marker({ map: map, position: EHU, title: "Euskal Herriko Unibertsitatea" });
-              const EHUcontent =
+              var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universidad de Alicante" });
+              const UAcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Euskal Herriko Unibertsitatea</h5>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Alicante</h5>' +
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
-              const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
-              markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); });
-             
-              var markerUVA = new google.maps.Marker({ map: map, position: UVA, title: "Universidad de Valladolid" });
-              const UVAcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Valladolid</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UVAwindow = new google.maps.InfoWindow({ content: UVAcontent, });
-              markerUVA.addListener("click", () => { UVAwindow.open({ anchor: markerUVA, map, shouldFocus: false, }); });
-              
-              var markerUNIOVI = new google.maps.Marker({ map: map, position: UNIOVI, title: "Universidad de Oviedo" });
-              const UNIOVIcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Oviedo</h5>' +
-                '<div id="bodyContent"><p></p>' +
-                "</div></div>";
-              const UNIOVIwindow = new google.maps.InfoWindow({ content: UNIOVIcontent, });
-              markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); });
-              
-              var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
-              const UCMcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
-              markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); });            
+              const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
+              markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
 
               var markerUAB = new google.maps.Marker({ map: map, position: UAB, title: "Universitat Autònoma de Barcelona" });
               const UABcontent =
@@ -251,60 +225,6 @@ permalink: /PreliminaresPLANCKS2024/
               const UABwindow = new google.maps.InfoWindow({ content: UABcontent, });
               markerUAB.addListener("click", () => { UABwindow.open({ anchor: markerUAB, map, shouldFocus: false, }); }); 
 
-              var markerUS = new google.maps.Marker({ map: map, position: US, title: "Universidad de Sevilla" });
-              const UScontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Sevilla</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const USwindow = new google.maps.InfoWindow({ content: UScontent, });
-              markerUS.addListener("click", () => { USwindow.open({ anchor: markerUS, map, shouldFocus: false, }); });            
-
-              var markerUNIZAR = new google.maps.Marker({ map: map, position: UNIZAR, title: "Universidad de Zaragoza" });
-              const UNIZARcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Zaragoza</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UNIZARwindow = new google.maps.InfoWindow({ content: UNIZARcontent, });
-              markerUNIZAR.addListener("click", () => { UNIZARwindow.open({ anchor: markerUNIZAR, map, shouldFocus: false, }); });
-                        
-              var markerUA = new google.maps.Marker({ map: map, position: UA, title: "Universidad de Alicante" });
-              const UAcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Alicante</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UAwindow = new google.maps.InfoWindow({ content: UAcontent, });
-              markerUA.addListener("click", () => { UAwindow.open({ anchor: markerUA, map, shouldFocus: false, }); });
-              
-              var markerUAM = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
-              const UAMcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad Autónoma de Madrid</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
-              markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); });         
-              
-              var markerUGR = new google.maps.Marker({ map: map, position: UGR, title: "Universidad de Granada" });
-              const UGRcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Granada</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UGRwindow = new google.maps.InfoWindow({ content: UGRcontent, });
-              markerUGR.addListener("click", () => { UGRwindow.open({ anchor: markerUGR, map, shouldFocus: false, }); });
-              
-              var markerUB = new google.maps.Marker({ map: map, position: UB, title: "Universitat de Barcelona" });
-              const UBcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universitat de Barcelona</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const UBwindow = new google.maps.InfoWindow({ content: UBcontent, });
-              markerUB.addListener("click", () => { UBwindow.open({ anchor: markerUB, map, shouldFocus: false, }); });
-              
               var markerUAH = new google.maps.Marker({ map: map, position: UAH, title: "Universidad de Alcalá" });
               const UAHcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -314,42 +234,32 @@ permalink: /PreliminaresPLANCKS2024/
               const UAHwindow = new google.maps.InfoWindow({ content: UAHcontent, });
               markerUAH.addListener("click", () => { UAHwindow.open({ anchor: markerUAH, map, shouldFocus: false, }); });
 
-              var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
-              const UVcontent =
+              var markerUAM = new google.maps.Marker({ map: map, position: UAM, title: "Universidad Autónoma de Madrid" });
+              const UAMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universitat de València</h5>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad Autónoma de Madrid</h5>' +
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
-              const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
-              markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); });            
+              const UAMwindow = new google.maps.InfoWindow({ content: UAMcontent, });
+              markerUAM.addListener("click", () => { UAMwindow.open({ anchor: markerUAM, map, shouldFocus: false, }); }); 
 
-              
-              var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
-              const USALcontent =
+              var markerUC = new google.maps.Marker({ map: map, position: UC, title: "Universidad de Cantabria" });
+              const UCcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universidad de Salamanca</h5>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Cantabria</h5>' +
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
-              const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
-              markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });
-              
-              var markerURV = new google.maps.Marker({ map: map, position: URV, title: "Universitat Rovira i Virgili" });
-              const URVcontent =
-                '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universitat Rovira i Virgili</h5>' +
-                '<div id="bodyContent"><p><b></b></p>' +
-                "</div></div>";
-              const URVwindow = new google.maps.InfoWindow({ content: URVcontent, });
-              markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });           
+              const UCwindow = new google.maps.InfoWindow({ content: UCcontent, });
+              markerUC.addListener("click", () => { UCwindow.open({ anchor: markerUC, map, shouldFocus: false, }); });
 
-              var markerUPC = new google.maps.Marker({ map: map, position: UPC, title: "Universitat Politècnica de Catalunya" });
-              const UPCcontent =
+              var markerUCM = new google.maps.Marker({ map: map, position: UCM, title: "Universidad Complutense de Madrid" });
+              const UCMcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
-                '<h5 id="firstHeading" class="firstHeading">Universitat Politècnica de Catalunya</h5>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad Complutense de Madrid</h5>' +
                 '<div id="bodyContent"><p><b></b></p>' +
                 "</div></div>";
-              const UPCwindow = new google.maps.InfoWindow({ content: UPCcontent, });
-              markerUPC.addListener("click", () => { UPCwindow.open({ anchor: markerUPC, map, shouldFocus: false, }); });  
+              const UCMwindow = new google.maps.InfoWindow({ content: UCMcontent, });
+              markerUCM.addListener("click", () => { UCMwindow.open({ anchor: markerUCM, map, shouldFocus: false, }); }); 
 
               var markerUCO = new google.maps.Marker({ map: map, position: UCO, title: "Universidad de Córdoba" });
               const UCOcontent =
@@ -360,6 +270,15 @@ permalink: /PreliminaresPLANCKS2024/
               const UCOwindow = new google.maps.InfoWindow({ content: UCOcontent, });
               markerUCO.addListener("click", () => { UCOwindow.open({ anchor: markerUCO, map, shouldFocus: false, }); }); 
 
+              var markerUGR = new google.maps.Marker({ map: map, position: UGR, title: "Universidad de Granada" });
+              const UGRcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Granada</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UGRwindow = new google.maps.InfoWindow({ content: UGRcontent, });
+              markerUGR.addListener("click", () => { UGRwindow.open({ anchor: markerUGR, map, shouldFocus: false, }); });
+
               var markerULL = new google.maps.Marker({ map: map, position: ULL, title: "Universidad de La Laguna" });
               const ULLcontent =
                 '<div id="content"><div id="siteNotice"></div>' +
@@ -368,6 +287,96 @@ permalink: /PreliminaresPLANCKS2024/
                 "</div></div>";
               const ULLwindow = new google.maps.InfoWindow({ content: ULLcontent, });
               markerULL.addListener("click", () => { ULLwindow.open({ anchor: markerULL, map, shouldFocus: false, }); }); 
+
+              var markerUNIOVI = new google.maps.Marker({ map: map, position: UNIOVI, title: "Universidad de Oviedo" });
+              const UNIOVIcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Oviedo</h5>' +
+                '<div id="bodyContent"><p></p>' +
+                "</div></div>";
+              const UNIOVIwindow = new google.maps.InfoWindow({ content: UNIOVIcontent, });
+              markerUNIOVI.addListener("click", () => { UNIOVIwindow.open({ anchor: markerUNIOVI, map, shouldFocus: false, }); });
+
+              var markerUNIZAR = new google.maps.Marker({ map: map, position: UNIZAR, title: "Universidad de Zaragoza" });
+              const UNIZARcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Zaragoza</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UNIZARwindow = new google.maps.InfoWindow({ content: UNIZARcontent, });
+              markerUNIZAR.addListener("click", () => { UNIZARwindow.open({ anchor: markerUNIZAR, map, shouldFocus: false, }); });
+
+              var markerEHU = new google.maps.Marker({ map: map, position: EHU, title: "Euskal Herriko Unibertsitatea" });
+              const EHUcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Euskal Herriko Unibertsitatea</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const EHUwindow = new google.maps.InfoWindow({ content: EHUcontent, });
+              markerEHU.addListener("click", () => { EHUwindow.open({ anchor: markerEHU, map, shouldFocus: false, }); });
+
+              var markerUPC = new google.maps.Marker({ map: map, position: UPC, title: "Universitat Politècnica de Catalunya" });
+              const UPCcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universitat Politècnica de Catalunya</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UPCwindow = new google.maps.InfoWindow({ content: UPCcontent, });
+              markerUPC.addListener("click", () => { UPCwindow.open({ anchor: markerUPC, map, shouldFocus: false, }); }); 
+
+              var markerURV = new google.maps.Marker({ map: map, position: URV, title: "Universitat Rovira i Virgili" });
+              const URVcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universitat Rovira i Virgili</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const URVwindow = new google.maps.InfoWindow({ content: URVcontent, });
+              markerURV.addListener("click", () => { URVwindow.open({ anchor: markerURV, map, shouldFocus: false, }); });  
+
+              var markerUS = new google.maps.Marker({ map: map, position: US, title: "Universidad de Sevilla" });
+              const UScontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Sevilla</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const USwindow = new google.maps.InfoWindow({ content: UScontent, });
+              markerUS.addListener("click", () => { USwindow.open({ anchor: markerUS, map, shouldFocus: false, }); });  
+
+              var markerUSAL = new google.maps.Marker({ map: map, position: USAL, title: "Universidad de Salamanca" });
+              const USALcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Salamanca</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const USALwindow = new google.maps.InfoWindow({ content: USALcontent, });
+              markerUSAL.addListener("click", () => { USALwindow.open({ anchor: markerUSAL, map, shouldFocus: false, }); });
+              
+              var markerUV = new google.maps.Marker({ map: map, position: UV, title: "Universitat de València" });
+              const UVcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universitat de València</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UVwindow = new google.maps.InfoWindow({ content: UVcontent, });
+              markerUV.addListener("click", () => { UVwindow.open({ anchor: markerUV, map, shouldFocus: false, }); }); 
+              
+              var markerUVA = new google.maps.Marker({ map: map, position: UVA, title: "Universidad de Valladolid" });
+              const UVAcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Universidad de Valladolid</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const UVAwindow = new google.maps.InfoWindow({ content: UVAcontent, });
+              markerUVA.addListener("click", () => { UVAwindow.open({ anchor: markerUVA, map, shouldFocus: false, }); }); 
+
+              var markerMIT = new google.maps.Marker({ map: map, position: MIT, title: "Massachusetts Institute of Technology" });
+              const MITcontent =
+                '<div id="content"><div id="siteNotice"></div>' +
+                '<h5 id="firstHeading" class="firstHeading">Massachusetts Institute of Technology</h5>' +
+                '<div id="bodyContent"><p><b></b></p>' +
+                "</div></div>";
+              const MITwindow = new google.maps.InfoWindow({ content: MITcontent, });
+              markerMIT.addListener("click", () => { MITwindow.open({ anchor: markerMIT, map, shouldFocus: false, }); }); 
 
             }
           </script>
