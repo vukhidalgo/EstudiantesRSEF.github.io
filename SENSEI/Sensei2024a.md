@@ -45,16 +45,43 @@ permalink: /ProgramaSensei/
           <h3 id="preguntas">Preguntas frecuentes</h3>
    	  <ul class="collapsible">
             <li>
-	      <div class="collapsible-header"><strong>¿Qué día y hora debo estar en Oviedo?</strong></div>
+	      <div class="collapsible-header"><strong>¿Quien puede participar en las mentorías?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
-	      	<p style="padding: 10px 0px; text-align: left;">Esto no es en Oviedo, xd.</p>
+	      	<p style="padding: 10px 0px; text-align: left;">Esta edición del programa SENSEI se dirige a <strong>miembros del GdeE</strong> que sean estudiantes en etapa preuniversitaria o de grado y máster. Deben tener ganas de emprender este proceso y comprometerse a sacar el máximo de las mentorías.</p>
+		<p style="padding: 5px 0px 10px; text-align: left;">Para ejercer de <strong>mentores</strong>, contaremos con jóvenes físic@s en distintas áreas del conocimiento y momentos de la carrera profesional para poder aparearos con el perfil más adecuado.</p>
 	      </div>
             </li>
-	    <li>
-	      <div class="collapsible-header"><strong>¿Qué día y hora terminamos?</strong></div>
+            <li>
+	      <div class="collapsible-header"><strong>Si me inscribo en el formulario, ¿tengo plaza asegurada?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
-	      	<p style="padding: 10px 0px; text-align: left;">Jaja yo que sé, depende de ti.</p>
-	      	<p style="padding: 10px 0px; text-align: left;">Jaja yo que sé, depende de ti.</p>
+	      	<p style="padding: 10px 0px; text-align: left;">No, vas a tener que esperar un correo electrónico de nuestro equipo organizador, para confirmar que hemos encontrado a una persona para acompañarte. De todos modos, si no lo consigues, no te preocupes, habrá una segunda edición después del verano.</p>
+	      </div>
+            </li>
+            <li>
+	      <div class="collapsible-header"><strong>¿Cómo se realizarán los apareamientos?</strong></div>
+              <div class="collapsible-body" style="padding: 0 1rem">
+	      	<p style="padding: 10px 0px; text-align: left;">El equipo del GdeE realizará los apareamientos de los participantes con los mentores con mucho cariño, basándose en lo que indiques en el formulario. Vamos a buscar a una persona con unas características que pensamos que pueden ayudarte en el proceso. Así que, no te olvides de indicarnos muy bien cuáles son tus intenciones para este programa de mentoría y si tienes alguna sugerencia de qué perfil de persona puede ayudarte más, haremos lo posible para encontrar a alguien como nos indiques.</p>
+		<p style="padding: 5px 0px 10px; text-align: left;">P</p>
+	      </div>
+            </li>
+            <li>
+	      <div class="collapsible-header"><strong>¿Qué tengo que esperar de las mentorías?</strong></div>
+              <div class="collapsible-body" style="padding: 0 1rem">
+	      	<p style="padding: 10px 0px; text-align: left;">Las mentorías son una relación entre dos personas, mentor y participante, en el que el primero, con más experiencia, comparte conocimientos y habilidades con el segundo. Es pues, un espacio en el que el participante debe expresar sus necesidades y el mentor debe estar abierto a compartir sus experiencias.</p>
+		<p style="padding: 5px 0px 10px; text-align: left;">Sin embargo, una mentoría no es un proceso de acompañamiento psicológico o social. Tampoco es un espacio donde resolver dudas sobre física o hacer divulgación. Si necesitas alguno de estos recursos, te animamos a buscarlos fuera de este programa.</p>
+	      </div>
+            </li>
+            <li>
+	      <div class="collapsible-header"><strong>Nunca he hecho ninguna mentoría, ¿cómo se desarrolla?</strong></div>
+              <div class="collapsible-body" style="padding: 0 1rem">
+	      	<p style="padding: 10px 0px; text-align: left;">Este proceso de mentoría se desarrollará de forma individual, es decir con reuniones entre el mentor y el participante. Normalmente se recomienda tener una reunión cada 2 o 3 semanas, de entre 30 y 60 minutos. Os proporcionaremos una guía para que podáis organizar vuestros encuentros y sacar lo máximo de ellos. Sin embargo, una vez hayáis hecho el primer contacto, mentor y participante podréis tratar de ajustar la manera en la que os organizáis para que el proceso sea provechoso.</p>
+	      </div>
+            </li>
+	    
+	    <li>
+	      <div class="collapsible-header"><strong>¿Cuánto durará el proceso?</strong></div>
+              <div class="collapsible-body" style="padding: 0 1rem">
+	      	<p style="padding: 10px 0px; text-align: left;">El programa finalizará oficialmente en junio. De todos modos, esta oportunidad aúna desarrollo profesional y networking, así que podéis seguir en contacto con las personas que hayáis conocido durante esta experiencia.</p>
 	      </div>
             </li>
 	  </ul>
