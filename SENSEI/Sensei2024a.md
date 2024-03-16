@@ -61,7 +61,6 @@ permalink: /ProgramaSensei/
 	      <div class="collapsible-header"><strong>¿Cómo se realizarán los apareamientos?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
 	      	<p style="padding: 10px 0px; text-align: left;">El equipo del GdeE realizará los apareamientos de los participantes con los mentores con mucho cariño, basándose en lo que indiques en el formulario. Vamos a buscar a una persona con unas características que pensamos que pueden ayudarte en el proceso. Así que, no te olvides de indicarnos muy bien cuáles son tus intenciones para este programa de mentoría y si tienes alguna sugerencia de qué perfil de persona puede ayudarte más, haremos lo posible para encontrar a alguien como nos indiques.</p>
-		<p style="padding: 5px 0px 10px; text-align: left;">P</p>
 	      </div>
             </li>
             <li>
