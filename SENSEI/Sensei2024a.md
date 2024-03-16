@@ -46,13 +46,9 @@ permalink: /ProgramaSensei/
    	  <ul class="collapsible">
             <li>
 	      <div class="collapsible-header"><strong>¿Qué día y hora debo estar en Oviedo?</strong></div>
-              <div class="collapsible-body">
-                <ul class="collection">
-		  <li class="collection-item"><div style="text-align: left;">
-                    <p style="padding: 0px; text-align: left;">Esto no es en Oviedo, xd.</p>
-		  </div></li>
-                </ul>
-              </div>
+              <div class="collapsible-body" style="padding: 0 1rem">
+	      	<p style="padding: 10px 0px; text-align: left;">Esto no es en Oviedo, xd.</p>
+	      </div>
             </li>
 	    <li>
 	      <div class="collapsible-header"><strong>¿Qué día y hora terminamos?</strong></div>
