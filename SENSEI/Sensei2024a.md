@@ -58,6 +58,7 @@ permalink: /ProgramaSensei/
 	      <div class="collapsible-header"><strong>¿Qué día y hora terminamos?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
 	      	<p style="padding: 10px 0px; text-align: left;">Jaja yo que sé, depende de ti.</p>
+	      	<p style="padding: 10px 0px; text-align: left;">Jaja yo que sé, depende de ti.</p>
 	      </div>
             </li>
 	  </ul>
