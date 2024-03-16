@@ -21,13 +21,18 @@ permalink: /ProgramaSensei/
 <!-- BOTONES -->
       <div class="section">
         <div class="row center">
-          <div class="col s12 m12 l3">
+          <div class="col s12 m8 l9">
+            <h3 style="text-align: justify;">¡Inscripciones abiertas hasta el lunes 25 de marzo!</h3>
+          </div>
+          <div class="col s12 m4 l3">
             <a href="#modal-inscripcion" id="boton-inscripcion" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffa500; color: #000000; display: inline-flex; align-items: center; margin-bottom: 5px;">Inscripción</a>
           </div>
-          <div class="col s12 m6 l6">
+        </div>
+        <div class="row center">
+          <div class="col s12 m8 l9">
             <p style="text-align: justify;">¿Crees que puedes aportar al programa SENSEI como mentor/a? ¡Pulsa el botón para más información y contacta con nosotros!</p>
           </div>
-          <div class="col s12 m6 l3">
+          <div class="col s12 m4 l3">
             <a href="#modal-mentores" id="boton-mentores" class="collection-item modal-trigger btn-large waves-effect waves-light" style="background-color: #ffa500; color: #000000; display: inline-flex; align-items: center; margin-bottom: 5px;">Mentores</a>
           </div>
         </div>
