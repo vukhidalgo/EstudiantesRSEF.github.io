@@ -42,7 +42,11 @@ permalink: /ProgramaSensei/
 <!-- FAQ -->
       <div class="section">
         <div class="row">
-          <h4 id="preguntas">Preguntas frecuentes</h4>
+          <h1 id="preguntas">Preguntas frecuentes</h1>
+	  <h2 id="preguntas">Preguntas frecuentes</h2>
+   	  <h3 id="preguntas">Preguntas frecuentes</h3>
+   	  <h4 id="preguntas">Preguntas frecuentes</h4>
+   	  <h5 id="preguntas">Preguntas frecuentes</h5>
           <ul class="collapsible">
             <li>
 	      <div class="collapsible-header"><strong>¿Qué día y hora debo estar en Oviedo?</strong></div>
@@ -56,8 +60,9 @@ permalink: /ProgramaSensei/
             </li>
 	    <li>
 	      <div class="collapsible-header"><strong>¿Qué día y hora terminamos?</strong></div>
-              <div class="collapsible-body">
+              <div class="collapsible-body" style="padding: 0 1rem">
 	      	<p style="padding: 10px; text-align: left;">Jaja yo que sé, depende de ti.</p>
+		<p style="padding: 0px; text-align: left;">Jaja yo que sé, depende de ti.</p>
 	      </div>
             </li>
 	  </ul>
