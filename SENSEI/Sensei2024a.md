@@ -55,7 +55,7 @@ permalink: /ProgramaSensei/
           <h3 id="preguntas">Preguntas frecuentes</h3>
    	  <ul class="collapsible">
             <li>
-	      <div class="collapsible-header"><strong>¿Quien puede participar en las mentorías?</strong></div>
+	      <div class="collapsible-header"><strong>¿Quién puede participar en las mentorías?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
 	      	<p style="padding: 10px 0px; text-align: left;">Esta edición del programa SENSEI se dirige a <strong>miembros del GdeE</strong> que sean estudiantes en etapa preuniversitaria o de grado y máster. Deben tener ganas de emprender este proceso y comprometerse a sacar el máximo de las mentorías.</p>
 		<p style="padding: 5px 0px 10px; text-align: left;">Para ejercer de <strong>mentores</strong>, contaremos con jóvenes físic@s en distintas áreas del conocimiento y momentos de la carrera profesional para poder aparearos con el perfil más adecuado.</p>
