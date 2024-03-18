@@ -9,7 +9,7 @@ permalink: /ProgramaSensei/
      <div class="section">
 
 <!-- BANNER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2024-PrelisPLANCKS/bannerPrelis24.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2024-SenseiProject/sensei_logo.png">
 
 
 <!-- INTRODUCCIÓN -->
