@@ -21,7 +21,9 @@ permalink: /ProgramaSensei/
 	  </div>
         </div>
         <div class="row center">
-	  <p style="text-align: justify;">Si eres miembro del GdeE y estás cursando bachillerato, grado o máster en física, ésta es tu oportunidad para enriquecer tu camino académico y personal. ¡Apúntate a SENSEI y sumérgete en esta experiencia de aprendizaje colaborativo!</p>
+	  <div class="col s12 m12 l12">
+	    <p style="text-align: justify;">Si eres miembro del GdeE y estás cursando bachillerato, grado o máster en física, ésta es tu oportunidad para enriquecer tu camino académico y personal. ¡Apúntate a SENSEI y sumérgete en esta experiencia de aprendizaje colaborativo!</p>
+   	  </div>
         </div>
       </div>
 
