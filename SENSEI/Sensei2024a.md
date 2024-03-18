@@ -8,14 +8,17 @@ permalink: /ProgramaSensei/
   <div class="container">
      <div class="section">
 
-<!-- BANNER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2024-SenseiProject/sensei_logo.png">
-
-
 <!-- INTRODUCCIÓN -->
-      <p style="text-align: justify;">¡Bienvenido/a a la página web del programa SENSEI, la primera edición de nuestro emocionante proyecto de mentorías del GdeE!</p>
-      <p style="text-align: justify;">¿Estás acabando la carrera y dudas sobre qué camino tomar? ¿O quizás te preguntas como funcionan algunas oportunidades laborales y querrías tener a alguien como tú para preguntarle? ¡No busques más! SENSEI te ofrece la oportunidad única de conectar con una persona joven, estudiante o graduada en física, que estará ahí para guiarte, aconsejarte y compartir contigo su experiencia y conocimientos.</p>
-      <p style="text-align: justify;">Si eres miembro del GdeE y estás cursando bachillerato, grado o máster en física, ésta es tu oportunidad para enriquecer tu camino académico y personal. ¡Apúntate a SENSEI y sumérgete en esta experiencia de aprendizaje colaborativo!</p>  
+      <div class="section">
+        <div class="row center">
+          <div class="col s12 m8 l8">
+      	    <p style="text-align: justify;">¡Bienvenido/a a la página web del programa SENSEI, la primera edición de nuestro emocionante proyecto de mentorías del GdeE!</p>
+      	    <p style="text-align: justify;">¿Estás acabando la carrera y dudas sobre qué camino tomar? ¿O quizás te preguntas como funcionan algunas oportunidades laborales y querrías tener a alguien como tú para preguntarle? ¡No busques más! SENSEI te ofrece la oportunidad única de conectar con una persona joven, estudiante o graduada en física, que estará ahí para guiarte, aconsejarte y compartir contigo su experiencia y conocimientos.</p>
+      	    <p style="text-align: justify;">Si eres miembro del GdeE y estás cursando bachillerato, grado o máster en física, ésta es tu oportunidad para enriquecer tu camino académico y personal. ¡Apúntate a SENSEI y sumérgete en esta experiencia de aprendizaje colaborativo!</p>
+	  </div>
+   	  <div class="col s12 m4 l4">
+      	    <img class="materialboxed" width="100%" src="/img/eventos/2024-SenseiProject/sensei_logo.png">
+	  </div>
 
 
 <!-- BOTONES -->
