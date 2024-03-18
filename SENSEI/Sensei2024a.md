@@ -40,7 +40,7 @@ permalink: /ProgramaSensei/
         </div>
         <div class="row center">
           <div class="col s12 m8 l9">
-            <h5 style="text-align: justify;">¿Crees que puedes aportar al programa SENSEI como mentor/a? ¡Pulsa el botón para más información y contacta con nosotros!</h5>
+            <h5 style="text-align: justify;">¿Crees que puedes aportar al programa SENSEI como mentor/a? ¡Pulsa el botón para contactar con nosotros!</h5>
           </div>
           <div class="col s12 m4 l3">
             <a href="mailto:estudiantes@rsef.es?subject=[Mentorías SENSEI]" id="boton-mentores" class="collection-item btn-large waves-effect waves-light" style="background-color: #ffa500; color: #000000; display: inline-flex; align-items: center; margin-bottom: 5px;">Mentores</a>
