@@ -150,6 +150,11 @@ button.btn-floating {
     font-size: $button-large-icon-font-size;
   }
 }
+.btn-enef24 {
+  @extend .btn-large; 
+  color: #B91828;
+  background-color: #00579D;
+}
 
 // Block button
 .btn-block {
