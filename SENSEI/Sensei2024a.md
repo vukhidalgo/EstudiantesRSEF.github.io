@@ -62,13 +62,13 @@ permalink: /ProgramaSensei/
 	      </div>
             </li>
             <li>
-	      <div class="collapsible-header"><strong>Si me inscribo en el formulario, ¿tengo plaza asegurada?</strong></div>
+	      <div class="collapsible-header"><strong>Si me inscribo, ¿tengo plaza asegurada?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
 	      	<p style="padding: 10px 0px; text-align: left;">No, vas a tener que esperar un correo electrónico de nuestro equipo organizador, para confirmar que hemos encontrado a una persona para acompañarte. De todos modos, si no lo consigues, no te preocupes, habrá una segunda edición después del verano.</p>
 	      </div>
             </li>
 	    <li>
-	      <div class="collapsible-header"><strong>Nunca he hecho ninguna mentoría, ¿cómo se desarrolla?</strong></div>
+	      <div class="collapsible-header"><strong>Nunca he hecho una mentoría, ¿cómo funciona?</strong></div>
               <div class="collapsible-body" style="padding: 0 1rem">
 	      	<p style="padding: 10px 0px; text-align: left;">Este proceso de mentoría se desarrollará de forma individual, es decir con reuniones entre el mentor y el participante. Normalmente se recomienda tener una reunión cada 2 o 3 semanas, de entre 30 y 60 minutos. Os proporcionaremos una guía para que podáis organizar vuestros encuentros y sacar lo máximo de ellos. Sin embargo, una vez hayáis hecho el primer contacto, mentor y participante podréis tratar de ajustar la manera en la que os organizáis para que el proceso sea provechoso.</p>
 	      </div>
