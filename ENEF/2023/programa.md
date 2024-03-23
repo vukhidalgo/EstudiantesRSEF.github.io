@@ -290,7 +290,7 @@ permalink: /ENEF2023/programa
 
 	  
 <!-- SPONSORS -->
-	{% include ENEFpatrocinadores.html %}
+	{% include ENEF23_patrocinadores.html %}
 	  
     </div>
 	   
