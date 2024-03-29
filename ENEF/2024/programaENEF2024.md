@@ -2,7 +2,7 @@
 layout: enef
 title: Encuentro Nacional de Estudiantes de Física 2023
 hidden: true
-permalink: /ENEF2024/programa
+permalink: /ENEF2024/programa/
 ---
 
 <div class="no-pad-top" id="index-page">
