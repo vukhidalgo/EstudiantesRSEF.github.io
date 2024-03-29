@@ -77,8 +77,8 @@ permalink: /ENEF2024/programa/
        <p style="text-align: justify;">Instalaciones de la Universidad de Oviedo y laboratorios de física de los alrededores.</p>
      </div>
 
-<!--<!-- LOCATIONS MANUAL -->    
-      <div class="section">
+<!-- LOCATIONS MANUAL -->    
+<!--      <div class="section">
        <div class="col s12 m6">
          <div class="row center">
            <ul class="collection waves-effect waves-light" style="width: 33%">
