@@ -47,8 +47,8 @@ permalink: /ENEF2024/programa/
        <div class="col s12 m6">
          <div class="row center">
          {% for person in site.persons %}
-         {% if person.evento contains "ENEF2023" %}
-         {% if person.visible contains "SÍ" %}
+         {% if person.evento contains "ENEF2024" %}
+         {% if person.visible contains "True" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
              <a href="#{{ person.id | remove: "/" }}-modal" class="collection-item modal-trigger waves-effect waves-light" style="color: rgba(0, 0, 0, 0.87); padding: 2px">
                <li class="collection-item avatar2">
@@ -72,13 +72,17 @@ permalink: /ENEF2024/programa/
        </div>
      </div>
 
-     <div class="section">
+
+
+
+
+<!-- LOCATIONS MANUAL -->    
+<!--        <div class="section">
        <h3 id="espacios">Además visitaremos espacios como...</h3>
        <p style="text-align: justify;">Instalaciones de la Universidad de Oviedo y laboratorios de física de los alrededores.</p>
      </div>
-
-<!-- LOCATIONS MANUAL -->    
-<!--      <div class="section">
+     
+     <div class="section">
        <div class="col s12 m6">
          <div class="row center">
            <ul class="collection waves-effect waves-light" style="width: 33%">
