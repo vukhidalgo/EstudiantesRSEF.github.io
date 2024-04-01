@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="it">
+  {% include head.html %}
+  <body style="background-color:##efebf9;">
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFMX8WX"
+      height="0" width="0" style="display:none;visibility:hidden">
+    </iframe>
+  </noscript>
+<!-- End Google Tag Manager (noscript) -->
+    {% include nav.html nav=site.data.menu %}
+        {{ content }}
+    {% include footer.html %}
+  </body>
+  {% include scripts.html %}
+</html>
