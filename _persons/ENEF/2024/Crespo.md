@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "ENEF2024"
 nombre: "Quantum Fracture (José Luis Crespo)"
-img: "/img/eventos/2023-ENEF/ponentes/KipThorne.png"
+img: "/img/eventos/2024-ENEF/ponentes/QuantumFracture.jpeg"
 rol: "You"
 roldes: "Premio Nobel de Física 2017"
 descr: ""
