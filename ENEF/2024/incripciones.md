@@ -9,7 +9,8 @@ permalink: /ENEF2024/inscripcion/
   <div class="container">
   
     <div class="section">
-      <script type="text/javascript" src="https://forms.gle/RGEJYbuiDFogPLEm8"></script>
+      <iframe src="https://forms.gle/RGEJYbuiDFogPLEm8">Cargando...</iframe>
+      <!--<script type="text/javascript" src="https://forms.gle/RGEJYbuiDFogPLEm8"></script>-->
     </div>
     
   </div>
