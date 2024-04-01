@@ -1,14 +1,11 @@
 ---
-layout: enef
+layout: forms
 title: Encuentro Nacional de Estudiantes de Física 2024
 hidden: true
 permalink: /ENEF2024/inscripcion/
 ---
 
 
-body {
-  background-color: red;
-}
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
