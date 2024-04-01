@@ -1,7 +1,7 @@
 ---
 layout: enef
 title: Encuentro Nacional de Estudiantes de Física 2023
-hidden: true
+hidden: false
 permalink: /ENEF2024/inscripcion/
 ---
 
