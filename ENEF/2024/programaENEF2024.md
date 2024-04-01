@@ -24,9 +24,11 @@ permalink: /ENEF2024/programa/
 
       <div class="section" id="content-desktop">
 	<h5>Haz clic en la imagen para ver el programa en tamaño completo</h5>
-        <div class="row">
-          <img class="materialboxed" width="50%" src="/img/eventos/2024-ENEF/ENEF24_programa.png">
+  	<div class="col s12 m10 l8">
+         <div class="row center">
+             <img class="materialboxed" width="80%" src="/img/eventos/2024-ENEF/ENEF24_programa.png">
         </div>	 
+      </div>
       </div>
 
    
