@@ -249,7 +249,4 @@ permalink: /ENEF2024/programa/
 {% endfor %}
 
 
-  <div class="modal-footer">
-    <a href="#!" class="modal-close waves-effect waves-green btn-flat">CERRAR</a>
-  </div>
-</div>
+
