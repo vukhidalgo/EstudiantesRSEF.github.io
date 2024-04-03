@@ -129,7 +129,7 @@ permalink: /ENEF2024/programa/
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
-
+<p>"{{person}}"</p>
       <div class="row">
         <div class="col s12 m6 l6">
           <div class="row center">
