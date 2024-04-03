@@ -127,6 +127,7 @@ permalink: /ENEF2024/programa/
 {% if person.evento contains "ENEF2024" %}
 
 <div id="{{ person.id | remove: "/" }}-modal" class="modal">
+	<p>"{{ person.id | remove: "/" }}-modal"</p>
   <div class="modal-content">
     <div class="section" style="padding-left: 30px; padding-right: 30px;">
 
