@@ -15,7 +15,7 @@ position: "1"
 
 charla: 
 
-bio1: "Fundador de «Quantum Fracture», un canal de animaciones que se dedica a mostrar lo increíblemente loco (y cuántico) que es el Universo. Actualmente el canal de YouTube tiene alrededor de un millón y medio de suscriptores y más de 84 millones de visitas, siendo uno de los más importantes de la divulgación científica de habla hispana. Crespo ha formado parte del personal de divulgación del Instituto de Física Teórica de Madrid y ha sido colaborador en el programa de televisión «Órbita Laika»."
+bio1: "Fundador de «Quantum Fracture», un canal de animaciones que se dedica a mostrar lo increíblemente loco (y cuántico) que es el Universo. Actualmente el canal de YouTube tiene alrededor de tres millones y medio de suscriptores, siendo uno de los más importantes de la divulgación científica de habla hispana."
 
 recom: "YES"
 
