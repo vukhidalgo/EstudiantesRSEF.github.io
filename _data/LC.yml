@@ -9,7 +9,7 @@
   fb: "https://www.facebook.com/EstudiantesRSEF.UCM/"
   ex:
   logo: "/img/delegaciones/DUCM/LogoDUCM.jpeg"
-  congelado: True
+  congelado: 
 
 - nombre: "Oviedo - UniOvi"
   id: "Oviedo"
@@ -94,3 +94,18 @@
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado: 
+
+  - nombre: "Sevilla - US"
+  id: "SevillaUS"
+  img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+  mail: "estudiantesrsef.us@gmail.com"
+  presidente: "Leire Zufia Miguel"
+  vicepresidente: "Eneko Lekaroz Urriza"
+  secretario: "Josu Bayer Aguirre"
+  tesorero: "Ane Varela Etxeberria"
+  fundacion: "12/2023"
+  ins: "https://www.instagram.com/estudiantesrsef_ehu/"
+  tw: "https://twitter.com/EstRSEF_EHU"
+  ex: 
+  logo: "/img/banner/logo-banner-estrsef.jpg"
+  congelado: True
