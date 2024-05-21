@@ -7,7 +7,9 @@ author: Ana I. Garrigues-Navarro & María Sánchez-Hernández
 redirect-from:
 ---
 
-Antes de empezar con la entrevista, muchas gracias por dedicar una parte de tu tiempo a participar en esta iniciativa del Grupo de Estudiantes. La idea de esta es acercar la trayectoria y puntos de vista de distintos profesionales a los estudiantes de Física, así como crear nuevos referentes. Así, la primera pregunta es obligatoria: **¿por qué estudiaste física?**
+Antes de empezar con la entrevista, muchas gracias por dedicar una parte de tu tiempo a participar en esta iniciativa del Grupo de Estudiantes. La idea de esta es acercar la trayectoria y puntos de vista de distintos profesionales a los estudiantes de Física, así como crear nuevos referentes.
+
+Así, la primera pregunta es obligatoria: **¿por qué estudiaste física?**
 
 > La verdad es que cuando acabé el Curso de Orientación Universitaria (COU), justo antes de entrar en la universidad, no tenía del todo claro qué estudios quería seguir. Sí sabía que quería estudiar ciencias, y entre las opciones que barajaba estaban la Física, la Química y las Matemáticas. En cualquier caso, tenía que ser algo que satisficiese mi curiosidad.
 
