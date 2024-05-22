@@ -2,12 +2,17 @@
   id: "MadridUCM"
   img: "/img/delegaciones/DUCM/VictorAlvarez.jpg"
   mail: "estudiantesrsef.ucm@gmail.com"
-  presidente: "Víctor Álvarez Martínez"
+  presidente: "Tristán Ortiz Roset"
+  vicepresidente: "Alba Fernández Sánchez"
+  secretario: "Alejandro Pintado Blanco"
+  tesorero: "Jaime Pulido Romero"
+  colaboradores:
+    - nombre_col: "Alejandro Sanz Ramírez"
   fundacion: "07/2019"
   ins: "https://www.instagram.com/estudiantesrsef_ucm/"
   tw:
   fb: "https://www.facebook.com/EstudiantesRSEF.UCM/"
-  ex:
+  ex: "Víctor Álvarez Martínez"
   logo: "/img/delegaciones/DUCM/LogoDUCM.jpeg"
   congelado: 
 
@@ -99,13 +104,13 @@
   id: "SevillaUS"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef.us@gmail.com"
-  presidente: "Leire Zufia Miguel"
-  vicepresidente: "Eneko Lekaroz Urriza"
-  secretario: "Josu Bayer Aguirre"
-  tesorero: "Ane Varela Etxeberria"
-  fundacion: "12/2023"
-  ins: "https://www.instagram.com/estudiantesrsef_ehu/"
-  tw: "https://twitter.com/EstRSEF_EHU"
+  presidente: "Inés Mora Caro"
+  vicepresidente: "María José Balme Hidalgo"
+  secretario: "Álvaro González Manzano"
+  tesorero: "Miguel Hans Bernete"
+  fundacion: "03/2024"
+  ins: "https://www.instagram.com/estudiantesrsef_us/"
+  tw: "https://x.com/EstRSEF_US"
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
-  congelado: True
+  congelado: 
