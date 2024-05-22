@@ -100,7 +100,7 @@
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado: 
 
-  - nombre: "Sevilla - US"
+- nombre: "Sevilla - US"
   id: "SevillaUS"
   img: "/img/logos/gdee-rsef-logo-cuadrado.png"
   mail: "estudiantesrsef.us@gmail.com"
