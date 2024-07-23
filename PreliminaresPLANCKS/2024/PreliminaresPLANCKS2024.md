@@ -17,10 +17,10 @@ permalink: /PreliminaresPLANCKS2024/
       <h2 style="text-align: center;">        
           <a href="{{ site.url}}/PreliminaresPLANCKS/2024/clasificacionprelis2024.pdf" target="_blank"><span style="color: #3ca41c;"><strong>CLASIFICACIÓN DE LAS PRELIMINARES DE PLANCKS 2024</strong></span></a>        
       </h2>
+      <hr>
 
 <!-- SOLUCIONES -->
       <!--
-      <hr>
       <h2 style="text-align: center;">        
           <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><span style="color: #3ca41c;"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></span></a>        
       </h2>
