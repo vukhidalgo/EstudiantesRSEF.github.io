@@ -621,10 +621,11 @@ permalink: /PreliminaresPLANCKS2024/
           <div class="col s12 m6 l5">
             <div class="icon-block">
               <h5 class="center">Comité Académico</h5>
-              <p align="center">No podemos desvelar su composición hasta después de la realización de la prueba. ;)</p>
-              <p align="center"></p>
-              <p align="center"></p>
-              <p align="center"></p>
+              <!-- <p align="center">No podemos desvelar su composición hasta después de la realización de la prueba. ;)</p> -->
+              <p align="center">Juan León - Presidente y Autor del Problema 2</p>
+              <p align="center">Sònia Estradé Albiol (UB) - Autora del Problema 1</p>
+              <p align="center">J. Arturo Alonso (CIEMAT) - Autor del Problema 3</p>
+              <p align="center">Enrique Conejero Jarque (USAL) - Autor del Problema 4</p>
             </div>
           </div>
         </div>
