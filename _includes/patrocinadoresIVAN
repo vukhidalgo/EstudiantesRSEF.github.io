@@ -1,0 +1,84 @@
+<div class="section" id="content-desktop">
+	<h2>Organiza:</h2>
+	<div class="row">
+		<div class="col s12 m6 l6">
+			<img id="logo GdeE" class="materialboxed" width="100%" src="/img/logos/gdee-rsef.png" alt="Grupo de Estudiantes de la RSEF">
+		</div>
+  	<div class="row">
+		<div class="col s12 m6 16">
+			<img id="logo EPS-YM" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/YoungMinds.png" alt="European Physical Society - Young Minds">
+		</div>
+	</div>
+	<h2>Colaboradores oro:</h2>
+ <!--   <div class="row>
+		<div class="col s6 m3 l3">
+			<img id="logo Fujitsu" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Fujitsu.png" alt="Fujitsu">
+		</div>
+		<div class="col s6 m3 l3">
+			<img id="logo Facultad Ciencias Granada" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/FacCienciasGranada.png" alt="Facultad de Ciencias de Granada">
+		</div>
+	</div>
+  --> 
+ 
+	<h2>Colaboradores plata:</h2>
+ <!--
+	<div class="row">
+		<div class="col s4 m3 l3">
+			<img id="logo Parque de las Ciencias" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/ParqueDeLasCiencias.png" alt="Parque de las Ciencias de Granada">
+		</div>
+	</div>
+ -->
+	<h2>Colaboradores bronce:</h2>
+ <!--
+	<div class="row">
+		<div class="col s3 m3 l3">
+			<img id="logo Ic1" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Ic1.png" alt="Instituto Carlos I">
+		</div>
+		<div class="col s3 m3 l3">
+			<img id="logo GEMF" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/GEMF.png" alt="Grupo Especializado de Mujeres en Física">
+		</div>
+	</div>
+</div>
+-->
+
+<div class="section" id="content-mobile">
+	<h2>Organiza:</h2>
+	<div class="row">
+		<div class="col s12 m12 l6">
+			<img id="logo GdeE" class="materialboxed" width="100%" src="/img/logos/gdee-rsef.png" alt="Grupo de Estudiantes de la RSEF">
+		</div>
+    		<div class= "col s12 m12 16">
+      			<img id="logo EPS-YM" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/YoungMinds.png" alt="European Physical Society - Young Minds">
+    		</div>  
+	</div>
+	<h2>Colaboradores oro:</h2>
+  <!--
+	<div class="row>
+		<div class="col s6 m6 l3">
+			<img id="logo Fujitsu" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Fujitsu.png" alt="Fujitsu">
+		</div>
+		<div class="col s6 m6 l3">
+			<img id="logo Facultad Ciencias Granada" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/FacCienciasGranada.png" alt="Facultad de Ciencias de Granada">
+		</div>
+	</div>
+  -->
+	<h2>Colaboradores plata:</h2>
+  <!--
+	<div class="row">
+		<div class="col s4 m4 l3">
+			<img id="logo Parque de las Ciencias" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/ParqueDeLasCiencias.png" alt="Parque de las Ciencias de Granada">
+		</div>
+	</div>
+  -->
+	<h2>Colaboradores bronce:</h2>
+ <!--
+	<div class="row">
+		<div class="col s3 m3 l3">
+			<img id="logo Ic1" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Ic1.png" alt="Instituto Carlos I">
+		</div>
+		<div class="col s3 m3 l3">
+			<img id="logo GEMF" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/GEMF.png" alt="Grupo Especializado de Mujeres en Física">
+		</div>
+	</div>
+ -->
+</div>
