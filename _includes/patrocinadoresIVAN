@@ -10,20 +10,12 @@
 		</div>
 	</div>
 	<h2>Colaboradores oro:</h2>
- <!-- 
+ <!--   <div class="row>
 		<div class="col s6 m3 l3">
-			<img id="logo CEEI" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CEEI.png" alt="CEEI Asturias">
+			<img id="logo Fujitsu" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Fujitsu.png" alt="Fujitsu">
 		</div>
 		<div class="col s6 m3 l3">
-			<img id="logo EDP" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/edp.png" alt="EDP">
-		</div>
-		<div class="col s6 m3 l3">
-			<img id="logo NFQ" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/NWorld.png" alt="NFQ">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s6 m3 l3">
-			<img id="logo ArcelorMittal" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/ArcelorMittal.png" alt="ArcelorMittal">
+			<img id="logo Facultad Ciencias Granada" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/FacCienciasGranada.png" alt="Facultad de Ciencias de Granada">
 		</div>
 	</div>
   --> 
@@ -32,44 +24,7 @@
  <!--
 	<div class="row">
 		<div class="col s4 m3 l3">
-			<img id="logo Cajastur" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Cajastur.png" alt="Cajastur">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo TKELEVATOR" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/TKE.png" alt="TKElevator">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo Merkle" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Merkle.png" alt="Merkle">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo TIMEO" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/FATineo.png" alt="Fundación Automáticos Tineo">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s4 m3 l3">
-			<img id="logo ClusterTic" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/ClusterTic.png" alt="ClusterTic">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo CASIO" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CDE.png" alt="CASIO">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo AMAUTAS" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Amautas.png" alt="AMAUTAS">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo COFIS" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/COFIS.png" alt="COFIS">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s4 m3 l3">
-			<img id="logo Accenture" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Accenture.png" alt="Accenture">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo CEDIE" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CEDIE.png" alt="CEDIE">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo Emprendimiento" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Emprendimiento.png" alt="Cátedra de emprendimiento UniOvi">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo Caja Rural" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CajaRural.png" alt="Caja Rural">
+			<img id="logo Parque de las Ciencias" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/ParqueDeLasCiencias.png" alt="Parque de las Ciencias de Granada">
 		</div>
 	</div>
  -->
@@ -77,16 +32,10 @@
  <!--
 	<div class="row">
 		<div class="col s3 m3 l3">
-			<img id="logo ALSA" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Alsa.png" alt="ALSA">
+			<img id="logo Ic1" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Ic1.png" alt="Instituto Carlos I">
 		</div>
 		<div class="col s3 m3 l3">
-			<img id="logo Renfe" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Renfe.png" alt="RENFE">
-		</div>
-		<div class="col s3 m3 l3">
-			<img id="logo Aguas de Fuensanta" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/AguasdeFuensanta.png" alt="Aguas de Fuensanta">
-		</div>
-		<div class="col s m3 l3">
-			<img id="logo 2EyesVision" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/2EyesVision.png" alt="2EyesVision">
+			<img id="logo GEMF" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/GEMF.png" alt="Grupo Especializado de Mujeres en Física">
 		</div>
 	</div>
 </div>
@@ -98,28 +47,18 @@
 		<div class="col s12 m12 l6">
 			<img id="logo GdeE" class="materialboxed" width="100%" src="/img/logos/gdee-rsef.png" alt="Grupo de Estudiantes de la RSEF">
 		</div>
-    <div class= "col s12 m12 16">
-      <img id="logo EPS-YM" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/YoungMinds.png" alt="European Physical Society - Young Minds">
-    </div>  
+    		<div class= "col s12 m12 16">
+      			<img id="logo EPS-YM" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/YoungMinds.png" alt="European Physical Society - Young Minds">
+    		</div>  
 	</div>
 	<h2>Colaboradores oro:</h2>
   <!--
-	<div class="row">
-		<div class="col s12 m12 l6">
-			<img id="logo CEEI" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CEEI.png" alt="CEEI Asturias">
-		</div>
-	</div>
-	<div class="row">
+	<div class="row>
 		<div class="col s6 m6 l3">
-			<img id="logo EDP" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/edp.png" alt="EDP">
+			<img id="logo Fujitsu" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Fujitsu.png" alt="Fujitsu">
 		</div>
 		<div class="col s6 m6 l3">
-			<img id="logo NFQ" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/NWorld.png" alt="NFQ">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s6 m6 l3">
-			<img id="logo ArcelorMittal" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/ArcelorMittal.png" alt="ArcelorMittal">
+			<img id="logo Facultad Ciencias Granada" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/FacCienciasGranada.png" alt="Facultad de Ciencias de Granada">
 		</div>
 	</div>
   -->
@@ -127,46 +66,7 @@
   <!--
 	<div class="row">
 		<div class="col s4 m4 l3">
-			<img id="logo Cajastur" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Cajastur.png" alt="Cajastur">
-		</div>
-		<div class="col s4 m4 l3">
-			<img id="logo TKELEVATOR" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/TKE.png" alt="TKElevator">
-		</div>
-		<div class="col s4 m4 l3">
-			<img id="logo Merkle" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Merkle.png" alt="Merkle">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s4 m4 l3">
-			<img id="logo TIMEO" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/FATineo.png" alt="Fundación Automáticos Tineo">
-		</div>
-		<div class="col s4 m4 l3">
-			<img id="logo ClusterTic" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/ClusterTic.png" alt="ClusterTic">
-		</div>
-		<div class="col s4 m4 l3">
-			<img id="logo CASIO" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CDE.png" alt="CASIO">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s4 m3 l3">
-			<img id="logo AMAUTAS" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Amautas.png" alt="AMAUTAS">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo COFIS" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/COFIS.png" alt="COFIS">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo Accenture" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Accenture.png" alt="Accenture">
-		</div>
-	</div>
-	<div class="row">
-		<div class="col s4 m3 l3">
-			<img id="logo CEDIE" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CEDIE.png" alt="CEDIE">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo Emprendimiento" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Emprendimiento.png" alt="Cátedra de emprendimiento UniOvi">
-		</div>
-		<div class="col s4 m3 l3">
-			<img id="logo Caja Rural" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/CajaRural.png" alt="Caja Rural">
+			<img id="logo Parque de las Ciencias" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/ParqueDeLasCiencias.png" alt="Parque de las Ciencias de Granada">
 		</div>
 	</div>
   -->
@@ -174,16 +74,10 @@
  <!--
 	<div class="row">
 		<div class="col s3 m3 l3">
-			<img id="logo ALSA" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Alsa.png" alt="ALSA">
+			<img id="logo Ic1" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/Ic1.png" alt="Instituto Carlos I">
 		</div>
 		<div class="col s3 m3 l3">
-			<img id="logo Renfe" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/Renfe.png" alt="RENFE">
-		</div>
-		<div class="col s3 m3 l3">
-			<img id="logo Aguas de Fuensanta" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/AguasdeFuensanta.png" alt="Aguas de Fuensanta">
-		</div>
-		<div class="col s m3 l3">
-			<img id="logo 2EyesVision" class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Patrocinadores/2EyesVision.png" alt="2EyesVision">
+			<img id="logo GEMF" class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/Patrocinadores/GEMF.png" alt="Grupo Especializado de Mujeres en Física">
 		</div>
 	</div>
  -->
