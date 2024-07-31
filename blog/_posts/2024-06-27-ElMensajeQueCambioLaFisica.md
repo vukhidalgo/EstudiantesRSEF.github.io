@@ -30,4 +30,3 @@ redirect-from:
         <iframe src="/blog/files/El mensaje que cambió la Física hace 100 años.pdf" width="100%" height="100%" style="border:none;"></iframe>
     </div>
 </body>
-</html>
