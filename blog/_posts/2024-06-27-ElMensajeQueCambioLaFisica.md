@@ -26,7 +26,7 @@ redirect-from:
 <body>
     <h1 id="page-title"></h1>
     <div class="pdf-container">
-        <iframe src="your-pdf-file.pdf" width="100%" height="100%" style="border:none;"></iframe>
+        <iframe src="blog/files/El mensaje que cambió la Física hace 100 años.pdf" width="100%" height="100%" style="border:none;"></iframe>
     </div>
 </body>
 </html>
