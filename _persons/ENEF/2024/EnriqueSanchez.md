@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "ENEF2024"
 nombre: "Enrique Sánchez Bautista"
-img: "/img/eventos/2024-ENEF/ponentes/QuantumFracture.jpeg"
+img: "/img/eventos/2024-ENEF/ponentes/EnriqueSanchez.jfif"
 rol: "Charla"
 roldes: "Tecnologías cuánticas y polícas científicas en Europa"
 descr: ""
