@@ -42,7 +42,8 @@ permalink: /ENEF2024/programa/
       <div class="section">
        <div class="col s12 m6">
          <div class="row center">
-         {% for person in site.persons %}
+	 {% assign sorted_persons = site.persons | sort: "position" %}
+         {% for person in sorted_persons %}
          {% if person.evento contains "ENEF2024" %}
          {% if person.visible contains "True" %}
            <ul class="collection waves-effect waves-light" style="width: 33%">
