@@ -13,10 +13,8 @@ linkedin: ""
 visible: "True"
 position: "3"
 
-charla: 
-
-bio1: "Recién llegado de Bruselas, Enrique nos hablará de su trabajo en EU Quantum Flagship y qué podemos aprender sobre ello."
-bio2: "Enrique Sánchez Bautista es un destacado experto en tecnologías cuánticas y políticas científicas en Europa."
+charla: "Recién llegado de Bruselas, Enrique nos hablará de su trabajo en EU Quantum Flagship y qué podemos aprender sobre ello."
+bio1: "Enrique Sánchez Bautista es un destacado experto en tecnologías cuánticas y políticas científicas en Europa."
 
 recom: "YES"
 
