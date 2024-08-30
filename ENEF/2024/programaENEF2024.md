@@ -29,7 +29,7 @@ permalink: /ENEF2024/programa/
       </div>
       <div class="section" id="content-mobile">
 	<div class="row">
-          <img class="materialboxed" width="100%" src"/img/eventos/2024-ENEF/ENEF24_programav2.png">
+          <img class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/ENEF24_programav2.png">
         </div>
       </div>
 
