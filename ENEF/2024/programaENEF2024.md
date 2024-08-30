@@ -21,14 +21,16 @@ permalink: /ENEF2024/programa/
 	<p style="text-align: justify;">¡Ya está aquí el programa del ENEF! ¿Te lo vas a perder? Consulta el resto de información en la <a href="{{ site.url }}/ENEF2024">web del ENEF</a>.</p>
       </div>
 
-
       <div class="section" id="content-desktop">
-	<h5>Haz clic en la imagen para ver el programa en tamaño completo</h5>
-  	<div class="col s12 m10 l8">
-         <div class="row center">
+	<h5>Haz clic en la imagen para ver el programa en tamaño completo</h5>  	
+        <div class="row">
              <img class="materialboxed" width="80%" src="/img/eventos/2024-ENEF/ENEF24_programav2.png">
         </div>	 
       </div>
+      <div class="section" id="content-mobile">
+	<div class="row">
+          <img class="materialboxed" width="100%" src"/img/eventos/2024-ENEF/ENEF24_programav2.png">
+        </div>
       </div>
 
    
