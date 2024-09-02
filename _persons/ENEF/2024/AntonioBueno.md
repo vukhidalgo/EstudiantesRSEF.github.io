@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "ENEF2024"
 nombre: "Antonio Bueno Villar"
-img: "/img/eventos/2024-ENEF/ponentes/AntonioBueno.jpg"
+img: "/img/eventos/2024-ENEF/ponentes/AntonioBueno2.jpg"
 rol: "Charla"
 roldes: "Física de Partículas"
 descr: ""
