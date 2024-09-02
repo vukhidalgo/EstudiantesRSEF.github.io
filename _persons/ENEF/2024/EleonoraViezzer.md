@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "ENEF2024"
 nombre: "EleonoraViezzer"
-img: "/img/eventos/2024-ENEF/ponentes/EleonoraViezzer.jpg"
+img: "/img/eventos/2024-ENEF/ponentes/EleonoraViezzer2.jpg"
 rol: "Charla Final"
 roldes: "Física de Plasmas y fusión nuclear"
 descr: ""
