@@ -3,7 +3,7 @@ layout: person
 categories: ponentes
 evento: "ENEF2024"
 nombre: "Miguel Ángel Martínez Domingo"
-img: "/img/eventos/2024-ENEF/ponentes/MiguelAngelMartinez.jpeg"
+img: "/img/eventos/2024-ENEF/ponentes/MiguelAngelMartinez2.jpeg"
 rol: "Charla"
 roldes: "Óptica"
 descr: ""
