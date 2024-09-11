@@ -127,6 +127,15 @@ Consulta [esta página](/nueva-delegacion/).
 					</ul>	  			
 	   	  		</li>			
 			{% endif %}	  
+			{% if item.ex != nil %}	
+				<li><b>Expresidentes</b>:
+					<ul>
+					{% for ex in item.ex %}
+		  				<li> {{ex.nombre_ex}} </li>
+		  			{% endfor %}	
+					</ul>	  			
+	   	  		</li>			
+			{% endif %}	  
 		</ul>   
           </div>
         </div>
