@@ -20,18 +20,17 @@
   id: "Oviedo"
   img: "/img/delegaciones/DUNIOVI/DUNIOVI_junta2_avatar.jpg"
   mail: "estudiantesrsef.uniovi@gmail.com"
-  presidente: "Miguel Carrasco Arango"
-  vicepresidente: "Silvia Rodríguez del Amo"
-  secretario: "Celia Cabrerizo García"
-  tesorero: "Lucía Longo Balagué"
-  colaboradores:
-    - nombre_col: "Michel Verdú Álvarez"
-    - nombre_col: "Covadonga Martínez Cueto"
-    - nombre_col: "Irene Bernaldo de Quirós Bujanda"  
+  presidente: "Silvia Rodríguez del Amo"
+  vicepresidente: "Covadonga Martínez Cueto"
+  secretario: "Irene Bernaldo de Quirós Bujanda"
+  tesorero: "Míchel Verdú Álvarez"
+  colaboradores: 
   fundacion: "03/2022"
   ins: "https://www.instagram.com/estudiantesrsef_uniovi/"
   tw: "https://twitter.com/estRSEF_UniOvi"
-  ex: "Manuel Porrón Álvarez"
+  ex: 
+    - nombre_ex: "Miguel Carrasco Arango"  
+    - nombre_ex: "Manuel Porrón Álvarez"
   logo: "/img/delegaciones/DUNIOVI/logoDUNIOVI_hor.png"
   congelado:
 
@@ -111,6 +110,21 @@
   fundacion: "03/2024"
   ins: "https://www.instagram.com/estudiantesrsef_us/"
   tw: "https://x.com/EstRSEF_US"
+  ex: 
+  logo: "/img/banner/logo-banner-estrsef.jpg"
+  congelado: 
+
+- nombre: "Valladolid - UVA"
+  id: "ValladolidUVA"
+  img: "/img/logos/gdee-rsef-logo-cuadrado.png"
+  mail: "estudiantesrsef.uva@gmail.com"
+  presidente: "Guillermo Muñoz Hernández"
+  vicepresidente: "Javier de la Parra Martín"
+  secretario: "Clara Rodríguez Marinero"
+  tesorero: "Lucía Barroso García"
+  fundacion: "09/2024"
+  ins: "https://www.instagram.com/estudiantesrsef_uva/"
+  tw: "https://x.com/estuRSEF_UVA"
   ex: 
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado: 
