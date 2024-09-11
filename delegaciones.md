@@ -47,11 +47,8 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 						<br>
 						{% if item.ex != nil %}
 							Ex presidentes/as: 
-								{% for ex in item.ex %}
-        							{{ ex.nombre_ex }}{% if not loop.last and loop.index < 3 %}, {% endif %}
-        							{% if loop.index == 3 %}
-            							{% break %}
-     							   {% endif %}
+								{% for ex in item.ex limit:3 %}
+        							{{ ex.nombre_ex }}
  							   {% endfor %}
    						{% endif %}			
 					</p>
