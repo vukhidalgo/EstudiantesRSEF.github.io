@@ -46,8 +46,10 @@ El Grupo de Estudiantes de la RSEF cuenta por el momento con {{ n }} Delegacione
 						Fundación: {{ item.fundacion }}
 						<br>
 						{% if item.ex != nil %}
-						Ex presidentes/as: {{ item.ex }}
-						{% endif %} 				
+							Ex presidentes/as: 
+								{% set ex_presidents = item.ex | map(attribute='nombre_ex') | list %}
+								{{ ex_presidents[:3] | join(', ') }}
+						{% endif %}				
 					</p>
 					<br>
 					{% if item.ins != nil %}	
