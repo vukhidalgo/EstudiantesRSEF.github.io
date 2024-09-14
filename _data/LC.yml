@@ -55,17 +55,16 @@
   id: "BarcelonaUAB"
   img: "/img/delegaciones/DUAB/DelUAB_ENEF_avatar.jpg"
   mail: "estudiantesrsef@gmail.com"
-  presidente: "Elena Martínez Barceló"
+  presidente: "Eric Jiménez Zurera"
   vicepresidente: "Mario Martínez Angulo"
-  secretario: "Eloi Casalé Cabanes"
-  tesorero: "Eric Jiménez Zurera"
+  secretario: "Erika Lucía Dengra Blanco"
+  tesorero: "David Doblas Hernández"
   colaboradores:
-    - nombre_col: "Jordi Freixa Martínez"
-    - nombre_col: "Joan Reverté Flores"
   fundacion: "06/2023"
   ins: "https://www.instagram.com/estudiantsrsef_uab/"
   tw: "https://twitter.com/EstRSEF_UAB"
   ex: 
+    - nombre_ex: "Elena Martínez Barceló"
   logo: "/img/banner/logo-banner-estrsef.jpg"
   congelado:
   
