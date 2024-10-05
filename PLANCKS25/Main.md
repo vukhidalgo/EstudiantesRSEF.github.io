@@ -1,4 +1,4 @@
----
+to---
 layout: plancks25
 title: PLANCKS Barcelona 2025
 hidden: True
@@ -103,7 +103,7 @@ Está organizado por y para estudiantes de grado, máster y doctorado en física
 	<p style="text-align: justify;">Durante el ENEF contaremos con las mejores oportunidades de networking, divulgación y desarrollo profesional. Tendremos ponencias científicas, talleres de desarrollo profesional, visitas a laboratorios, oportunidades de networking, feria de empresas, concursos de presentaciones... combinado con actividades lúdicas y culturales.</p>
 	<div class="col s6 m6 l3">
           <div class="row center">
-            <a href="{{ site.url }}/ENEF2024/programa" id="boton-programa" class="btn-enef24 waves-effect waves-light">Conoce el programa provisional</a>
+            <a href="{{ site.url }}/ENEF2024/programa" id="boton-programa" class="btn-enef24 waves-effect waves-light">Get to know the provisional program!</a>
           </div>
         </div>
       </div> 
