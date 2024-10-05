@@ -1,7 +1,7 @@
 nav {
   color: $navbar-font-color;
   @extend .z-depth-1;
-  background-color: $primary-color;
+  background-color: rgba(0,100,0,.1);
   width: 100%;
   height: $navbar-height-mobile;
   line-height: $navbar-height-mobile;
@@ -110,7 +110,7 @@ nav {
       left: 0;
 
       i {
-        color: rgba(55,55,55,.7);
+        color: rgba(255,255,255,.7);
         @include transition(color .3s);
       }
       &.active i { color: $navbar-font-color; }
