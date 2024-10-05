@@ -2,7 +2,7 @@
 layout: enef
 title: Encuentro Nacional de Estudiantes de Física 2024
 hidden: true
-permalink: /ENEF2024/
+permalink: /PLANCKS25/
 ---
 
 <div class="no-pad-top" id="index-page">
