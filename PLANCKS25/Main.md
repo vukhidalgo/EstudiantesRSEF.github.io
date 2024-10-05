@@ -1,6 +1,6 @@
 ---
 layout: enef
-title: Encuentro Nacional de Estudiantes de Física 2024
+title: PLANCKS Barcelona 2025
 hidden: true
 permalink: /PLANCKS25/
 ---
