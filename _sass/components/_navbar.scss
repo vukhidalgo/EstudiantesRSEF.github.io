@@ -124,7 +124,6 @@ nav {
 }
 
 // Fixed Navbar
-// Fixed Navbar
 .navbar-fixed {
   position: relative;
   height: $navbar-height-mobile;
@@ -138,12 +137,8 @@ nav {
 // Navbar Plancks (solo cambia la altura)
 .navbar-plancks {
   position: relative;
-  height: 150px; // Cambia la altura a la que necesites
-  z-index: 998;
-
-  nav {
-    position: fixed;
-  }
+  height: 150px; 
+  z-index: 998; nav {position: fixed}
 }
 
 @media #{$medium-and-up} {
@@ -151,12 +146,7 @@ nav {
     height: $navbar-height;
     line-height: $navbar-height;
   }
-  .navbar-fixed {
-    height: $navbar-height;
-  }
+  .navbar-fixed {height: $navbar-height}
 
-  // Aplica las mismas reglas a la versión Plancks
-  .navbar-plancks {
-    height: 150px; // Cambia este valor según tu necesidad para pantallas grandes
-  }
+  .navbar-plancks {height: 150px}
 }
