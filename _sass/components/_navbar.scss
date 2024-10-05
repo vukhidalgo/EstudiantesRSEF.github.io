@@ -3,8 +3,8 @@ nav {
   @extend .z-depth-1;
   background-color: $primary-color;
   width: 100%;
-  height: $navbar-height-mobile;
-  line-height: $navbar-height-mobile;
+  height: 300px//$navbar-height-mobile;
+  line-height: 300px//$navbar-height-mobile;
 
   a { color: $navbar-font-color; }
 
@@ -148,11 +148,11 @@ nav {
 
 @media #{$medium-and-up} {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: $navbar-height;
-    line-height: $navbar-height;
+    height: 300px//$navbar-height;
+    line-height: 300px//$navbar-height;
   }
   .navbar-fixed {
-    height: $navbar-height;
+    height: 300px// $navbar-height;
   }
 
   // Aplica las mismas reglas a la versión Plancks
