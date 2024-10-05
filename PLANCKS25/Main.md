@@ -1,7 +1,7 @@
 ---
 layout: enef
 title: PLANCKS Barcelona 2025
-hidden: false
+hidden: True
 permalink: /PLANCKS25/
 ---
 
