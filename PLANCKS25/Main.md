@@ -16,8 +16,8 @@ permalink: /PLANCKS25/
 
 <!-- INTRODUCCIÓN -->
 
-      <p style="text-align: justify;">¡Bienvenid@ a la página web oficial del Encuentro Nacional de Estudiantes de Física (ENEF)!</p>
-      <p style="text-align: justify;">El ENEF es la conferencia que estabas esperando: cinco días de charlas de física en investigación, industria y divulgación, con actividades de networking, visitas a laboratorios, una feria de empresas… ¡y oportunidades para que presentes tu propio trabajo!  Y este año ya sabemos donde se celebrará: <strong>¡del 3 al 7 de septiembre en Granada!</strong>
+      <p style="text-align: justify;"> Welcome to the official webpage of the Plancks 2025 event in Barcelona!</p>
+      <p style="text-align: justify;">(Description of the event)  This year will be held on <strong>5th through 10th May in Barcelona! </strong>
 Está organizado por y para estudiantes de grado, máster y doctorado en física en España.</p>
       <p style="text-align: justify;">Sigue explorando la web para saber más detalles de la conferencia. 
 ¡Ven al ENEF y ayúdanos a seguir construyendo una comunidad de estudiantes con motivación, pasión y conexión!</p>
