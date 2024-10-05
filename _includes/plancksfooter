@@ -3,18 +3,18 @@
     <div class="row">
       <div class="col l6 s12">
         <h5 class="white-text">Grupo de Estudiantes RSEF</h5>
-        <p class="grey-text text-lighten-4" style="text-align: justify">El Grupo de Estudiantes (GdeE) de la Real Sociedad Española de Física (RSEF) busca reunir a todos los estudiantes de física de España, proporcionarles nuevas oportunidades a nivel nacional e internacional y ayudar a mejorar la divulgación de la física y su enseñanza. El GdeE es National Committee Spain en la International Association of Physics Students (IAPS).</p>
+        <p class="grey-text text-lighten-4" style="text-align: justify">The Student Group (GdeE) of the Royal Spanish Society of Physics (RSEF) seeks to bring together all physics students in Spain, provide them with new opportunities at both national and international levels, and help improve the dissemination and teaching of physics. The GdeE is the National Committee Spain in the International Association of Physics Students (IAPS).</p>
       </div>
       <div class="col l3 s12">
-        <h5 class="white-text">Contacta</h5>
+        <h5 class="white-text">Contact us</h5>
         <ul>
-	        <li><a class="white-text" href="mailto:estudiantes@rsef.es?subject=[Presidencia]">Presidenta</a></li>
-	        <li><a class="white-text" href="mailto:estudiantes@rsef.es?subject=[Vicepresidencia]">Junta de Gobierno</a></li>
-	        <li><a class="white-text" href="mailto:estudiantes@rsef.es?subject=[Comité de Miembros y Delegaciones]">Delegaciones</a></li>
+	        <li><a class="white-text" href="mailto:manuelporronalvarez@gmail.com?subject=[Presidencia]">President</a></li>
+	        <li><a class="white-text" href="mailto:estudiantes@rsef.es?subject=[Vicepresidencia]">Executive Committee</a></li>
+	        <li><a class="white-text" href="mailto:juanlorcam@gmail.com?subject=[Comité de Miembros y Delegaciones]">Local Sections</a></li>
         </ul>
       </div>
       <div class="col l3 s12">
-        <h5 class="white-text">Conecta</h5>
+        <h5 class="white-text">Conect with us</h5>
         <ul>
 	        <!-- <li><a class="white-text" href="https://www.facebook.com/EstudiantesRSEF/">Página de Facebook</a></li> -->
                 <li><a class="white-text" href="https://twitter.com/EstudiantesRSEF">Twitter</a></li>
