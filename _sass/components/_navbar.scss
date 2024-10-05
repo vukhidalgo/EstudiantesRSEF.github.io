@@ -135,10 +135,10 @@ nav {
 }
 @media #{$medium-and-up} {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: $navbar-height;
-    line-height: $navbar-height;
+    height: 500px;
+    line-height: 500px;
   }
   .navbar-fixed {
-    height: $navbar-height;
+    height: 500px;
   }
 }
