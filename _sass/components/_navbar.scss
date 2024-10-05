@@ -138,7 +138,7 @@ nav {
 // Navbar Plancks (solo cambia la altura)
 .navbar-plancks {
   position: relative;
-  height: 300px; // Cambia la altura a la que necesites
+  height: 150px; // Cambia la altura a la que necesites
   z-index: 998;
 
   nav {
@@ -157,6 +157,6 @@ nav {
 
   // Aplica las mismas reglas a la versión Plancks
   .navbar-plancks {
-    height: 300px; // Cambia este valor según tu necesidad para pantallas grandes
+    height: 150px; // Cambia este valor según tu necesidad para pantallas grandes
   }
 }
