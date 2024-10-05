@@ -13,7 +13,7 @@
     </iframe>
   </noscript>
 <!-- End Google Tag Manager (noscript) -->
-    {% include plancksnav.html nav=site.data.plancksnav %}
+    {% include nav.html nav=site.data.menu %}
         {{ content }}
     {% include footer.html %}
   </body>
