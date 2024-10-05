@@ -1,0 +1,35 @@
+ - text: <strong>Conócenos</strong>
+   url: /about/
+   slug: about
+   subitems:
+    - text: Junta de Gobierno
+      url: /junta-de-gobierno/
+    - text: Documentos
+      url: /documentos/
+ - text: <strong>Oportunidades</strong>
+   subitems:
+     - text: Eventos
+       url: /eventos/
+     - text: Delegaciones
+       url: /delegaciones/
+     - text: ¡Colabora!
+       url: /colabora/
+     - text: Internships Database
+       url: /internships/
+     - text: El Blog
+       url: /blog/
+       blank: YES
+# - text: <strong>El Blog</strong>
+#   url: /blog/
+# - text: ICPS'20
+#   url: /eventos-internacionales/2020/08/09/ICPS2020/
+ - text: <strong>¡Inscríbete!</strong>
+   url: /inscripcion/
+# - text: <strong>Física... ¿Y ahora qué?</strong>
+#   url: /FisicaYAhoraQue/
+# - text: <strong>Gastrofísica</strong>
+#   url: /Gastrofisica/
+# - text: <strong>PLANCKS 23</strong>
+#   url: /PreliminaresPLANCKS2023/
+# - text: <strong>ENEF 23</strong>
+#   url: /ENEF2023/
