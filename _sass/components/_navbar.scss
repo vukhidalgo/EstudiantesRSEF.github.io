@@ -3,8 +3,8 @@ nav {
   @extend .z-depth-1;
   background-color: $primary-color;
   width: 100%;
-  height: $navbar-height-mobile;
-  line-height: $navbar-height-mobile;
+  height: 500px;
+  line-height: 500px;
 
   a { color: $navbar-font-color; }
 
