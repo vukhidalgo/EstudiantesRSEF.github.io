@@ -35,22 +35,16 @@ Está organizado por y para estudiantes de grado, máster y doctorado en física
               <a href="{{ site.url }}/ENEF2024/programa" id="boton-programa" class="btn-enef24 waves-effect waves-light">Programa</a>
             </div>
           </div>
-          <div class="col s6 m6 l3">
-            <div class="row center">
-              <a href="#concursos" id="boton-concursos" class="btn-enef24 waves-effect waves-light">Concursos</a>
-            </div>
-          </div>
 	  <div class="col s6 m6 l3">
             <div class="row center">
-              <a href="#inscribete" id="boton-inscribete" class="btn-enef24 waves-effect waves-light">¡Inscríbete!</a> 	      
+              <a href="#inscribete" id="boton-inscribete" class="btn-enef24 waves-effect waves-light">Preliminares Plancks</a> 	      
             </div>
           </div>
-	  <!--
 	  <div class="col s6 m6 l3">
             <div class="row center">
               <a href="#preguntas" id="boton-preguntas" class="btn-enef24 waves-effect waves-light">FAQs</a>
             </div>
-          </div>-->
+          </div>
         </div>
       </div>
 
