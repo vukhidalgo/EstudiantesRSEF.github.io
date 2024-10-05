@@ -6,7 +6,7 @@
       url: /junta-de-gobierno/
     - text: Documents
       url: /documentos/
- - text: <strong>Oportunidades</strong>
+ - text: <strong>Oportunities</strong>
    subitems:
      - text: Events
        url: /eventos/
@@ -23,7 +23,7 @@
 #   url: /blog/
 # - text: ICPS'20
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
- - text: <strong>¡Inscríbete!</strong>
+ - text: <strong>¡Subscribe!</strong>
    url: /inscripcion/
 # - text: <strong>Física... ¿Y ahora qué?</strong>
 #   url: /FisicaYAhoraQue/
