@@ -3,8 +3,8 @@ nav {
   @extend .z-depth-1;
   background-color: $primary-color;
   width: 100%;
-  height: 500px;
-  line-height: 500px;
+  height: $navbar-height-mobile;
+  line-height: $navbar-height-mobile;
 
   a { color: $navbar-font-color; }
 
@@ -124,6 +124,7 @@ nav {
 }
 
 // Fixed Navbar
+// Fixed Navbar
 .navbar-fixed {
   position: relative;
   height: $navbar-height-mobile;
@@ -133,12 +134,29 @@ nav {
     position: fixed;
   }
 }
+
+// Navbar Plancks (solo cambia la altura)
+.navbar-plancks {
+  position: relative;
+  height: 300px; // Cambia la altura a la que necesites
+  z-index: 998;
+
+  nav {
+    position: fixed;
+  }
+}
+
 @media #{$medium-and-up} {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: 500px;
-    line-height: 500px;
+    height: $navbar-height;
+    line-height: $navbar-height;
   }
   .navbar-fixed {
-    height: 500px;
+    height: $navbar-height;
+  }
+
+  // Aplica las mismas reglas a la versión Plancks
+  .navbar-plancks {
+    height: 300px; // Cambia este valor según tu necesidad para pantallas grandes
   }
 }
