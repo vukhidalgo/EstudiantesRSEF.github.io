@@ -1,5 +1,5 @@
 ---
-layout: plancks25
+layout: enef
 title: PLANCKS Barcelona 2025
 hidden: True
 permalink: /PLANCKS25/
