@@ -127,7 +127,7 @@ nav {
 // Fixed Navbar
 .navbar-fixed {
   position: relative;
-  height: 64px;
+  height: 64px !important;
   z-index: 998;
 
   nav {
@@ -138,7 +138,7 @@ nav {
 // Navbar Plancks (solo cambia la altura)
 .navbar-plancks {
   position: relative;
-  height: 96px;
+  height: 96px !important;
   z-index: 998;
 
   nav {
