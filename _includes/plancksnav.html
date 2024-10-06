@@ -16,8 +16,17 @@
   <nav class="EstudiantesRSEF" role="navigation" style="background-color: #352F71;" >
       <div class="nav-wrapper container">
           <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
-          <a id="logo-container" href="/index.html"> <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 128px; border-radius: 60%;"> </a>
-          <a> <strong>PLANCKS Barcelona 2025</strong> </a>
+          
+          <div style="display: flex; align-items: center;">
+              <!-- Logo -->
+              <a id="logo-container" href="/index.html">
+                  <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 128px; border-radius: 60%;">
+              </a>
+              <!-- Title -->
+              <a style="margin-left: 15px; color: white; font-size: 24px; font-weight: bold;">
+                  PLANCKS Barcelona 2025
+              </a>
+          <!-- <a id="logo-container" href="/index.html"> <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 128px; border-radius: 60%;"> </a> -->
           <ul class="right hide-on-med-and-down">
             {% for item in include.nav %}
             {% if item.subitems %}
