@@ -1,6 +1,3 @@
- - text: <strong>PLANCKS Barcelona 2025</strong>
-   url: /PLANCKS25/
- - text:
  - text: <strong>Get to know us!</strong>
    url: /about/
    slug: about
@@ -22,6 +19,8 @@
      - text: The Blog
        url: /blog/
        blank: YES
+# - text: <strong>PLANCKS Barcelona 2025</strong>
+#   url: /PLANCKS25/
 # - text: <strong>El Blog</strong>
 #   url: /blog/
 # - text: ICPS'20
