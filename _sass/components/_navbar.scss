@@ -137,16 +137,10 @@ nav {
 // Navbar Plancks (solo cambia la altura)
 .navbar-plancks {
   position: relative;
-  height: 128px; 
-  z-index: 998; nav {position: fixed}
-}
+  height: 128px;
+  z-index: 998;
 
-@media #{$medium-and-up} {
-  nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: 128px;
-    line-height: 128px;
+  nav {
+    position: fixed;
   }
-  .navbar-fixed {height: $navbar-height}
-
-  .navbar-plancks {height: 128px}
 }
