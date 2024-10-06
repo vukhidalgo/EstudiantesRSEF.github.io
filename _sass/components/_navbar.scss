@@ -1,9 +1,35 @@
+// NAV
 nav {
   color: $navbar-font-color;
   @extend .z-depth-1;
   background-color: $primary-color;
   width: 100%;
   height: $navbar-height-mobile;
+  line-height: $navbar-height-mobile;
+
+  a { color: $navbar-font-color; }
+
+  .nav-wrapper {
+    position: relative;
+    height: 100%;
+
+    i {
+      display: block;
+      font-size: 2rem;
+    }
+  }
+
+  @media #{$large-and-up} {
+    a.button-collapse { display: none; }
+  }
+
+  // NAVPLANCKS
+  navplancks {
+  color: $navbar-font-color;
+  @extend .z-depth-1;
+  background-color: $primary-color;
+  width: 100%;
+  height: 80px;
   line-height: $navbar-height-mobile;
 
   a { color: $navbar-font-color; }
@@ -138,10 +164,10 @@ nav {
 // Navbar Plancks (solo cambia la altura)
 .navbar-plancks {
   position: relative;
-  height: 64px;
+  height: 80px;
   z-index: 998;
 
-  nav {
+  navplancks {
     position: fixed;
   }
 }
