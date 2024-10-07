@@ -156,6 +156,12 @@ button.btn-floating {
   background-color: #B91828;
   font-weight: bold;
 }
+.btn-plancks25 {
+  @extend .btn-large; 
+  color: #ffffff;
+  background-color: #00a79d;
+  font-weight: bold;
+}
 
 // Block button
 .btn-block {
