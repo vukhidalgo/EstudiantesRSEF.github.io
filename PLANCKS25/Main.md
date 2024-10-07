@@ -12,7 +12,7 @@ permalink: /PLANCKS25/
 
 
 <!-- BANNER -->
-      <img class="materialboxed" width="100%" src="/img/eventos/2024-ENEF/ENEF24_Banner.png">
+      <img class="materialboxed" width="100%" src="/img/eventos/2025-PLANCKS/PLANCKS25_Banner.png">
 
 <!-- INTRODUCCIÓN -->
 
