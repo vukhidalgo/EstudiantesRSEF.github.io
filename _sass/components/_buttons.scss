@@ -161,7 +161,11 @@ button.btn-floating {
   color: #ffffff;
   background-color: #00a79d;
   font-weight: bold;
-  border-radius: 50px !important; // Esto hará que los bordes sean redondeados como una pastilla
+  border-radius: 50px !important; 
+  &:hover {
+    background-color: #352F71;
+    @extend .z-depth-1-half;
+  }
 }
 
 // Block button
