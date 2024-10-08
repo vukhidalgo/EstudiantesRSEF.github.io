@@ -27,22 +27,22 @@ Está organizado por y para estudiantes de grado, máster y doctorado en física
         <div class="row">
           <div class="col s6 m6 l3">
             <div class="row center">
-              <a href="#objetivos" id="boton-objetivos" class="btn-enef24 waves-effect waves-light">Objetivos</a>
+              <a href="#objetivos" id="boton-objetivos" class="btn-plancks25 waves-effect waves-light">Objetivos</a>
             </div>
           </div>
           <div class="col s6 m6 l3">
             <div class="row center">
-              <a href="{{ site.url }}/ENEF2024/programa" id="boton-programa" class="btn-enef24 waves-effect waves-light">Programa</a>
+              <a href="{{ site.url }}/ENEF2024/programa" id="boton-programa" class="btn-plancks25 waves-effect waves-light">Programa</a>
             </div>
           </div>
 	  <div class="col s6 m6 l3">
             <div class="row center">
-              <a href="#inscribete" id="boton-inscribete" class="btn-enef24 waves-effect waves-light">Preliminares Plancks</a> 	      
+              <a href="#inscribete" id="boton-inscribete" class="btn-plancks25 waves-effect waves-light">Preliminares Plancks</a> 	      
             </div>
           </div>
 	  <div class="col s6 m6 l3">
             <div class="row center">
-              <a href="#preguntas" id="boton-preguntas" class="btn-enef24 waves-effect waves-light">FAQs</a>
+              <a href="#preguntas" id="boton-preguntas" class="btn-plancks25 waves-effect waves-light">FAQs</a>
             </div>
           </div>
         </div>
