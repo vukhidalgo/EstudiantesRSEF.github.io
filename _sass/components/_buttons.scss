@@ -161,7 +161,7 @@ button.btn-floating {
   color: #ffffff;
   background-color: #00a79d;
   font-weight: bold;
-  border-radius: 50px; // Esto hará que los bordes sean redondeados como una pastilla
+  border-radius: 50px !important; // Esto hará que los bordes sean redondeados como una pastilla
 }
 
 // Block button
