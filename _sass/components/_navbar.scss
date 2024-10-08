@@ -147,11 +147,11 @@ nav {
 }
 @media #{$medium-and-up} {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
-    height: $navbar-height;
-    line-height: $navbar-height;
+    height: 100px; //$navbar-height;
+    line-height: 100px; //$navbar-height;
   }
   .navbar-fixed {
-    height: $navbar-height;
+    height: //$navbar-height;
   }
   .navbar-plancks {
     height: 100px;
