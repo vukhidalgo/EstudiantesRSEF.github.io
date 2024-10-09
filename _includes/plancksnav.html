@@ -1,7 +1,7 @@
 {% assign navurl = page.url | remove: 'index.html' %}
 {% for item in include.nav %}
     {% if item.subitems %}
-    <ul id="dropdown-{{ item.slug }}" class="dropdown-content">
+    <ul id="dropdown-{{ item.slug }}" class="dropdown-content" style="background-color: #6699ff">
       {% if item.url != nil %}
       <li><a href="{{ item.url }}">{{ item.text }}</a></li>
       {% endif %}
