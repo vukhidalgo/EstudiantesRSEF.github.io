@@ -26,12 +26,15 @@
                   PLANCKS Barcelona 2025
               </a>
           </div>
-          <!-- <a id="logo-container" href="/index.html"> <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 128px; border-radius: 60%;"> </a> -->
           <ul class="right hide-on-med-and-down">
             {% for item in include.nav %}
             {% if item.subitems %}
             <li>
               <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
+              ul.dropdown-content li {
+                height: 100px;
+                line-height: 100px;
+                }
             </li>
             {% else %}
               <li>
