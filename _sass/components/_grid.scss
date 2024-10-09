@@ -4,6 +4,17 @@
   // width: 90%;
   width: 90%;
 }
+.middle-right-con { //classes for nav-plancks - position of icon
+	display: flex;
+  	align-items: center; /* Align items vertically */
+  	justify-content: space-between; /* Spread items across with one at each side */
+  	height: 100px; /* Example height */
+  	border: 1px solid black; /* Just for visibility */
+}
+.middle-right {
+	margin-left: auto
+}
+	
 @media #{$medium-and-up} {
   .container {
     // width: 85%;
