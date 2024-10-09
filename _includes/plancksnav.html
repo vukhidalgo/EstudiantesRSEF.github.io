@@ -32,9 +32,12 @@
             <li>
               <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
               ul.dropdown-content li {
-                height: 100px;
-                line-height: 100px;
-                }
+                height: 100px; /* Set the desired height here */
+                line-height: 100px; /* Vertically align text */
+                display: flex; /* Use flex to control height and vertical alignment */
+                align-items: center; /* Ensure text is centered */
+                box-sizing: border-box; /* Ensure padding or borders don’t affect the height */
+              }
             </li>
             {% else %}
               <li>
