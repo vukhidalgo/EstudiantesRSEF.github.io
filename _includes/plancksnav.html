@@ -14,7 +14,7 @@
 
 <div>
   <nav class="navbar-plancks" style="background-color: #352F71;" >
-      <div class="nav-wrapper middle-right-con" style="display: flex; justify-content: space-between; align-items: center;">
+      <div class="nav-wrapper container" style="display: flex; justify-content: space-between; align-items: center;">
           <a href="#" data-activates="nav-mobile" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
           <div style="display: flex; align-items: flex-start; position: relative; left: -152px;"> 
               <!-- Logo -->
@@ -30,7 +30,7 @@
             {% for item in include.nav %}
             {% if item.subitems %}
             <li>
-              <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons middle-right">arrow_drop_down</i></a>
+              <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right middle-right">arrow_drop_down</i></a>
             </li>
             {% else %}
               <li>
