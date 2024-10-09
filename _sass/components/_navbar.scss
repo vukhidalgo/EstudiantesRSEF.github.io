@@ -28,12 +28,12 @@ nav {
     float: left;
     position: relative;
     z-index: 1;
-    height: 100px;
+    height: $navbar-height-mobile;
 
     i {
       font-size: 2.7rem;
-      height: 100px;
-      line-height: 100px;
+      height: $navbar-height-mobile;
+      line-height: $navbar-height-mobile;
     }
   }
 
