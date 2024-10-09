@@ -15,10 +15,11 @@
     clear: both;
     color: $off-black;
     cursor: pointer;
-    line-height: 1.5rem;
+    line-height: 100px; /* Para centrar verticalmente */
     width: 100%;
     text-align: left;
     text-transform: none;
+    height: 100px; /* Altura fija de 100px */
 
     &:hover, &.active {
       background-color: $dropdown-hover-bg-color;
@@ -28,7 +29,9 @@
       font-size: 1.2rem;
       color: $dropdown-color;
       display: block;
-      padding: 1rem 1rem;
+      padding: 0 1rem; /* Ajustar padding vertical a 0 para centrar el texto */
+      height: 100px; /* Asegura que los enlaces también tengan 100px */
+      line-height: 100px; /* Asegura que el texto esté centrado */
     }
 
     // Icon alignment override
