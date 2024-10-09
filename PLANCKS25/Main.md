@@ -79,19 +79,26 @@ Está organizado por y para estudiantes de grado, máster y doctorado en física
       </div>
 -->
 <!-- CARRUSEL DE FOTOS -->
-      <div class="section" id="content-desktop">
-        <div class="carousel">
-          <div class="carousel-container">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis1.jpg" alt="Foto 1" class="carousel-image">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis2.jpg" alt="Foto 2" class="carousel-image">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis3.jpg" alt="Foto 3" class="carousel-image">
-	    <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis4.jpeg" alt="Foto 4" class="carousel-image">
-          </div>
-          <!-- Botones de navegación -->
-          <button class="prev" onclick="prevSlide()">&#10094;</button>
-          <button class="next" onclick="nextSlide()">&#10095;</button>
+      <div class="carousel-container">
+    <div class="carousel">
+        <div class="carousel-item active">
+            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis1.jpg" alt="Imagen 1">
         </div>
-      </div>
+        <div class="carousel-item">
+            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis2.jpg" alt="Imagen 2">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis3.jpg" alt="Imagen 3">
+        </div>
+	<div class="carousel-item">
+            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis4.jpeg" alt="Imagen 4">
+        </div>
+    </div>
+    <button class="prev">‹</button>
+    <button class="next">›</button>
+</div>
+
+
       <h4 id="objetivos">Objetivos</h4>
       
 <!-- OBJETIVOS -->
