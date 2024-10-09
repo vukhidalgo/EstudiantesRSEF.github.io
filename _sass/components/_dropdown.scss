@@ -30,8 +30,6 @@
       color: $dropdown-color;
       display: block;
       padding: 0 1rem; /* Ajustar padding vertical a 0 para centrar el texto */
-      height: 100px; /* Asegura que los enlaces también tengan 100px */
-      line-height: 100px; /* Asegura que el texto esté centrado */
     }
 
     // Icon alignment override
@@ -41,3 +39,12 @@
     }
   }
 }
+
+.dropdown-plancks{
+  &:hover, &.active {
+    color: #333072
+  }
+  & > a, & > span {
+      height: 100px; /* Asegura que los enlaces también tengan 100px */
+      line-height: 100px; /* Asegura que el texto esté centrado */
+    }
