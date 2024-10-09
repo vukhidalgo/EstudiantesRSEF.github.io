@@ -1,7 +1,7 @@
 {% assign navurl = page.url | remove: 'index.html' %}
 {% for item in include.nav %}
     {% if item.subitems %}
-    <ul id="dropdown-{{ item.slug }}" class="dropdown-content" style="border: 1px solid black; background-color: #6699ff; height: 100px; line_height: 100px">
+    <ul id="dropdown-{{ item.slug }}" class="dropdown-content" style="border: 2px solid #333072; background-color: #00a79d;">
       {% if item.url != nil %}
       <li><a href="{{ item.url }}">{{ item.text }}</a></li>
       {% endif %}
@@ -36,7 +36,7 @@
             {% for item in include.nav %}
             {% if item.subitems %}
             <li>
-              <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}" style = "display: flex; align-items: center;">
+              <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}" style = "display: flex; align-items: center; font-size: 1.2rem;">
                   {{ item.text }}  <i class="material-icons" style = "margin-left: 5px"> arrow_drop_down </i>
               </a>
             </li>
