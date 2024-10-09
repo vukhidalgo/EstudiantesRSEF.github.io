@@ -1,46 +1,48 @@
-.carousel {
-  position: relative;
-  max-width: 100%;
-  margin: auto;
-  overflow: hidden;
-}
-
 .carousel-container {
-  display: flex;
-  transition: transform 0.5s ease;
+    width: 70%; /* Tamaño más compacto */
+    margin: 0 auto;
+    position: relative;
+    perspective: 1000px; /* Necesario para el efecto 3D */
 }
 
-.carousel-image {
-  width: 100%;
-  max-width: 100%;
-  display: block;
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform-style: preserve-3d; /* Para habilitar el 3D */
+    transition: transform 0.5s ease;
 }
 
-/* Botones de navegación */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  padding: 16px;
-  margin-top: -22px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 50%;
-  background-color: rgba(0, 0, 0, 0.5);
-  user-select: none;
+.carousel-item {
+    width: 300px; /* Tamaño de las imágenes */
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra detrás de las imágenes */
+    position: absolute;
+    opacity: 0.5;
 }
 
-.prev {
-  left: 10px;
+.carousel-item.active {
+    transform: translateX(0) scale(1);
+    z-index: 3;
+    opacity: 1;
 }
 
-.next {
-  right: 10px;
+.carousel-item:nth-child(2) {
+    transform: translateX(150px) scale(0.8) rotateY(-20deg);
+    z-index: 2;
 }
 
-/* Opcional: Para agregar efectos cuando pasas el ratón por los botones */
-.prev:hover, .next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
+.carousel-item:nth-child(3) {
+    transform: translateX(-150px) scale(0.8) rotateY(20deg);
+    z-index: 2;
+}
+
+.carousel-item:nth-child(4) {
+    transform: translateX(300px) scale(0.6) rotateY(-40deg);
+    z-index: 1;
+}
+
+.carousel-item:nth-child(1) {
+    transform: translateX(-300px) scale(0.6) rotateY(40deg);
+    z-index: 1;
 }
