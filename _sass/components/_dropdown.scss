@@ -43,14 +43,10 @@
       line-height: inherit;
     }
   }
+    /* Class to override hover color */
+  &.dd-plancks li:hover, li.active {
+    background-color: #333072;  // Change hover color to red, for example
+  }
 }
 
-.dd-plancks{
-  &:hover, &.active {
-    color: #333072
-  }
-//  & > a, & > span {
-  //    height: 100px; /* Asegura que los enlaces también tengan 100px */
-   //   line-height: 100px; /* Asegura que el texto esté centrado */
-    //}
-}
+
