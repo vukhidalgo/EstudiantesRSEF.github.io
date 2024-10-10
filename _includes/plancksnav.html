@@ -3,7 +3,7 @@
     {% if item.subitems %}
     <ul id="dropdown-{{ item.slug }}" class="dropdown-content" style="border: 2px solid #333072; background-color: #00a79d;">
       {% if item.url != nil %}
-      <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+      <li style="height: 100px"><a href="{{ item.url }}">{{ item.text }}</a></li>
       {% endif %}
       {% for subitem in item.subitems %}
       <li><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %}>{{ subitem.text }}</a></li>
@@ -42,12 +42,8 @@
             </li>
             {% else %}
               <li>
-                  <a href="{{ item.url }}">
-                      {% if item.url == navurl %}
+                  <a href="{{ item.url }}" style="fontsize: 1.2 rem">
                           <b>{{ item.text }}</b>
-                      {% else %}
-                          {{ item.text }}
-                      {% endif %}
                   </a>
               </li>
               {% endif %}
