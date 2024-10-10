@@ -20,6 +20,8 @@
     text-align: left;
     text-transform: none;
     height: 100px; /* Altura fija de 100px */
+    border: 1px solid black;
+    align-items: center;
 
     &:hover, &.active {
       background-color: $dropdown-hover-bg-color;
@@ -29,7 +31,7 @@
       font-size: 1.2rem;
       color: $dropdown-color;
       display: block;
-      padding: 0 1rem; /* Ajustar padding vertical a 0 para centrar el texto */
+      padding: 1rem 1rem; /* Ajustar padding vertical a 0 para centrar el texto */
     }
 
     // Icon alignment override
@@ -40,7 +42,7 @@
   }
 }
 
-.dropdown-plancks{
+.dd-plancks{
   &:hover, &.active {
     color: #333072
   }
