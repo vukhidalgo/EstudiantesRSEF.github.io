@@ -21,7 +21,7 @@
     text-align: left;
     text-transform: none;
     height: $navbar-height; //100px; /* Altura fija de 100px */
-    border: 1px solid red;
+    //border: 1px solid red;
     display: flex;
     align-items: center;
 
@@ -34,7 +34,7 @@
       color: $dropdown-color;
       display: block;
       padding: 1rem; /* Ajustar padding vertical a 0 para centrar el texto */
-      border: 1px solid black;
+      //border: 1px solid black;
     }
 
     // Icon alignment override
@@ -49,8 +49,8 @@
   &:hover, &.active {
     color: #333072
   }
-  & > a, & > span {
-      height: 100px; /* Asegura que los enlaces también tengan 100px */
-      line-height: 100px; /* Asegura que el texto esté centrado */
-    }
+//  & > a, & > span {
+  //    height: 100px; /* Asegura que los enlaces también tengan 100px */
+   //   line-height: 100px; /* Asegura que el texto esté centrado */
+    //}
 }
