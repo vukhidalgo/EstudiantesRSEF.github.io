@@ -10,6 +10,7 @@
   position: absolute;
   z-index: 999;
   will-change: width, height;
+  align-items: flex-start
 
   li {
     clear: both;
@@ -20,7 +21,7 @@
     text-align: left;
     text-transform: none;
     height: 100px; /* Altura fija de 100px */
-    border: 1px solid black;
+    border: 1px solid red;
     align-items: center;
 
     &:hover, &.active {
