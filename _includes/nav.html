@@ -3,10 +3,10 @@
     {% if item.subitems %}
     <ul id="dropdown-{{ item.slug }}" class="dropdown-content">
       {% if item.url != nil %}
-      <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+      <li><a href="{{ item.url }}" style="font-size: 1rem">{{ item.text }}</a></li>
       {% endif %}
       {% for subitem in item.subitems %}
-      <li><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %}>{{ subitem.text }}</a></li>
+      <li><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %} style="font-size: 1rem">{{ subitem.text }}</a></li>
       {% endfor %}
     </ul>
 {% endif %}
@@ -22,11 +22,11 @@
             {% for item in include.nav %}
             {% if item.subitems %}
             <li>
-              <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
+              <a class="dropdown-button" href="{{ item.url }}" data-activates="dropdown-{{ item.slug }}" style="font-size: 1rem">{{ item.text }}<i class="material-icons right">arrow_drop_down</i></a>
             </li>
             {% else %}
               <li>
-                  <a href="{{ item.url }}">
+                  <a href="{{ item.url }}" style="font-size: 1rem">
                       {% if item.url == navurl %}
                           <b>{{ item.text }}</b>
                       {% else %}
