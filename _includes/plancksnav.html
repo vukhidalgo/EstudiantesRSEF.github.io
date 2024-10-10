@@ -6,7 +6,7 @@
       <li style="height: 100px"><a href="{{ item.url }}">{{ item.text }}</a></li>
       {% endif %}
       {% for subitem in item.subitems %}
-      <li><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %}>{{ subitem.text }}</a></li>
+      <li style="height: 100px"><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %}>{{ subitem.text }}</a></li>
       {% endfor %}
     </ul>
 {% endif %}
@@ -42,7 +42,7 @@
             </li>
             {% else %}
               <li>
-                  <a href="{{ item.url }}" style="fontsize: 1.2 rem">
+                  <a href="{{ item.url }}" style="font-size: 1.2 rem">
                           <b>{{ item.text }}</b>
                   </a>
               </li>
