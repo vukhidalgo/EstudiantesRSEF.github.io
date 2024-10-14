@@ -58,7 +58,7 @@
   <nav class="navbar-plancks" style="background-color: #352F71;">
     <div class="nav-wrapper container"style = "display: flex; align-items: center; font-size: 1.2rem;">
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>  
-      <a href="/PLANCKS25/" style="margin-left: 50px; color: white; font-size: 30px; font-weight: bold; border: 1px solid white; line-height: 50px;">
+      <a href="/PLANCKS25/" style="margin-left: 50px; color: white; font-size: 30px; font-weight: bold; line-height: 50px;">
         PLANCKS 2025 
         Barcelona
       </a>
@@ -70,34 +70,26 @@
           </a>
         </li>
         {% for item in include.nav %}
-          {% if item.subitems %}
-            <li class="no-padding">
-              <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid yellow">
-                <li>
-                  <a class="collapsible-header">{{ item.text }}</a>
-                  <div class="collapsible-body">
-                    <ul>
-                      {% if item.url != nil %}
-                        <li><a href="{{ item.url }}">{{ item.text }}</a></li>
-                      {% endif %}
-                      {% for subitem in item.subitems %}
-                        <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
-                      {% endfor %}
-                    </ul>
-                  </div>
-                </li>
-              </ul>
+        <li>
+          <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid yellow">
+            <li>
+              <a class="collapsible-header">{{ item.text }}</a>
+              <div class="collapsible-body">
+                <ul>
+                  {% if item.url != nil %}
+                    <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                  {% endif %}
+                  {% if item.subitems %}
+                    {% for subitem in item.subitems %}
+                      <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+                    {% endfor %}
+                  {% endif %}
+                </ul>
+              </div>
             </li>
-          {% else %}
-            <li><a href="{{ item.url }}">
-              {% if item.url == navurl %}
-                {{ item.text }}
-              {% else %}
-                {{ item.text }}
-              {% endif %}</a>
-            </li>
-          {% endif %}
-        {% endfor %}        
+          </ul>
+        </li>          
+            <!--<li class="no-padding">-->
       </ul>
     </div>
   </nav>
