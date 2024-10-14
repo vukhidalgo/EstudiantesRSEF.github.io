@@ -71,7 +71,7 @@
         </li>        
         <li style="margin-top: 50px;">
           {% for item in include.nav %}
-            <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px">              
+            <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px; border: none">              
               {% if item.subitems %}
                 <li style = "width: 100%">
                   <a class="collapsible-header" style = "color: white; font-size: 16px;">{{ item.text }}</a>                                
@@ -87,7 +87,7 @@
                   </div>
                 </li>  
               {% else %}
-                <li style = "font-weight: bold; margin: 1rem;"><a href="{{ item.url }}" style = "color: white">{{ item.text }}</a></li>                  
+                <li style = "font-weight: bold; margin: 1rem;"><a href="{{ item.url }}" style = "color: white; font-size: 16px;">{{ item.text }}</a></li>                  
               {% endif %}   
             </ul>
           {% endfor %}  
