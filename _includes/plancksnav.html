@@ -74,14 +74,14 @@
             <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px">              
               {% if item.subitems %}
                 <li style = "width: 100%">
-                  <a class="collapsible-header" style = "color: white">{{ item.text }}</a>                                
+                  <a class="collapsible-header" style = "color: white; font-size: 16px;">{{ item.text }}</a>                                
                   <div class="collapsible-body">
                     <ul style="background-color: #00a79d;">                  
                       {% if item.url != nil %}
-                        <li style = "font-weight: bold;"><a href="{{ item.url }}" style = "color: white">{{ item.text }}</a></li>
+                        <li style = "font-weight: bold;"><a href="{{ item.url }}" style = "color: white; font-size: 16px;">{{ item.text }}</a></li>
                       {% endif %}                    
                       {% for subitem in item.subitems %}
-                        <li style = "color: pink"><a href="{{ subitem.url }}" style = "color: white">{{ subitem.text }}</a></li>
+                        <li><a href="{{ subitem.url }}" style = "color: white; font-size: 16px;">{{ subitem.text }}</a></li>
                       {% endfor %}
                     </ul>
                   </div>
