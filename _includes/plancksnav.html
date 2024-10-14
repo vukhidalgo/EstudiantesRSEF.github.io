@@ -69,9 +69,9 @@
             <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 100px; border-radius: 60%; margin-top: 0;">
           </a>
         </li>        
-        <li style="margin-top: 50px; border: 1px solid red; background-color: #352F71">
+        <li style="margin-top: 50px; background-color: #352F71">
           {% for item in include.nav %}
-            <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px; border: 1px solid green">              
+            <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px; ">              
               {% if item.subitems %}
                 <li style = "width: 100%">
                   <a class="collapsible-header" style = "font-size: 16px; color: white">{{ item.text }} <i class="material-icons"> arrow_drop_down </i></a>                                
@@ -87,7 +87,7 @@
                   </div>
                 </li>  
               {% else %}
-                <li style = "font-weight: bold; margin: 0;" class = "collapsible-header"><a href="{{ item.url }}" style = "color: white; font-size: 16px; margin: 0; margin-left: 2rem">{{ item.text }}</a></li>                  
+                <li style = "font-weight: bold; margin: 0; height: 80px" class = "collapsible-header"><a href="{{ item.url }}" style = "color: white; font-size: 16px; margin: 0; margin-left: 2rem">{{ item.text }}</a></li>                  
               {% endif %}   
             </ul>
           {% endfor %}  
