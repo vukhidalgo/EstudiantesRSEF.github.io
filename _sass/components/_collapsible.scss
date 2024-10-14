@@ -4,6 +4,8 @@
   border-left: 1px solid $collapsible-border-color;
   margin: $element-top-margin 0 $element-bottom-margin 0;
   @extend .z-depth-1;
+
+
 }
 
 .collapsible.big {
@@ -34,6 +36,8 @@
     text-align: center;
     margin-right: 1rem;
   }
+
+
 }
 
 .collapsible-body {
@@ -72,6 +76,12 @@
     background-color: $collapsible-header-color;
 
     li a { margin: 0 1rem 0 2rem; }
+  }
+
+  .collapsible-body:focus,
+  .collapsible-body:active,
+  .collapsible-body:hover {
+    background-color: #00a79d !important; /* Keep the body background color the same */
   }
 
 }
