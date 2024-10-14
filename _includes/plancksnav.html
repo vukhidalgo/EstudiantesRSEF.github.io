@@ -74,7 +74,7 @@
             <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px; ">              
               {% if item.subitems %}
                 <li style = "width: 100%">
-                  <a class="collapsible-header" style = "font-size: 16px; color: white">{{ item.text }} <i class="material-icons"> arrow_drop_down </i></a>                                
+                  <a class="collapsible-header" style = "font-size: 16px; color: white; margin: 0">{{ item.text }} <i class="material-icons"> arrow_drop_down </i></a>                                
                   <div class="collapsible-body">
                     <ul style="background-color: #00a79d;">                  
                       {% if item.url != nil %}
@@ -87,7 +87,7 @@
                   </div>
                 </li>  
               {% else %}
-                <li style = "font-weight: bold; margin: 0; height: 80px" class = "collapsible-header"><a href="{{ item.url }}" style = "color: white; font-size: 16px; margin: 0; margin-left: 2rem">{{ item.text }}</a></li>                  
+                <li style = "font-weight: bold; margin: 0; height: 80px" class = "collapsible-header"><a href="{{ item.url }}" style = "color: white; font-size: 16px; height: 100%; margin: 0; padding-left: 2rem">{{ item.text }}</a></li>                  
               {% endif %}   
             </ul>
           {% endfor %}  
