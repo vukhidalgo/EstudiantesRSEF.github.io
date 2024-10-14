@@ -3,7 +3,7 @@
     {% if item.subitems %}
     <ul id="dropdown-{{ item.slug }}" class="dropdown-content dd-plancks" style="border: 2px solid #333072; background-color: #00a79d;">
       {% if item.url != nil %}
-      <li style="height: 100px""><a href="{{ item.url }}">{{ item.text }}</a></li>
+      <li style="height: 100px"><a href="{{ item.url }}">{{ item.text }}</a></li>
       {% endif %}
       {% for subitem in item.subitems %}
       <li style="height: 100px" class="dd-plancks"><a href="{{ subitem.url }}" {% if subitem.blank != nil %} target="_blank" {% endif %}>{{ subitem.text }}</a></li>
@@ -58,43 +58,46 @@
   <nav class="navbar-plancks" style="background-color: #352F71;">
     <div class="nav-wrapper container"style = "display: flex; align-items: center; font-size: 1.2rem;">
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>  
-      <a href="/PLANCKS25/" style="margin-left: 50px; color: white; font-size: 30px; font-weight: bold;">
+      <a href="/PLANCKS25/" style="margin-left: 50px; color: white; font-size: 20px; font-weight: bold; border: 1px solid white">
         PLANCKS 2025 
         Barcelona
       </a>
       <!-- For Small Screens -->
-      <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71">
-        <li class="logo"><a id="mobile-logo-container" href="/"><object id="front-page-logo" type="image/png" style="width:100%; height:100%;" data="/img/logo_centered.jpg">Your browser does not support PNG</object></a></li>
-          {% for item in include.nav %}
-            {% if item.subitems %}
-              <li class="no-padding">
-                <ul class="collapsible collapsible-accordion">
-                  <li>
-                    <a class="collapsible-header">{{ item.text }}</a>
-                    <div class="collapsible-body">
-                      <ul>
-                        {% if item.url != nil %}
-                          <li><a href="{{ item.url }}">{{ item.text }}</a></li>
-                        {% endif %}
-                        {% for subitem in item.subitems %}
-                          <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
-                        {% endfor %}
-                      </ul>
-                    </div>
-                  </li>
-                </ul>
-              </li>
-            {% else %}
-              <li><a href="{{ item.url }}">
-                {% if item.url == navurl %}
-                  {{ item.text }}
-                {% else %}
-                  {{ item.text }}
-                {% endif %}</a>
-              </li>
-            {% endif %}
-          {% endfor %}
+      <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71; border: 1px solid red">
+        <li class="logo">
+          <a id="logo-container" href="/PLANCKS25/" style="display: flex; justify-content: space-between; align-items: flex-start;"> 
+            <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 152px; border-radius: 60%; margin-top: 0;">
+          </a>
         </li>
+        {% for item in include.nav %}
+          {% if item.subitems %}
+            <li class="no-padding">
+              <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid yellow">
+                <li>
+                  <a class="collapsible-header">{{ item.text }}</a>
+                  <div class="collapsible-body">
+                    <ul>
+                      {% if item.url != nil %}
+                        <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+                      {% endif %}
+                      {% for subitem in item.subitems %}
+                        <li><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+            </li>
+          {% else %}
+            <li><a href="{{ item.url }}">
+              {% if item.url == navurl %}
+                {{ item.text }}
+              {% else %}
+                {{ item.text }}
+              {% endif %}</a>
+            </li>
+          {% endif %}
+        {% endfor %}        
       </ul>
     </div>
   </nav>
