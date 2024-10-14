@@ -51,6 +51,18 @@
   }
 }
 
+.collapsible-body:focus,
+.collapsible-body:active,
+.collapsible-body:hover {
+    background-color: #00a79d !important; /* Keep the body background color the same */
+  }
+
+.collapsible-header:focus,
+.collapsible-header:active,
+.collapsible-header:hover {
+      background-color: #00a79d !important; /* Keep the body background color the same */
+    }
+
 // sideNav collapsible styling
 .side-nav {
 
