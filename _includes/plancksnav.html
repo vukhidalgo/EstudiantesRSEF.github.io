@@ -63,22 +63,22 @@
         Barcelona
       </a>
       <!-- For Small Screens -->
-      <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71; color: white">
+      <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71">
         <li class="logo">
           <a id="logo-container" href="/PLANCKS25/" style="display: flex; justify-content: center; align-items: flex-start;"> 
             <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 100px; border-radius: 60%; margin-top: 0;">
           </a>
         </li>        
-        <li style="margin-top: 80px;">
+        <li style="margin-top: 80px; border: 1px solid white">
           {% for item in include.nav %}
-            <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; color: white;">              
+            <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid red">              
               {% if item.subitems %}
-                <li>
+                <li style = "border: 1px solid green">
                   <a class="collapsible-header; color: white">{{ item.text }}</a>                                
                   <div class="collapsible-body; color: white">
                     <ul style="background-color: #00a79d;">                  
                       {% if item.url != nil %}
-                        <li style = "color: white; font-weight: bold"><a href="{{ item.url }}">{{ item.text }}</a></li>
+                        <li style = "font-weight: bold; border: 1px solid blue"><a href="{{ item.url }}">{{ item.text }}</a></li>
                       {% endif %}                    
                       {% for subitem in item.subitems %}
                         <li style = "color: white"><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
