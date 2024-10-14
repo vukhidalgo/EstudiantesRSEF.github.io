@@ -58,7 +58,7 @@ Está organizado por y para estudiantes de grado, máster y doctorado en física
       </div> -->
 
 <!--
-<!-- FOTOS -->
+<!-- FOTOS 
       <div class="section" id="content-desktop">
         <div class="row">
           <div class="col s12 m12 l12">
