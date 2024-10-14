@@ -65,13 +65,13 @@
       <!-- For Small Screens -->
       <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71; color: white">
         <li class="logo">
-          <a id="logo-container" href="/PLANCKS25/" style="display: flex; justify-content: space-between; align-items: flex-start;"> 
+          <a id="logo-container" href="/PLANCKS25/" style="display: flex; justify-content: center; align-items: flex-start;"> 
             <img src="/img/eventos/2025-PLANCKS/Logo.png" alt="Logo" style="height: 100px; border-radius: 60%; margin-top: 0;">
           </a>
         </li>
         {% for item in include.nav %}
-        <li>
-          <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid yellow; color: white; margin-top: 100px;">
+        <li style="margin-top: 100px;">
+          <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid yellow; color: white;">
             <li style = "color: white">
               <a class="collapsible-header">{{ item.text }}</a>
               <div class="collapsible-body">
