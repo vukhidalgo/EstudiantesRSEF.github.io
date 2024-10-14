@@ -56,10 +56,14 @@
 
 <div id="content-mobile">
   <nav class="navbar-plancks" style="background-color: #352F71;">
-    <div class="nav-wrapper container" style="display: flex; justify-content: space-between; align-items: flex-start">
+    <div class="nav-wrapper container"style = "display: flex; align-items: center; font-size: 1.2rem;">
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>  
+      <a href="/PLANCKS25/" style="margin-left: 50px; color: white; font-size: 30px; font-weight: bold;">
+        PLANCKS 2025 
+        Barcelona
+      </a>
       <!-- For Small Screens -->
-      <ul id="nav-mobile" class="side-nav">
+      <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71">
         <li class="logo"><a id="mobile-logo-container" href="/"><object id="front-page-logo" type="image/png" style="width:100%; height:100%;" data="/img/logo_centered.jpg">Your browser does not support PNG</object></a></li>
           {% for item in include.nav %}
             {% if item.subitems %}
