@@ -71,23 +71,23 @@
         </li>        
         <li style="margin-top: 50px; border: 1px solid white; width: 100%">
           {% for item in include.nav %}
-            <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid red">              
+            <ul class="collapsible collapsible-accordion" style="background-color: #00a79d; border: 1px solid red; width: 100%">              
               {% if item.subitems %}
                 <li style = "border: 1px solid green">
                   <a class="collapsible-header">{{ item.text }}</a>                                
                   <div class="collapsible-body">
                     <ul style="background-color: #00a79d;">                  
                       {% if item.url != nil %}
-                        <li style = "font-weight: bold; border: 1px solid blue; color: white"><a href="{{ item.url }}">{{ item.text }}</a></li>
+                        <li style = "font-weight: bold; border: 1px solid blue"><a href="{{ item.url }}">{{ item.text }}</a></li>
                       {% endif %}                    
                       {% for subitem in item.subitems %}
-                        <li style = "color: white"><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
+                        <li style = "color: pink"><a href="{{ subitem.url }}">{{ subitem.text }}</a></li>
                       {% endfor %}
                     </ul>
                   </div>
                 </li>  
               {% else %}
-                <li style = "color: white; font-weight: bold; margin: 1rem;"><a href="{{ item.url }}">{{ item.text }}</a></li>                  
+                <li style = "font-weight: bold; margin: 1rem;"><a href="{{ item.url }}">{{ item.text }}</a></li>                  
               {% endif %}   
             </ul>
           {% endfor %}  
