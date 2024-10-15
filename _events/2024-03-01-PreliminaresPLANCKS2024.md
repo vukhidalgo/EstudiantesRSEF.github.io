@@ -9,8 +9,8 @@ locandina: /img/eventos/2024-PrelisPLANCKS/logo.png
 cover: /img/eventos/2024-PrelisPLANCKS/logo.png
 gallery:
 site: /PreliminaresPLANCKS2024/
-ranking: 
-exam: 
+ranking: /PreliminaresPLANCKS/2024/clasificacionprelis2024.pdf
+exam: https://drive.google.com/drive/folders/1W5TApAH-R18FIYzg79aIk_bP2T36iI4F
 comm: 
 ---
 
