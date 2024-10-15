@@ -20,12 +20,10 @@ permalink: /PreliminaresPLANCKS2024/
       <hr>
 
 <!-- SOLUCIONES -->
-      <!--
       <h2 style="text-align: center;">        
-          <a href="https://drive.google.com/file/d/1elsvYhQMpE_bpDTwNEvnG_b20V-6u6e1/view?usp=share_link" target="_blank"><span style="color: #3ca41c;"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></span></a>        
+          <a href="https://drive.google.com/drive/folders/1W5TApAH-R18FIYzg79aIk_bP2T36iI4F" target="_blank"><span style="color: #3ca41c;"><strong>SOLUCIONES DE LOS PROBLEMAS</strong></span></a>        
       </h2>
       <hr>
-      -->
 
 <!-- INTRODUCCIÓN -->
       <p style="text-align: justify;">¿Tienes ganas de pasar un rato divertido resolviendo problemas de física? ¡Ya tenemos aquí la séptima edición de las <strong>Preliminares de PLANCKS</strong>! Y este año también ofrecemos <strong>1000€ en PREMIOS</strong> gracias al apoyo de la Fundación Ramón Areces. Así que reúne a un grupo de motivados como tú y sigue explorando la web para saber más. ¡Bienvenid@!</p>
