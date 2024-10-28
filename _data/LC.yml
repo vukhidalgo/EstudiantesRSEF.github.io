@@ -37,16 +37,19 @@
 
 - nombre: "Granada - UGR"
   id: "Granada"
-  img: "/img/delegaciones/DUGR/DUGR_junta_avatar2.jpg"
+  img: "/img/delegaciones/DUGR/DeleUGR_1024_mod.JPG"
   mail: "estudiantesrsef.ugr@ugr.es"
-  presidente: "Carlos Martínez Morales"
-  vicepresidente: "Ramón Moreno Salamanca"
-  secretario: "Julia Díaz Canón"
-  tesorero: "Lucía Montoro González"
+  presidente: "Ramón Moreno Salamanca"
+  vicepresidente: "Julia Díaz Canón"
+  secretario: "Victoria Dordyay Fedoruk"
+  tesorero: "Miryam Suárez Delgado"
   fundacion: "11/2022"
   ins: "https://www.instagram.com/estudiantesrsef.ugr/"
   tw: "https://twitter.com/estuRSEF_UGR"
+  colaboradores:
+    - nombre_col: "Lola Castellón Ruiz"
   ex: 
+    - nombre_ex: "Carlos Martínez Morales"
     - nombre_ex: "Víctor Palma Cortés"
   logo: "/img/delegaciones/DUGR/DUGR_logo.jpeg"
   congelado:
