@@ -20,7 +20,7 @@ permalink: /PLANCKS25/
 <!-- INTRODUCCIÓN -->
 
       <p style="text-align: justify;"> Welcome to the official webpage of the Plancks 2025 event in Barcelona!</p>
-      <p style="text-align: justify;">(Description of the event)  This year will be held on <strong>5th through 10th May in Barcelona! </strong>
+      <p style="text-align: justify;"><!--(Description of the event)-->  This year will be held on <strong>5th through 10th May in Barcelona! </strong>
 	It is organised by and for physics students from all around the world.</p>
       <p style="text-align: justify;"> Keep scrolling through the page to get more information about this year's edition! </p>
 
@@ -55,7 +55,7 @@ permalink: /PLANCKS25/
           <a href="{{ site.url }}/ENEF2023/puntuaciones"><img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Choque.png"></a>
         </div>
       </div> -->
-	<h4 id="objetivos">Objetives</h4>
+	<h4 id="objetivos">Objectives</h4>
 
 <!-- FOTOS 
       <div class="section" id="content-desktop">
@@ -77,6 +77,7 @@ permalink: /PLANCKS25/
         </div>
       </div>
 -->
+
 <!-- CARRUSEL DE FOTOS -->
       <div class="carousel-container">
     <div class="carousel">
@@ -98,7 +99,7 @@ permalink: /PLANCKS25/
 
 <!-- OBJETIVOS -->
 
-<p style="text-align: justify;"> The PLANCKS (“Physics League Across Numerous Countries for Kick-ass Students”) are one of the most important IAPS international events of the year, being known also as the international final of the Physics Olympics. Indeed, the best physics students from around the world, often winners of national competitions, compete in teams to solve problems in numerous disciplines of physics. During the PLANCKS presentations, guest lectures, visits to laboratories and workshops are held. The event allows students to make new personal and academic contacts and discover the frontiers of scientific research, as well as have fun during moments of socialization. </p>
+<p style="text-align: justify;"> The PLANCKS (“Physics League Across Numerous Countries for Kick-ass Students”) is one of the most important IAPS international events of the year, being known also as the international final of the Physics Olympics. Indeed, the best physics students from around the world, often winners of national competitions, compete in teams to solve problems in numerous disciplines of physics. During the PLANCKS presentations, guest lectures, visits to laboratories and workshops are held. The event allows students to make new personal and academic contacts and discover the frontiers of scientific research, as well as have fun during moments of socialization. </p>
 
 
 <!-- PROGRAMA
