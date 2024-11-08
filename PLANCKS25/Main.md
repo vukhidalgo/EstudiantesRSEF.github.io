@@ -25,6 +25,8 @@ permalink: /PLANCKS25/
       <p style="text-align: justify;"> Keep scrolling through the page to get more information about this year's edition! </p>
 
 <!-- BOTONES -->
+
+<!--
       <div class="section">
         <div class="row">
           <div class="col s6 m6 l3">
@@ -49,14 +51,13 @@ permalink: /PLANCKS25/
           </div>
         </div>
       </div>
-
+-->
       <!-- <div class="section" id="content-desktop">
         <div class="row">
           <a href="{{ site.url }}/ENEF2023/puntuaciones"><img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Choque.png"></a>
         </div>
       </div> -->
-	<h4 id="objetivos">Objectives</h4>
-
+<!--	<h4 id="objetivos">Objectives</h4>-->
 <!-- FOTOS 
       <div class="section" id="content-desktop">
         <div class="row">
