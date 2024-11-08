@@ -4,29 +4,29 @@
    subitems:
     - text: Executive Committee
       url: /junta-de-gobierno/
-    - text: Documents
-      url: /documentos/
- - text: <strong>Oportunities</strong>
-   subitems:
-     - text: Events
-       url: /eventos/
-     - text: Local Sections
-       url: /delegaciones/
-     - text: Support us!
-       url: /colabora/
-     - text: Internships Database
-       url: /internships/
-     - text: The Blog
-       url: /blog/
-       blank: YES
+    # - text: Documents
+    #   url: /documentos/
+ # - text: <strong>Oportunities</strong>
+ #   subitems:
+ #     - text: Events
+ #       url: /eventos/
+ #     - text: Local Sections
+ #       url: /delegaciones/
+ #     - text: Support us!
+ #       url: /colabora/
+ #     - text: Internships Database
+ #       url: /internships/
+ #     - text: The Blog
+ #       url: /blog/
+ #       blank: YES
 # - text: <strong>PLANCKS Barcelona 2025</strong>
 #   url: /PLANCKS25/
 # - text: <strong>El Blog</strong>
 #   url: /blog/
 # - text: ICPS'20
 #   url: /eventos-internacionales/2020/08/09/ICPS2020/
- - text: <strong>Participate!</strong>
-   url: /PreliminaresPLANCKS2025/
+ # - text: <strong>Participate!</strong>
+ #   url: /PreliminaresPLANCKS2025/
 # - text: <strong>Física... ¿Y ahora qué?</strong>
 #   url: /FisicaYAhoraQue/
 # - text: <strong>Gastrofísica</strong>
