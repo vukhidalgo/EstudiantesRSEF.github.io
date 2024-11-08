@@ -20,7 +20,7 @@ permalink: /PLANCKS25/
 <!-- INTRODUCCIÓN -->
 
       <p style="text-align: justify;"> Welcome to the official webpage of the Plancks 2025 event in Barcelona!</p>
-      <p style="text-align: justify;"><!--(Description of the event)-->  This year will be held on <strong>5th through 10th May in Barcelona! </strong>
+      <p style="text-align: justify;"><!--(Description of the event)-->  This year will be held on <strong>1st through 5th May in Barcelona! </strong>
 	It is organised by and for physics students from all around the world.</p>
       <p style="text-align: justify;"> Keep scrolling through the page to get more information about this year's edition! </p>
 
