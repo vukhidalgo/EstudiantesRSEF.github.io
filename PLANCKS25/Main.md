@@ -10,7 +10,6 @@ permalink: /PLANCKS25/
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
-  
     <div class="section">
 
 
@@ -18,10 +17,8 @@ permalink: /PLANCKS25/
       <img class="materialboxed" width="100%" src="/img/eventos/2025-PLANCKS/PLANCKS25_Banner.png">
 
 <!-- INTRODUCCIÓN -->
-
-      <p style="text-align: justify;"> Welcome to the official webpage of the Plancks 2025 event in Barcelona!</p>
-      <p style="text-align: justify;"><!--(Description of the event)-->  This year will be held on <strong>1st through 5th May in Barcelona! </strong>
-	It is organised by and for physics students from all around the world.</p>
+      <p style="text-align: justify;">Welcome to the official webpage of PLANCKS 2025 in Barcelona!</p>
+      <p style="text-align: justify;">The Physics League Across Numerous Countries for Kick-ass Students (PLANCKS) is a exam-based physics competition for bachelor’s and master’s students. It is a four-day event filled to the brim with numerous excursions and social activities, alongside an opening symposium and the contest itself. Participants are encouraged to discover the research environment and culture of the hosting country. PLANCKS enables physics students from all over the world the opportunity to connect with each other. The aim of this event is to increase international collaboration, host social activities and stimulate the personal development of individual contestants. By bringing physics students from all over the world together, PLANCKS creates the perfect setting for participants to challenge each other, and exchange ideas and experiences. The first edition of PLANCKS took place in May 2014 in Utrecht and this will be the 12th edition.</p>
       <p style="text-align: justify;"> Keep scrolling through the page to get more information about this year's edition! </p>
 
 <!-- BOTONES -->
@@ -52,12 +49,9 @@ permalink: /PLANCKS25/
         </div>
       </div>
 -->
-      <!-- <div class="section" id="content-desktop">
-        <div class="row">
-          <a href="{{ site.url }}/ENEF2023/puntuaciones"><img class="materialboxed" width="100%" src="/img/eventos/2023-ENEF/Choque.png"></a>
-        </div>
-      </div> -->
+
 <!--	<h4 id="objetivos">Objectives</h4>-->
+
 <!-- FOTOS 
       <div class="section" id="content-desktop">
         <div class="row">
@@ -81,26 +75,14 @@ permalink: /PLANCKS25/
 
 <!-- CARRUSEL DE FOTOS -->
       <div class="carousel-container">
-    <div class="carousel">
-        <div class="carousel-item active">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis1.jpg" alt="Imagen 1">
+        <div class="carousel">
+          <div class="carousel-item active"><img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis1.jpg" alt="Imagen 1"></div>
+          <div class="carousel-item"><img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis2.jpg" alt="Imagen 2"></div>
+          <div class="carousel-item"><img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis3.jpg" alt="Imagen 3"></div>
+	  <div class="carousel-item"><img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis4.jpeg" alt="Imagen 4"></div>
         </div>
-        <div class="carousel-item">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis2.jpg" alt="Imagen 2">
-        </div>
-        <div class="carousel-item">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis3.jpg" alt="Imagen 3">
-        </div>
-	<div class="carousel-item">
-            <img src="/img/eventos/2025-PLANCKS/FotosPrelis/prelis4.jpeg" alt="Imagen 4">
-        </div>
-    </div>
+      </div>
 
-</div>
-
-<!-- OBJETIVOS -->
-
-<p style="text-align: justify;"> The PLANCKS (“Physics League Across Numerous Countries for Kick-ass Students”) is one of the most important IAPS international events of the year, being known also as the international final of the Physics Olympics. Indeed, the best physics students from around the world, often winners of national competitions, compete in teams to solve problems in numerous disciplines of physics. During the PLANCKS presentations, guest lectures, visits to laboratories and workshops are held. The event allows students to make new personal and academic contacts and discover the frontiers of scientific research, as well as have fun during moments of socialization. </p>
 
 <!-- PROGRAMA
       <div class="section">
@@ -118,7 +100,5 @@ permalink: /PLANCKS25/
       {% include PLANCKS25_patrocinadores.html %}
 	  
     </div>
-	   
-    
   </div>
 </div>
