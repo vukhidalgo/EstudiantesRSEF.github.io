@@ -102,7 +102,6 @@ permalink: /PLANCKS25/
 
 <p style="text-align: justify;"> The PLANCKS (“Physics League Across Numerous Countries for Kick-ass Students”) is one of the most important IAPS international events of the year, being known also as the international final of the Physics Olympics. Indeed, the best physics students from around the world, often winners of national competitions, compete in teams to solve problems in numerous disciplines of physics. During the PLANCKS presentations, guest lectures, visits to laboratories and workshops are held. The event allows students to make new personal and academic contacts and discover the frontiers of scientific research, as well as have fun during moments of socialization. </p>
 
-
 <!-- PROGRAMA
       <div class="section">
         <h4 id="programa">Programa</h4>
