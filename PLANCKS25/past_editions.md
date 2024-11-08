@@ -16,6 +16,8 @@ permalink: /PLANCKS25/pasteditions
 <!-- BANNER -->
       <img class="materialboxed" width="100%" src="/img/eventos/2025-PLANCKS/PLANCKS25_Banner.png">
 
+      <h4>Find the host cities of all previous editions of PLANCKS!</h4>
+
 <!-- MAP -->
       <div class="section" id="content-desktop">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nUQltdrnyNNc1Ln5GCAGJRSGFrTPJSY&ehbc=2E312F&noprof=1" width="1280" height="960"></iframe>
