@@ -17,8 +17,12 @@ permalink: /PLANCKS25/pasteditions
       <img class="materialboxed" width="100%" src="/img/eventos/2025-PLANCKS/PLANCKS25_Banner.png">
 
 <!-- MAP -->
-      <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nUQltdrnyNNc1Ln5GCAGJRSGFrTPJSY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
-      
+      <div class="section" id="content-desktop">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nUQltdrnyNNc1Ln5GCAGJRSGFrTPJSY&ehbc=2E312F&noprof=1" width="1280" height="960"></iframe>
+      </div>
+      <div class="section" id="content-mobile">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nUQltdrnyNNc1Ln5GCAGJRSGFrTPJSY&ehbc=2E312F&noprof=1" width="320" height="240"></iframe>
+      </div>
 	  
 <!-- SPONSORS -->
       {% include PLANCKS25_patrocinadores.html %}
