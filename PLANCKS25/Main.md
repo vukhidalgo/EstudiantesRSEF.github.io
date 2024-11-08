@@ -96,6 +96,19 @@ permalink: /PLANCKS25/
         </div>
       </div> 
 -->
+
+<!-- LEARN MORE -->
+      <div class="section">
+        <div class="row">
+          <div class="col s12 m6 l6">
+            <div class="row center"><a href="https://iaps.info/events/plancks/" id="boton-plancks" class="btn-plancks25 waves-effect waves-light">Learn more about PLANCKS</a></div>
+          </div>
+          <div class="col s12 m6 l6">
+            <div class="row center"><a href="{{ site.url }}" id="boton-gdee" class="btn-plancks25 waves-effect waves-light">Learn more about TC Spain</a></div>
+          </div>
+        </div>
+      </div>
+      
 	  
 <!-- SPONSORS -->
       {% include PLANCKS25_patrocinadores.html %}
