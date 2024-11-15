@@ -22,7 +22,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 <!-- SEDES -->
 <div class="bubble-container">
   <div class="info-bubble">
-    <img src="/img/eventos/2025-PLANCKS/NCs/Costa_Rica" alt="CR Logo" class="bubble-logo" />
+    <img src="/img/eventos/2025-PLANCKS/NCs/Costa_Rica.jpg" alt="CR Logo" class="bubble-logo" />
     <h3 class="bubble-title">NC Costa Rica</h3>
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:lc-montes-de-oca@iaps.info">lc-montes-de-oca@iaps.info</a></p>
