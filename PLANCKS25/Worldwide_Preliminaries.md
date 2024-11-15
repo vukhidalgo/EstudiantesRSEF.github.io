@@ -5,6 +5,8 @@ hidden: True
 permalink: /PLANCKS25/WorldwidePreliminaries/
 ---
 
+<link rel="stylesheet" href="/css/bubbles.css">
+
 <div class="no-pad-top" id="index-page">
   <div class="container">
     <div class="section">
