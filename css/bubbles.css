@@ -55,3 +55,10 @@
 .bubble-mail a:hover {
   text-decoration: underline;
 }
+
+.bubble-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px; /* Space between buttons */
+  margin-top: 20px;
+}
