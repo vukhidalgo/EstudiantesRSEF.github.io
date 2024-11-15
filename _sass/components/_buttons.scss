@@ -169,9 +169,12 @@ button.btn-floating {
 }
 .bubble-buttons .btn-plancks25 {
   border: 2px solid #352F71;
-  flex: 1;
-  text-align: center;
-  padding: 10px 0;
+  flex: 1; 
+  text-align: center; 
+  padding: 12px 0; 
+  display: inline-block; 
+  width: 100%; 
+  box-sizing: border-box; 
 }
 // Block button
 .btn-block {
