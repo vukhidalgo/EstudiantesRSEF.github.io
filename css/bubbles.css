@@ -58,9 +58,10 @@
 
 .bubble-buttons {
   display: flex;
-  justify-content: center;
-  gap: 15px; /* Space between buttons */
+  justify-content: space-between;
+  gap: 10px;
   margin-top: 20px;
+  padding: 0 20px;
 }
 
 
