@@ -2,7 +2,7 @@
 layout: plancks25
 title: PLANCKS Barcelona 2025
 hidden: True
-permalink: /PLANCKS25/WorldwidePreliminaries
+permalink: /PLANCKS25/WorldwidePreliminaries/
 ---
 
 <div class="no-pad-top" id="index-page">
