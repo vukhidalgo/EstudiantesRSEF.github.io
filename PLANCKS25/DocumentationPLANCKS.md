@@ -9,7 +9,7 @@ permalink: /PLANCKS25/Documentation/
   <div class="container">
     <div class="section">
 
-        <img class="materialboxed" width="100%" src="/img/eventos/2025-PLANCKS/PLANCKS25_Banner.png"></img>
+        <img class="materialboxed" width="100%" src="/img/eventos/2025-PLANCKS/PLANCKS25_Banner.png">
 
         Welcome to the official documentation site for PLANCKS 2025! Access essential guidelines, rules, and policies, including the IAPS Terms and Conditions, Code of Conduct, General Rules, Reimbursement Guide, and Privacy Policy, to support your participation. 
 
