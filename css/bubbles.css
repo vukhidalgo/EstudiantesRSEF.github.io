@@ -62,3 +62,7 @@
   gap: 15px; /* Space between buttons */
   margin-top: 20px;
 }
+
+.bubble-buttons .btn-plancks25 {
+  border: 2px solid #352F71; /* Adjust color and thickness as needed */
+}
