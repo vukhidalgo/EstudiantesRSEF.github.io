@@ -27,6 +27,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:lc-montes-de-oca@iaps.info">lc-montes-de-oca@iaps.info</a></p>
     <p class="bubble-organizers">Organizers: University of Costa Rica & CORIOLIS (COsta RIcan OLympiad for physIcs Students)</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div>
 <!--
   <div class="info-bubble">
@@ -35,6 +38,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <p class="bubble-date">Date: April 20, 2024</p>
     <p class="bubble-mail">Contact: <a href="mailto:contact@example.com">contact@example.com</a></p>
     <p class="bubble-organizers">Organizers: Alex Brown, Chris White</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div> -->
 </div>
 
