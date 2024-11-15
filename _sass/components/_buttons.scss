@@ -172,7 +172,7 @@ button.btn-floating {
   flex: 1; 
   text-align: center; 
   padding: 12px 0; 
-  display: inline-block; 
+  display: flex; /* inline-block */
   width: 100%; 
   box-sizing: border-box; 
 }
