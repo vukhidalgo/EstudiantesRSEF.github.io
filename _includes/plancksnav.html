@@ -59,8 +59,7 @@
     <div class="nav-wrapper container"style = "display: flex; align-items: center; font-size: 1.2rem;">
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>  
       <a href="/PLANCKS25/" style="margin-left: 50px; color: white; font-size: 30px; font-weight: bold; line-height: 50px;">
-        PLANCKS 2025 
-        Barcelona
+        PLANCKS 2025 Barcelona
       </a>
       <!-- For Small Screens -->
       <ul id="nav-mobile" class="side-nav" style = "background-color: #352F71; color: #352F71;">
@@ -74,7 +73,7 @@
             <ul class="collapsible collapsible-accordion" style="background-color: #352F71; width: 240px; ">              
               {% if item.subitems %}
                 <li style = "width: 100%">
-                  <a class="collapsible-header" style = "font-size: 16px; color: white; margin: 0">{{ item.text }} <i class="material-icons"> arrow_drop_down </i></a>                                
+                  <a class="collapsible-header" style = "font-size: 16px; color: white; margin: 0">{{ item.text }} <i class="material-icons" style="float:right"> arrow_drop_down </i></a>                                
                   <div class="collapsible-body">
                     <ul style="background-color: #00a79d; color: #00a79d">                  
                       {% if item.url != nil %}
@@ -87,7 +86,10 @@
                   </div>
                 </li>  
               {% else %}
-                <li style = "font-weight: bold; margin: 0; height: 80px" class = "collapsible-header"><a href="{{ item.url }}" style = "color: white; font-size: 16px; height: 100%; margin: 0; padding-left: 2rem; align-items: center;">{{ item.text }}</a></li>                  
+                <!-- <li style = "font-weight: bold; margin: 0; height: 80px"><a href="{{ item.url }}" style = "color: white; font-size: 16px; height: 100%; margin: 0; padding-left: 2rem; align-items: center;">{{ item.text }}</a></li>                   -->
+                <li style = "width: 100%">
+                  <a class="collapsible-header" href="{{ item.url }}" style = "font-size: 16px; color: white; margin: 0">{{ item.text }}</a>
+                </li>
               {% endif %}   
             </ul>
           {% endfor %}  
