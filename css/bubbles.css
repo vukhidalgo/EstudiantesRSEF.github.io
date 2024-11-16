@@ -7,18 +7,20 @@
   padding: 20px;
 }
 
-@media (min-width: 1024px) {
-   body {
-     display: flex;
-     flex-wrap: wrap; 
-     justify-content: center;
-   }
+.bubbles-wrapper {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center;
+  gap: 20px; 
+}
 
+/* For PC users: */
+@media (min-width: 1024px) {
   .bubble-container {
-     width: 30%; 
-     margin: 10px; 
-    }
+    flex: 0 1 calc(33.33% - 20px); 
+    margin: 0;
   }
+}
 
 /*
 .bubble-parent {
