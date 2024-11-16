@@ -88,6 +88,12 @@
     i { line-height: inherit; }
   }
 
+  .collapsible-header:focus,
+  .collapsible-header:active,
+  .collapsible-header:hover {
+    background-color: #00a79d !important; /* Keep the body background color the same */
+  }
+
   .collapsible-body {
     border: 0;
     background-color: $collapsible-header-color;
