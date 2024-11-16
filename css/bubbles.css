@@ -7,6 +7,20 @@
   padding: 20px;
 }
 
+@media (min-width: 1024px) {
+   body {
+     display: flex;
+     flex-wrap: wrap; 
+     justify-content: center;
+   }
+
+  .bubble-container {
+     width: 30%; 
+     margin: 10px; 
+    }
+  }
+
+/*
 .bubble-parent {
   display: grid;
   grid-template-columns: 1fr; 
@@ -15,13 +29,13 @@
   padding: 10px; 
 }
 
-/* For larger screens (PC users) */
 @media (min-width: 1024px) {
   .bubble-parent {
     grid-template-columns: (3, 1fr); 
     gap: 20px; 
   }
-}
+} */
+
 
 /* Individual bubble styling */
 .info-bubble {
