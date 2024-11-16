@@ -65,6 +65,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 </div>
 </div>
 
+<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/France.png" alt="FR Logo" class="bubble-logo" />
@@ -77,7 +78,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://www.sfpnet.fr/" class="btn-plancks25">Website</a>
   </div>
 </div>
+</div>
 
+<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Germany.png" alt="DE Logo" class="bubble-logo" />
@@ -90,7 +93,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://www.dpg-physik.de/veranstaltungen/2024/dopplers-2024" class="btn-plancks25">Website</a>
   </div>
 </div>
+</div>
 
+<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Greece.png" alt="GR Logo" class="bubble-logo" />
@@ -103,7 +108,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://en.uoa.gr/" class="btn-plancks25">Website</a>
   </div>
 </div>
+</div>
 
+<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Hungary.png" alt="HU Logo" class="bubble-logo" />
@@ -115,6 +122,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-hungary/" class="btn-plancks25">{IAPS}</a>
       <a href="http://en.mafihe.hu/" class="btn-plancks25">Website</a>
   </div>
+</div>
 </div>
 
 <!-- SPONSORS -->
