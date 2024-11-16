@@ -7,19 +7,10 @@
   padding: 20px;
 }
 
-.bubbles-wrapper {
-  display: flex;
-  flex-wrap: wrap; 
-  justify-content: center;
-  gap: 20px; 
-}
-
-/* For PC users: */
-@media (min-width: 1024px) {
-  .bubble-container {
-    flex: 0 1 calc(33.33% - 20px); 
-    margin: 0;
-  }
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 10px; 
 }
 
 /*
