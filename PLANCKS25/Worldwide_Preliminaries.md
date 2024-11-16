@@ -20,6 +20,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <p style="text-align: justify;">If your country is not listed below, then don’t wait and contact us on plancks25@rsef.es to arrange representing your country.</p>
 
 <!-- SEDES -->
+<div class="bubbles-wrapper">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Costa_Rica.jpg" alt="CR Logo" class="bubble-logo" />
@@ -109,6 +110,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-hungary/" class="btn-plancks25">{IAPS}</a>
       <a href="http://en.mafihe.hu/" class="btn-plancks25">Website</a>
   </div>
+</div>
 </div>
 
 <!-- SPONSORS -->
