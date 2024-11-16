@@ -21,7 +21,6 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 
 <!-- SEDES -->
 <div class="row">
-<div class="col s12 m6 l6">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Costa_Rica.jpg" alt="CR Logo" class="bubble-logo" />
@@ -34,9 +33,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div>
 </div>
-</div>
 
-<div class="col s12 m6 l6">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.png" alt="CZ Logo" class="bubble-logo" />
@@ -49,9 +46,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
   </div>
 </div>
-</div>
 
-<div class="col s12 m6 l6">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Finland.png" alt="FN Logo" class="bubble-logo" />
@@ -63,7 +58,6 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-finland/" class="btn-plancks25">{IAPS}</a>
       <a href="https://sfmo.fi/" class="btn-plancks25">Website</a>
   </div>
-</div>
 </div>
 </div>
 
