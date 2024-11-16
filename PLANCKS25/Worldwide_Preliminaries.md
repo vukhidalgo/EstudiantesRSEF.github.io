@@ -31,7 +31,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
       <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div>
-	  
+</div>
+
+<div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.png" alt="CZ Logo" class="bubble-logo" />
     <h3 class="bubble-title">NC Czech Republic</h3>
@@ -41,7 +43,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-czech-republic/" class="btn-plancks25">{IAPS}</a>
       <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
-  </div> -->
+  </div>
 </div>
 
 
