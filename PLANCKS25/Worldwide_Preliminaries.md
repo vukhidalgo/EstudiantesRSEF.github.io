@@ -31,16 +31,16 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
       <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div>
-<!--
+	  
   <div class="info-bubble">
-    <img src="logo2.png" alt="Venue Logo" class="bubble-logo" />
-    <h3 class="bubble-title">Another Venue</h3>
-    <p class="bubble-date">Date: April 20, 2024</p>
-    <p class="bubble-mail">Contact: <a href="mailto:contact@example.com">contact@example.com</a></p>
-    <p class="bubble-organizers">Organizers: Alex Brown, Chris White</p>
+    <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.jpg" alt="CZ Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Czech Republic</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:iaps@fykos.cz">iaps@fykos.cz</a></p>
+    <p class="bubble-organizers">Organizers: FYKOS, Charles University</p>
     <div class="bubble-buttons">
-      <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
-      <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
+      <a href="https://iaps.info/members/national-committees/nc-czech-republic/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
   </div> -->
 </div>
 
