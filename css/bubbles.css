@@ -7,6 +7,22 @@
   padding: 20px;
 }
 
+.bubble-parent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; 
+}
+
+/* For larger screens (PC users) */
+@media (min-width: 1024px) {
+  .bubble-container {
+    flex: 1 1 calc(33.33% - 20px); 
+    max-width: calc(33.33% - 20px);
+    flex-direction: column; 
+  }
+}
+
 /* Individual bubble styling */
 .info-bubble {
   background-color: #00a79d;
