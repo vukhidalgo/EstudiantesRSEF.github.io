@@ -18,7 +18,7 @@
 /* For larger screens (PC users) */
 @media (min-width: 1024px) {
   .bubble-parent {
-    grid-template-columns: repeat(3, 1fr); 
+    grid-template-columns: (3, 1fr); 
     gap: 20px; 
   }
 }
