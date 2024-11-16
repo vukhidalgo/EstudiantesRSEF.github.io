@@ -33,7 +33,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
   </div>
 	  
   <div class="info-bubble">
-    <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.jpg" alt="CZ Logo" class="bubble-logo" />
+    <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.png" alt="CZ Logo" class="bubble-logo" />
     <h3 class="bubble-title">NC Czech Republic</h3>
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:iaps@fykos.cz">iaps@fykos.cz</a></p>
