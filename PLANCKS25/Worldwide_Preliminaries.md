@@ -33,7 +33,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div>
 </div>
+</div>
 
+<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.png" alt="CZ Logo" class="bubble-logo" />
@@ -46,7 +48,9 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
   </div>
 </div>
-
+</div>
+	
+<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Finland.png" alt="FN Logo" class="bubble-logo" />
