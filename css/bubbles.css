@@ -1,3 +1,4 @@
+/*
 .bubble-container {
   display: flex;
   flex-wrap: wrap;
@@ -21,19 +22,32 @@
     width: 100%;
   }
 } 
+*/
 
-/*
 .bubble-container {
-  display: flex;
-  padding: 20px;
-  justify-content: center;
-  width: calc(33.33% - 10px);
+  display: block; 
 }
 
 .bubble-parent {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px; 
+  display: grid;
+  grid-template-columns: 1fr; 
+  gap: 20px; 
+  padding: 10px; 
+  margin: 0 auto; 
+}
+
+@media (min-width: 768px) { /* Adjust for smaller screens */
+  .bubble-parent {
+    grid-template-columns: repeat(2, 1fr); /* 2 per row */
+  }
+}
+
+@media (min-width: 1024px) {
+  .bubble-parent {
+    grid-template-columns: repeat(3, 1fr); /* 3 per row */
+    max-width: 1200px; /* Limit width for better appearance */
+    margin: 0 auto; /* Center it */
+  }
 }
 
 /* Individual bubble styling */
