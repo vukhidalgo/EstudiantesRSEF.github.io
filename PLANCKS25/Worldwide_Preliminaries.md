@@ -20,7 +20,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <p style="text-align: justify;">If your country is not listed below, then don’t wait and contact us on plancks25@rsef.es to arrange representing your country.</p>
 
 <!-- SEDES -->
-<div class="section">
+<div class="row">
 <div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
