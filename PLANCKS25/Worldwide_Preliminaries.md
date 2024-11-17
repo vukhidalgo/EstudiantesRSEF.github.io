@@ -63,6 +63,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://sfmo.fi/" class="btn-plancks25">Website</a>
   </div>
 </div>
+</div>
 
 <div class="bubble-container">
   <div class="info-bubble">
@@ -114,7 +115,6 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-hungary/" class="btn-plancks25">{IAPS}</a>
       <a href="http://en.mafihe.hu/" class="btn-plancks25">Website</a>
   </div>
-</div>
 </div>
 
 <!-- SPONSORS -->
