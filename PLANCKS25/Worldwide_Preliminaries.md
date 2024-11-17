@@ -98,9 +98,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://en.uoa.gr/" class="btn-plancks25">Website</a>
   </div>
 </div>
-</div>
 
-<div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Hungary.png" alt="HU Logo" class="bubble-logo" />
