@@ -20,6 +20,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <p style="text-align: justify;">If your country is not listed below, then don’t wait and contact us on plancks25@rsef.es to arrange representing your country.</p>
 
 <!-- SEDES -->
+<div class="section">
 <div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
@@ -62,6 +63,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-finland/" class="btn-plancks25">{IAPS}</a>
       <a href="https://sfmo.fi/" class="btn-plancks25">Website</a>
   </div>
+</div>
 </div>
 </div>
 
