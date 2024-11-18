@@ -78,13 +78,8 @@
   text-decoration: underline;
 }
 
-:root {
-  --button-bottom-margin: 20px;
-}
-
 .bubble-buttons {
   margin-top: auto;
-  margin-bottom: var(--button-bottom-margin);
   display: flex;
   justify-content: space-evenly;
   gap: 10px;
