@@ -79,7 +79,7 @@
 }
 
 .bubble-buttons {
-  margin-top: 430px;
+  margin-top: auto;
   display: flex;
   justify-content: space-evenly;
   gap: 10px;
