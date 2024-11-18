@@ -80,13 +80,14 @@
 
 .bubble-buttons {
   position: absolute;  
-  bottom: 20px;           
+  bottom: 10px;           
   left: 50%;           
   transform: translateX(-50%);
   display: flex;
   justify-content: space-evenly;
   gap: 10px;
-  
+  width: auto;
+  height: auto;
 }
 
 
