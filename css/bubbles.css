@@ -61,18 +61,11 @@
 }
 
 .bubble-date,
-.bubble-mail {
+.bubble-mail,
+.bubble-organizers {
   font-size: 1em;
   color: #555;
   margin: 5px 0;
-}
-
-.bubble-organizers{
-  font-size: 1em;
-  color: #555;
-  margin-top: 5px;
-  margin-right: 0;
-  margin-left: 0;
 }
 
 .bubble-mail a {
