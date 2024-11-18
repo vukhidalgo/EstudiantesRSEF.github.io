@@ -19,39 +19,6 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <p style="text-align: justify;">Don’t miss out, check the PLANCKS Preliminaries venue in your country and come to Barcelona!</p>
       <p style="text-align: justify;">If your country is not listed below, then don’t wait and contact us on plancks25@rsef.es to arrange representing your country.</p>
 
-<!-- PRUEBA -->
-<html>
-<head>
-<style>
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto ;
-  padding: 10px;
-  gap: 10px
-}
-.grid-item {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  padding: 20px;
-  border: 2px dashed blue;
-}
-</style>
-</head>
-<body>
-<div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>  
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>  
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>  
-</div>
-
 <!-- SEDES -->
 <div class="bubble-parent">
 <div class="bubble-container">
@@ -64,6 +31,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
       <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 
@@ -77,6 +45,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-czech-republic/" class="btn-plancks25">{IAPS}</a>
       <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 
@@ -90,6 +59,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-finland/" class="btn-plancks25">{IAPS}</a>
       <a href="https://sfmo.fi/" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 
@@ -103,6 +73,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-france/" class="btn-plancks25">{IAPS}</a>
       <a href="https://www.sfpnet.fr/" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 
@@ -116,6 +87,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-germany/" class="btn-plancks25">{IAPS}</a>
       <a href="https://www.dpg-physik.de/veranstaltungen/2024/dopplers-2024" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 
@@ -129,6 +101,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/" class="btn-plancks25">{IAPS}</a>
       <a href="https://en.uoa.gr/" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 
@@ -142,6 +115,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-hungary/" class="btn-plancks25">{IAPS}</a>
       <a href="http://en.mafihe.hu/" class="btn-plancks25">Website</a>
+    </div>
   </div>
 </div>
 </div>
