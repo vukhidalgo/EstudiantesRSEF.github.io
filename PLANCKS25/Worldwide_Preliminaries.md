@@ -19,6 +19,42 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <p style="text-align: justify;">Don’t miss out, check the PLANCKS Preliminaries venue in your country and come to Barcelona!</p>
       <p style="text-align: justify;">If your country is not listed below, then don’t wait and contact us on plancks25@rsef.es to arrange representing your country.</p>
 
+<!-- PRUEBA -->
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  background-color: #2196F3;
+  padding: 10px;
+  gap: 10px
+}
+.grid-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+  border: 2px dashed blue;
+}
+}
+</style>
+</head>
+<body>
+<div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>  
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>  
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+</div>
+</body>
+
 <!-- SEDES -->
 <div class="bubble-parent">
 <div class="bubble-container">
