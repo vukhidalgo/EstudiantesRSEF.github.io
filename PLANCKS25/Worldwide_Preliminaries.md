@@ -247,7 +247,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 
 <div class="bubble-container">
   <div class="info-bubble">
-    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Bucharest.png" alt="LC Bu Logo" class="bubble-logo" />
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Bucharest.jpg" alt="LC Bu Logo" class="bubble-logo" />
     <h3 class="bubble-title">LC Bucharest</h3>
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:asf.unibuc@fizicieni.ro">asf.unibuc@fizicieni.ro</a></p>
