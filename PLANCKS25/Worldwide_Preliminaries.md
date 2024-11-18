@@ -216,6 +216,48 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     </div>
   </div>
 </div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Netherlands.png" alt="NE Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC UK and Ireland</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:pion@nsaweb.nl">pion@nsaweb.nl</a></p>
+    <p class="bubble-organizers">Organizers: PION (Project Interuniversitaire Olympiade Natuurkunde), Amsterdam</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-the-netherlands/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://pion2023.nsaweb.nl/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/UK_Ireland.png" alt="UK_IR Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC UK and Ireland</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:plancks2024@gmail.com">plancks2024@gmail.com</a></p>
+    <p class="bubble-organizers">Organizers: PLANCKS UK&IRE Swansea 2025 – UK and Ireland Preliminaries</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-united-kingdom-and-republic-of-ireland/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://plancks.uk/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Bucharest.png" alt="LC Bu Logo" class="bubble-logo" />
+    <h3 class="bubble-title">LC Bucharest</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:asf.unibuc@fizicieni.ro">asf.unibuc@fizicieni.ro</a></p>
+    <p class="bubble-organizers">Organizers: PLANCKS preliminary 2023, University of Bucharest</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-bucharest-romania/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://asfub.wordpress.com/plancks/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
 </div>
 
 <!-- SPONSORS -->
