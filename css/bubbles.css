@@ -4,7 +4,7 @@
   gap: 20px;
   justify-content: center;
   padding: 20px;
-  height: 350px;
+  height: 400px;
   width: 320px;
   border: 2px dashed blue;
 }
@@ -20,7 +20,7 @@
 @media (min-width: 1024px) {
   .bubble-parent {
     display: grid;
-    grid-template-columns: auto auto auto; /* repeat(3, 1fr) */
+    grid-template-columns: auto auto auto;
     gap: 20px; 
     width: 100%;
     border: 2px dashed red;
@@ -28,40 +28,14 @@
   }
 } 
 
-/*
-.bubble-parent {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px; 
-  justify-content: space-between; 
-  width: 100%; 
-  max-width: 1200px; 
-  margin: 0 auto; 
-  box-sizing: border-box; 
-  padding: 0;
-  border: 2px dashed red;
-  height: 5000px;
-}
-
-.bubble-container {
-  flex: 0 1 calc(33.333% - 20px); 
-  max-width: calc(33.333% - 20px); 
-  height: 400px;
-  box-sizing: border-box; 
-  padding: 10px;
-  border-radius: 10px;
-  margin: 0;
-  border: 2px dashed blue;
-}
-*/
-
 /* Individual bubble styling */
 .info-bubble {
   background-color: #00a79d;
   border: 2px solid #352F71;
   border-radius: 15px;
   padding: 20px;
-  width: 300px; /* Adjust as needed */
+  width: 320px; 
+  height: 400px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   text-align: center;
   transition: transform 0.3s, box-shadow 0.3s;
