@@ -19,7 +19,7 @@
 @media (min-width: 1024px) {
   .bubble-parent {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); 
+    grid-template-columns: auto auto auto;
     gap: 20px; 
     width: 100%;
     border: 2px dashed red;
