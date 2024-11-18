@@ -118,6 +118,62 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     </div>
   </div>
 </div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/India.png" alt="IN Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC India</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:nc-india@iaps.info">nc-india@iaps.info</a></p>
+    <p class="bubble-organizers">Organizers: Indian Young Physicists League (Online)</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-india/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.facebook.com/aipsfb/">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Italy.png" alt="IT Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Italy</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:Esecutivo@ai-sf.it">Esecutivo@ai-sf.it</a></p>
+    <p class="bubble-organizers">Organizers: PrePLANCKS2025 (Online, across 15 universities and cities)</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-italy/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://ai-sf.it/">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Poland.png" alt="PL Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Poland</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:nabla@pwr.edu.pl">nabla@pwr.edu.pl</a></p>
+    <p class="bubble-organizers">Organizers: Polish National Preliminaries for PLANCKS 2025, Wrocław University of Science and Technology</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-poland/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://pssf.edu.pl/">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Portugal.png" alt="PL Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Portugal</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:nc-portugal@iaps.info">nc-portugal@iaps.info</a></p>
+    <p class="bubble-organizers">Organizers: Preliminares PLANCKS Portugal, Universidade de Lisboa</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-portugal/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://physis.com.pt/">Website</a>
+    </div>
+  </div>
+</div>
 </div>
 
 <!-- SPONSORS -->
