@@ -79,12 +79,6 @@
 }
 
 .bubble-buttons {
-  width: 100px;
-  height: 40px;
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
   display: flex;
   justify-content: space-evenly;
   gap: 10px;
