@@ -41,14 +41,14 @@
   box-sizing: border-box; 
   padding: 0;
   border: 2px dashed red;
+  height: 10000px;
 }
 
 .bubble-container {
-  flex: 0 1 calc(33.333% - 20px); 
-  max-width: calc(33.333% - 20px); 
+  flex: 380px; /* 0 1 calc(33.333% - 20px) */
+  max-width: 380px; /* calc(33.333% - 20px) */
   height: 400px;
   box-sizing: border-box; 
-  border: 1px solid #ddd;
   padding: 10px;
   border-radius: 10px;
   margin: 0;
