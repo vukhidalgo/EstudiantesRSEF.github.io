@@ -33,6 +33,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 </head>
 <body>
 <div class="grid-container">
+  <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Costa_Rica.jpg" alt="CR Logo" class="bubble-logo" />
     <h3 class="bubble-title">NC Costa Rica</h3>
@@ -43,6 +44,8 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
       <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
   </div>
+  </div>
+  <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.png" alt="CZ Logo" class="bubble-logo" />
     <h3 class="bubble-title">NC Czech Republic</h3>
@@ -53,6 +56,8 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-czech-republic/" class="btn-plancks25">{IAPS}</a>
       <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
   </div>
+  </div>
+  <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/Finland.png" alt="FN Logo" class="bubble-logo" />
     <h3 class="bubble-title">NC Finland</h3>
@@ -63,6 +68,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://iaps.info/members/national-committees/nc-finland/" class="btn-plancks25">{IAPS}</a>
       <a href="https://sfmo.fi/" class="btn-plancks25">Website</a>
   </div>
+  </div>
   <div class="grid-item">4</div>
   <div class="grid-item">5</div>
   <div class="grid-item">6</div>  
@@ -72,7 +78,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 </div>
 </body>
 
-<!-- SEDES -->
+<!-- SEDES 
 <div class="bubble-parent">
 <div class="bubble-container">
   <div class="info-bubble">
