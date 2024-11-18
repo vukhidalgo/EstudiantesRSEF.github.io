@@ -1,5 +1,5 @@
 .bubble-container {
-  position: relative;
+  
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
@@ -30,6 +30,7 @@
 
 /* Individual bubble styling */
 .info-bubble {
+  position: relative;
   background-color: #00a79d;
   border: 2px solid #352F71;
   border-radius: 15px;
