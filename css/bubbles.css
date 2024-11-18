@@ -34,6 +34,7 @@
   max-width: 1200px; /* Optional: Controls the maximum layout width */
   margin: 0 auto; /* Center the wrapper */
   box-sizing: border-box; /* Includes padding and borders in width calculations */
+  padding: 0;
 }
 
 .bubble-container {
@@ -43,6 +44,7 @@
   border: 1px solid #ddd;
   padding: 10px;
   border-radius: 10px;
+  margin: 0;
 }
 
 /*
