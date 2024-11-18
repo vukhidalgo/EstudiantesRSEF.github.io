@@ -175,7 +175,8 @@ button.btn-floating {
   display: flex; /* inline-block */
   align-items: center;
   justify-content: center;
-  width: 100%; 
+  width: 80px; 
+  height: 30px;
   box-sizing: border-box; 
   line-height: 1;
 }
