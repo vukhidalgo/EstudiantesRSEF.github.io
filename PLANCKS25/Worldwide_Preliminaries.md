@@ -128,7 +128,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <p class="bubble-organizers">Organizers: Indian Young Physicists League (Online)</p>
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-india/" class="btn-plancks25">{IAPS}</a>
-      <a href="https://www.facebook.com/aipsfb/">Website</a>
+      <a href="https://www.facebook.com/aipsfb/" class="btn-plancks25">Website</a>
     </div>
   </div>
 </div>
@@ -142,7 +142,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <p class="bubble-organizers">Organizers: PrePLANCKS2025 (Online, across 15 universities and cities)</p>
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-italy/" class="btn-plancks25">{IAPS}</a>
-      <a href="https://ai-sf.it/">Website</a>
+      <a href="https://ai-sf.it/" class="btn-plancks25">Website</a>
     </div>
   </div>
 </div>
@@ -156,7 +156,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <p class="bubble-organizers">Organizers: Polish National Preliminaries for PLANCKS 2025, Wrocław University of Science and Technology</p>
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-poland/" class="btn-plancks25">{IAPS}</a>
-      <a href="https://pssf.edu.pl/">Website</a>
+      <a href="https://pssf.edu.pl/" class="btn-plancks25">Website</a>
     </div>
   </div>
 </div>
@@ -170,7 +170,49 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <p class="bubble-organizers">Organizers: Preliminares PLANCKS Portugal, Universidade de Lisboa</p>
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/national-committees/nc-portugal/" class="btn-plancks25">{IAPS}</a>
-      <a href="https://physis.com.pt/">Website</a>
+      <a href="https://physis.com.pt/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Macedonia.png" alt="MA Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Republic of North Macedonia</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:nc-macedonia@iaps.info">nc-macedonia@iaps.info</a></p>
+    <p class="bubble-organizers">Organizers: PLANCKS 2025 Macedonian Preliminaries, University Ss. Cyril and Methodius</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-macedonia/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://mdsfmk.wordpress.com/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Serbia.png" alt="MA Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Serbia</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:nc-serbia@iaps.info">nc-serbia@iaps.info</a></p>
+    <p class="bubble-organizers">Organizers: PLANĆKS 2025, University of Belgrade</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-serbia/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.instagram.com/asfs.rs/#" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Spain.png" alt="MA Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Spain</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:nc-spain@iaps.info">nc-spain@iaps.info</a></p>
+    <p class="bubble-organizers">Organizers: Preliminares PLANCKS 2025, GdeE RSEF</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-spain/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://estudiantes.rsef.es/" class="btn-plancks25">Website</a>
     </div>
   </div>
 </div>
