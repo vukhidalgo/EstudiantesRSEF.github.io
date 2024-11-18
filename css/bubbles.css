@@ -86,7 +86,7 @@
   transform: translateX(-50%);
   display: flex;
   justify-content: space-evenly;
-  gap: 10px;
+  gap: 20px;
   width: auto;
   height: auto;
 }
