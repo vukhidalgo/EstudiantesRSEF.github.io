@@ -26,26 +26,43 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto ;
-  background-color: #2196F3;
   padding: 10px;
   gap: 10px
-}
-.grid-item {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  padding: 20px;
-  border: 2px dashed blue;
-}
 }
 </style>
 </head>
 <body>
 <div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>  
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Costa_Rica.jpg" alt="CR Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Costa Rica</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:lc-montes-de-oca@iaps.info">lc-montes-de-oca@iaps.info</a></p>
+    <p class="bubble-organizers">Organizers: University of Costa Rica & CORIOLIS (COsta RIcan OLympiad for physIcs Students)</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-montes-de-oca-costa-rica/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.facebook.com/AEFISYMET/" class="btn-plancks25">Website</a>
+  </div>
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Czech_Republic.png" alt="CZ Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Czech Republic</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:iaps@fykos.cz">iaps@fykos.cz</a></p>
+    <p class="bubble-organizers">Organizers: FYKOS, Charles University</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-czech-republic/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://caps.fykos.cz" class="btn-plancks25">Website</a>
+  </div>
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/Finland.png" alt="FN Logo" class="bubble-logo" />
+    <h3 class="bubble-title">NC Finland</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:integraatiofest@lateksii.fi">integraatiofest@lateksii.fi</a></p>
+    <p class="bubble-organizers">Organizers: Lappeenranta University of Technology, PLANCKS-karsinnat</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/national-committees/nc-finland/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://sfmo.fi/" class="btn-plancks25">Website</a>
+  </div>
   <div class="grid-item">4</div>
   <div class="grid-item">5</div>
   <div class="grid-item">6</div>  
