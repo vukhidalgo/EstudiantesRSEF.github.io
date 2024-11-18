@@ -78,6 +78,9 @@
 }
 
 .bubble-buttons {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
   display: flex;
   justify-content: space-evenly;
   gap: 10px;
