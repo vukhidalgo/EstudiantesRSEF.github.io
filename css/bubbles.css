@@ -46,6 +46,7 @@
 .bubble-container {
   flex: 0 1 calc(33.333% - 20px); 
   max-width: calc(33.333% - 20px); 
+  height: 400px;
   box-sizing: border-box; 
   border: 1px solid #ddd;
   padding: 10px;
