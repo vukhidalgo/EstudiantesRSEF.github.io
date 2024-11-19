@@ -316,7 +316,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 </div>
 </div>
 
-<div class="bubble-container">
+<div class="bubble-container" style="text-align: center;">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/LC_Santo_Domingo.png" alt="LC SD Logo" class="bubble-logo" />
     <h3 class="bubble-title">LC Santo Domingo</h3>
