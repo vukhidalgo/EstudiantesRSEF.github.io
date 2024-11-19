@@ -251,10 +251,38 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     <h3 class="bubble-title">LC Bucharest</h3>
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:asf.unibuc@fizicieni.ro">asf.unibuc@fizicieni.ro</a></p>
-    <p class="bubble-organizers">Organizers: PLANCKS preliminary 2023, University of Bucharest</p>
+    <p class="bubble-organizers">Organizers: PLANCKS preliminary 2025, University of Bucharest</p>
     <div class="bubble-buttons">
       <a href="https://iaps.info/members/local-committees/lc-bucharest-romania/" class="btn-plancks25">{IAPS}</a>
       <a href="https://asfub.wordpress.com/plancks/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Hong_Kong.png" alt="LC HK Logo" class="bubble-logo" />
+    <h3 class="bubble-title">LC Hong Kong</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:xwangcityu@gmail.com">xwangcityu@gmail.com</a></p>
+    <p class="bubble-organizers">Organizers: PLANCKS 2025 Hong Kong Preliminary, City University of Hong Kong</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://pshk.org.hk/Competitions/23.html" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Malta.png" alt="LC MA Logo" class="bubble-logo" />
+    <h3 class="bubble-title">LC Msida, Malta</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:scicomm@scubed.org.mt">scicomm@scubed.org.mt</a></p>
+    <p class="bubble-organizers">Organizers: Malta Preliminaries, University of Malta</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-malta/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.scubed.org.mt/" class="btn-plancks25">Website</a>
     </div>
   </div>
 </div>
