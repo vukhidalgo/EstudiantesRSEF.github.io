@@ -304,7 +304,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/LC_Saint_Petersburg.png" alt="LC SP Logo" class="bubble-logo" />
-    <h3 class="bubble-title">LC Saint Petersburg, Russia</h3>
+    <h3 class="bubble-title">LC Saint Petersburg</h3>
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:iaps.spbstu@gmail.com">iaps.spbstu@gmail.com</a></p>
     <p class="bubble-organizers">Organizers: PCPS (Polytechnic Community of Physics Students), Peter the Great Saint Petersburg Polytechnic University</p>
@@ -314,11 +314,12 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     </div>
   </div>
 </div>
+</div>
 
 <div class="bubble-container">
   <div class="info-bubble">
     <img src="/img/eventos/2025-PLANCKS/NCs/LC_Santo_Domingo.png" alt="LC SD Logo" class="bubble-logo" />
-    <h3 class="bubble-title">LC Santo Domingo, Dominican Republic</h3>
+    <h3 class="bubble-title">LC Santo Domingo</h3>
     <p class="bubble-date">Date: </p>
     <p class="bubble-mail">Contact: <a href="mailto:aef.uasd@gmail.com">aef.uasd@gmail.com</a></p>
     <p class="bubble-organizers">Organizers: University of Santo Domingo</p>
@@ -327,7 +328,6 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://www.instagram.com/aef_uasd/" class="btn-plancks25">Website</a>
     </div>
   </div>
-</div>
 </div>
 
 <!-- SPONSORS -->
