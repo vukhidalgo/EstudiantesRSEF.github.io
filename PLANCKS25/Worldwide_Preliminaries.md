@@ -286,6 +286,48 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     </div>
   </div>
 </div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Singapore.jpeg" alt="LC SG Logo" class="bubble-logo" />
+    <h3 class="bubble-title">LC NTU, Singapore</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:spmsodysseycomm@e.ntu.edu.sg">spmsodysseycomm@e.ntu.edu.sg</a></p>
+    <p class="bubble-organizers">Organizers: PLANCKS 2024 Singapore Preliminary, Nanyang Technological University</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/list-of-iaps-members/local-committees/lc-ntu-singapore/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://odysseyprogramme.github.io/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Saint_Petersburg.png" alt="LC SP Logo" class="bubble-logo" />
+    <h3 class="bubble-title">LC Saint Petersburg, Russia</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:iaps.spbstu@gmail.com">iaps.spbstu@gmail.com</a></p>
+    <p class="bubble-organizers">Organizers: PCPS (Polytechnic Community of Physics Students), Peter the Great Saint Petersburg Polytechnic University</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-saint-petersburg-russia/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.instagram.com/pcps.spb/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
+
+<div class="bubble-container">
+  <div class="info-bubble">
+    <img src="/img/eventos/2025-PLANCKS/NCs/LC_Santo_Domingo.png" alt="LC SD Logo" class="bubble-logo" />
+    <h3 class="bubble-title">LC Santo Domingo, Dominican Republic</h3>
+    <p class="bubble-date">Date: </p>
+    <p class="bubble-mail">Contact: <a href="mailto:aef.uasd@gmail.com">aef.uasd@gmail.com</a></p>
+    <p class="bubble-organizers">Organizers: University of Santo Domingo</p>
+    <div class="bubble-buttons">
+      <a href="https://iaps.info/members/local-committees/lc-santo-domingo-dominican-republic/" class="btn-plancks25">{IAPS}</a>
+      <a href="https://www.instagram.com/aef_uasd/" class="btn-plancks25">Website</a>
+    </div>
+  </div>
+</div>
 </div>
 
 <!-- SPONSORS -->
