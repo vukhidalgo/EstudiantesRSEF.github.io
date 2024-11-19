@@ -314,6 +314,8 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
     </div>
   </div>
 </div>
+
+<div>
 </div>
 
 <div class="bubble-container" style="text-align: center;">
@@ -328,6 +330,7 @@ permalink: /PLANCKS25/WorldwidePreliminaries/
       <a href="https://www.instagram.com/aef_uasd/" class="btn-plancks25">Website</a>
     </div>
   </div>
+</div>
 </div>
 
 <!-- SPONSORS -->
